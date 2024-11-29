@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1YlIcAuLxlW0ZnUsdaFElpTWcHkljLb6y
 """
 
-from google.colab import drive #importando o drive
+'''from google.colab import drive #importando o drive
 
 from google.colab import drive
 drive.mount('/content/drive')
 
-"""# **Baixando as planilhas**"""
+# **Baixando as planilhas**
 
 from google.colab import files #comando para importar arquivos no colab
 uploaded = files.upload() #comando para fazer o upload do arquivo
@@ -30,28 +30,28 @@ from google.colab import files #comando para importar arquivos no colab
 uploaded = files.upload() #comando para fazer o upload do arquivo
 
 from google.colab import files #comando para importar arquivos no colab
-uploaded = files.upload() #comando para fazer o upload do arquivo
+uploaded = files.upload() #comando para fazer o upload do arquivo'''
 
 """# **Executando as planilhas**"""
 
 import pandas as pd
 
-df2018 = pd.read_csv('Dados_Tratados_Normalizados_2018 - Dados_Normalizados_Eceel_Tec.csv') #realiza a leitura do arquivo importado
+df2018 = pd.read_csv('data/Dados_Tratados_Normalizados_2018 - Dados_Normalizados_Eceel_Tec.csv') #realiza a leitura do arquivo importado
 df2018.head()
 
-df2020 = pd.read_csv('Dados_Tratados_Normalizados_2020 - Dados_Normalizados_Eceel_Tec_2020.csv') #realiza a leitura do arquivo importado
+df2020 = pd.read_csv('data/Dados_Tratados_Normalizados_2020 - Dados_Normalizados_Eceel_Tec_2020.csv') #realiza a leitura do arquivo importado
 df2020.head()
 
-df2021 = pd.read_csv('Dados_Normalizados_ECEEL_TEC_2021 - Dados_Normalizados_ECEEL_TEC_2021.csv') #realiza a leitura do arquivo importado
+df2021 = pd.read_csv('data/Dados_Normalizados_ECEEL_TEC_2021 - Dados_Normalizados_ECEEL_TEC_2021.csv') #realiza a leitura do arquivo importado
 df2021.head()
 
-df2022 = pd.read_csv('Dados_Tratados_Normalizados_2022 - Dados_Tratados_Normalizados_2022.csv') #realiza a leitura do arquivo importado
+df2022 = pd.read_csv('data/Dados_Tratados_Normalizados_2022 - Dados_Tratados_Normalizados_2022.csv') #realiza a leitura do arquivo importado
 df2022.head()
 
-df2023 = pd.read_csv('Dados_Tratados_ECEEL_TEC_2023 - Dados_Tratados_ECEEL_TEC_2023.csv') #realiza a leitura do arquivo importado
+df2023 = pd.read_csv('data/Dados_Tratados_ECEEL_TEC_2023 - Dados_Tratados_ECEEL_TEC_2023.csv') #realiza a leitura do arquivo importado
 df2023.head()
 
-df2024 = pd.read_csv('Dados_Tratados_e_Normalizados_ECEEL_TEC_2024 - Dados_Tratados_e_Normalizados_ECEEL_TEC.csv') #realiza a leitura do arquivo importado
+df2024 = pd.read_csv('data/Dados_Tratados_e_Normalizados_ECEEL_TEC_2024 - Dados_Tratados_e_Normalizados_ECEEL_TEC.csv') #realiza a leitura do arquivo importado
 df2024.head()
 
 """# **Tratamento das planilhas**
