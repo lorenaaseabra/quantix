@@ -53,8 +53,7 @@ Este projeto é um painel interativo desenvolvido em **NiceGUI** e **Python** qu
 
 ### **1. Clone o Repositório**
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-projeto>
+git clone https://github.com/lorenzomarcelino/projetos5.git
 ```
 
 ### **2. Certifique-se de que os Dados Estão na Pasta Correta**
