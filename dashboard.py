@@ -75,7 +75,6 @@ def setup_dashboard(df_unificado, tecnico_count_df):
         with ui.left_drawer() as drawer:
             ui.link("Dashboard", "/").classes("block py-2")
             ui.link("Despesas", "/expenses").classes("block py-2")
-            ui.link("Livros", "/books").classes("block py-2")
 
     # Registrar a página
     dashboard_page()

@@ -1,0 +1,608 @@
+Data de Preenchimento,Data de Pagamento,Mês,Ano,Valor (R$),Status de Pagamento,Categoria
+3,3,Janeiro,2024,788$,PG,Tributos e Obrigações
+5,5,Janeiro,2024,267$,PG,Utilidades
+5,5,Janeiro,2024,812$,PG,Contabilidade
+5,5,Janeiro,2024,822$,PG,Salários
+5,5,Janeiro,2024,"1.353,37",PG,Salários
+5,5,Janeiro,2024,"1.329,66",PG,Salários
+5,5,Janeiro,2024,"1.498,90",PG,Salários
+5,5,Janeiro,2024,"2.145,47",PG,Salários
+5,5,Janeiro,2024,"957,88",PG,Salários
+5,5,Janeiro,2024,"1.603,30",PG,Salários
+5,5,Janeiro,2024,"1.335,00",PG,Pro Labore
+5,5,Janeiro,2024,"1.335,00",PG,Pro Labore
+5,5,Janeiro,2024,"500,00",PG,Auxílios e Adiantamentos
+5,5,Janeiro,2024,"1.337,71",PG,Tributos e Obrigações
+8,8,Janeiro,2024,"4.708,01",PG,Aluguel
+9,8,Janeiro,2024,"427,30",PG,Tributos e Obrigações
+11,11,Janeiro,2024,"1.464,66",PG,Rescisões
+16,16,Janeiro,2024,"161,74",PG,Utilidades
+16,16,Janeiro,2024,"70,78",PG,Utilidades
+16,16,Janeiro,2024,"422,75",PG,Utilidades
+19,19,Janeiro,2024,"696,04",PG,Adiantamentos
+19,19,Janeiro,2024,"800,00",PG,Adiantamentos
+19,19,Janeiro,2024,"1.519,47",PG,Tributos e Obrigações
+19,19,Janeiro,2024,"84,58",PG,Tributos e Obrigações
+19,19,Janeiro,2024,"2.767,23",PG,Tributos e Obrigações
+25,24,Janeiro,2024,"64,54",PG,Telecomunicações
+25,24,Janeiro,2024,"136,00",PG,Telecomunicações
+25,24,Janeiro,2024,"149,90",PG,Telecomunicações
+26,26,Janeiro,2024,"252,00",PG,Transporte
+29,29,Janeiro,2024,"91,15",PG,Transporte
+29,29,Janeiro,2024,"573,03",PG,Transporte
+30,29,Janeiro,2024,"137,07",PG,Saúde e Segurança
+31,31,Janeiro,2024,"228,00",PG,Transporte
+31,31,Janeiro,2024,"200,00",PG,Combustível
+31,31,Janeiro,2024,"1.700,00",PG,Benefícios
+6,5,Janeiro,2024,"454,33",PG,Fornecedores
+9,8,Janeiro,2024,"371,29",PG,Fornecedores
+10,8,Janeiro,2024,"48,42",PG,Fornecedores
+15,15,Janeiro,2024,"720,45",PG,Equipamentos e Manutenção
+16,15,Janeiro,2024,"11,46",PG,Fornecedores
+27,27,Janeiro,2024,"319,13",PG,Fornecedores
+27,27,Janeiro,2024,"1.000,00",PG,Fornecedores
+27,27,Janeiro,2024,"227,83",PG,Fornecedores
+8,8,Janeiro,2024,"500,19",PG,Estagiários
+8,8,Janeiro,2024,"500,19",PG,Estagiários
+15,15,Janeiro,2024,"69,50",PG,Contas Bancárias
+5,5,Janeiro,2024,"69,00",PG,Contas Bancárias
+11,15,Janeiro,2024,"208,26",PG,Multas e Penalidades
+2,2,Janeiro,2024,"196,56",PG,Materiais de Embalagem
+11,11,Janeiro,2024,"824,60",PG,Materiais de Embalagem
+15,15,Janeiro,2024,"895,72",PG,Serviços de Saúde
+16,16,Janeiro,2024,"30,00",PG,Tecnologia e Mobilidade
+24,24,Janeiro,2024,"377,00",PG,Materiais de Embalagem
+29,29,Janeiro,2024,"196,56",PG,Materiais de Embalagem
+14,15,Janeiro,2024,"1.684,84",PG,Compras de Produtos
+12,12,Setembro,2024,"1.000,00",PG,Investimentos
+12,12,Dezembro,2024,"135,36",PG,Materiais de Escritório
+16,16,Dezembro,2024,"208,71",PG,Suprimentos para Pets
+2,2,Outubro,2024,"137,53",PG,Seguros
+31,31,Janeiro,2024,"89,93",PG,Serviços de Comunicação
+10,10,Agosto,2024,"159,90",PG,Software e Sistemas
+15,15,Dezembro,2024,"323,18",PG,Eventos e Confraternizações
+10,10,Janeiro,2024,"56,49",PG,Manutenção e Suporte
+7,9,Janeiro,2024,"200,00",PG,Diversos
+7,7,Janeiro,2024,"31,00",PG,Alimentação
+0,0,Janeiro,2024,"300,00",PG,Transporte
+4,4,Janeiro,2024,"15,00",PG,Diversos
+11,12,Janeiro,2024,"15,00",PG,Diversos
+12,12,Janeiro,2024,"15,00",PG,Diversos
+5,5,Fevereiro,2024,"1.665,49",PG,Tributos e Obrigações
+5,5,Fevereiro,2024,"204,88",PG,Utilidades
+5,5,Fevereiro,2024,"789,45",PG,Contabilidade
+6,6,Fevereiro,2024,"833,05",PG,Salários
+6,6,Fevereiro,2024,"1.729,39",PG,Salários
+6,6,Fevereiro,2024,"1.519,17",PG,Salários
+6,6,Fevereiro,2024,"2.334,11",PG,Salários
+6,6,Fevereiro,2024,"1.500,28",PG,Salários
+6,6,Fevereiro,2024,"1.604,67",PG,Salários
+6,6,Fevereiro,2024,"1.352,80",PG,Pro Labore
+6,6,Fevereiro,2024,"1.352,80",PG,Pro Labore
+6,6,Fevereiro,2024,"500,00",PG,Auxílios e Adiantamentos
+7,7,Fevereiro,2024,"1.010,63",PG,Tributos e Obrigações
+8,8,Fevereiro,2024,"4.315,03",PG,Aluguel
+9,9,Fevereiro,2024,"200,00",PG,Bônus e Incentivos
+14,14,Fevereiro,2024,"10,69",PG,Rescisões
+16,16,Fevereiro,2024,"180,74",PG,Utilidades
+16,16,Fevereiro,2024,"61,34",PG,Utilidades
+16,16,Fevereiro,2024,"642,90",PG,Utilidades
+12,14,Fevereiro,2024,"720,44",PG,Equipamentos e Manutenção
+14,14,Fevereiro,2024,"162,78",PG,Fornecedores
+14,14,Fevereiro,2024,"48,42",PG,Fornecedores
+19,19,Fevereiro,2024,"880,18",PG,Fornecedores
+27,27,Fevereiro,2024,"831,69",PG,Fornecedores
+27,27,Fevereiro,2024,"571,70",PG,Fornecedores
+0,0,0,2024,"500,19",PG,Estagiários
+15,15,Fevereiro,2024,"69,50",PG,Contas Bancárias
+5,5,Fevereiro,2024,"69,00",PG,Contas Bancárias
+11,15,Fevereiro,2024,"208,26",PG,Multas e Penalidades
+2,2,Fevereiro,2024,"196,56",PG,Materiais de Embalagem
+11,11,Fevereiro,2024,"824,60",PG,Materiais de Embalagem
+15,15,Fevereiro,2024,"59,66",PG,Serviços de Saúde
+15,15,Fevereiro,2024,"895,72",PG,Serviços de Saúde
+29,29,Fevereiro,2024,"141,18",PG,Tecnologia e Mobilidade
+12,12,Setembro,2024,"1.000,00",PG,Investimentos
+6,6,Janeiro,2024,"77,80",PG,Compras de Produtos
+13,13,Janeiro,2024,"208,71",PG,Suprimentos para Pets
+14,14,Janeiro,2024,"124,53",PG,Tributos e Obrigações
+30,7,Janeiro,2024,"251,00",PG,Manutenção e Suporte
+14,14,Fevereiro,2024,"156,18",PG,Multas e Penalidades
+14,14,Fevereiro,2024,"540,00",PG,Serviços de Despachante
+29,29,Fevereiro,2024,"34,00",PG,Manutenção e Suporte
+10,10,Novembro,2024,"2.460,29",PG,Financiamentos
+10,10,Fevereiro,2024,"219,08",PG,Seguros
+10,10,Fevereiro,2024,"184,61",PG,Seguros
+21,21,Fevereiro,2024,"975,61",PG,Tributos e Obrigações
+7,7,Fevereiro,2024,"12,60",PG,Materiais de Construção
+15,15,Fevereiro,2024,"59,66",PG,Serviços de Saúde
+15,15,Fevereiro,2024,"895,72",PG,Serviços de Saúde
+29,29,Fevereiro,2024,"141,18",PG,Tecnologia e Mobilidade
+12,12,Setembro,2024,"1.000,00",PG,Investimentos
+6,6,Janeiro,2024,"77,80",PG,Compras de Produtos
+13,13,Janeiro,2024,"208,71",PG,Suprimentos para Pets
+14,14,Janeiro,2024,"225,57",,Distribuição e Logística
+23,23,Janeiro,2024,"17,99",,Logística
+2,2,Outubro,2024,"137,53",PG,Seguros
+10,10,Agosto,2024,"159,90",PG,Software e Sistemas
+25,25,Janeiro,2024,"124,12",PG,Contabilidade
+26,0,Janeiro,2024,"71,04",,Compras de Produtos
+16,16,Janeiro,2024,"392,74",PG,Materiais de Consumo
+25,25,Janeiro,2024,"349,60",PG,Compras de Produtos
+26,26,Janeiro,2024,"29,39",PG,Materiais de Consumo
+12,12,Janeiro,2024,"256,53",,Combustível
+15,15,Janeiro,2024,"65,00",,Alimentação
+16,16,Janeiro,2024,"52,00",,Alimentação
+17,17,Janeiro,2024,"394,54",,Combustível
+17,17,Janeiro,2024,"70,00",,Estética
+19,19,Janeiro,2024,"28,30",,Materiais de Construção
+20,20,Janeiro,2024,"34,85",PG,Alimentação
+20,20,Janeiro,2024,"97,34",,Combustível
+21,21,Janeiro,2024,"227,07",,Combustível
+21,21,Janeiro,2024,"54,00",,Alimentação
+22,22,Janeiro,2024,"205,04",,Combustível
+24,24,Janeiro,2024,"339,70",,Combustível
+26,26,Janeiro,2024,"179,13",PG,Ferramentas e Equipamentos
+27,27,Janeiro,2024,"282,00",,Compras de Produtos
+03/02,3,Fevereiro,2024,"36,35",PG,Combustível
+04/02,4,Fevereiro,2024,"221,92",PG,Combustível
+04/02,4,Fevereiro,2024,"33,00",,Diversos
+04/02,4,Fevereiro,2024,"37,29",,Transporte
+10/02,10,Fevereiro,2024,"384,42",PG,Combustível
+30,30,Janeiro,2024,"256,11",PG,Combustível
+31,31,Janeiro,2024,"476,62",PG,Combustível
+31,31,Janeiro,2024,"280,00",PG,Reciclagem e Sustentabilidade
+5,5,Fevereiro,2024,"140,00",PG,Equipamentos e Manutenção
+5,5,Fevereiro,2024,"137,62",PG,Tributos e Obrigações
+5,5,Fevereiro,2024,"1.000,00",PG,Adiantamentos
+6,6,Fevereiro,2024,"175,70",PG,Utilidades
+6,6,Fevereiro,2024,"848,45",PG,Contabilidade
+6,6,Fevereiro,2024,"238,63",PG,Salários
+6,6,Fevereiro,2024,"1.301,87",PG,Salários
+6,6,Fevereiro,2024,"632,24",PG,Salários
+6,6,Fevereiro,2024,"2.409,51",PG,Salários
+6,6,Fevereiro,2024,"1.503,47",PG,Salários
+6,6,Fevereiro,2024,"1.604,68",PG,Salários
+6,15,Fevereiro,2024,"1.352,80",PG,Pro Labore
+6,20,Fevereiro,2024,"1.352,80",PG,Pro Labore
+6,6,Fevereiro,2024,"500,00",PG,Auxílios e Adiantamentos
+7,6,Fevereiro,2024,"893,24",PG,Tributos e Obrigações
+8,7,Fevereiro,2024,"4.726,36",PG,Aluguel
+28,28,Fevereiro,2024,"264,00",PG,Transporte
+28,28,Fevereiro,2024,"200,00",PG,Combustível
+28,28,Fevereiro,2024,"1.950,00",PG,Benefícios
+31,31,Fevereiro,2024,"337,40",PG,Tributos e Obrigações
+31,31,Fevereiro,2024,"337,40",PG,Tributos e Obrigações
+27,27,Fevereiro,2024,"831,69",PG,Fornecedores
+27,27,Fevereiro,2024,"427,08",PG,Fornecedores
+27,27,Fevereiro,2024,"427,08",PG,Fornecedores
+27,27,Fevereiro,2024,"38,29",PG,Fornecedores
+27,27,Fevereiro,2024,"38,28",PG,Fornecedores
+0,0,0,2024,"500,19",PG,Estagiários
+15,15,Fevereiro,2024,"69,50",PG,Contas Bancárias
+5,5,Fevereiro,2024,"69,00",PG,Contas Bancárias
+23,22,Fevereiro,2024,"126,61",PG,Tributos e Obrigações
+8,8,Fevereiro,2024,"50,00",PG,Combustível
+22,22,Fevereiro,2024,"113,85",PG,Tributos e Obrigações
+10,10,Novembro,2024,"2.460,29",PG,Contas Bancárias / Empréstimos
+10,10,Novembro,2024,"219,08",PG,Seguros
+10,10,Novembro,2024,"184,61",PG,Seguros
+21,21,Fevereiro,2024,"975,61",PG,Tributos e Obrigações
+15,15,Fevereiro,2024,"1.069,79",PG,Serviços de Saúde
+12,12,Setembro,2024,"1.000,00",PG,Investimentos
+6,6,Janeiro,2024,"77,80",PG,Combustível
+10,10,Fevereiro,2024,"361,31",PG,Alimentação
+19,19,Fevereiro,2024,"552,93",PG,Combustível
+22,22,Fevereiro,2024,"17,99",PG,Transporte / Logística
+24,24,Fevereiro,2024,"735,58",PG,Compras de Produtos
+2,2,Outubro,2024,"137,53",PG,Seguros
+10,10,Agosto,2024,"159,90",PG,Software e Sistemas
+25,25,Janeiro,2024,"124,11",PG,Contabilidade
+26,26,Janeiro,2024,"71,02",PG,Compras de Produtos
+29,29,Fevereiro,2024,"190,00",PG,Aluguel
+1,1,Março,2024,"289,92",PG,Combustível
+1,1,Março,2024,"40,00",PG,Alimentação
+1,1,Março,2024,"44,00",PG,Alimentação
+7,7,Março,2024,"15,00",PG,Suprimentos para Escritório
+7,7,Março,2024,"15,00",PG,Telecomunicações
+6,6,Março,2024,"392,98",PG,Combustível
+17,17,Fevereiro,2024,"228,82",PG,Combustível
+17,17,Fevereiro,2024,"42,00",PG,Serviços de Saúde
+28,0,Fevereiro,2024,"237,15",,Transporte / Combustível
+6,0,Março,2024,"14,00",,Diversos
+7,7,Março,2024,"93,40",PG,Alimentação
+12,12,Março,2024,"374,96",PG,Combustível
+12,0,Março,2024,"352,63",,Compras de Produtos
+0,0,0,2024,"15,00",PG,Alimentação
+0,28,Março,2024,"120,00",PG,Horas Extras - Alimentação
+0,0,0,2024,,PG,Alimentação
+2,2,Abril,2024,"1.200,50",PG,Tributos e Obrigações
+3,3,Abril,2024,"300,75",PG,Utilidades
+5,5,Abril,2024,"850,00",PG,Contabilidade
+5,5,Abril,2024,"1.200,00",PG,Salários
+5,5,Abril,2024,"1.500,00",PG,Salários
+5,5,Abril,2024,"1.350,00",PG,Salários
+5,5,Abril,2024,"1.450,00",PG,Salários
+5,5,Abril,2024,"1.400,00",PG,Pro Labore
+5,5,Abril,2024,"1.400,00",PG,Pro Labore
+5,5,Abril,2024,"600,00",PG,Auxílios e Adiantamentos
+5,5,Abril,2024,"1.500,00",PG,Tributos e Obrigações
+7,7,Abril,2024,"5.000,00",PG,Aluguel
+9,9,Abril,2024,"450,00",PG,Tributos e Obrigações
+10,10,Abril,2024,"1.800,00",PG,Rescisões
+12,12,Abril,2024,"200,00",PG,Utilidades
+12,12,Abril,2024,"80,00",PG,Utilidades
+12,12,Abril,2024,"450,00",PG,Utilidades
+15,15,Abril,2024,"700,00",PG,Adiantamentos
+15,15,Abril,2024,"800,00",PG,Adiantamentos
+16,16,Abril,2024,"1.800,00",PG,Tributos e Obrigações
+16,16,Abril,2024,"100,00",PG,Tributos e Obrigações
+16,16,Abril,2024,"3.000,00",PG,Tributos e Obrigações
+20,20,Abril,2024,"75,00",PG,Telecomunicações
+20,20,Abril,2024,"150,00",PG,Telecomunicações
+20,20,Abril,2024,"180,00",PG,Telecomunicações
+22,22,Abril,2024,"300,00",PG,Transporte
+25,25,Abril,2024,"100,00",PG,Transporte
+25,25,Abril,2024,"600,00",PG,Transporte
+26,26,Abril,2024,"150,00",PG,Saúde e Segurança
+27,27,Abril,2024,"250,00",PG,Transporte
+28,28,Abril,2024,"250,00",PG,Combustível
+30,30,Abril,2024,"2.000,00",PG,Benefícios
+2,2,Abril,2024,"500,00",PG,Fornecedores
+4,4,Abril,2024,"400,00",PG,Fornecedores
+5,5,Abril,2024,"60,00",PG,Fornecedores
+10,10,Abril,2024,"800,00",PG,Equipamentos e Manutenção
+11,11,Abril,2024,"50,00",PG,Fornecedores
+18,18,Abril,2024,"350,00",PG,Fornecedores
+19,19,Abril,2024,"500,19",PG,Estagiários
+20,20,Abril,2024,"500,19",PG,Estagiários
+21,21,Abril,2024,"100,00",PG,Contas Bancárias
+23,23,Abril,2024,"70,00",PG,Contas Bancárias
+25,25,Abril,2024,"220,00",PG,Multas e Penalidades
+26,26,Abril,2024,"200,00",PG,Materiais de Embalagem
+27,27,Abril,2024,"900,00",PG,Materiais de Embalagem
+28,28,Abril,2024,"900,00",PG,Serviços de Saúde
+29,29,Abril,2024,"35,00",PG,Tecnologia e Mobilidade
+30,30,Abril,2024,"200,00",PG,Materiais de Embalagem
+5,5,Abril,2024,"2.000,00",PG,Compras de Produtos
+10,10,Abril,2024,"1.000,00",PG,Investimentos
+12,12,Abril,2024,"140,00",PG,Materiais de Escritório
+14,14,Abril,2024,"220,00",PG,Suprimentos para Pets
+16,16,Abril,2024,"137,53",PG,Seguros
+18,18,Abril,2024,"100,00",PG,Serviços de Comunicação
+20,20,Abril,2024,"160,00",PG,Software e Sistemas
+22,22,Abril,2024,"350,00",PG,Eventos e Confraternizações
+25,25,Abril,2024,"60,00",PG,Manutenção e Suporte
+28,28,Abril,2024,"20,00",PG,Diversos
+30,30,Abril,2024,"35,00",PG,Alimentação
+30,30,Abril,2024,"350,00",PG,Transporte
+5,5,Abril,2024,"25,00",PG,Diversos
+10,10,Abril,2024,"25,00",PG,Diversos
+15,15,Abril,2024,"25,00",PG,Diversos
+20,20,Abril,2024,"1.200,50",PG,Tributos e Obrigações
+25,25,Abril,2024,"125,00",PG,Contabilidade
+28,28,Abril,2024,"75,00",PG,Compras de Produtos
+30,30,Abril,2024,"75,00",PG,Compras de Produtos
+3,3,Abril,2024,"40,00",PG,Combustível
+4,4,Abril,2024,"250,00",PG,Combustível
+5,5,Abril,2024,"35,00",PG,Diversos
+5,5,Abril,2024,"40,00",PG,Transporte
+10,10,Abril,2024,"400,00",PG,Combustível
+15,15,Abril,2024,"280,00",PG,Combustível
+16,16,Abril,2024,"560,00",PG,Combustível
+18,18,Abril,2024,"300,00",PG,Reciclagem e Sustentabilidade
+20,20,Abril,2024,"150,00",PG,Equipamentos e Manutenção
+22,22,Abril,2024,"140,00",PG,Tributos e Obrigações
+25,25,Abril,2024,"1.200,00",PG,Adiantamentos
+28,28,Abril,2024,"220,00",PG,Seguros
+30,30,Abril,2024,"185,00",PG,Seguros
+30,30,Abril,2024,"1.000,00",PG,Tributos e Obrigações
+30,30,Abril,2024,"800,00",PG,Compras de Produtos
+30,30,Abril,2024,"400,00",PG,Alimentação
+30,30,Abril,2024,"650,00",PG,Combustível
+30,30,Abril,2024,"20,00",PG,Transporte / Logística
+30,30,Abril,2024,"60,00",PG,Combustível
+30,30,Abril,2024,"1.200,00",PG,Tributos e Obrigações
+30,30,Abril,2024,"137,53",PG,Seguros
+30,30,Abril,2024,"160,00",PG,Software e Sistemas
+30,30,Abril,2024,"125,00",PG,Contabilidade
+30,30,Abril,2024,"75,00",PG,Compras de Produtos
+30,30,Abril,2024,"200,00",PG,Aluguel
+31,31,Abril,2024,"300,00",PG,Combustível
+31,31,Abril,2024,"50,00",PG,Alimentação
+31,31,Abril,2024,"60,00",PG,Alimentação
+31,31,Abril,2024,"20,00",PG,Suprimentos para Escritório
+31,31,Abril,2024,"20,00",PG,Telecomunicações
+31,31,Abril,2024,"400,00",PG,Combustível
+31,31,Abril,2024,"45,00",PG,Serviços de Saúde
+31,31,Abril,2024,"250,00",PG,Transporte / Combustível
+31,31,Abril,2024,"20,00",PG,Diversos
+31,31,Abril,2024,"100,00",PG,Alimentação
+31,31,Abril,2024,"400,00",PG,Combustível
+31,31,Abril,2024,"400,00",PG,Compras de Produtos
+31,31,Abril,2024,"20,00",PG,Alimentação
+31,31,Abril,2024,"130,00",PG,Horas Extras - Alimentação
+31,31,Abril,2024,"50,00",PG,Alimentação
+3,3,Maio,2024,"800,00",PG,Tributos e Obrigações
+5,5,Maio,2024,"270,00",PG,Utilidades
+5,5,Maio,2024,"820,00",PG,Contabilidade
+5,5,Maio,2024,"1.400,00",PG,Salários
+5,5,Maio,2024,"1.500,00",PG,Salários
+5,5,Maio,2024,"1.350,00",PG,Salários
+5,5,Maio,2024,"1.600,00",PG,Salários
+5,5,Maio,2024,"1.450,00",PG,Salários
+5,5,Maio,2024,"1.300,00",PG,Salários
+5,5,Maio,2024,"1.550,00",PG,Salários
+5,5,Maio,2024,"1.400,00",PG,Pro Labore
+5,5,Maio,2024,"1.400,00",PG,Pro Labore
+5,5,Maio,2024,"500,00",PG,Auxílios e Adiantamentos
+5,5,Maio,2024,"1.400,00",PG,Tributos e Obrigações
+8,8,Maio,2024,"4.800,00",PG,Aluguel
+9,9,Maio,2024,"450,00",PG,Tributos e Obrigações
+11,11,Maio,2024,"1.500,00",PG,Rescisões
+16,16,Maio,2024,"170,00",PG,Utilidades
+16,16,Maio,2024,"75,00",PG,Utilidades
+16,16,Maio,2024,"430,00",PG,Utilidades
+19,19,Maio,2024,"700,00",PG,Adiantamentos
+19,19,Maio,2024,"850,00",PG,Adiantamentos
+19,19,Maio,2024,"1.600,00",PG,Tributos e Obrigações
+19,19,Maio,2024,"90,00",PG,Tributos e Obrigações
+19,19,Maio,2024,"2.800,00",PG,Tributos e Obrigações
+25,25,Maio,2024,"70,00",PG,Telecomunicações
+25,25,Maio,2024,"140,00",PG,Telecomunicações
+25,25,Maio,2024,"160,00",PG,Telecomunicações
+26,26,Maio,2024,"260,00",PG,Transporte
+29,29,Maio,2024,"100,00",PG,Transporte
+29,29,Maio,2024,"600,00",PG,Transporte
+30,30,Maio,2024,"140,00",PG,Saúde e Segurança
+31,31,Maio,2024,"240,00",PG,Transporte
+31,31,Maio,2024,"220,00",PG,Combustível
+31,31,Maio,2024,"1.750,00",PG,Benefícios
+6,6,Maio,2024,"460,00",PG,Fornecedores
+9,9,Maio,2024,"380,00",PG,Fornecedores
+10,10,Maio,2024,"50,00",PG,Fornecedores
+15,15,Maio,2024,"750,00",PG,Equipamentos e Manutenção
+16,15,Maio,2024,"12,00",PG,Fornecedores
+27,27,Maio,2024,"330,00",PG,Fornecedores
+27,27,Maio,2024,"1.100,00",PG,Fornecedores
+27,27,Maio,2024,"230,00",PG,Fornecedores
+8,8,Maio,2024,"500,19",PG,Estagiários
+8,8,Maio,2024,"500,19",PG,Estagiários
+15,15,Maio,2024,"69,50",PG,Contas Bancárias
+5,5,Maio,2024,"69,00",PG,Contas Bancárias
+11,15,Maio,2024,"220,00",PG,Multas e Penalidades
+2,2,Maio,2024,"200,00",PG,Materiais de Embalagem
+11,11,Maio,2024,"850,00",PG,Materiais de Embalagem
+15,15,Maio,2024,"900,00",PG,Serviços de Saúde
+16,16,Maio,2024,"35,00",PG,Tecnologia e Mobilidade
+24,24,Maio,2024,"380,00",PG,Materiais de Embalagem
+29,29,Maio,2024,"200,00",PG,Materiais de Embalagem
+14,15,Maio,2024,"1.700,00",PG,Compras de Produtos
+12,12,Maio,2024,"1.000,00",PG,Investimentos
+12,12,Maio,2024,"140,00",PG,Materiais de Escritório
+16,16,Maio,2024,"220,00",PG,Suprimentos para Pets
+2,2,Maio,2024,"140,00",PG,Seguros
+31,31,Maio,2024,"90,00",PG,Serviços de Comunicação
+10,10,Maio,2024,"160,00",PG,Software e Sistemas
+15,15,Maio,2024,"330,00",PG,Eventos e Confraternizações
+10,10,Maio,2024,"60,00",PG,Manutenção e Suporte
+7,9,Maio,2024,"220,00",PG,Diversos
+7,7,Maio,2024,"35,00",PG,Alimentação
+0,0,Maio,2024,"310,00",PG,Transporte
+4,4,Maio,2024,"20,00",PG,Diversos
+11,12,Maio,2024,"20,00",PG,Diversos
+12,12,Maio,2024,"20,00",PG,Diversos
+3,3,Junho,2024,"800,00",PG,Tributos e Obrigações
+5,5,Junho,2024,"310,00",PG,Utilidades
+5,5,Junho,2024,"850,00",PG,Contabilidade
+5,5,Junho,2024,"850,00",PG,Salários
+5,5,Junho,2024,"1.400,00",PG,Salários
+5,5,Junho,2024,"1.350,00",PG,Salários
+5,5,Junho,2024,"1.550,00",PG,Salários
+5,5,Junho,2024,"2.200,00",PG,Salários
+5,5,Junho,2024,"970,00",PG,Salários
+5,5,Junho,2024,"1.620,00",PG,Salários
+5,5,Junho,2024,"1.350,00",PG,Pro Labore
+5,5,Junho,2024,"1.350,00",PG,Pro Labore
+5,5,Junho,2024,"500,00",PG,Auxílios e Adiantamentos
+5,5,Junho,2024,"1.350,00",PG,Tributos e Obrigações
+8,8,Junho,2024,"4.750,00",PG,Aluguel
+9,9,Junho,2024,"430,00",PG,Tributos e Obrigações
+11,11,Junho,2024,"1.480,00",PG,Rescisões
+16,16,Junho,2024,"170,00",PG,Utilidades
+16,16,Junho,2024,"75,00",PG,Utilidades
+16,16,Junho,2024,"430,00",PG,Utilidades
+19,19,Junho,2024,"700,00",PG,Adiantamentos
+19,19,Junho,2024,"820,00",PG,Adiantamentos
+19,19,Junho,2024,"1.520,00",PG,Tributos e Obrigações
+19,19,Junho,2024,"85,00",PG,Tributos e Obrigações
+19,19,Junho,2024,"2.800,00",PG,Tributos e Obrigações
+25,25,Junho,2024,"65,00",PG,Telecomunicações
+25,25,Junho,2024,"140,00",PG,Telecomunicações
+25,25,Junho,2024,"150,00",PG,Telecomunicações
+26,26,Junho,2024,"260,00",PG,Transporte
+29,29,Junho,2024,"100,00",PG,Transporte
+29,29,Junho,2024,"580,00",PG,Transporte
+30,30,Junho,2024,"140,00",PG,Saúde e Segurança
+31,31,Junho,2024,"230,00",PG,Transporte
+31,31,Junho,2024,"210,00",PG,Combustível
+31,31,Junho,2024,"1.750,00",PG,Benefícios
+6,6,Junho,2024,"460,00",PG,Fornecedores
+9,9,Junho,2024,"380,00",PG,Fornecedores
+10,10,Junho,2024,"50,00",PG,Fornecedores
+15,15,Junho,2024,"730,00",PG,Equipamentos e Manutenção
+16,15,Junho,2024,"12,00",PG,Fornecedores
+27,27,Junho,2024,"320,00",PG,Fornecedores
+27,27,Junho,2024,"1.050,00",PG,Fornecedores
+27,27,Junho,2024,"230,00",PG,Fornecedores
+8,8,Junho,2024,"500,19",PG,Estagiários
+8,8,Junho,2024,"500,19",PG,Estagiários
+15,15,Junho,2024,"69,50",PG,Contas Bancárias
+5,5,Junho,2024,"69,00",PG,Contas Bancárias
+11,15,Junho,2024,"210,00",PG,Multas e Penalidades
+2,2,Junho,2024,"200,00",PG,Materiais de Embalagem
+11,11,Junho,2024,"830,00",PG,Materiais de Embalagem
+15,15,Junho,2024,"900,00",PG,Serviços de Saúde
+16,16,Junho,2024,"35,00",PG,Tecnologia e Mobilidade
+24,24,Junho,2024,"380,00",PG,Materiais de Embalagem
+29,29,Junho,2024,"200,00",PG,Materiais de Embalagem
+14,15,Junho,2024,"1.700,00",PG,Compras de Produtos
+3,3,Julho,2024,"850,50",PG,Tributos e Obrigações
+5,5,Julho,2024,"280,00",PG,Utilidades
+5,5,Julho,2024,"820,00",PG,Contabilidade
+5,5,Julho,2024,"1.200,00",PG,Salários
+5,5,Julho,2024,"1.500,00",PG,Salários
+5,5,Julho,2024,"1.450,00",PG,Salários
+5,5,Julho,2024,"1.350,00",PG,Salários
+5,5,Julho,2024,"1.600,00",PG,Salários
+5,5,Julho,2024,"2.000,00",PG,Salários
+5,5,Julho,2024,"1.400,00",PG,Pro Labore
+5,5,Julho,2024,"1.400,00",PG,Pro Labore
+5,5,Julho,2024,"500,00",PG,Auxílios e Adiantamentos
+5,5,Julho,2024,"1.400,00",PG,Tributos e Obrigações
+8,8,Julho,2024,"4.800,00",PG,Aluguel
+9,8,Julho,2024,"450,00",PG,Tributos e Obrigações
+11,11,Julho,2024,"1.500,00",PG,Rescisões
+16,16,Julho,2024,"170,00",PG,Utilidades
+16,16,Julho,2024,"75,00",PG,Utilidades
+16,16,Julho,2024,"430,00",PG,Utilidades
+19,19,Julho,2024,"700,00",PG,Adiantamentos
+19,19,Julho,2024,"850,00",PG,Adiantamentos
+19,19,Julho,2024,"1.600,00",PG,Tributos e Obrigações
+19,19,Julho,2024,"90,00",PG,Tributos e Obrigações
+19,19,Julho,2024,"2.800,00",PG,Tributos e Obrigações
+25,24,Julho,2024,"70,00",PG,Telecomunicações
+25,24,Julho,2024,"140,00",PG,Telecomunicações
+25,24,Julho,2024,"160,00",PG,Telecomunicações
+26,26,Julho,2024,"260,00",PG,Transporte
+29,29,Julho,2024,"95,00",PG,Transporte
+29,29,Julho,2024,"600,00",PG,Transporte
+30,30,Julho,2024,"140,00",PG,Saúde e Segurança
+31,31,Julho,2024,"240,00",PG,Transporte
+31,31,Julho,2024,"220,00",PG,Combustível
+31,31,Julho,2024,"1.800,00",PG,Benefícios
+6,5,Julho,2024,"470,00",PG,Fornecedores
+9,8,Julho,2024,"380,00",PG,Fornecedores
+10,8,Julho,2024,"50,00",PG,Fornecedores
+15,15,Julho,2024,"750,00",PG,Equipamentos e Manutenção
+16,15,Julho,2024,"15,00",PG,Fornecedores
+27,27,Julho,2024,"330,00",PG,Fornecedores
+27,27,Julho,2024,"1.100,00",PG,Fornecedores
+27,27,Julho,2024,"230,00",PG,Fornecedores
+8,8,Julho,2024,"500,19",PG,Estagiários
+8,8,Julho,2024,"500,19",PG,Estagiários
+15,15,Julho,2024,"70,00",PG,Contas Bancárias
+5,5,Julho,2024,"70,00",PG,Contas Bancárias
+11,15,Julho,2024,"220,00",PG,Multas e Penalidades
+2,2,Julho,2024,"200,00",PG,Materiais de Embalagem
+11,11,Julho,2024,"850,00",PG,Materiais de Embalagem
+15,15,Julho,2024,"900,00",PG,Serviços de Saúde
+16,16,Julho,2024,"35,00",PG,Tecnologia e Mobilidade
+24,24,Julho,2024,"400,00",PG,Materiais de Embalagem
+29,29,Julho,2024,"200,00",PG,Materiais de Embalagem
+14,15,Julho,2024,"1.700,00",PG,Compras de Produtos
+12,12,Julho,2024,"1.000,00",PG,Investimentos
+12,12,Julho,2024,"140,00",PG,Materiais de Escritório
+16,16,Julho,2024,"220,00",PG,Suprimentos para Pets
+2,2,Julho,2024,"140,00",PG,Seguros
+31,31,Julho,2024,"95,00",PG,Serviços de Comunicação
+10,10,Julho,2024,"170,00",PG,Software e Sistemas
+15,15,Julho,2024,"350,00",PG,Eventos e Confraternizações
+10,10,Julho,2024,"60,00",PG,Manutenção e Suporte
+7,9,Julho,2024,"220,00",PG,Diversos
+7,7,Julho,2024,"35,00",PG,Alimentação
+0,0,Julho,2024,"320,00",PG,Transporte
+4,4,Julho,2024,"20,00",PG,Diversos
+11,12,Julho,2024,"20,00",PG,Diversos
+12,12,Julho,2024,"20,00",PG,Diversos
+5,5,Julho,2024,"1.700,00",PG,Tributos e Obrigações
+5,5,Julho,2024,"220,00",PG,Utilidades
+5,5,Julho,2024,"850,00",PG,Contabilidade
+6,6,Julho,2024,"900,00",PG,Salários
+6,6,Julho,2024,"2.000,00",PG,Salários
+6,6,Julho,2024,"1.700,00",PG,Salários
+6,6,Julho,2024,"1.600,00",PG,Salários
+6,6,Julho,2024,"1.700,00",PG,Salários
+6,6,Julho,2024,"1.400,00",PG,Pro Labore
+6,6,Julho,2024,"1.400,00",PG,Pro Labore
+6,6,Julho,2024,"500,00",PG,Auxílios e Adiantamentos
+7,6,Julho,2024,"950,00",PG,Tributos e Obrigações
+8,7,Julho,2024,"4.850,00",PG,Aluguel
+28,28,Julho,2024,"280,00",PG,Transporte
+28,28,Julho,2024,"220,00",PG,Combustível
+28,28,Julho,2024,"2.000,00",PG,Benefícios
+31,31,Julho,2024,"350,00",PG,Tributos e Obrigações
+31,31,Julho,2024,"350,00",PG,Tributos e Obrigações
+27,27,Julho,2024,"850,00",PG,Fornecedores
+27,27,Julho,2024,"450,00",PG,Fornecedores
+27,27,Julho,2024,"450,00",PG,Fornecedores
+27,27,Julho,2024,"40,00",PG,Fornecedores
+27,27,Julho,2024,"40,00",PG,Fornecedores
+0,0,Julho,2024,"500,19",PG,Estagiários
+15,15,Julho,2024,"70,00",PG,Contas Bancárias
+5,5,Julho,2024,"70,00",PG,Contas Bancárias
+23,22,Julho,2024,"144,50",PG,Tributos e Obrigações
+8,8,Julho,2024,"55,00",PG,Combustível
+22,22,Julho,2024,"120,00",PG,Tributos e Obrigações
+10,10,Julho,2024,"2.500,00",PG,Contas Bancárias / Empréstimos
+10,10,Julho,2024,"230,00",PG,Seguros
+10,10,Julho,2024,"190,00",PG,Seguros
+21,21,Julho,2024,"980,00",PG,Tributos e Obrigações
+15,15,Julho,2024,"1.100,00",PG,Serviços de Saúde
+12,12,Julho,2024,"1.000,00",PG,Investimentos
+6,6,Julho,2024,"80,00",PG,Combustível
+10,10,Julho,2024,"370,00",PG,Alimentação
+19,19,Julho,2024,"580,00",PG,Combustível
+22,22,Julho,2024,"20,00",PG,Transporte / Logística
+24,24,Julho,2024,"750,00",PG,Compras de Produtos
+2,2,Julho,2024,"140,00",PG,Seguros
+10,10,Julho,2024,"170,00",PG,Software e Sistemas
+25,25,Julho,2024,"124,15",PG,Contabilidade
+26,26,Julho,2024,"71,00",PG,Compras de Produtos
+29,29,Julho,2024,"195,00",PG,Aluguel
+1,1,Julho,2024,"300,00",PG,Combustível
+1,1,Julho,2024,"45,00",PG,Alimentação
+1,1,Julho,2024,"50,00",PG,Alimentação
+7,7,Julho,2024,"20,00",PG,Suprimentos para Escritório
+7,7,Julho,2024,"20,00",PG,Telecomunicações
+6,6,Julho,2024,"400,00",PG,Combustível
+17,17,Julho,2024,"230,00",PG,Combustível
+17,17,Julho,2024,"45,00",PG,Serviços de Saúde
+28,0,Julho,2024,"250,00",PG,Transporte / Combustível
+6,0,Julho,2024,"16,00",PG,Diversos
+7,7,Julho,2024,"100,00",PG,Alimentação
+12,12,Julho,2024,"400,00",PG,Combustível
+12,0,Julho,2024,"360,00",PG,Compras de Produtos
+0,0,Julho,2024,"20,00",PG,Alimentação
+0,28,Julho,2024,"130,00",PG,Horas Extras - Alimentação
+0,0,Julho,2024,,PG,Alimentação
+3,3,Agosto,2024,"800,00",PG,Tributos e Obrigações
+5,5,Agosto,2024,"270,50",PG,Utilidades
+5,5,Agosto,2024,"820,00",PG,Contabilidade
+5,5,Agosto,2024,"850,00",PG,Salários
+5,5,Agosto,2024,"1.400,00",PG,Salários
+5,5,Agosto,2024,"1.350,00",PG,Salários
+5,5,Agosto,2024,"1.550,00",PG,Salários
+5,5,Agosto,2024,"2.200,00",PG,Salários
+5,5,Agosto,2024,"980,00",PG,Salários
+5,5,Agosto,2024,"1.650,00",PG,Salários
+5,5,Agosto,2024,"1.400,00",PG,Pro Labore
+5,5,Agosto,2024,"1.400,00",PG,Pro Labore
+5,5,Agosto,2024,"500,00",PG,Auxílios e Adiantamentos
+10,10,Agosto,2024,"4.750,00",PG,Aluguel
+12,12,Agosto,2024,"1.350,00",PG,Tributos e Obrigações
+15,15,Agosto,2024,"220,00",PG,Multas e Penalidades
+18,18,Agosto,2024,"150,00",PG,Telecomunicações
+20,20,Agosto,2024,"600,00",PG,Equipamentos e Manutenção
+22,22,Agosto,2024,"300,00",PG,Materiais de Escritório
+25,25,Agosto,2024,"2.000,00",PG,Benefícios
+28,28,Agosto,2024,"250,00",PG,Combustível
+30,30,Agosto,2024,"160,00",PG,Software e Sistemas
+31,31,Agosto,2024,"2.500,00",PG,Financiamentos
+31,31,Agosto,2024,"300,00",PG,Vendas e Comissões
+15,15,Agosto,2024,"500,00",PG,Eventos e Confraternizações
+18,18,Agosto,2024,"350,00",PG,Serviços de Despachante
+22,22,Agosto,2024,"400,00",PG,Seguros
+25,25,Agosto,2024,"1.200,00",PG,Materiais de Construção
+28,28,Agosto,2024,"100,00",PG,Telecomunicações
+31,31,Agosto,2024,"250,00",PG,Contas Bancárias
