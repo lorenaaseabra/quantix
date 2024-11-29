@@ -1,97 +1,81 @@
+# dashboard.py
+
 from nicegui import ui
 import matplotlib.pyplot as plt
 import pandas as pd
 import io
 import base64
 
-# Carregar os dados
-df_unificado = pd.read_csv('data\Dados_Unificados.csv')  # Carregar o CSV unificado
+# Função para converter imagens PNG em string base64
+def img_to_base64(img_path):
+    with open(img_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode('utf-8')
 
-# Função para gerar os gráficos
-def create_plot_1():
-    # Gráfico de Boxplot
-    plt.figure(figsize=(10, 6))
-    plt.boxplot(df_unificado['TEMPO_CONSERTO'].dropna(), vert=False, patch_artist=True, boxprops=dict(facecolor='skyblue'))
-    plt.title('Distribuição do Tempo de Conserto (em dias)')
-    plt.xlabel('Tempo de Conserto (dias)')
-    plt.tight_layout()
-    
-    # Salvar o gráfico em memória
-    buf = io.BytesIO()
-    plt.savefig(buf, format="png")
-    buf.seek(0)
-    img_str = base64.b64encode(buf.read()).decode("utf-8")
-    buf.close()
-    
-    return img_str
+def setup_dashboard(df_unificado, tecnico_count_df):
+    # Funções para obter os gráficos já salvos
+    def get_boxplot():
+        return img_to_base64('boxplot_tempo_conserto.png')
 
-def create_plot_2():
-    # Gráfico de Linha: Evolução do Tempo Médio de Conserto
-    tempo_medio_por_mes = df_unificado.groupby('MES_ANO')['TEMPO_CONSERTO'].mean().reset_index()
-    
-    plt.figure(figsize=(12, 6))
-    plt.plot(tempo_medio_por_mes['MES_ANO'], tempo_medio_por_mes['TEMPO_CONSERTO'], marker='o', linestyle='-', color='skyblue')
-    plt.title('Evolução do Tempo Médio de Conserto')
-    plt.xlabel('Mês/Ano')
-    plt.ylabel('Tempo Médio de Conserto (dias)')
-    plt.xticks(rotation=90)
-    plt.grid(axis='y', linestyle='--', alpha=0.7)
-    plt.tight_layout()
-    
-    # Salvar o gráfico em memória
-    buf = io.BytesIO()
-    plt.savefig(buf, format="png")
-    buf.seek(0)
-    img_str = base64.b64encode(buf.read()).decode("utf-8")
-    buf.close()
-    
-    return img_str
+    def get_linha_tempo_medio():
+        return img_to_base64('linha_tempo_medio_conserto.png')
 
-def create_plot_3():
-    # Gráfico de Pizza: Taxa de Sucesso para Conserto
-    taxa_sucesso = df_unificado['CONSERTADO'].value_counts()
-    
-    plt.figure(figsize=(8, 8))
-    taxa_sucesso.plot(kind='pie', autopct='%1.1f%%', startangle=90, colors=['skyblue', 'lightcoral'])
-    plt.title('Taxa de Sucesso para Conserto')
-    plt.ylabel('')
-    plt.tight_layout()
-    
-    # Salvar o gráfico em memória
-    buf = io.BytesIO()
-    plt.savefig(buf, format="png")
-    buf.seek(0)
-    img_str = base64.b64encode(buf.read()).decode("utf-8")
-    buf.close()
-    
-    return img_str
+    def get_pizza_taxa_sucesso():
+        return img_to_base64('pizza_taxa_sucesso.png')
 
-# Página principal
-@ui.page("/")
-def dashboard():
-    with ui.row().classes("gap-4 items-center"):
-        ui.label("Dashboard de Análise de Consertos").classes("text-lg font-bold")
+    @ui.page("/")
+    def dashboard_page():
+        with ui.row().classes("gap-4 items-center"):
+            ui.label("Dashboard de Análise de Consertos").classes("text-lg font-bold")
 
-    # Gráficos
-    with ui.row().classes("w-full grid grid-cols-2 gap-4"):
-        # Gráfico de Boxplot
-        with ui.card():
-            ui.label("Distribuição do Tempo de Conserto (Boxplot)").classes("text-lg font-bold mb-2")
-            ui.image(f"data:image/png;base64,{create_plot_1()}").classes("w-full h-64")
-        
-        # Gráfico de Linha
-        with ui.card():
-            ui.label("Evolução do Tempo Médio de Conserto").classes("text-lg font-bold mb-2")
-            ui.image(f"data:image/png;base64,{create_plot_2()}").classes("w-full h-64")
-        
-        # Gráfico de Pizza
-        with ui.card():
-            ui.label("Taxa de Sucesso para Conserto").classes("text-lg font-bold mb-2")
-            ui.image(f"data:image/png;base64,{create_plot_3()}").classes("w-full h-64")
+        # Gráficos
+        with ui.row().classes("w-full grid grid-cols-2 gap-4"):
+            # Gráfico de Boxplot
+            with ui.card():
+                ui.label("Distribuição do Tempo de Conserto (Boxplot)").classes("text-lg font-bold mb-2")
+                ui.image(f"data:image/png;base64,{get_boxplot()}").classes("w-full h-64")
 
-    # Navegação
-    with ui.left_drawer() as drawer:
-        ui.link("Dashboard", "/").classes("block py-2")
+            # Gráfico de Linha
+            with ui.card():
+                ui.label("Evolução do Tempo Médio de Conserto").classes("text-lg font-bold mb-2")
+                ui.image(f"data:image/png;base64,{get_linha_tempo_medio()}").classes("w-full h-64")
 
-# Iniciar o servidor NiceGUI
-ui.run(title="Dashboard Análise de Consertos", port=8080)
+            # Gráfico de Pizza
+            with ui.card():
+                ui.label("Taxa de Sucesso para Conserto").classes("text-lg font-bold mb-2")
+                ui.image(f"data:image/png;base64,{get_pizza_taxa_sucesso()}").classes("w-full h-64")
+
+            # Gráfico de Aparelhos Recebidos
+            with ui.card():
+                ui.label("Número de Aparelhos Recebidos ao Longo do Tempo").classes("text-lg font-bold mb-2")
+                ui.image(f"data:image/png;base64,{img_to_base64('linha_aparelhos_recebidos.png')}").classes("w-full h-64")
+
+            # Gráfico de Aparelhos por Marca (se existir)
+            if 'MARCA' in df_unificado.columns:
+                with ui.card():
+                    ui.label("Número de Aparelhos Recebidos por Marca").classes("text-lg font-bold mb-2")
+                    ui.image(f"data:image/png;base64,{img_to_base64('barra_aparelhos_por_marca.png')}").classes("w-full h-64")
+
+            # Gráfico de Aparelhos por Tipo (se existir)
+            if 'APARELHO' in df_unificado.columns:
+                with ui.card():
+                    ui.label("Número de Aparelhos Recebidos por Tipo de Aparelho").classes("text-lg font-bold mb-2")
+                    ui.image(f"data:image/png;base64,{img_to_base64('barra_aparelhos_por_tipo.png')}").classes("w-full h-64")
+
+        # Tabela de Técnicos
+        ui.label("Tabela de Técnicos").classes("text-xl mt-6 mb-4")
+        columns = [
+            {'name': 'TECNICO', 'label': 'Técnico', 'field': 'TECNICO', 'required': True, 'align': 'left'},
+            {'name': 'QUANTIDADE', 'label': 'Quantidade de Consertos', 'field': 'QUANTIDADE'},
+            {'name': 'CONCLUIDOS', 'label': 'Consertos Concluídos', 'field': 'CONCLUIDOS'},
+            {'name': 'NAO_CONCLUIDOS', 'label': 'Consertos Não Concluídos', 'field': 'NAO_CONCLUIDOS'},
+        ]
+        ui.table(columns=columns, rows=tecnico_count_df.to_dict('records'), row_key='TECNICO').classes("w-full")
+
+        # Navegação
+        with ui.left_drawer() as drawer:
+            ui.link("Dashboard", "/").classes("block py-2")
+            ui.link("Despesas", "/expenses").classes("block py-2")
+            ui.link("Livros", "/books").classes("block py-2")
+
+    # Registrar a página
+    dashboard_page()
