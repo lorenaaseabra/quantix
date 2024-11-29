@@ -1,0 +1,2195 @@
+DATA,TIPO DE AT.,APARELHO,MARCA,TECNICO,STATUS,PEÇA RECEBIDA,PRONTO,SAÍDA,CONSERTADO?
+03-01-2023,GB,Robo,Wap,Matheus Rosa,Concluído,12-01-2023,13-01-2023,24-01-2023,Sim
+03-01-2023,GB,Robo,Midea,Matheus,Concluído,11-01-2023,26-01-2023,02-02-2023,Sim
+03-01-2023,GB,Robo,Midea,Matheus,Concluído,11-01-2023,11-01-2023,30-01-2023,Sim
+03-01-2023,FB,Robo,Wap,Matheus,Concluído,0,12-01-2023,02-02-2023,Sim
+03-01-2023,FB,Lavadora,Panasonic,Brenno,Concluído,17-04-2023,10-04-2023,18-04-2023,Sim
+03-01-2023,GB,Micro-Ondas,Midea,Luan,Concluído,16-01-2023,17-01-2023,20-01-2023,Sim
+03-01-2023,FB,Purificador,Midea,Luan,Concluído,0,06-01-2023,19-01-2023,Sim
+03-01-2023,GB,Micro Ondas,Panasonic,Luan,Concluído,11-01-2023,11-01-2023,16-01-2023,Sim
+03-01-2022,GB,Robo,Midea,Mateus,Sem Defeito,0,0,17-01-2023,Não
+04-01-2022,FON,Secadora,Eletrolux,Cvg,Concluído,0,13-02-2023,13-02-2023,Sim
+04-01-2022,FON,Secadora,Eletrolux,Cvg / Osiel,Concluído,0,13-02-2023,13-02-2023,Sim
+04-01-2022,GON,Refrigerador,Panasonic,Cvg  Acleilson/Osiel,Concluído,18-01-2023,23-01-2023,23-01-2023,Sim
+04-01-2022,GON,Refrigerador,Panasonic,Cvg,Concluído,0,0,04-01-2023,Não
+04-01-2022,GON,Refrigerador,Panasonic,Cvg,Concluído,0,04-01-2023,04-01-2023,Sim
+04-01-2022,GON,Refrigerador,Panasonic,Cvg,Concluído,18-01-2023,21-01-2023,21-01-2023,Sim
+04-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,11-01-2023,12-01-2023,12-01-2023,Sim
+04-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,11-01-2023,12-01-2023,12-01-2023,Sim
+04-01-2023,GB,Robo,Wap,Matheus Rosa/Mateus,Concluído,16-01-2023,16-01-2023,20-01-2023,Sim
+04-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,04-01-2023,04-01-2023,Sim
+04-01-2023,FB,Robo,Wap,Mateus,Concluído,0,13-01-2023,09-05-2023,Sim
+04-01-2023,GB,Frigobar,Midea,Jacleilson,Sem Defeito,0,0,27-01-2023,Não
+04-01-2023,FON,Redrigerador,Midea,Cvg,05/04/2023,0,05-04-2023,05-04-2023,Sim
+04-01-2023,FB,Robo,Wap,Mateus,Concluído,0,11-01-2023,12-01-2023,Sim
+05-01-2023,GON,Refrigerador,Panasonic,Osiel / Jacleilson,Concluído,0,23-01-2023,23-01-2023,Sim
+05-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,11-01-2023,05-01-2023,05-01-2023,Sim
+05-01-2023,FON,Lavadora,Panasonic,Cancelado,Cancelado,0,0,05-01-2023,Não
+05-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,0,05-01-2023,Não
+05-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,13-01-2023,21-01-2023,21-01-2023,Sim
+05-01-2023,GON,Refrigerador,Panasonic,Osiel / Jacleilson,Concluído,0,12-01-2023,12-01-2023,Sim
+05-01-2023,GB,Micro Ondas,Midea,Luan,Concluído,0,05-01-2023,06-01-2023,Sim
+05-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,10-01-2023,10-01-2023,Sim
+05-01-2023,GON,Lavadora,Panasonic,Cvg,Troca/Reembolso,0,0,13-03-2023,Não
+05-01-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,07-01-2023,07-01-2023,Sim
+05-01-2023,FON,Refrigerador,Panasonic,Osiel,Concluído,0,12-01-2023,12-01-2023,Sim
+05-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,09-01-2023,09-01-2023,Sim
+05-01-2023,FB,Robo,Wap,Mateus,Concluído,0,10-02-2023,16-02-2023,Sim
+05-01-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,01-06-2023,Não
+06-01-2023,GB,Fritadeira,Midea,Thiago,Concluído,0,0,10-01-2023,Sim
+06-01-2023,FB,Fritadeira,Midea,Thiago,Concluído,0,11-01-2023,12-01-2023,Sim
+06-01-2023,FON,Ar Condicionado,0,0,Cancelado,0,0,08-03-2023,Não
+06-01-2023,FB,Micro Ondas,Midea,Luan,Concluído,0,12-01-2023,17-01-2023,Sim
+06-01-2023,GB,Freezer,Midea,Breno,Concluído,0,09-03-2023,10-03-2023,Sim
+06-01-2023,GON,Refrigerador,Panasonic,0,0,0,0,0,0
+06-01-2023,FB,Robo,Wap,Mateus,Concluído,0,13-01-2023,20-01-2023,Sim
+06-01-2023,FON,Lavadora,Panasonic,Cvg,Cancelada,0,0,0,Não
+06-01-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,10-01-2023,10-01-2023,Não
+06-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,09-01-2023,09-01-2023,Sim
+06-01-2023,GB,Robo,Wap,0,0,0,0,0,0
+07-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,07-01-2023,07-01-2023,Sim
+09-01-2023,GON,Lavadora,Panasonic,Osiel / Jacleilson,Concluído,18-01-2023,19-01-2023,19-01-2023,Sim
+09-01-2023,GS,Robo,Wap,Mateus,Concluído,0,12-01-2023,16-01-2023,Sim
+09-01-2023,GON,Lava E Seca,Midea,Osiel / Jacleilson,Concluído,23-01-2023,25-01-2023,25-01-2023,Sim
+09-01-2023,GON,Lavadora,Panasonic,Osiel / Jacleilson,Concluído,18-01-2023,11-01-2023,11-01-2023,Sim
+09-01-2023,GON,Lava E Seca,Midea,Osiel / Jacleilson,Concluído,0,10-01-2023,10-01-2023,Sim
+09-01-2023,FON,Lavadora,Panasonic,Osiel/Cvg,Descarte,0,0,23-01-2023,Não
+09-01-2023,GB,Robo,Wap,Thiago,Troca,0,0,08-02-2023,Não
+09-01-2023,GON,Lavadora,Panasonic,Osiel / Jacleilson,Concluído,0,11-01-2023,11-01-2023,Sim
+09-01-2023,FON,Ar Condicionado,0,0,Cancelado,0,0,08-03-2023,Não
+09-01-2023,FB,Robo,Midea,Thiago,Concluído,0,10-02-2023,15-02-2023,Sim
+09-01-2023,FB,Micro Ondas,Midea,Robson,Concluído,0,06-02-2023,08-02-2023,Sim
+09-01-2023,GON,Lava E Seca,Midea,Osiel,Concluído,0,15-02-2023,15-02-2023,Sim
+10-01-2023,FB,Robo,Wap,0,0,0,0,0,0
+10-01-2023,GON,Lavadora,Panasonic,Osiel-Jacleilson-Cvg,Concluído,24-01-2023,02-02-2023,02-02-2023,Sim
+10-01-2023,GON,Lavadora,Panasonic,Osiel / Jacleilson,23/01- Aberto Sat,30-01-2023,02-02-2023,02-02-2023,Sim
+10-01-2023,GON,Lava E Seca,Midea,Osiel,Concluído,0,11-01-2023,11-01-2023,Sim
+10-01-2023,FON,Lava Louças,Panasonic,Jacleilson,Concluído,0,16-01-2023,16-01-2023,Sim
+10-01-2023,GB,Robo,Wap,Thiago,Concluído,0,27-01-2023,01-02-2023,Sim
+10-01-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,13-01-2023,13-01-2023,Sim
+10-01-2023,GON,Lavadora,Panasonic,Osiel / Jacleilson,Concluído,0,11-01-2023,11-01-2023,Sim
+10-01-2023,FB,Robo,Wap,Thiago,Sem Conserto,0,0,19-01-2023,Não
+10-01-2023,GON,Lava E Seca,Midea,Osiel,Concluído,0,17-01-2023,17-01-2023,Não
+10-01-2023,GB,Robo,Midea,Thiago,Concluído,25-01-2023,25-01-2023,01-02-2023,Sim
+10-01-2023,GON,Lavadora,Panasonic,Osiel / Jacleilson,Concluído,18-01-2023,11-01-2023,11-01-2023,Sim
+11-01-2023,GON,Lavadora,Panasonic,Cvg,Garantia Negada,0,0,13-01-2023,Não
+11-01-2023,FB,Panela,Midea,Thiago,Concluído,0,16-01-2023,17-01-2023,Sim
+11-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,12-01-2023,12-01-2023,Sim
+11-01-2023,FB,Adega,Midea,Luan,Sem Defeito,0,0,16-01-2023,Não
+11-01-2023,GON,Refrigerador,Panasonic,Osiel / Jacleilson,Concluído,18-01-2023,19-01-2023,19-01-2023,Sim
+11-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,13-01-2023,13-01-2023,Sim
+11-01-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+11-01-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,12-01-2023,12-01-2023,Sim
+11-01-2023,GON,Lava E Seca,Midea,0,Cancelado,0,0,12-01-2023,Não
+11-01-2023,GON,Lava E Seca,Midea,Jacleilson,Concluído,16-01-2023,19-01-2023,19-01-2023,Sim
+11-01-2023,GON,Lava E Seca,Midea,Osiel/Jacleilson,12/01/2023,0,12-01-2023,12-01-2023,Sim
+12-01-2023,GON,Refrigerador,Panasonic,Osiel/Jacleilson,Concluído,0,12-01-2023,12-01-2023,Sim
+12-01-2023,GB,Microondas,Midea,Luan / Robson,Concluído,25-01-2023,26-01-2023,02-02-2023,Sim
+12-01-2023,GON,Refrigerador,Panasonic,Osiel / Jacleilson,Concluído,0,13-01-2023,13-01-2023,Sim
+12-01-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,16-01-2023,16-01-2023,Sim
+12-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,13-01-2023,13-01-2023,Sim
+12-01-2023,GB,Robo,Wap,Thiago,Concluído,24-01-2023,26-01-2023,07-02-2023,Sim
+12-01-2023,FB,Cooktop,Panasonic,0,Sem Conserto,0,0,10-05-2023,Não
+12-01-2023,FB,Aspirador,Midea,Mateus,Concluído,0,26-01-2023,06-02-2023,Sim
+13-01-2023,GB,Robo,Wap,Robson,Concluído,0,13-01-2023,16-01-2023,Sim
+13-01-2023,FON,Ar Condicionado,Fujitsu,0,0,0,0,0,0
+13-01-2023,GB,Fritadeira,Midea,Thiago,Concluído,0,13-01-2023,25-01-2023,Sim
+13-01-2023,GON,Refrigerador,Panasonic,"Jacleilson, Osiel E Cvg",Concluído,0,26-01-2023,26-01-2023,Sim
+13-01-2023,GB,Robo,Wap,Thiago,Concluído,18-01-2023,19-01-2023,23-01-2023,Sim
+13-01-2023,GB,Robo,Midea,Mateus,Concluído,31-01-2023,01-02-2023,10-02-2023,Sim
+13-01-2023,GB,Robo,Wap,Thiago,Concluído,23-01-2023,24-01-2023,27-01-2023,Sim
+13-01-2023,FON,Lava E Seca,Midea,Jacleilson,Concluído,0,16-01-2023,16-01-2023,Sim
+13-01-2023,GON,Lava E Seca,Midea,Osiel,Cancelada,0,0,03-04-2023,Não
+16-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,17-01-2023,17-01-2023,Sim
+16-01-2023,GON,Lava E Seca,Midea,Osiel,Concluído,0,17-01-2023,17-01-2023,Não
+16-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,23-01-2023,01-02-2023,01-02-2023,Sim
+16-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,17-01-2023,17-01-2023,Sim
+16-01-2023,GB,Robo,Wap,Thiago,Concluído,18-01-2023,19-01-2023,20-01-2023,Sim
+16-01-2023,FB,Robo,Midea,Mateus,Concluído,0,27-03-2023,05-05-2023,Sim
+16-01-2023,GB,Robo,Wap,Thiago,Concluído,18-01-2023,19-01-2023,03-02-2023,Sim
+17-01-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+17-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,19-01-2023,19-01-2023,Sim
+17-01-2023,GB,Micro-Ondas,Midea,Robson,Concluído,0,27-01-2023,31-01-2023,Sim
+17-01-2023,GB,Robo,Wap,Thiago,Concluído,0,23-01-2023,25-01-2023,Sim
+17-01-2023,GB,Robo,Wap,Thiago,Concluído,0,01-06-2023,25-08-2023,Sim
+17-01-2023,FB,Robo,Wap,Thiago,Sem Conserto,0,0,25-08-2023,Não
+17-01-2023,GB,Robo,Midea,Mateus,Concluído,0,26-01-2023,06-02-2023,Sim
+17-01-2023,FB,Robo,Wap,Thiago,Sem Conserto,0,0,14-04-2023,Não
+17-01-2023,GON,Lavadora,Panasonic,Jacleilson,Concluído,30-01-2023,19-01-2023,19-01-2023,Sim
+18-01-2023,FB,Aspirador,Midea,Matheus,Concluído,0,26-01-2023,02-02-2023,Sim
+18-01-2023,FB,Refrigerador,Panasonic,0,Cancelado,0,0,04-04-2023,Não
+18-01-2023,FON,Refrigerador,Panasonic,Cvg,Cancelado,0,0,08-05-2023,Não
+18-01-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,24-01-2023,Não
+18-01-2023,GON,Lava E Seca,Midea,Jacleilson,Concluído,02-02-2023,07-02-2023,07-02-2023,Sim
+18-01-2023,FON,Refrigerador,Panasonic,Jacleilson,Concluído,0,18-01-2023,18-01-2023,Sim
+18-01-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,18-01-2023,Não
+18-01-2023,GON,Lavadora,Panasonic,Jacleilson,Concluído,0,0,0,0
+18-01-2023,FON,Refrigerador,Panasonic,Osiel,Concluído,0,06-02-2023,06-02-2023,Sim
+18-01-2023,FB,Climatizador,Midea,0,0,0,0,0,0
+18-01-2023,GON,Refrigerador,Panasonic,0,0,0,0,0,0
+18-01-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,10-03-2023,20-03-2023,Sim
+18-01-2023,FB,Microondas,Panasonic,Robson,Cancelado,0,0,10-05-2023,Não
+18-01-2023,FB,Robo,Wap,Mateus,Concluído,0,16-03-2023,24-03-2023,Sim
+19-01-2023,FB,Robo,Wap,Mateus,Concluído,0,27-01-2023,02-02-2023,Sim
+19-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,07-02-2023,13-02-2023,13-02-2023,Sim
+19-01-2023,GON,Lava E Seca,Midea,Jacleilson,Sem Defeito,0,0,19-01-2023,Não
+19-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,20-01-2023,20-01-2023,Sim
+19-01-2023,FON,Ar Condicionado,Midea,0,Cancelado,0,0,23-05-2023,Não
+19-01-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,01-03-2023,Não
+19-01-2023,GB,Robo,Wap,Thiago,Concluído,24-01-2023,25-01-2023,02-02-2023,Sim
+19-01-2023,GB,Aspirador,Midea,Matheus,Concluído,0,03-02-2023,24-02-2023,Sim
+19-01-2023,FB,Microondas,Midea,Robson,Concluído,0,31-01-2023,01-02-2023,Sim
+19-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,20-01-2023,20-01-2023,Sim
+19-01-2023,GB,Robo,Wap,Thiago,Concluído,0,24-01-2023,30-01-2023,Sim
+19-01-2023,FB,Robo,Wap,Mateus / Robson,Concluído,0,27-01-2023,08-02-2023,Sim
+20-01-2023,GON,Refrigerador,Panasonic,Cvg,24/01-Aberto Sat,0,24-02-2023,24-02-2023,Sim
+20-01-2023,GB,Robo,Wap,Thiago,Concluído,24-01-2023,25-01-2023,27-01-2023,Sim
+20-01-2023,GON,Lavadora,Panasonic,Jacleilson,Concluído,0,26-01-2023,26-01-2023,Sim
+20-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,20-01-2023,20-01-2023,Sim
+20-01-2023,GB,Micro Ondas,Midea,Robson,Concluído,06-02-2023,10-02-2023,25-02-2023,Sim
+20-01-2023,FB,Adega,Midea,Brenno,Sem Conserto,0,0,21-03-2023,Não
+20-01-2023,GB,Robo,Wap,Thiago,Concluído,24-01-2023,25-01-2023,03-02-2023,Sim
+20-01-2023,GB,Robo,Wap,Thiago,Concluído,06-02-2023,07-02-2023,08-02-2023,Sim
+20-01-2023,GB,Robo,Wap,Thiago,Concluído,0,06-02-2023,08-02-2023,Sim
+20-01-2023,GB,Robo,Wap,Thiago,Concluído,06-02-2023,07-02-2023,08-02-2023,Sim
+20-01-2023,GB,Micro-Ondas,Midea,Robson,Concluído,0,30-01-2023,31-01-2023,Sim
+20-01-2023,GB,Micro-Ondas,Midea,Robson,Concluído,0,30-01-2023,31-01-2023,Sim
+20-01-2023,FB,Micro-Ondas,Midea,Robson/Matheus,Concluído,0,30-03-2023,24-04-2023,Sim
+20-01-2023,FON,Ar Condiconado,Midea,0,Cancelado,0,0,14-03-2023,Não
+20-01-2023,FON,Lavadora,Panasonic,Cvg E Osiel,Concluído,0,16-03-2023,16-03-2023,Sim
+20-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,07-02-2023,09-02-2023,09-02-2023,Sim
+20-01-2023,GB,Robo,Midea,Mateus,Concluído,0,24-01-2023,06-02-2023,Sim
+20-01-2023,GB,Frigobar,Midea,Jjackleison/Cvg/Breno,Concluído,27-02-2023,07-03-2023,15-03-2023,Sim
+20-01-2023,FB,Aspirador,Wap,Thiago,Concluído,0,27-02-2023,14-03-2023,Sim
+20-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,27-01-2023,12-02-2023,12-02-2023,Sim
+23-01-2023,GON,Lavadora,Panasonic,Jacleilson,Concluído,27-01-2023,31-01-2023,31-01-2023,Sim
+23-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,31-01-2023,31-01-2023,Sim
+23-01-2023,FB,Robo,Wap,Thiago,Concluído,0,25-01-2023,07-02-2023,Sim
+23-01-2023,GB,Robo,Midea,Mateus,Concluído,31-01-2023,31-01-2023,08-02-2023,Sim
+23-01-2023,GON,Lavadora,Panasonic,Osiel / Jacleilson,Concluído,0,23-01-2023,23-01-2023,Sim
+23-01-2023,FB,Aspirador,Wap,Thiago,Concluído,0,05-06-2023,07-06-2023,Sim
+23-01-2023,GON,Refrigerador,Panasonic,Osiel / Cvg,Concluído,0,22-02-2023,22-02-2023,Sim
+23-01-2023,FB,Robo,Ropo,Thiago,0,0,0,0,0
+23-01-2023,FB,Lavadora,Panasonic,0,0,0,0,0,0
+23-01-2023,GON,Refrigerador,Panasonic,Cvg / Jacleilson,Concluído,26-01-2023,02-02-2023,02-02-2023,Sim
+23-01-2023,GON,Refrigerador,Panasonic,Cvg / Osiel,Concluído,0,27-02-2023,27-02-2023,Sim
+23-01-2023,FB,Rferigerador,Panasonic,Claudio,Concluído,0,07-02-2023,07-02-2023,Sim
+24-01-2023,GON,Lavadora,Panasonic,Osiel,Concluído,08-03-2023,01-03-2023,01-03-2023,Sim
+24-01-2023,FON,Ar Condicionado,Midea,Jacleilson / Brenno,Concluído,06-04-2023,09-05-2023,09-05-2023,Sim
+24-01-2023,GB,Lava Louça,Mdea,Cvg,Concluído,0,31-01-2023,03-02-2023,Sim
+24-01-2023,GB,Micro Ondas,Midea,Robson,Concluído,0,30-01-2023,31-01-2023,Sim
+24-01-2023,FB,Refrigerador,Panasonic,Robson,Concluído,0,10-03-2023,10-03-2023,Sim
+24-01-2023,FON,Lavadora,Panasonic,Jacleilson,Concluído,0,25-01-2023,25-01-2023,Sim
+25-01-2023,FON,Lavadora,Panasonic,Jacleilson,Concluído,0,25-01-2023,25-01-2023,Sim
+25-01-2023,GB,Refrigerador,Panasonic,Cvg,Concluído,02-02-2023,02-02-2023,03-02-2023,Sim
+25-01-2023,FON,Ar Condicionado,Fujitsu,0,Cancelado,0,0,01-02-2023,Não
+25-01-2023,GON,Refrigerador,Panasonic,Jaclailson / Osiel,Concluído,02-02-2023,07-02-2023,07-02-2023,Sim
+25-01-2023,GS,Robo,Wap,Tiago/Robson,Concluído,0,23-03-2023,23-03-2023,Sim
+25-01-2023,GB,Robo,Wap,Cvg,Concluído,0,25-01-2023,25-01-2023,Sim
+25-01-2023,FB,Robo,Wap,Thiago,Concluído,0,02-02-2023,11-04-2023,Sim
+25-01-2023,FON,Cooktop,Midea,Cvg,Concluído,03-03-2023,07-03-2023,15-03-2023,Sim
+25-01-2023,FB,Cooktop,Midea,0,0,0,0,0,0
+26-01-2023,GON,Lavadora,Panasonic,Jacleilson,Concluído,0,26-01-2023,26-01-2023,Sim
+26-01-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,07-02-2023,07-02-2023,Sim
+26-01-2023,GON,Cooktop,Midea,Cvg,Sem Defeito,0,0,26-01-2023,Não
+26-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,30-01-2023,30-01-2023,Sim
+26-01-2023,GON,Refrigerador,Panasonic,0,0,0,0,0,0
+26-01-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,02-02-2023,02-02-2023,Sim
+26-01-2023,FB,Aspirador,Midea,Matheus,Concluído,0,08-02-2023,10-02-2023,Sim
+26-01-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,26-01-2023,26-01-2023,Sim
+26-01-2023,GON,Refrigerador,Panasonic,Cvg,Cancelada,0,0,08-02-2023,Não
+26-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,09-02-2023,12-02-2023,12-02-2023,Sim
+27-01-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,04-02-2023,04-02-2023,Sim
+27-01-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,28-01-2023,28-01-2023,Sim
+27-01-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,28-01-2023,28-01-2023,Sim
+27-01-2023,GON,Cooktop,Midea,Cvg,Concluído,0,28-01-2023,28-01-2023,Sim
+0,FB,Robo,Wap,Mateus,Concluído,0,14-02-2023,01-03-2023,Sim
+27-01-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,27-01-2023,Não
+27-01-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+27-01-2023,GB,Microondas,Panasonic,Robson,Concluído,07-02-2023,10-02-2023,17-02-2023,Sim
+27-01-2023,FON,Lava E Seca,Midea,Osiel / Jacleilson,Concluído,0,06-02-2023,06-02-2023,Sim
+27-01-2023,GB,Robo,Wap,Thiago,Concluído,06-02-2023,07-02-2023,28-02-2023,Sim
+27-01-2023,GON,Lava E Seca,Midea,Osiel,Concluído,0,02-02-2023,02-02-2023,Sim
+27-01-2023,GON,Lavadora,Midea,Osiel,Concluído,0,31-01-2023,31-01-2023,Sim
+27-01-2023,GON,Lavadora,Midea,Osiel,Concluído,0,02-02-2023,02-02-2023,Sim
+30-01-2023,FON,Refrigerador,Panasonic,Osiel,Concluído,0,03-02-2023,03-02-2023,Sim
+30-01-2023,GB,Robo,Wap,Thiago,Concluído,06-02-2023,07-02-2023,13-02-2023,Sim
+30-01-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,22-02-2023,12-02-2023,12-02-2023,Sim
+30-01-2023,FB,Microondas,Panasonic,Robson,Cancelado,0,0,17-02-2023,Não
+0,ORDEM PULADA,0,0,0,0,0,0,0,0
+30-01-2023,GON,Refrigerador,Panasonic,Jacleilson / Osiel,Concluído,09-02-2023,16-02-2023,0,0
+30-01-2023,GB,Robo,Wap,Thiago,Concluído,06-02-2023,07-02-2023,24-02-2023,Sim
+31-01-2023,GB,Microondas,Panasonic,Robson,Concluído,09-02-2023,15-02-2023,17-02-2023,Sim
+31-01-2023,FB,Robo,Midea,Matheus,Concluído,0,06-03-2023,14-03-2023,Sim
+31-01-2023,GB,Fritadeira,Midea,Thiago,Concluído,08-02-2023,09-02-2023,07-03-2023,Sim
+31-01-2023,FB,Purificador,Midea,Robson,Sem Conserto,0,0,24-02-2023,Não
+31-01-2023,GB,Microondas,Midea,Robson,Concluído,0,01-02-2023,28-02-2023,Sim
+31-01-2023,FB,Arcondicionado,Lg,Osiel,0,0,0,0,0
+31-01-2023,GB,Robo,Midea,Matheus,Concluído,14-02-2023,15-02-2023,22-02-2023,Sim
+01-02-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,08-02-2023,08-02-2023,Sim
+01-02-2023,FON,Refrigerador,Panasonic,Osiel,Concluído,0,01-02-2023,01-02-2023,Sim
+01-02-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,02-02-2023,02-02-2023,Sim
+01-02-2023,GB,Robô,Wap,Thiago,Concluído,0,16-03-2023,22-03-2023,Sim
+02-02-2023,GB,Robo,Wap,Thiago,Concluído,0,13-02-2023,27-02-2023,Sim
+02-02-2023,FB,Adega,Midea,Claudio/Robson,Laudo Técnico,0,09-02-2023,09-02-2023,Não
+02-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,01-03-2023,03-03-2023,03-03-2023,Sim
+02-02-2023,FB,Robo,Mideea,Mateus,Descarte,0,0,22-06-2023,Não
+02-02-2023,FB,Robo,Midea,Robson,Sem Conserto,0,0,28-08-2023,Não
+0,FON,Lavadora,Midea,0,0,0,0,0,0
+03-02-2023,GB,Refrigerador,Panasonic,Osiel / Brenno,Concluído,17-03-2023,08-03-2023,08-03-2023,Sim
+03-02-2023,GB,Microondas,Midea,Robson,Concluído,23-02-2023,01-03-2023,03-03-2023,Sim
+03-02-2023,GON,Lavadora,Panasonic,Osiel,Concluído,14-02-2023,22-02-2023,22-02-2023,Sim
+03-02-2023,FON,Lavadora,Midea,0,0,0,0,0,0
+03-02-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,09-02-2023,09-02-2023,Sim
+03-02-2023,FON,Lava E Seca,Midea,Osiel,Concluído,0,10-02-2023,10-02-2023,Sim
+03-02-2023,GB,Micro-Ondas,Panasonic,Robson,Concluído,22-02-2023,23-02-2023,24-02-2023,Sim
+03-02-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,08-02-2023,08-02-2023,Sim
+03-02-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+06-02-2023,GB,Robo,Midea,Mateus,Concluído,0,13-02-2023,20-02-2023,Sim
+06-02-2023,FON,Refrigerador,Panasonic,Osiel,Concluído,0,06-02-2023,06-02-2023,Sim
+06-02-2023,FON,Lava E Seca,Midea,Osiel,Concluído,0,21-02-2023,21-02-2023,Sim
+06-02-2023,GET,Robo,Midea,0,0,0,0,0,0
+06-02-2023,GB,Robo,Wap,Thiago,0,0,0,04-05-2023,Não
+06-02-2023,GB,Robo,Midea,Thiago,Concluído,23-02-2023,24-02-2023,09-03-2023,Sim
+06-02-2023,GB,Robo,Wap,Thiago,Concluído,10-02-2023,13-02-2023,24-02-2023,Sim
+06-02-2023,FB,Robo,Wap,Thiago,Concluído,0,16-03-2023,24-08-2023,Sim
+06-02-2023,FB,Cooktop,Midea,0,Sem Analise,0,0,13-02-2023,Não
+07-02-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,13-02-2023,13-02-2023,Sim
+07-02-2023,GB,Micro-Ondas,Midea,Robson,Concluído,23-02-2023,28-02-2023,10-03-2023,Sim
+07-02-2023,FON,Refrigerador,Panasonic,Osiel,Concluído,0,10-02-2023,10-02-2023,Sim
+07-02-2023,GS,Lava E Seca,Midea,Cvg,Concluído,0,25-04-2023,25-04-2023,Sim
+07-02-2023,GB,Aspirador,Wap,Thiago,Concluído,14-02-2023,16-02-2023,24-02-2023,Sim
+07-02-2023,GB,Micro-Ondas,Midea,Robson,Concluído,0,16-02-2023,0,Sim
+07-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,08-02-2023,08-02-2023,Sim
+08-02-2023,FB,Microondas,Panasonic,Robson,Concluído,0,22-03-2023,24-03-2023,Sim
+08-02-2023,GON,Frigobar,Midea,Osiel / Cvg / Brenno,Concluído,27-02-2023,07-03-2023,07-03-2023,Sim
+08-02-2023,FB,Robo,Wap,Mateus,Cancelado,0,0,03-04-2023,Não
+08-02-2023,FB,Robo,Wap,Mateus,Concluído,0,16-03-2023,27-03-2023,Sim
+08-02-2023,GON,Lava  E Seca,Midea,Cvg,Troca,13-04-2023,0,17-04-2023,Sim
+08-02-2023,FON,Refrigerador,Panasonic,Osiel,Concluído,0,10-02-2023,10-02-2023,Sim
+08-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,09-02-2023,09-02-2023,Sim
+08-02-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,12-02-2023,12-02-2023,Sim
+08-02-2023,GB,Robo,Midea,Matheus,Concluído,17-02-2023,23-02-2023,28-02-2023,Sim
+0,FON,Lavadora,Panasonic,0,Cancelado,0,0,14-02-2023,Não
+09-02-2023,FON,Arcondicionado,Midea,Cvg,Concluído,0,20-03-2023,20-03-2023,Sim
+09-02-2023,GON,Robo,Midea,Mateus,Concluído,17-02-2023,20-02-2023,03-03-2023,Sim
+09-02-2023,FB,Robo,Wap,Mateus,Concluído,0,28-02-2023,08-03-2023,Sim
+09-02-2023,FON,Cookptop Indvitro,Panasonic,Claudio,Concluído,0,12-05-2023,12-05-2023,0
+09-02-2023,GON,Cookptop,Panasonic,Osiel / Cvg,Concluído,0,13-02-2023,13-02-2023,Sim
+09-02-2023,GON,Refrigerador,Panasonic,Cvg / Osiel,Não Concluido,10-03-2023,0,0,Não
+09-02-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,10-02-2023,10-02-2023,Sim
+09-02-2023,GB,Robo,Wap,Thiago,Concluído,14-02-2023,16-02-2023,23-02-2023,Sim
+09-02-2023,GON,Refrigarador,Panasonic,Cvg,Concluído,0,24-02-2023,24-02-2023,Sim
+09-02-2023,GON,Refrigerador,Panasonic,0,Cancelado,0,0,02-03-2023,Não
+10-02-2023,GON,Refrigerador,Panasonic,Osiel / Cvg,Concluído,0,24-02-2023,24-02-2023,Sim
+10-02-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,15-02-2023,28-02-2023,Sim
+10-02-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,16-02-2023,28-02-2023,Sim
+10-02-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,16-02-2023,24-02-2023,24-02-2023,Sim
+10-02-2023,GON,Refrigerador,Panasonic,0,Troca,0,0,05-04-2023,Não
+10-02-2023,GON,Lavadora,Panasonic,Osiel,Concluído,27-02-2023,08-03-2023,08-03-2023,Sim
+10-02-2023,GON,Robo,Midea,Matheus,Concluído,01-03-2023,06-03-2023,10-03-2023,Sim
+10-02-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,16-02-2023,Não
+13-02-2023,GB,Robo,Midea,0,Ressarcimento,0,0,23-06-2023,Não
+13-02-2023,CORTESIA,Purificador,Midea,Cvg,Concluído,0,20-02-2023,21-02-2023,Sim
+13-02-2023,GON,Lavadora,Panasonic,Osiel / Cvg,Concluído,0,28-02-2023,28-02-2023,Sim
+13-02-2023,GON,Coifa,Panasonic,0,Cancelado,0,0,03-03-2023,Não
+13-01-2023,GON,0,0,0,0,0,0,0,0
+13-02-2023,GB,Aspirador,Midea,Thiago,Concluído,17-02-2023,20-02-2023,23-02-2023,Sim
+13-02-2023,GB,Robo,Wap,Thiago,Cncluido,16-02-2023,17-02-2023,10-05-2023,Sim
+13-02-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,16-02-2023,16-02-2023,Sim
+13-02-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,15-02-2023,Não
+14-02-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,16-02-2023,16-02-2023,Sim
+14-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,16-02-2023,16-02-2023,Sim
+14-02-2023,GB,Refrigerador,Panasonic,Cvg E Brenno,Troca Panasonic,02-05-2023,0,20-04-2023,Não
+14-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,27-02-2023,06-03-2023,06-03-2023,Sim
+14-02-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,28-02-2023,28-02-2023,Sim
+14-02-2023,FB,Vasoura,Midea,Mateus,Concluído,0,09-03-2023,30-03-2023,Sim
+14-02-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,23-02-2023,23-02-2023,Sim
+14-02-2023,GB,Aspirador,Midea,Thiago,Concluído,01-03-2023,08-03-2023,13-03-2023,Sim
+14-02-2023,GB,Robo,Wap,Mateus,Concluído,03-03-2023,13-03-2023,15-03-2023,Sim
+14-02-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,01-03-2023,03-03-2023,03-03-2023,Sim
+15-02-2023,FON,Lavadora,Panasonic,Cvg,Sem Conserto,0,0,17-02-2023,Não
+15-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,27-02-2023,27-02-2023,Sim
+15-02-2023,FB,Computador,Positivo,0,Sem Conserto,0,0,17-02-2023,Não
+15-02-2023,FON,Lava E Seca,Midea,0,Cancelado,0,0,23-02-2023,Não
+0,ORDEM PULADA,0,0,0,0,0,0,0,0
+15-02-2023,FB,Robo,Wap,Mateus,Concluído,0,07-03-2023,07-03-2023,Sim
+15-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,03-03-2023,03-03-2023,Sim
+15-02-2023,FON,Lava E Seca,Midea,Osiel,Concluído,0,17-02-2023,17-02-2023,Sim
+16-02-2023, GON,Refrigerador,Panasonic,Osiel,Concluído,27-02-2023,16-02-2023,16-02-2023,Sim
+16-02-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,16-02-2023,16-02-2023,Sim
+16-02-2023,GB,Robo,Wap,Thiago,Concluído,22-02-2023,23-02-2023,02-03-2023,Sim
+16-02-2023,FB,Robo,Wap,Mateus,Concluído,0,24-03-2023,28-03-2023,Sim
+16-02-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,28-02-2023,28-02-2023,Sim
+17-02-2023,FB,Notebook,Semp,Robson,Concluído,0,28-04-2023,08-05-2023,Sim
+17-02-2023,GB,Micro Ondas,Midea,Matheus Leite,Concluído,16-03-2023,17-03-2023,31-03-2023,Sim
+17-02-2023,GB,Micro Ondas,Midea,Matheus/Robson,Concluído,13-03-2023,15-03-2023,21-03-2023,Sim
+17-02-2023,GB,Frigobar,Midea,Brenno,Concluído,21-03-2023,22-03-2023,31-03-2023,Sim
+17-02-2023,GB,Freezer,Midea,Brenno,Concluído,0,13-03-2023,17-03-2023,Sim
+17-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,24-02-2023,24-02-2023,Sim
+17-02-2023,GON,Lava E Seca,Midea,0,Redirecionada,0,0,03-03-2023,Não
+17-02-2023,GB,Ar Portatil,Midea,Brenno/Cvg,Concluído,0,20-04-2023,11-05-2023,Sim
+20-02-2023,FON,Refrigerador,Panasonic,Osiel/Cvg,Concluído,0,18-03-2023,18-03-2023,Sim
+20-02-2023,GB,Robo,Midea,Mateus,Concluído,0,08-03-2023,16-03-2023,Sim
+20-02-2023,GON,Lavadora,Panasonic,Osiel / Cvg,Concluído,10-03-2023,11-03-2023,11-03-2023,Sim
+20-02-2023,FB,Robo,Wap,Thiago,Concluído,0,24-03-2023,31-03-2023,Sim
+21-02-2023,GON,Refrigerador,Panasonic,Osiel / Cvg,Concluído,08-03-2023,01-04-2023,01-04-2023,Sim
+22-02-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,24-02-2023,Não
+22-02-2023,FON,Lavadora,Panasonic,Oziel,Cancelado,0,0,10-03-2023,Não
+22-02-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,28-02-2023,28-02-2023,Sim
+22-02-2023,GB,Frigobar,Midea,Brenno,Concluído,0,10-03-2023,20-03-2023,Sim
+22-02-2023,GB,Micro Ondas,Midea,Matheus,Concluído,0,08-03-2023,10-03-2023,Sim
+22-02-2023,GB,Robo,Wap,Thiago,Concluído,03-03-2023,07-03-2023,08-03-2023,Sim
+22-02-2023,GON,Lava Louças,Midea,Cvg,Troca,22-02-2023,0,02-03-2023,Não
+23-02-2023,FB,Arcondicionado,Brastemp,0,Cancelado,0,0,10-04-2023,Não
+0,FB,Robo,Wap,Thiago,Concluído,0,16-03-2023,29-03-2023,Sim
+23-02-2023,GB,Lavadora,Panasonic,Osiel,Concluído,0,23-02-2023,23-02-2023,Sim
+23-02-2023,GB,Robo,Wap,Thiago,Concluído,03-03-2023,08-03-2023,08-03-2023,Sim
+23-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,24-02-2023,24-02-2023,Sim
+23-02-2023,GON,Arcondicionado Split,Daikin,0,Cancelada,0,0,03-03-2023,Não
+23-02-2023,FON,Arcondicionado,Eletrolux,Osiel,Concluído,0,27-02-2023,27-02-2023,Sim
+23-02-2023,GON,Lava E Seca,Midea,Osiel / Cvg,Troca,0,0,30-03-2023,Não
+23-02-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,08-03-2023,11-03-2023,11-03-2023,Sim
+24-02-2023,GB,Micro Ondas,Toshiba,Matheus Leite,Concluído,30-03-2023,31-03-2023,12-03-2023,Sim
+24-02-2023,GB,Micro Ondas,Midea,Matheus Leite,Concluído,16-03-2023,17-03-2023,31-03-2023,Sim
+24-02-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,28-02-2023,28-02-2023,Sim
+24-02-2023,FB,Robo,Wap,Robson,Concluído,0,15-03-2023,17-03-2023,Sim
+27-02-2023,GB,Microondas,Toshiba,Cvg/Robson/Mat,Concluído,03-03-2023,07-03-2023,07-03-2023,Sim
+27-02-2023,FB,Refrigerador,Panasonic,Osiel,Concluído,0,03-03-2023,03-03-2023,Sim
+27-02-2023,FB,Robo,Wap,Mateus,Concluído,0,15-03-2023,16-03-2023,Sim
+27-02-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,28-02-2023,28-02-2023,Sim
+27-02-2023,GB,Robo,Wap,Thiago,Concluído,03-03-2023,07-03-2023,08-03-2023,Sim
+27-02-2023,FB,Robo,Wap,Mateus,Concluído,0,16-03-2023,23-03-2023,Sim
+27-02-2023,FB,Robo,Wap,Mateus,Sem Conserto,0,0,21-03-2023,Não
+27-02-2023,GB,Robo,Wap,Thiago,Concluído,03-04-2023,06-04-2023,09-05-2023,Sim
+27-02-2023,GB,Robo,Wap,Thiago,Concluído,03-03-2023,07-03-2023,15-03-2023,Sim
+27-02-2023,GON,Lavadora,Panasonic,Cvg,Cancelada,0,0,12-04-2023,Não
+27-02-2023,GON,Refrigerador,Panasonic,Osiel,Troca Pela Loja,03-04-2023,0,04-04-2023,Não
+27-02-2023,FON,Lava E Seca,Midea,0,Cancelado,0,0,02-03-2023,Não
+27-02-2023,GB,Aspirador,Wap,Thiago,Concluído,0,01-03-2023,10-03-2023,Sim
+28-02-2023,GON,Ar Condicionado,Daikin,Osiel / Cvg,Concluído,0,18-04-2023,18-04-2023,Sim
+28-02-2023,GON,Lava E Seca,Toshiba,Oziel,Concluído,0,28-02-2023,28-02-2023,Sim
+28-02-2023,GB,Refrigerador,Panasonic,Brenno,Sem Defeito,0,0,10-03-2023,Não
+28-02-2023,GB,Lavadora,Panasonic,Osiel,Concluído,0,15-03-2023,21-03-2023,Sim
+28-02-2023,FON,Refrigerador,Panasonic,Osiel,Sem Conserto,0,0,08-03-2023,Não
+28-02-2023,GB,Aspirador,Midea,Thiago/Bianca,Concluído,21-03-2023,23-03-2023,11-04-2023,Sim
+28-02-2023,FON,Refrigerador,Panasonic,Osiel,Cancelado,0,0,06-03-2023,Não
+28-02-2023,GON,Ar Portatil,Midea,Osiel,Concluído,13-03-2023,14-03-2023,15-03-2023,Sim
+28-02-2023,FON,Arcondicionado,Midea,Osiel,Cancelado,0,0,17-03-2023,Não
+28-02-2023,FON,Coifa,Panasonic,0,Cancelado,0,0,03-03-2023,Não
+28-02-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,01-03-2023,01-03-2023,Sim
+28-02-2023,GON,Ar Condicionado,Daikin,Robson / Brenno,Troca,0,28-04-2023,28-04-2023,Sim
+28-02-2023,GON,Lava E Seca,Midea,Osiel,Concluído,0,01-03-2023,01-03-2023,Sim
+01-03-2023,FB,Robo,Wap,Mateus,Concluído,0,14-03-2023,17-03-2023,Sim
+01-03-2023,GB,Robo,Wap,Thiago,Concluído,07-03-2023,09-03-2023,14-03-2023,Sim
+01-03-2023,GON,Cooktop,Panasonic,0,Cancelado,0,0,17-03-2023,Não
+01-03-2023,GON,Arcondicionado,Midea,0,Cancelado,0,0,01-03-2023,Não
+01-03-2023,FB,Robo,Midea,0,Cancelado,0,0,15-03-2023,Não
+01-03-2023,GON,Lavadora,Panasonic,0,0,0,0,0,0
+01-03-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,03-03-2023,03-03-2023,Sim
+01-03-2023,GON,Lavadora,Panasonic,Osiel / Cvg,Concluído,0,18-03-2023,18-03-2023,Sim
+01-03-2023,GB,Aspirador,Midea,Thiago,Concluído,21-03-2023,21-03-2023,22-03-2023,Sim
+01-03-2023,GB,Robo,Wap,Mateus,Concluído,0,04-04-2023,04-04-2023,Sim
+01-03-2023,GB,Aspirador,Wap,Thiago,Concluído,16-03-2023,17-03-2023,04-04-2023,Sim
+02-03-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,03-03-2023,03-03-2023,Sim
+02-03-2023,GB,Robo,Wap,Thiago,Concluído,07-03-2023,09-03-2023,10-03-2023,Sim
+02-03-2023,GON,Frigobar,Midea,Osiel/Brenno,Concluído,27-03-2023,10-04-2023,10-04-2023,Sim
+02-03-2023,GB,Micro-Ondas,Midea,Matheus,Concluído,0,09-03-2023,14-03-2023,Sim
+02-03-2023,GB,Micro-Ondas,Midea,Matheus,Concluído,0,09-03-2023,14-03-2023,Sim
+02-03-2023,GB,Micro-Ondas,Midea,Matheus,Concluído,0,09-03-2023,14-03-2023,Sim
+02-03-2023,GB,Fritadeira,Midea,0,0,0,0,0,0
+02-03-2023,GON,Lava E Seca,Midea,Cvg,Concluído,08-03-2023,14-03-2023,14-03-2023,Sim
+02-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,08-03-2023,08-03-2023,Sim
+02-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,08-03-2023,08-03-2023,Sim
+02-03-2023,FON,Lavadora De Louça,Midea,0,0,0,0,0,0
+02-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,17-03-2023,04-04-2023,04-04-2023,Sim
+02-03-2023,GB,Robo,Midea,Mateus,Concluído,0,06-03-2023,16-03-2023,Sim
+02-03-2023,GB,Robo,Wap,Thiago,Concluído,0,16-03-2023,23-03-2023,Sim
+03-03-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,15-03-2023,15-03-2023,Sim
+03-03-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,15-03-2023,Não
+03-03-2023,GON,Lava E Seca,Toshiba,Osiel,Concluído,0,09-03-2023,09-03-2023,Sim
+03-03-2023,GB,Micro Ondas,Midea,Matheus/Robson,Concluído,27-03-2023,28-03-2023,30-03-2023,Sim
+03-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,08-03-2023,08-03-2023,Sim
+03-03-2023,GB,Mop  Elétrico,Wap,Tiago,Concluído,16-03-2023,17-03-2023,23-03-2023,Sim
+03-03-2023,GB,Robo,Wap,Mateus,Concluído,0,0,0,Sim
+03-03-2023,GB,Robo,Wap,Thiago,Concluído,18-03-2023,15-03-2023,28-03-2023,Sim
+03-03-2023,GS,Robo,Wap,Thiago,Concluído,0,22-03-2023,31-03-2023,Sim
+03-03-2023,GB,Robo,Wap,Mateus,Concluído,16-03-2023,21-03-2023,24-03-2023,Sim
+03-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,10-03-2023,18-03-2023,18-03-2023,Sim
+06-03-2023,GON,Lavadora,Panasonic,Osiel,Concluído,0,07-03-2023,07-03-2023,Sim
+06-03-2023,GON,Fritadeira,Midea,Thiago,Concluído,17-03-2023,20-03-2023,23-03-2023,Sim
+06-03-2023,FON,Lava E Seca,Midea,Osiel,Concluído,0,06-03-2023,06-03-2023,Sim
+06-03-2023,GB,Robo,Midea,Mateus,Concluído,16-03-2023,20-03-2023,23-03-2023,Sim
+06-03-2023,GON,Lavadora,Panasonic,0,0,0,0,0,0
+06-02-2023,GON,Robo,Wap,Thiago,Concluído,0,14-03-2023,20-03-2023,Sim
+06-03-2023,FB,Robo,Wap,Mateus,Concluído,0,21-03-2023,24-03-2023,Sim
+06-03-2023,GB,Robo,Wap,Mateus,Concluído,16-03-2023,21-03-2023,24-03-2023,Sim
+06-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,15-03-2023,15-03-2023,Sim
+06-03-2023,GB,Robo,Wap,Thiago,Concluído,10-03-2023,14-03-2023,20-03-2023,Sim
+06-03-2023,FB,Robo,Wap,Thiago,Cancelado,0,0,12-04-2023,Não
+06-03-2023,FON,Frigobar,Midea,Brenno,Concluído,0,20-03-2023,20-03-2023,Sim
+06-03-2023,GON,Refrigerador,Panasonic,Cvg / Osiel,Concluído,15-03-2023,17-03-2023,17-03-2023,Sim
+07-03-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,07-03-2023,07-03-2023,Sim
+07-03-2023,GON,Robo,Wap,Thiago,Concluído,20-03-2023,21-03-2023,04-04-2023,Sim
+07-03-2023,GB,Robo,Midea,Mateus,Concluído,16-03-2023,20-03-2023,28-03-2023,Sim
+07-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,04-05-2023,04-05-2023,Sim
+07-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,22-03-2023,15-03-2023,15-03-2023,Sim
+08-03-2023,GB,Fritadeira,Midea,Thiago,Concluído,17-03-2023,21-03-2023,23-03-2023,Sim
+08-03-2023,GON,Lava-Louças,Panasonic,Cvg,Concluído,0,11-04-2023,11-04-2023,Sim
+08-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,18-03-2023,18-03-2023,Sim
+08-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,11-03-2023,11-03-2023,Sim
+09-03-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,10-03-2023,Não
+09-03-2023,FB,Ar Condicio  Portatil,Midea,Osiel,Concluído,0,08-05-2023,30-05-2023,Sim
+09-03-2023,GON,Refrigerador,Panasonic,Osiel-Cvg-Brenno,Concluído,22-03-2023,11-04-2023,11-04-2023,Sim
+09-03-2023,FB,Robo,Wap,Thiago,Concluído,0,24-03-2023,04-04-2023,Sim
+09-03-2023,FON,Arcondicionado,Midea,0,Cancelado,0,0,13-03-2023,Não
+09-03-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,15-03-2023,15-03-2023,Sim
+09-03-2023,FON,Lavadora,Panasonic,Osiel,Concluído,0,14-03-2023,14-03-2023,Sim
+09-03-2023,GON,Lavadora,Panasonic,Cvg,Aguandando Laudo,0,0,0,0
+09-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,18-03-2023,18-03-2023,Sim
+09-03-2023,GB,Robo,Wap,Mateus,Concluído,30-03-2023,31-03-2023,05-04-2023,Sim
+09-03-2023,FON,Lavadora,Panasonic,Brenno E Cvg,Concluído,0,18-03-2023,18-03-2023,Sim
+10-03-2023,GB,Microondas,Midea,Matheus/Robson,Concluído,21-03-2023,21-03-2023,31-03-2023,Sim
+10-03-2023,GB,Refrigerador,Panasonic,Brenno,Concluído,0,17-03-2023,21-03-2023,Sim
+10-03-2023,GB,Refrigerador,Panasonic,Brenno,Concluído,22-03-2023,23-03-2023,31-03-2023,Sim
+10-03-2023,GB,Robo,Wap,Mateus,Concluído,0,13-03-2023,20-03-2023,Sim
+10-03-2023,FB,Robo,Wap,Mateus,Concluído,0,21-03-2023,23-03-2023,Sim
+10-03-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+10-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,11-03-2023,11-03-2023,Sim
+10-03-2023,FB,Robo,Wap,Mateus,Concluído,0,21-03-2023,29-03-2023,Sim
+10-03-2023,FON,Arcondicionado,0,0,0,0,0,0,0
+10-03-2023,GB,Robo,Wap,Mateus,Concluído,0,27-03-2023,03-04-2023,Sim
+10-03-2023,GB,Robo,Wap,Mateus,Concluído,0,21-03-2023,03-04-2023,Sim
+10-03-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,15-03-2023,Não
+11-03-2023,FON,Refrigerador,Panasonic,Cvg,Cancelado,0,0,20-03-2023,Não
+13-03-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,15-03-2023,15-03-2023,Sim
+13-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,21-03-2023,12-04-2023,12-04-2023,Sim
+13-03-2023,GON,Ar Condicionado,Daikin,Cvg / Robson / Brenno,Troca,0,0,07-06-2023,Não
+13-03-2023,GB,Robo,Wap,Thiago,Concluído,20-03-2023,21-03-2023,23-03-2023,Sim
+13-03-2023,FB,Robo,Midea,Mateus,Concluído,0,05-04-2023,06-04-2023,Sim
+13-03-2023,FB,Robo,Wap,Bianca,Concluído,0,05-04-2023,06-04-2023,Sim
+14-03-2023,GB,Microondas,Panasonic,Matheus,Concluído,21-03-2023,21-03-2023,23-03-2023,Sim
+14-03-2023,FON,Lavadora,Panasonic,Osiel E Brenno,Concluído,0,17-03-2023,17-03-2023,Sim
+0,GB,Aspirador,Midea,Thiago,Concluído,22-03-2023,23-03-2023,28-03-2023,Sim
+14-03-2023,GB,Robo,Midea,Mateus/Bianca,Concluído,27-03-2023,28-03-2023,30-03-2023,Sim
+14-03-2023,FB,Robo,Wap,Matheus,Concluído,0,0,0,0
+14-03-2023,GB,Robo,Midea,Mateus,Concluído,0,20-03-2023,23-03-2023,Sim
+14-03-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,05-04-2023,24-04-2023,Sim
+15-03-2023,FB,Microondas,Midea,Matheus,Concluído,0,28-03-2023,30-03-2023,Sim
+15-03-2023,GON,Lava Loucas,Midea,Osiel,Sem Defeito,0,0,21-03-2023,Não
+15-03-2023,GB,Robo,Wap,Thiago E Bianca,Concluído,20-03-2023,23-03-2023,02-05-2023,Sim
+15-03-2023,FB,Robo,Wap,Bianca,Concluído,0,30-03-2023,11-04-2023,Sim
+15-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,18-04-2023,15-03-2023,15-03-2023,Sim
+15-03-2023,GB,Lavadora,Panasonic,Brenno,Concluído,0,15-03-2023,22-03-2023,Sim
+15-03-2023,GB,Micro-Ondas,Midea,Matheus,Concluído,0,16-03-2023,20-03-2023,Sim
+15-03-2023,FB,Fritadeira,Midea,Thiago,Concluído,0,30-03-2023,10-04-2023,Sim
+15-03-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,16-03-2023,16-03-2023,Sim
+16-03-2023,GON,Lavadora,Panasonic,"Cvg, Robson E Brenno",Concluído,24-03-2023,04-04-2023,04-04-2023,Sim
+16-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,18-04-2023,24-04-2023,24-04-2023,Sim
+16-03-2023,FON ,Lavadora,Panasonic,Osiel,Concluído,0,16-03-2023,16-03-2023,Sim
+0,GB,Aspirador,Midea,Matheus Rosa/Bianca,Concluído,27-03-2023,28-03-2023,05-04-2023,Sim
+16-03-2023,GB,Robo,Wap,Matheus Rosa,Concluído,31-03-2023,05-04-2023,11-04-2023,Sim
+16-03-2023,GB,Aspirador,Wap,Thiago,Concluído,30-03-2023,03-04-2023,11-04-2023,Sim
+16-03-2023,GB,Fritadeira,Midea,Thiago,Concluído,30-03-2023,03-04-2023,06-04-2023,Sim
+16-03-2023,FB,Ar Condicionado,Midea,0,0,0,0,0,0
+16-03-2023,GB,Robo,Midea,Mateus,Concluído,23-03-2023,29-03-2023,30-03-2023,Sim
+17-03-2023,GON,Refrigerador,Panasonic,Osiel,Concluído,0,21-03-2023,21-03-2023,Sim
+17-03-2023,FON,Lava E Seca,Midea,Osiel,Concluído,0,03-04-2023,03-04-2023,Sim
+17-03-2023,GB,Aspirador,Wap,Thiago,Concluído,30-03-2023,04-04-2023,19-04-2023,Sim
+17-03-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,04-04-2023,04-04-2023,Sim
+17-03-2023,FB,Fritadeira,Midea,Thiago,Concluído,0,05-04-2023,14-04-2023,Sim
+20-03-2023,FB,Robo,Wap,Bianca,Concluído,0,31-03-2023,06-04-2023,Sim
+20-03-2023,FB,Robo,Midea,Thiago,Concluído,0,18-04-2023,20-04-2023,Sim
+20-03-2023,GB,Robo,Wap,Bianca/Matheus R,Concluído,28-03-2023,29-03-2023,30-03-2023,Sim
+20-03-2023,GB,Robo,Wap,Bianca/Matheus R,Concluído,30-05-2023,01-06-2023,21-07-2023,Sim
+20-03-2023,GB,Robo,Wap,Mateus,Concluído,03-03-2023,05-04-2023,22-05-2023,Sim
+20-03-2023,FON,Cooktop,Midea,Robson,Concluído,0,10-04-2023,10-04-2023,Sim
+20-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,24-03-2023,24-03-2023,Sim
+20-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,28-03-2023,28-03-2023,Sim
+21-03-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,13-04-2023,05-05-2023,Sim
+21-03-2023,FB,Fritadeira,Midea,Thiago,Concluído,0,22-03-2023,31-03-2023,Sim
+21-03-2023,GB,Microondas,Midea,Matheus Leite,Concluído,0,21-03-2023,31-03-2023,Sim
+21-03-2023,GB,Robo,Midea,Matheus Rosa,Concluído,28-03-2023,20-04-2023,26-04-2023,Sim
+21-03-2023,GB,Robo,Wap,Matheus Rosa,Sem Conserto,0,0,14-04-2023,Não
+21-03-2023,FON,Refirgerador,Panasonic,Osiel,Sem Conserto,0,0,29-03-2023,Não
+21-03-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,24-03-2023,24-03-2023,Sim
+21-03-2023,GON,Lavadora,Midea,Osiel,Concluído,0,24-03-2023,24-03-2023,Sim
+21-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,24-03-2023,24-03-2023,Sim
+21-03-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,23-03-2023,23-03-2023,Sim
+21-03-2023,GON,Lava E Seca,Midea,Osiel,Concluído,0,21-03-2023,21-03-2023,Sim
+22-03-2023,GB,Aspirador De Pó Vert,Midea,Matheus Rosa,Concluído,28-03-2023,29-03-2023,31-03-2023,Sim
+22-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,24-03-2023,24-03-2023,Sim
+22-03-2023,FB,Robo,Wap,Bianca,Concluído,0,27-03-2023,03-04-2023,Sim
+22-03-2023,GB,Microondas,Midea,Mateus,Concluído,0,22-03-2023,27-03-2023,Sim
+22-03-2023,FB,Frigobar,Midea,Brenno,Sem Conserto,0,0,23-03-2023,Não
+22-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,24-03-2023,24-03-2023,Sim
+22-03-2023,GB,Robo,Wap,Mateus,Concluído,28-03-2023,29-03-2023,04-04-2023,Sim
+22-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,23-03-2023,23-03-2023,Sim
+22-03-2023,GON,Lava E Seca,Midea,Osiel,Sem Defeito,0,0,24-03-2023,Não
+23-03-2023,GON,Lavadora,Midea,Osiel,Concluído,0,24-03-2023,24-03-2023,Sim
+23-03-2023,FON,Ar Condicionado,Carrier,0,0,0,0,0,0
+23-03-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,30-03-2023,30-03-2023,Sim
+23-03-2023,FON,Microondas,Panasonic,Matheus Leite,Sem Conserto,0,0,31-03-2023,Não
+23-03-2023,GB,Robo,Wap,Matheus Rosa,Concluído,30-03-2023,31-03-2023,06-04-2023,Sim
+23-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,04-04-2023,04-04-2023,Sim
+23-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,10-04-2023,12-04-2023,12-04-2023,Sim
+23-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,01-04-2023,01-04-2023,Sim
+24-03-2023,GON,Lava Loucas,Midea,Cvg,Concluído,0,01-04-2023,01-04-2023,Sim
+24-03-2023,FON,Lavadora,Panasonic,0,0,0,0,0,0
+24-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,10-04-2023,12-04-2023,12-04-2023,Sim
+24-03-2023,FON,Arcondicionado,Philco,Osiel,Concluído,0,24-03-2023,24-03-2023,Sim
+24-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,05-04-2023,05-04-2023,Sim
+24-03-2023,GB,Robo,Wap,Matheus Rosa,Concluído,10-04-2023,10-04-2023,28-04-2023,Sim
+24-03-2023,FON,Lava E Seca,Midea,0,Cancelado,0,0,31-03-2023,Não
+24-03-2023,FB,Robo,Wap,Thiago,Concluído,0,06-04-2023,06-04-2023,Sim
+24-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,03-04-2023,12-04-2023,12-04-2023,Sim
+23-03-2023,FON,Lavadora,Panasonic,Cvg,Sem Conserto,0,0,28-03-2023,Não
+24-03-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,28-03-2023,28-03-2023,Sim
+24-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,10-04-2023,11-04-2023,18-04-2023,Sim
+24-03-2023,FB,Climatizador,Midea,Thiago,Concluído,0,13-04-2023,14-04-2023,Sim
+24-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,28-03-2023,28-03-2023,Sim
+24-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+27-03-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,03-05-2023,03-05-2023,Sim
+27-03-2023,FB ,Robo,Wap,0,0,0,0,0,0
+27-03-2023,GB,Fritadeira,Midea,Thiago,Concluído,05-04-2023,20-04-2023,24-04-2023,Sim
+27-03-2023,GB,Microondas,Midea,Matheus Leite,Concluído,17-04-2023,17-04-2023,19-04-2023,Sim
+27-03-2023,GB,Robo,Midea,Matheus Rosa,Concluído,05-04-2023,06-04-2023,24-04-2023,Sim
+27-03-2023,GB,Aspirador,Midea,Thiago,Concluído,31-03-2023,04-04-2023,04-04-2023,Sim
+28-03-2023,FON,Frigobar,Midea,Brenno,Sem Conserto,0,0,27-04-2023,Não
+28-03-2023,GS,Robo,Wap,Thiago,Concluído,0,05-06-2023,16-06-2023,Sim
+28-03-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+28-03-2023,GB,Robo,Wap,Thiago,Concluído,30-03-2023,03-04-2023,04-04-2023,Sim
+28-03-2023,GB,Robo,Wap,Thiago,Concluído,04-04-2023,10-04-2023,11-04-2023,Sim
+28-03-2023,GB,Aspirador,Midea,Bianca/Matheus Rosa,Concluído,19-04-2023,25-04-2023,12-05-2023,Sim
+28-03-2023,GB,Robo,Midea,Mateus,Concluído,05-04-2023,06-04-2023,10-04-2023,Sim
+28-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+28-03-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+28-03-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,13-04-2023,26-04-2023,Sim
+28-03-2023,GON,Lava E Seca,Midea,0,Redirecionada,0,0,0,Não
+29-03-2023,GON,Lava E Seca,Midea,Cvg,Troca,0,0,23-06-2023,Não
+29-03-2023,GS,Purificador,Midea,Robson,Sem Defeito,0,27-04-2023,03-05-2023,0
+29-03-2023,FB,Robo,Wap,Bianca/Matheus Rosa,Concluído,0,13-04-2023,11-05-2023,Sim
+29-03-2023,FON,Condicionador De Ar,Lg,Brenno,Concluído,0,30-03-2023,30-03-2023,Sim
+29-03-2023,FON,Lavadora,Panasonic,Cvg,Concluído,12-04-2023,14-04-2023,14-04-2023,Sim
+29-03-2023,GON,Adega,Midea,Cvg,Concluído,0,05-04-2023,05-04-2023,Sim
+0,FB,Robo,Wap,Bianca,Concluído,0,12-04-2023,02-05-2023,Sim
+29-03-2023,GB,Ar Condicionado,Gree,Brenno / Robson,Concluído,0,0,23-06-2023,Sim
+29-03-2023,GB,Micro-Ondas,Panasonic,Matheus Leite,Concluído,0,20-04-2023,02-05-2023,Sim
+29-03-2023,FON,Lava E Secsa,Midea,0,0,0,0,0,0
+30-03-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+30-03-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,01-04-2023,01-04-2023,Sim
+30-03-2023,GON,Lavadora,Midea,Cvg,Concluído,05-04-2023,13-04-2023,13-04-2023,Sim
+30-03-2023,GON,Evaporadora,Midea,0,Redirecionada,0,0,31-03-2023,Não
+30-03-2023,FB,Robo,Midea,Bianca/Thiago,Concluído,0,18-04-2023,20-04-2023,Sim
+30-03-2023,GB,Microondas,Panasonic,Matheus Leite,Concluído,10-04-2023,11-04-2023,12-04-2023,Sim
+30-03-2023,GB,Robo,Wap,Thiago,Concluído,0,03-04-2023,02-05-2023,Sim
+0,GON,Lava E Seca,Midea,Cvg,Concluído,0,01-04-2023,01-04-2023,Sim
+30-03-2023,FON,Lavadora,Panasonic,Brenno/Cvg/Robson,Concluído,0,03-04-2023,03-04-2023,Sim
+30-03-2023,FON ,Robo,Wap,Bianca,Sem Conserto,0,06-04-2023,10-04-2023,Não
+30-03-2023,GS,Maquina De Lavar,Panasonic,Cvg,Concluído,0,31-03-2023,31-03-2023,Sim
+31-03-2023,GON,0,0,0,0,0,0,0,0
+31-03-2023,GON,Aspirador,Midea,Bianca/Matheus Ros,Concluído,11-04-2023,14-04-2023,19-04-2023,Sim
+31-03-2023,GB,Robo,Wap,0,0,0,0,0,0
+31-03-2023,FB,Robo,Midea,Thiago,Concluído,0,04-04-2023,05-04-2023,Sim
+31-03-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,08-05-2023,08-05-2023,Sim
+31-03-2023,GB,Microondas,Midea,Matheus Leite,Concluído,0,05-04-2023,12-04-2023,Sim
+31-03-2023,FB,Robo,Wap,Bianca,Concluído,0,12-04-2023,19-04-2023,Sim
+31-03-2023,FB,Robo,Wap,Bianca/Thiago,Concluído,0,28-04-2023,12-05-2023,Sim
+31-03-2023,GB,Robo,Wap,Bianca,Concluído,06-04-2023,10-04-2023,18-04-2023,Sim
+31-03-2023,GB,Robo,Wap,Bianca,Concluído,0,05-04-2023,12-04-2023,Sim
+31-03-2023,GB,Microondas,Panasonic,Matheus Leite,Concluído,12-04-2023,14-04-2023,17-04-2023,Sim
+03-04-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,12-04-2023,12-04-2023,Sim
+03-04-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,05-04-2023,05-04-2023,Sim
+03-04-2023,GON,Lava E Seca,Midea,Cvg,Concluído,29-03-2023,10-04-2023,10-04-2023,Sim
+03-04-2023,FON,Refrigerador,Midea,0,Cancelado,0,0,04-04-2023,Não
+03-04-2023,FB,Robo,Wap,Bianca,Concluído,0,06-04-2023,12-04-2023,Sim
+03-04-2023,GON,Lava E Seca,Midea,Robson,Troca,31-03-2023,0,04-04-2023,Não
+03-04-2023,GON,Lava E Seca,Midea,Cvg,Troca,31-03-2023,0,06-04-2023,Não
+0,GB,Aspirador,Miedea,Matheus Rosa,Concluído,11-04-2023,14-04-2023,19-04-2023,Sim
+03-04-2023,FB,Microondas,Midea,Matheus Leite,Concluído,0,19-04-2023,20-04-2023,Sim
+03-04-2023,GON,Lava E Seca,Midea,Cvg / Matheus L / Brenno,Concluído,17-04-2023,19-04-2023,19-04-2023,Sim
+03-04-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,26-04-2023,26-04-2023,Não
+03-04-2023,FB,Robo,Wap,Bianca,Cancelado,0,0,10-04-2023,Não
+0,GS,Robo,Wap,Bianca E Thiago,Concluído,0,17-04-2023,03-05-2023,Sim
+03-04-2023,FB,Robo,Wap,Bianca/Matheus R/Thiago,Concluído,0,17-04-2023,14-06-2023,Sim
+03-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+03-04-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,05-04-2023,Não
+03-04-2023,FON ,Lavadora,Panasonic,0,Cancelado,0,0,10-04-2023,Não
+03-04-2023,GON ,Lava E Seca,Midea,Cvg,Concluído,17-04-2023,25-04-2023,25-04-2023,Sim
+03-04-2023,GON ,Refrigerador,Panasonic,0,0,0,0,0,0
+04-04-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+04-04-2023,GB,Robo,Wap,Matheus Ros/Bianca,Concluído,10-04-2023,11-04-2023,18-04-2023,Sim
+04-04-2023,FON ,Robo,Wap,Matheus Rosa,Concluído,0,14-04-2023,24-04-2023,Sim
+04-04-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,04-04-2023,Não
+04-04-2023,GB,Robo,Wap,0,Sem Conserto,0,0,12-04-2023,Não
+04-04-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,24-04-2023,28-04-2023,28-04-2023,Sim
+04-04-2023,GB,Robo,Wap,0,0,0,0,0,0
+04-04-2023,FB,Robo,Wap,Matheus Rosa/Thiago,Concluído,0,14-04-2023,20-04-2023,Sim
+04-04-2023,GB,Robo,Midea,0,0,0,0,0,0
+04-04-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,13-04-2023,17-04-2023,01-06-2023,Sim
+04-04-2023,GON,Frigobar,Midea,Matheus / Brenno,Concluído,0,10-03-2023,20-04-2023,Sim
+04-04-2023,GB,Robo,Wap,Matheus Rosa,Concluído,19-04-2023,24-04-2023,31-08-2023,Sim
+04-04-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,04-04-2023,04-04-2023,Sim
+04-04-2023,GON,Lava E Seca,Midea,Cvg / Brenno,Concluído,0,11-04-2023,11-04-2023,Sim
+05-04-2023,GON,Lava E Seca,Midea,Cvg/Robson/Brenno,Concluído,05-05-2023,09-05-2023,09-05-2023,Sim
+05-04-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,03-05-2023,04-05-2023,04-05-2023,Sim
+05-04-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+05-04-2023,FB,Robo,Wap,Mateus Rosa,Concluído,0,19-04-2023,20-04-2023,Sim
+05-04-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,11-04-2023,11-04-2023,Sim
+05-04-2023,FB ,Climatizador,Midea,Thiago,Concluído,0,12-04-2023,18-04-2023,Sim
+05-04-2023,GB,Robo,Wap,Matheus Rosa,Concluído,11-04-2023,20-04-2023,26-04-2023,Sim
+05-04-2023,FON,Ar Condicionado,Midea,Cvg,Concluído,0,18-04-2023,18-04-2023,Sim
+05-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,11-04-2023,11-04-2023,Sim
+05-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,05-04-2023,05-03-2023,Sim
+0,GON,Lavadora,Panasonic,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+06-04-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,27-04-2023,01-05-2023,01-05-2023,Sim
+05-04-2023,FB,Ntb,Sti,Robson,Concluído,0,12-04-2023,20-04-2023,Sim
+06-04-2023,GON,Lavadora,Panasonic,Cvg,Concluído,27-06-2023,13-04-2023,13-04-2023,Sim
+06-04-2023,GB,Robo,Midea,Bianca,Concluído,0,11-04-2023,19-04-2023,Sim
+06-04-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,11-04-2023,11-04-2023,Sim
+06-04-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,06-04-2023,Não
+06-04-2023,GS,Robo,Wap,Bianca,Concluído,0,06-04-2023,20-04-2023,Sim
+06-04-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,11-04-2023,11-04-2023,Sim
+06-04-2023,FON,Arcondicionado,Midea,0,0,0,0,0,0
+06-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,11-04-2023,11-04-2023,Sim
+06-04-2023,GS,Robo,Wap,Bianca,Concluído,0,18-04-2023,19-04-2023,Sim
+09-04-2023,GS,Lavadora,Panasonic,Cvg,Concluído,0,10-04-2023,10-04-2023,Sim
+10-04-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,19-04-2023,24-04-2023,24-04-2023,Sim
+10-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,17-04-2023,17-04-2023,Sim
+10-04-2023,FON ,Lava E Seca,Midea,Brenno E Matheus,Concluído,0,19-04-2023,19-04-2023,Sim
+11-04-2023,GB,Fritadeira,Midea,Thiago,Concluído,0,13-04-2023,14-04-2023,Sim
+11-04-2023,FB,Microondas,Panasonic,Matheus Leite,Concluído,0,19-04-2023,19-04-2023,Sim
+11-04-2022,GB,Robo,Midea,Matheus Rosa,Concluído,17-04-2023,18-04-2023,20-04-2023,Sim
+11-04-2023,GB,Robo,Wap,Metheus Rosa,Concluído,14-04-2023,14-04-2023,24-04-2023,Sim
+11-04-2023,FB,Robo,Wap,0,0,0,0,0,0
+11-04-2023,FON,Cooktop,Panasonic,Robson / Cvg,Sem Conserto,0,0,10-10-2023,Não
+11-04-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,12-04-2023,12-04-2023,Sim
+11-04-2023,GS,Lava E Seca,Midea,Matheus/Brenno,Concluído,0,18-04-2023,18-04-2023,Sim
+11-04-2023,GB,Robo,Wap,Matheus Rosa,Concluído,14-04-2023,17-04-2023,25-04-2023,Sim
+11-04-2023,FON ,Lavadora,Panasonic,Cvg,Concluído,0,12-04-2023,12-04-2023,Sim
+12-04-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,12-04-2023,12-04-2023,Sim
+12-04-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,19-04-2023,19-04-2023,Sim
+12-04-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,12-04-2023,12-04-2023,Sim
+12-04-2023,FB,Robo,Liectroux,Thiago/Robson,Sem Conserto,0,0,29-08-2023,Não
+12-04-2023,GB,Aspirador De Pó,Wap,Thiago,Concluído,18-04-2023,19-04-2023,20-04-2023,Sim
+12-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,03-05-2023,04-05-2023,04-05-2023,Sim
+12-04-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,28-04-2023,28-04-2023,Sim
+12-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,01-05-2023,01-05-2023,Sim
+13-04-2023,GB,Robo,Wap,0,0,0,0,0,0
+13-04-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,14-04-2023,14-04-2023,Sim
+13-04-2023,GB,Robo,Wap,Thiago,Concluído,18-04-2023,19-04-2023,27-04-2023,Sim
+13-04-2023,GB ,Micro-Ondas,Midea,Matheus Leite,Concluído,0,17-04-2023,20-04-2023,Sim
+13-04-2023,GS,Robo,Wap,Matheus Leite,Concluído,0,25-04-2023,01-06-2023,Sim
+13-04-2023,FON,Lava E Seca,Midea,Cvg,Avaliação,0,0,17-04-2023,Não
+14-04-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,17-04-2023,17-04-2023,Sim
+14-04-2023,FB,Robo,Wap,Matheus Leit/Matheus Ro,Concluído,0,28-04-2023,05-05-2023,Sim
+17-04-2023,FON,Lava E Seca,Midea,0,Cancelada,0,0,02-06-2023,Não
+17-04-2023,FON,Ar Condicionado,Midea,Cvg,Concluído,0,11-07-2023,12-07-2023,Sim
+17-04-2023,GON ,Lavadora De Roupas,Panasonic,Cvg,Concluído,0,25-04-2023,25-04-2023,Sim
+17-04-2023,GB,Ar Condicionado,Midea,Brenno,Concluído,03-05-2023,08-05-2023,12-05-2023,Sim
+17-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,19-04-2023,19-04-2023,Sim
+17-04-2023,FB ,Robo,Midea,Thiago,Concluído,0,08-05-2023,10-05-2023,Sim
+17-04-2023,GON,Lavadora,Panasonic,Brenno E Maheus,Concluído,0,20-04-2023,20-04-2023,Não
+17-04-2023,GB,Robo,Wap,Thiago/Matheus Leite,Concluído,26-04-2023,27-04-2023,05-05-2023,Sim
+17-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,24-04-2023,24-04-2023,Sim
+17-04-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,24-04-2023,24-04-2023,Sim
+18-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,20-04-2023,20-04-2023,Sim
+18-04-2023,FB,Robo,Wap,Matheus Leite,Concluído,0,04-05-2023,12-05-2023,Sim
+18-04-2023,GON ,Refrigerador,Panasonic,"Cvg, Brenno E Robson",Concluído,0,01-06-2023,01-06-2023,Sim
+18-04-2023,FON ,Lava E Seca,Midea,Brenno / Matheus L,Concluído,0,27-04-2023,27-04-2023,Sim
+18-04-2023,FB,Robo,Wap,Matheus Leite,Cancelado,0,0,0,Não
+18-04-2023,GON ,Lavadora De Roupas,Panasonic,Cvg,Concluído,02-05-2023,08-05-2023,08-05-2023,Sim
+19-04-2023,FB,Micro-Ondas,Panasonic,Matheus Leite,Sem Conserto,0,0,0,Não
+19-04-2023,FON ,Lavadora,Panasonic,0,Cancelado,0,0,08-05-2023,Não
+19-04-2023,GB,Robo,Wap,Thiago,Concluído,27-04-2023,28-04-2023,05-05-2023,Sim
+19-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,02-05-2023,04-05-2023,04-05-2023,Sim
+19-04-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,27-04-2023,27-04-2023,Sim
+19-04-2023,FON,Ar Condicionado,0,0,Cancelado,0,0,10-07-2023,Não
+20-04-2023,GON,Evaporadora Teto,Midea,0,Cancelado,0,0,20-04-2023,Não
+20-04-2023,FON ,Lavadora,Panasonic,Matheus/Brenno,Concluído,0,20-04-2023,20-04-2023,Sim
+24-04-2023,GS,Robo,Midea,Thiago,Concluído,0,27-04-2023,28-04-2023,Sim
+24-04-2023,FB,Robo,Wap,Thiago,Concluído,0,08-05-2023,11-05-2023,Sim
+24-04-2023,FB,Robo,Wap,Matheus Leite,Concluído,0,28-04-2023,24-05-2023,Sim
+24-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,25-04-2023,25-04-2023,Sim
+24-04-2024,GB,Lava Louças,Midea,0,Sem Conserto,0,0,04-05-2023,Não
+24-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,25-04-2023,25-04-2023,Sim
+24-04-2023,FB,Robo,Midea,Thiago,Concluído,0,28-04-2023,08-05-2023,Sim
+24-04-2023,GB,Robo,Midea,Matheus Rosa,Ressarcimento,0,0,25-09-2023,Não
+24-04-2023,GON ,Refrigerador,Panasonic,Cvg,Aberto Sat-27/04,0,0,0,0
+25-04-2023,GB,Robo,Wap,Matheus Rosa,Concluído,02-05-2023,02-05-2023,11-05-2023,Sim
+25-04-2023,GB,Fritadeira,Midea,Thiago,Troca,23-05-2023,0,24-05-2023,Troca
+25-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,26-05-2023,26-05-2023,Sim
+25-04-2023,GB,Fritadeira,Midea,Thiago,Concluído,0,25-04-2023,27-04-2023,Sim
+25-04-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,31-05-2023,31-05-2023,Sim
+26-04-2023,GB,Robo,Midea,Thiago,Concluído,08-05-2023,08-05-2023,10-05-2023,Sim
+26-04-2023,FON,Refrigerador,Panasonic,Cvg / Robson / Brenno,Concluído,08-05-2023,10-05-2023,10-05-2023,Sim
+26-04-2023,FB,Robo,Wap,Thiago,Concluído,0,08-05-2023,10-05-2023,Sim
+26-04-2023,FB,Aspirador,Midea,Thiago,Concluído,0,05-05-2023,09-05-2023,Sim
+26-04-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,02-05-2023,02-05-2023,Sim
+26-04-2023,GS,Lava E Seca,Midea,Cvg,Concluído,0,03-05-2023,03-05-2023,Sim
+27-04-2023,GS,Refrigerador,Panasonic,Cvg,Concluído,0,19-05-2023,19-05-2023,Sim
+27-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,28-04-2023,28-04-2023,Sim
+27-04-2023,FB,Aspirador,Midea,Robson/Thiago,Concluído,0,27-04-2023,16-05-2023,Sim
+27-04-2023,FON ,Lavadora,Panasonic,Cvg,Concluído,0,28-04-2023,28-04-2023,0
+27-04-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,02-05-2023,02-05-2023,Sim
+27-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,16-06-2023,16-06-2023,Sim
+28-04-2023,FB,Robo,Wap,Thiago,Concluído,0,08-05-2023,24-05-2023,Sim
+28-04-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,09-05-2023,15-05-2023,Sim
+28-04-2023,GB,Aspirador,Wap,Thiago,0,0,0,08-05-2023,Não
+28-04-2023,FB,Robo,Wap,Matheus,Concluído,0,08-05-2023,10-05-2023,Sim
+28-04-2023,GB,Microondas,Midea,Thiago,Concluído,0,06-06-2023,16-06-2023,Sim
+28-04-2023,GB,Microondas,Midea,Robson/Thiago,Concluído,23-05-2023,24-05-2023,02-06-2023,Sim
+28-04-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,08-05-2023,01-05-2023,01-05-2023,Sim
+02-05-2023,FON,Secadora,Electrolux,Robson/Breno,Concluído,0,15-05-2023,15-05-2023,Sim
+02-05-2023,FB,Aspirador,Midea,Thiago,Concluído,0,08-05-2023,16-05-2023,Sim
+02-05-2023,FB,Aspirador,Midea,Thiago,Concluído,0,04-05-2023,04-05-2023,04/05/2023
+02-05-2023,FB,Aspirador,Wap,Thiago,Sem Conserto,0,0,05-05-2023,Não
+02-04-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,03-05-2023,03-05-2023,Sim
+02-05-2023,GB,Microondas,Midea,Matheus Leite,Concluído,0,03-05-2023,08-05-2023,Sim
+02-04-2023,FB,Robo,Midea,Thiago,Concluído,0,09-05-2023,12-05-2023,Sim
+02-05-2023,GB,Aspirador,Midea,Thiago,Concluído,0,10-05-2023,12-05-2023,Sim
+02-05-2023,FON ,Lavadora,Panasonic,Robson,Concluído,0,05-05-2023,05-05-2023,Sim
+02-05-2023,FON,Cooktop,Panasonic,Robson,Concluído,0,26-05-2023,26-05-2023,Sim
+02-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,03-05-2023,03-05-2023,Sim
+03-05-2023,FON,Refrigerador,Panasonic,Robson/Brenno,Concluído,0,11-05-2023,11-05-2023,Sim
+03-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,26-05-2023,0,18-10-2023,Não
+03-04-2023,GON ,Lavadora,Panasonic,Robson,Concluído,0,03-05-2023,03-05-2023,Sim
+03-04-2023,FON ,Refrigerador,Panasonic,Cvg,Concluído,0,05-05-2023,05-05-2023,Sim
+03-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,04-05-2023,04-05-2023,Sim
+03-05-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,22-05-2023,30-05-2023,31-05-2023,Sim
+03-05-2023,GB ,Robo,Wap,Thiago,Concluído,09-05-2023,09-05-2023,17-05-2023,Sim
+03-05-2023,GS,Refrigerador,Panasonic,Cvg,Concluído,0,17-05-2023,17-05-2023,Sim
+03-05-2023,FB ,Robo,Midea,Thiago,0,0,0,09-05-2023,Não
+04-05-2023,GB,Robo,Wap,Thiago,Concluído,09-05-2023,09-05-2023,12-05-2023,Sim
+04-05-2023,GB,Robo,Wap,Thiago,Concluído,09-05-2023,10-05-2023,17-05-2023,Sim
+04-05-2023,GB ,Robo,Wap,Thiago,Concluído,09-05-2023,10-05-2023,12-05-2023,Sim
+04-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,15-05-2023,19-05-2023,19-05-2023,Sim
+04-05-2023,GS,Purificador,Midea,Robson,Sim Defeito,0,24-05-2023,24-05-2023,Não
+04-05-2023,FB,Robo,Wap,Thiago/Matheus Rosa,Concluído,0,08-05-2023,15-05-2023,Sim
+04-05-2023,GON ,Lavadora,Panasonic,Cvg,Garantia Negada,0,0,11-05-2023,Não
+04-05-2023,GON ,Lavadora,Panasonic,"Robson, Brenno E Cvg",Concluído,0,02-06-2023,02-06-2023,Sim
+04-05-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,12-05-2023,12-05-2023,Sim
+05-05-2023,GON,Robo,Wap,Thiago/Matheus Rosa,Concluído,09-05-2023,09-05-2023,12-05-2023,Sim
+05-05-2023,GON,Lavadora,Panasonic,Cvg,Concluído,12-05-2023,19-05-2023,19-05-2023,Sim
+05-05-2023,FB,Robo,Wap,Thiago/Matheus Rosa,Concluído,0,09-05-2023,18-05-2023,Sim
+05-04-2023,FB ,Robo,Wap,Thiago,Concluído,0,11-05-2023,11-05-2023,Sim
+05-05-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,16-05-2023,19-05-2023,02-06-2023,Sim
+05-05-2023,GB ,Robo,Midea,Thiago/Matheus Rosa,Concluído,15-05-2023,16-05-2023,19-05-2023,Sim
+05-05-2023,GB,Robo,Midea,Thiago,Ressarcimento,0,0,17-10-2023,Não
+05-05-2023,GB,Aspirador,Midea,Thiago,Concluído,11-05-2023,12-05-2023,24-05-2023,Sim
+05-05-2023,GON,Lavadora,Panasonic,Cvg,Concluído,15-05-2023,16-05-2023,16-05-2023,Sim
+08-05-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,15-05-2023,16-05-2023,16-05-2026,Sim
+08-05-2023,FB,Lavadora,Panasonic,Brenno,Concluído,0,10-05-2023,11-05-2023,Sim
+08-05-2023,FB,Robo,Wap,Thiago,Concluído,0,11-05-2023,16-05-2023,Sim
+08-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,22-05-2023,26-05-2023,26-05-2023,Sim
+08-05-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,09-05-2023,09-05-2023,Sim
+08-05-2023,GON ,Refrigerador,Panasonic,0,Cancelado,0,0,11-05-2023,Não
+09-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,22-05-2023,26-05-2023,26-05-2023,Sim
+09-05-2023,GB,Fritadeira,Midea,Thiago,Concluído,16-05-2023,18-05-2023,22-05-2023,Sim
+09-05-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,09-05-2023,Não
+09-05-2023,GB,Robo,Wap,Thiago/Matheus Rosa,Concluído,12-05-2023,12-05-2023,17-05-2023,Sim
+10-05-2023,FB,Robo,Wap,0,0,0,0,0,0
+10-05-2023,FB,Aspirador,Midea,Matheus,Concluído,0,18-05-2023,22-05-2023,Sim
+10-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,11-05-2023,11-05-2023,Sim
+10-05-2023,GON,Aspirador,Wap,Thiago,Concluído,18-05-2023,30-05-2023,02-06-2023,Sim
+10-05-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,11-05-2023,Não
+10-05-2023,FB,Robo,Wap,Thiago/Matheus Rosa,Concluído,0,15-05-2023,17-05-2023,Sim
+10-05-2023,GB,Robo,Wap,Thiago,Concluído,16-05-2023,17-05-2023,22-05-2023,Sim
+10-05-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,22-05-2023,30-05-2023,30-05-2023,Sim
+11-05-2023,GB,Microondas,Midea,Thiago,Concluído,0,06-06-2023,15-06-2023,Sim
+11-05-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,16-05-2023,18-05-2023,Sim
+11-05-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,11-05-2023,11-05-2023,Sim
+11-05-2023,GB,Robo,Wap,Matheus R /Thiago,Concluído,0,0,24-05-2023,Sim
+11-05-2023,FON ,Lava E Seca,Midea,Breno,Concluído,0,25-04-2023,25-04-2023,Sim
+11-05-2023,FB,Robo,Wap,Thiago,Concluído,0,16-05-2023,19-05-2023,Sim
+11-05-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,22-05-2023,23-05-2023,25-05-2023,Sim
+11-05-2023,FB,Microondas,Midea,Thiago,Concluído,0,30-05-2023,31-05-2023,Sim
+11-05-2023,FON,Lavadora,Panasonic,Robson/Brenno,Concluído,0,17-05-2023,18-05-2023,Sim
+11-05-2023,FON ,Lavadora,Panasonic,Cvg,Concluído,0,17-05-2023,17-05-2023,Sim
+11-05-2023,FON,Lavadora,Panasonic,Cvg,Cancelado,0,0,0,Não
+12-05-2023,GON,Ar Condicionado,Daikin,Cvg,Concluído,0,16-05-2023,16-05-2023,Sim
+12-05-2023,FON ,Lavadora,Panasonic,Robson/Breno,Concluído,0,15-05-2023,15-05-2023,Sim
+12-05-2023,FON ,Refrigerador,Panasonic,Breno/Robson,Concluído,0,15-05-2023,15-05-2023,Sim
+12-05-2023,GB,Robo,Midea,Matheus Rosa,Ressarcimento,16-05-2023,17-05-2023,30-06-2023,Não
+12-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,26-05-2023,26-05-2023,Sim
+12-05-2023,FB,Robo,Wap,Thiago/Matheus Rosa,Concluído,0,18-05-2023,22-05-2023,Sim
+12-05-2023,GB,Robo,Wap,Thiago/Matheus Rosa,Concluído,16-05-2023,17-05-2023,22-05-2023,Sim
+15-05-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,25-05-2023,14-06-2023,14-06-2023,Sim
+15-05-2023,GON ,Refrigerador,Panasonic,Robson E Brenno,Concluído,0,16-05-2023,16-05-2023,Não
+15-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,16-05-2023,16-05-2023,Sim
+15-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,17-05-2023,17-05-2023,Sim
+15-05-2023,GB,Robo,Wap,Thiago,Concluído,17-05-2023,18-05-2023,19-05-2023,Sim
+15-05-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,19-05-2023,19-05-2023,Sim
+15-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,26-05-2023,26-05-2023,Sim
+15-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,24-05-2023,24-05-2023,Sim
+16-05-2023,GON ,Refrigerador,Panasonic,Cvg,Reembolso,0,0,06-06-2023,Não
+16-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,17-05-2023,17-05-2023,Sim
+16-05-2023,GB,Robo,Wap,Matheus Rosa,Concluído,18-05-2023,19-05-2023,25-05-2023,Sim
+16-05-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,17-05-2023,19-05-2023,Sim
+16-05-2023,GB,Lavadora,Panasonic,Brenno,Sem Defeito,0,06-06-2023,16-06-2023,Não
+16-05-2023,FON ,Refrigerador,Panasonic,Cvg,Concluído,0,25-05-2023,25-05-2023,Sim
+17-05-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,18-05-2023,18-05-2023,Sim
+17-05-2023,FON,Lava E Seca,Midea,Cvg / Robson,Concluído,0,26-06-2023,26-06-2023,Sim
+17-05-2023,GB,Robo,Wap,Matheus Rosa,Concluído,23-05-2023,24-05-2023,25-05-2023,Sim
+18-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,24-05-2023,24-05-2023,Sim
+18-05-2023,GS ,Lavadora,Panasonic,Cvg,Concluído,0,24-05-2023,24-05-2023,Sim
+18-05-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,04-10-2023,25-10-2023,Sim
+18-05-2023,GB ,Robo,Wap,Matheus Rosa,Concluído,23-05-2023,29-05-2023,30-05-2023,Sim
+18-05-2023,FB,Robo,Wap,0,0,0,0,0,0
+19-05-2023,FON,Lavadora,Electrolux,Cvg,Sem Conserto,0,0,05-06-2023,Não
+19-05-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,22-05-2023,23-05-2023,Sim
+19-05-2023,GB,Robo,Wap,Matheus Rosa,Concluído,30-05-2023,01-06-2023,05-06-2023,Sim
+19-05-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,23-05-2023,24-05-2023,Sim
+19-05-2023,GB,Robo,Wap,Matheus Rosa,Concluído,23-05-2023,24-05-2023,26-05-2023,Sim
+19-05-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,24-05-2023,24-05-2023,Sim
+19-05-2023,GB ,Robo,Wap,Matheus Rosa/Thiago,Concluído,23-05-2023,26-05-2023,30-05-2023,Sim
+19-05-2023,GS,Robo,Wap,Thiago,Concluído,0,22-05-2023,01-06-2023,Sim
+22-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,15-06-2023,15-06-2023,Sim
+22-05-2023,GON,Refrigerador,Panasonic,"Cvg, Robson E Brenno",Concluído,0,05-06-2023,05-06-2023,Sim
+22-05-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,25-05-2023,25-05-2023,02-06-2023,Sim
+22-05-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,23-05-2023,23-05-2023,Sim
+22-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,26-05-2026,26-05-2026,Sim
+23-05-2023,GS,Secadora,Electrolux,Cvg,Concluído,0,26-06-2023,23-06-2023,Sim
+23-05-2023,FON ,Lavadora,Panasonic,Robson,Concluído,0,25-05-2023,25-05-2023,Sim
+23-05-2023,GB,Robo,Wap,Thiago,Concluído,0,25-05-2023,31-05-2023,Sim
+23-05-2023,GB,Aspirador,Wap,Thiago,Concluído,25-05-2023,25-05-2023,16-06-2023,Sim
+23-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,29-05-2023,29-05-2023,Sim
+23-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,01-06-2023,01-06-2023,Sim
+23-05-2023,GB ,Fritadeira,Midea,Thiago,Concluído,29-05-2023,31-05-2023,05-06-2023,Sim
+23-05-2023,FB,Micro-Ondas,Midea,Thiago,Concluído,0,15-06-2023,20-06-2023,Sim
+23-05-2023,FB,Robo,Wap,Matheus,Concluído,0,02-06-2023,05-06-2023,Sim
+23-05-2023,GS,Robo,Midea,Thiago,Concluído,0,29-05-2023,01-06-2023,Sim
+23-05-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,29-05-2023,29-05-2023,Sim
+23-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,14-06-2023,14-06-2023,Sim
+23-05-2023,GB,Robo,Midea,Thiago,Ressarcimento,0,0,23-08-2023,Não
+24-05-2023, ,Lavadora,Panasonic,Cvg,Concluído,0,24-05-2023,24-05-2023,Sim
+24-05-2023,GB,Robo,Wap,Thiago,Concluído,25-05-2023,26-05-2023,07-06-2023,Sim
+24-05-2023,GB,Robo,Wap,Thiago,Concluído,01-06-2023,02-06-2023,14-06-2023,Sim
+24-05-2023,FB,Notbook,Acer,Robson,Sem Conserto,0,0,31-01-2024,Não
+24-05-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,31-05-2023,23-06-2023,Sim
+25-05-2023,FB,Fritadeira,Midea,Robson,Descarte,0,0,0,Não
+25-05-2023,GON ,Refrigerador,Panasonic,Cvg,Perda De Garantia,0,0,25-05-2023,Não
+25-05-2023,FB,Robo,Wap,Matheus,Concluído,0,31-05-2023,06-06-2023,Sim
+25-05-2023,GON ,Lavadora,Panasonic,0,Cancelada,0,0,25-05-2023,Não
+25-05-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,03-07-2023,22-08-2023,Sim
+25-05-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,30-05-2023,30-05-2023,31-05-2023,Sim
+25-05-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,30-05-2023,30-05-2023,31-05-2023,Sim
+25-05-2023,GON ,Lavadora,Panasonic,0,Cancelada,0,0,29-05-2023,Não
+25-05-2023,GB,Robo,Midea,0,Ressarcimento,0,0,25-09-2023,Não
+26-05-2023,GB,Aspirador,Wap,Thiago,Concluído,30-05-2023,31-05-2023,02-06-2023,Sim
+26-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,29-05-2023,29-05-2023,Sim
+26-05-2023,GON,Lava E Seca,Midea,0,Cancelada,0,0,29-05-2023,Não
+26-05-2023,GB,Microondas,Panasonic,Thiago,Concluído,0,23-06-2023,28-06-2023,Sim
+26-05-2023,GB,Fritadeira,Midea,Thiago,Concluído,19-06-2023,20-06-2023,21-06-2023,Sim
+26-05-2023,GB ,Robo,Wap,Thiago,Concluído,30-05-2023,02-06-2023,07-06-2023,Sim
+29-05-2023,GON,Lava E Seca,Midea,Cvg / Robson,Cincluido,0,22-08-2023,24-08-2023,Sim
+29-05-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,29-05-2023,29-05-2023,Sim
+29-05-2023,GON ,Lavadora,Panasonic,Cvg E Robson,Concluído,0,31-05-2023,31-05-2023,Sim
+29-05-2023,GB ,Aspirador,Wap,Thiago,Concluído,31-05-2023,01-06-2023,07-06-2023,Sim
+29-05-2023,GON ,Lavadora,Panasonic,Robson E Brenno,Concluído,0,01-06-2023,01-06-2023,Sim
+29-05-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,14-06-2023,14-06-2023,Sim
+29-05-2023,GON ,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,31-05-2023,31-05-2023,Sim
+29-05-2023,GON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,29-05-2023,Não
+29-05-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,01-06-2023,01-06-2023,Sim
+29-05-2023,FB ,Robo,Wap,Matheus,Descarte,0,0,08-12-2023,Não
+29-05-2023,GB,Robo,Wap,Thiago,Concluído,0,30-05-2023,01-06-2023,Sim
+29-05-2023,GON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,01-06-2023,Não
+29-05-2023,GB,Robo,Wap,Thiago,Sem Defeito,0,0,05-06-2023,Não
+30-05-2023,GON ,Refrigerador,Panasonic,Cvg E Robson,07/06-Ag. Aprov Gra,0,19-06-2023,19-06-2023,Sim
+30-03-2023,FB ,Robo,Wap,Matheus,Concluído,0,19-06-2023,0,Não
+30-05-2023,GB,Robo,Wap,Thiago,Sem Defeito,0,02-06-2023,06-06-2023,Não
+30-05-2023,GB ,Robo,Wap,Thiago,Concluído,01-06-2023,02-06-2023,06-06-2023,Sim
+30-05-2023,GON,Lava E Seca,Midea,Cvg / Brenno,Concluído,0,20-06-2023,20-06-2023,Sim
+30-05-2023,GON ,Refrigerador,Panasonic,Brenno E Cvg,Troca De Produto,0,0,05-07-2023,Não
+30-05-2023,FB,Purificador,Midea,0,0,0,0,0,0
+31-05-2023,GON,Lava E Seca,Midea,Brenno / Cvg,Concluído,0,16-06-2023,16-06-2023,Sim
+31-05-2023,FON,Coifa,Panasonic,0,Cancelado,0,0,01-06-2023,Não
+31-05-2023,GON,Lava E Seca,Midea,Robson /  Brenno,Concluído,0,01-06-2023,01-06-2023,Sim
+31-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,07-06-2023,14-06-2023,14-06-2023,Sim
+31-05-2023,GON,Lava E Seca,Midea,Cvg,Concluído,06-06-2023,12-06-2023,12-06-2023,Sim
+31-05-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,06-06-2023,16-06-2023,Sim
+31-05-2023,GB,Aspirador,Wap,Thiago,Sem Defeito,0,0,07-06-2023,Não
+31-05-2023,FB,Micro-Ondas,Midea,Thiago,Sem Conserto,0,0,12-07-2023,Não
+31-05-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,01-06-2023,01-06-2023,Sim
+31-05-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,05-06-2023,05-06-2023,Sim
+01-06-2023,GS,Robo,Wap,Thiago,Concluído,0,06-06-2023,06-06-2023,Sim
+01-06-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,02-06-2023,02-06-2023,Sim
+0,GS,Robo,Midea,Thiago,Concluído,0,06-06-2023,15-06-2023,Sim
+01-06-2023,FON,Refrigerador,Panasonic,Cvg,Sem Defeito,0,02-06-2023,02-06-2023,Não
+01-05-2023,GON ,Refrigerador,Panasonic,0,Cancelado,0,0,12-06-2023,Não
+02-06-2023,FB,Robo,Midea,Matheus,Sem Conserto,0,0,21-06-2023,Não
+02-06-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,05-06-2023,05-06-2023,Sim
+02-06-2023,GB,Lavadora,Panasonic,Brenno E Robson,Concluído,0,27-06-2023,0,0
+02-06-2023,GB,Micro-Ondas,Panasonic,Thiago,Concluído,0,19-06-2023,22-06-2023,Sim
+02-06-2023,GB ,Robo,Wap,Thiago,Concluído,06-06-2023,07-06-2023,07-06-2023,Sim
+02-06-2023,FB,Robo,Wap,Matheus Rosa,Sem Conserto,0,0,07-06-2023,Não
+02-06-2023,FB,Micro-Ondas,Midea,Thiago,Concluído,0,12-07-2023,17-08-2023,Sim
+02-06-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,14-06-2023,14-06-2023,Sim
+02-06-2023,GON ,Refrigerador,Panasonic,0,Cancelado,0,0,13-06-2023,Não
+02-05-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,20-06-2023,20-06-2023,Sim
+02-06-2023,FB,Robo,Wap,0,0,0,0,0,0
+02-06-2023,GS,Refrigerador,Panasonic,Cvg,Concluído,0,20-07-2023,20-07-2023,Sim
+05-06-2023,GB,Aspirador,Midea,Robson / Matheus Rosa,Concluído,14-06-2023,19-06-2023,11-07-2023,Sim
+05-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,13-06-2023,14-06-2023,20-06-2023,Sim
+05-06-2023,FON ,Ar Condicionado,Midea,0,Cancelado,0,0,06-06-2023,Não
+05-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,06-06-2023,12-06-2023,Sim
+05-06-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,13-06-2023,13-06-2023,Sim
+05-06-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,13-06-2023,28-06-2023,Não
+06-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,14-06-2023,15-06-2023,23-06-2023,Sim
+06-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,14-06-2023,15-06-2023,20-06-2023,Sim
+06-06-2023,FON ,Inst Varios Produtos,Midea,Cvg,Concluído,0,0,07-06-2023,Sim
+06-06-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,20-06-2023,20-06-2023,Sim
+06-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,04-07-2023,12-07-2023,Sim
+06-06-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,14-06-2023,14-06-2023,Sim
+06-06-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,14-06-2023,14-06-2023,Sim
+07-06-2023,FB,Aspirador,Wap,Thiago,Concluído,01-08-2023,05-10-2023,10-10-2023,Sim
+07-06-2023,GS,Robo,Wap,Thiago,Sem Conserto,0,0,10-10-2023,Não
+07-06-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,12-06-2023,12-06-2023,Sim
+07-06-2023,GB,Robo,Midea,Matheus Rosa,Ressarcimento,0,0,31-10-2023,Não
+07-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,14-06-2023,15-06-2023,Sim
+07-06-2023,GB,Robo,Mdea,Matheus Rosa,Ressarcimento,0,0,23-08-2023,Não
+07-06-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,12-06-2023,15-06-2023,Sim
+07-06-2023,GB,Robo,Wap,Matheus,Concluído,14-06-2021,15-06-2023,21-07-2023,Sim
+07-06-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,12-06-2023,21-06-2023,Sim
+12-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,13-06-2023,13-06-2023,Sim
+12-06-2023,FON,Lavadora,Panasonic,Cvg E Luiz,Concluído,0,14-08-2023,14-08-2023,Sim
+12-06-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,13-06-2023,13-06-2023,Sim
+12-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,04-07-2023,21-07-2023,Sim
+12-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,23-06-2023,26-06-2023,29-06-2023,Sim
+12-06-2023,FB,Cervejeira,Midea,0,Sem Conserto,0,0,10-07-2023,Não
+12-06-2023,GB,Lavadora,Panasonic,Robson / Cvg,Concluído,29-06-2023,26-06-2023,27-06-2023,Sim
+12-06-2023,GON,Lavadora,Panasonic,Cvg - Robson,Concluído,0,16-06-2023,16-06-2023,Sim
+13-06-2023,GON,Refrigerador,Panasonic,Cvg - Robson,Concluído,0,15-06-2023,15-06-2023,Sim
+13-06-2023,FON,Lava E Seca,Midea,0,Cancelada,0,0,06-07-2023,Não
+13-06-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,03-07-2023,03-07-2023,Sim
+13-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,03-07-2023,12-07-2023,Sim
+0,GB,Aspirador,Midea,Matheus,Concluído,22-06-2023,23-06-2023,26-06-2023,Sim
+13-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,14-06-2023,14-06-2023,Sim
+13-06-2023,FB,Robo,Wap,Matheus,Concluído,0,19-06-2023,21-06-2023,Sim
+14-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,19-06-2023,22-06-2023,Sim
+14-06-2023,FB,Aquecedor,Midea,Robson,Concluído,0,20-06-2023,21-06-2023,Sim
+14-06-2023,GB,Microondas,Midea,Thiago/ Larissa,Concluído,23-06-2023,06-07-2023,26-07-2023,Sim
+14-06-2023,GB,Microondas,Panasonic,Thiago,Concluído,17-07-2023,18-07-2023,19-07-2023,Sim
+14-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,04-07-2023,05-07-2023,Sim
+14-06-2023,FON,Refrigerador,0,Cvg,Concluído,0,20-06-2023,20-06-2023,Sim
+15-06-2023,GON,Lavadora,Midea,0,Cancelado,0,0,20-06-2023,Não
+15-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,19-06-2023,19-06-2023,Sim
+15-06-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,04-07-2023,04-07-2023,Sim
+15-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,16-06-2023,16-06-2023,Sim
+0,GON,Refrigerador,Panasonic,Cvg,Concluído,0,23-06-2023,23-06-2023,Sim
+15-06-2023,GON,Lava Louça,Midea,0,Cancelado,0,0,20-06-2023,Não
+15-06-2023,GON,Ar Condicionado,Midea,0,0,0,0,0,0
+15-06-2023,GB,Panela De Pressão,Midea,Thiago,Concluído,23-06-2023,26-06-2023,28-06-2023,Sim
+15-06-2023,GB,Microondas,Midea,Thiago,Concluído,28-06-2023,07-07-2023,14-07-2023,Sim
+15-06-2023,GON,Refrigerador,Panasonic,Cvg - Robson,Concluído,0,15-06-2023,15-06-2023,Sim
+15-06-2023,FON,Lava E Seca,Midea,Cvg / Robson,Concluído,0,30-06-2023,30-06-2023,Sim
+15-06-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,16-06-2023,16-06-2023,Sim
+15-06-2023,GB,Micro-Ondas,Panasonic,Thiago,Concluído,23-06-2023,07-07-2023,11-07-2023,Sim
+15-06-2023,GB,Microondas,Midea,Thiago,Concluído,23-06-2023,07-07-2023,11-07-2023,Sim
+15-06-2023,FB,Climatizador,Springer,Thiago,Concluído,0,24-07-2023,31-07-2023,Sim
+15-06-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,21-06-2023,29-06-2023,Sim
+16-06-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,16-06-2023,16-06-2023,Sim
+16-06-2023,FON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,16-06-2023,16-06-2023,Sim
+16-06-2023,GON,0,0,0,0,0,0,0,0
+16-06-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,23-06-2023,07-07-2023,11-07-2023,Sim
+16-06-2023,FON,Ar Condicionado,Panasonic,Cvg / Luiz Guilherme,Concluído,0,18-08-2023,18-08-2023,Sim
+16-06-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,19-06-2023,21-06-2023,Sim
+16-06-2023,GB,Robo,Wap,Mtheus Rosa,Concluído,26-06-2023,04-07-2023,10-07-2023,Sim
+16-06-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,27-06-2023,27-06-2023,Sim
+16-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,21-06-2023,21-06-2023,Sim
+16-06-2023,GB,Robo,Wap,Thiago,Sem Conserto,0,0,30-06-2023,Não
+16-06-2023,FB,Robo,Midea,Thiago,Concluído,0,03-07-2023,07-07-2023,Sim
+19-06-2023,GB,Microondas,Panasonic,Thiago,Sem Defeito,0,13-07-2023,13-07-2023,Não
+19-06-2023,GON,Refrigerador,Panassonic,Cvg,Perda De Garantia,0,0,21-06-2023,Não
+19-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,12-07-2023,14-07-2023,14-07-2023,Sim
+19-06-2023,GB,Microondas,Midea,Thiago,Concluído,30-06-2023,07-07-2023,11-07-2023,Sim
+19-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,21-06-2023,22-06-2023,30-06-2023,Sim
+19-06-2023,GB,Robo,Midea,Matheus Rosa,Concluído,17-10-2023,20-10-2023,26-10-2023,Sim
+19-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,28-06-2023,28-06-2023,Sim
+19-06-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,20-06-2023,Não
+19-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,26-06-2023,26-06-2023,Sim
+19-06-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,19-06-2023,19-06-2023,Sim
+19-06-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+19-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,0,10-07-2023,Sim
+19-06-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,21-06-2023,21-06-2023,Sim
+19-06-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,18-07-2023,0,Sim
+19-06-2023,GON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,20-06-2023,Não
+19-06-2023,GON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,21-06-2023,Não
+20-06-2023,GB ,Fritadeira,Midea,Thiago,Concluído,0,21-06-2023,23-06-2023,Sim
+20-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,20-06-2023,20-06-2023,Sim
+20-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,23-06-2023,27-06-2023,29-06-2023,Sim
+20-06-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,19-06-2023,19-06-2023,Sim
+20-06-2023,GON,Refrigerador,Panasonic,Cvg,0,0,0,0,0
+20-06-2023,FB,Robo,Wap,Matheus,Sem Conserto,0,0,28-08-2023,Não
+20-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,28-06-2023,28-06-2028,Sim
+21-06-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,20-07-2023,20-07-2023,Sim
+21-06-2023,FB,Microondas,Midea,Thiago,Concluído,0,12-07-2023,14-07-2023,Sim
+21-06-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,0,26-06-2023,Sim
+21-06-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,22-06-2023,Não
+21-06-2023,FON,Forno Elétrico,Midea,0,Cancelado,0,0,27-06-2023,Não
+21-06-2023,GB,Aspirador,Wap,Thiago,Concluído,0,05-07-2023,07-07-2023,Sim
+21-06-2023,GB,Microondas,Midea,Thiago,Concluído,28-06-2023,11-07-2023,13-07-2023,Sim
+22-06-2023,GON,Lavadora,Panassonic,Cvg E Robson,Concluído,0,23-07-2023,23-07-2023,Sim
+22-06-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,11-07-2023,04-07-2023,04-07-2023,Sim
+22-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,03-07-2023,03-07-2023,Sim
+22-06-2023,GON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,29-06-2023,Não
+22-06-2023,GB,Panela De Pressão,Midea,Thiago,Concluído,27-06-2023,29-06-2023,30-06-2023,Sim
+22-06-2023,GB,Microondas,Midea,Thaigo/Laryssa,Concluído,28-06-2023,06-07-2023,10-07-2023,Sim
+23-06-2023,GB,Microondas,Midea,Thiago,Concluído,0,18-07-2023,21-07-2023,Sim
+23-06-2023,FB,Robo,Wap,Matheus R,Sem Conserto,0,0,06-07-2023,Não
+23-06-2023,GB,Aspirador,Midea,Thiago,Concluído,12-07-2023,14-07-2023,19-07-2023,Sim
+23-06-2023,GB,Microondas,Midea,Thiago,Concluído,24-07-2023,25-07-2023,28-07-2023,Sim
+23-06-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,24-07-2023,28-07-2023,Sim
+23-06-2023,GON ,Lavadora,Panasonic,Cvg E Robson,Concluído,03-07-2023,11-07-2023,11-07-2023,Sim
+23-06-2023,FB,Microondas,Midea,Thiago,Concluído,0,28-07-2023,04-08-2023,Sim
+23-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,26-06-2023,26-03-2023,Sim
+23-06-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,04-07-2023,04-07-2023,Sim
+23-06-2023,GON,Robo,Wap,Thiago,Concluído,28-06-2023,29-06-2023,07-07-2023,Sim
+26-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,0,27-06-2023,Sim
+26-06-2023,FON,Arcondicionado,Daikin,0,0,0,0,0,0
+26-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,26-06-2023,26-06-2023,Sim
+26-06-2023,FON,Lava E Seca,Midea,Cvg / Robson,Concluído,0,20-07-2023,20-07-2023,Sim
+26-06-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,30-06-2023,04-07-2023,04-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,29-06-2023,30-06-2023,06-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,29-06-2023,30-06-2023,05-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,09-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,04-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,04-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,04-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,04-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,04-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,04-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,0,27-06-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,0,05-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,03-07-2023,05-07-2023,17-07-2023,Sim
+26-06-2023,GB,Robo,Wap,Thiago,Concluído,0,27-06-2023,17-07-2023,Sim
+26-06-2023,GB,Extratora,Wap,Thiago,Concluído,04-07-2023,07-07-2023,17-07-2023,Sim
+26-06-2023,GB,Aspirador,Wap,Thiago,Concluído,0,11-07-2023,17-07-2023,Sim
+0,GB,Robo,Wap,Matheus,Concluído,0,18-07-2023,29-08-2023,Sim
+27-06-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,03-07-2023,03-07-2023,Sim
+27-06-2023,FON,Lavadora,Panasonic,Cvg / Robson,Concluído,0,27-06-2023,27-06-2023,Sim
+27-06-2023,GB,Robo,Midea,Matheus Rosa,Concluído,17-11-2023,21-11-2023,24-11-2023,Sim
+27-06-2023,GB,Microondas,Midea,Thiago,Concluído,0,11-07-2023,25-07-2023,Não
+27-06-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,06-07-2023,Não
+27-06-2023,FB,Microondas,Midea,Thiago,Sem Conserto,0,0,14-08-2023,Não
+27-06-2023,GON,Lavadora,Panasonic,0,0,0,0,0,0
+27-06-2023,GB,Robo,Wap,Matheus Rosa,Concluído,06-07-2023,06-07-2023,10-07-2023,Sim
+27-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,05-07-2023,07-07-2023,07-07-2023,Sim
+28-06-2023,FB,Aspirador,Wap,Thiago,Sem Conserto,0,0,20-07-2023,Não
+28-06-2023,GON,Refrigerador,Panasonic,0,0,0,0,0,0
+28-06-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,30-06-2023,Não
+28-06-2023,FB,Fritadeira,Midea,0,0,0,0,0,0
+28-06-2023,FB,Panela De Pressão,Midea,Thiago,Concluído,0,20-07-2023,21-07-2023,Sim
+28-06-2023,GON,Lavadora,Panasonic,0,0,0,0,0,0
+28-06-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,05-07-2023,05-07-2023,Sim
+28-06-2023,GON,Lavadora,Midea,Cvg / Robson,Concluído,0,05-07-2023,05-07-2023,Sim
+29-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,07-07-2023,07-07-2023,Sim
+29-06-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,24-07-2023,24-07-2023,Sim
+29-06-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,04-07-2023,04-07-2023,Sim
+29-06-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,19-07-2023,20-07-2023,Sim
+29-06-2023,GON,Fechadura Digital,Midea,Cvg / Luiz Guilherme,Concluído,24-08-2023,25-08-2023,25-08-2023,Sim
+30-06-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,05-07-2023,05-07-2023,Sim
+30-06-2023,FON,Maquina De Gelo,Benmax,Cvg / Robson,Concluído,0,17-10-2023,07-11-2023,Sim
+30-06-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,12-07-2023,21-07-2023,21-07-2023,Sim
+30-06-2023,GB,Robo,Wap,Thiago,Sem Defeito,0,04-07-2023,13-07-2023,Sim
+30-06-2023,GON,Lava E Seca,Midea,Cvg,Concluído,14-10-2023,21-07-2023,21-07-2023,Sim
+30-06-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,04-07-2023,04-07-2023,Sim
+30-06-2023,FB,Robo,Wap,Thiago / Matheus,Concluído,0,17-07-2023,01-08-2023,Sim
+03-07-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,18-07-2023,19-07-2023,24-07-2023,Sim
+03-07-2023,GB,Microondas,Panasonic,Thiago,Concluído,0,18-07-2023,20-07-2023,Sim
+03-07-2023,GON,Lava E Seca,Midea,0,Cancelado,0,0,11-07-2023,Não
+03-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,12-07-2023,20-07-2023,20-07-2023,Sim
+03-07-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,0,04-07-2023,04-07-2023,Sim
+30-07-2023,GB,Microondas,Toshiba,Thiago,Troca,29-08-2023,0,31-08-2023,Troca
+03-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,03-07-2023,03-07-2023,Sim
+03-07-2023,FON,Refrigerador,Panasonic,Cvg / Robson,Concluído,0,05-07-2023,05-07-2023,Sim
+03-07-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,19-07-2023,19-07-2023,Sim
+03-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,07-07-2023,07-07-2023,Sim
+03-07-2023,GB,Robo,Wap,Thiago / Matheus Rosa,Concluído,06-07-2023,07-07-2023,25-07-2023,Sim
+04-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,20-07-2023,01-08-2023,Sim
+04-04-2023,GB,Robo,Wap,Thiago/Matheus R,Concluído,18-07-2023,20-07-2023,20-07-2023,Sim
+04-07-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,0,10-07-2023,Sim
+04-07-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,17-07-2023,19-07-2023,Sim
+04-07-2023,GB,Microondas,Panasonic,Thiago,Concluído,19-07-2023,20-07-2023,24-07-2023,Sim
+04-07-2023,FON,Lavadora,Brastemp,Luiz E Robson,Concluído,0,11-08-2023,11-08-2023,Sim
+04-07-2023,FON,Robo,Wap,Thiago,Concluído,0,09-08-2023,14-08-2023,Sim
+04-07-2023,GON,Ar Condicionado,Daikin,Cvg,Concluído,0,14-07-2023,14-07-2023,
+0,GB,Robo,Wap,Thiago / Matheus,Concluído,11-07-2023,12-07-2023,14-07-2023,Sim
+05-07-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,07-07-2023,07-07-2023,Sim
+0,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,17-07-2023,11-07-2023,11-07-2023,Sim
+05-07-2023,FON,Ar Condicionado,Gree,0,0,0,0,0,0
+05-07-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,14-07-2023,14-07-2023,Sim
+05-07-2023,GB,Fritadeira,Midea,0,0,0,0,0,0
+05-07-2023,GB,Aspirador,Midea,0,0,0,0,0,0
+05-07-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,07-07-2023,07-07-2023,Sim
+05-07-2023,GS,Robo,Wap,Thiago,Sem Defeito,0,0,14-07-2023,Não
+05-07-2023,FB,Robo,Midea,Matheus Rosa,Descarte,0,0,24-07-2023,Não
+05-07-2023,GON,Robo,Panasonic,Cvg E Robson,Concluído,0,24-07-2023,24-07-2023,Sim
+05-07-2023,GB,0,Wap,Thiago / Matheus Rosa,Concluído,11-07-2023,12-07-2023,18-07-2023,Sim
+05-07-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,14-07-2023,17-07-2023,17-07-2023,Sim
+06-07-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,10-07-2023,10-07-2023,Sim
+06-07-2023,GON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,10-07-2023,Não
+06-07-2023,GB,Microondas,Midea,Thiago,Concluído,14-07-2023,17-07-2023,18-07-2023,Sim
+06-07-2023,GON,Lava E Seca,Midea,0,Cancelado,0,0,18-07-2023,Não
+06-07-2023,GON,Lavadora,Midea,Cvg,Concluído,0,10-07-2023,10-07-2023,Sim
+06-07-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,10-07-2023,Não
+06-07-2023,GS,Robo,Wap,Matheus Rosa,Sem Conserto,0,0,06-10-2023,Não
+06-07-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,24-08-2023,01-09-2023,Sim
+06-07-2023,GB,Robo,Wap,Matheus Rosa,Concluído,18-07-2023,18-07-2023,24-07-2023,Sim
+06-07-2023,FB,Robo,Wap,0,0,0,0,0,0
+07-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,19-07-2023,25-08-2023,Sim
+07-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,13-07-2023,13-07-2023,Sim
+07-07-2023,GB,Robo,Midea,Matheus Rosa,Ressarcimento,0,0,25-09-2023,Não
+07-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,12-07-2023,17-07-2023,17-07-2023,Sim
+10-07-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,10-07-2023,Não
+10-07-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,10-07-2023,10-07-2023,Sim
+10-07-2023,GON,Cooktop Inducao,Midea,Cvg,Concluído,0,12-07-2023,12-07-2023,Nâo
+10-07-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,11-07-2023,11-07-2023,Sim
+10-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,27-07-2023,05-08-2023,05-08-2023,Sim
+10-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,18-07-2023,18-07-2023,Sim
+10-07-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,27-07-2023,04-08-2023,04-08-2023,Sim
+10-07-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,18-07-2023,19-07-2023,19-07-2023,Sim
+10-07-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,18-07-2023,18-07-2023,Sim
+10-07-2023,GB,Robo,Midea,Matheus Rosa,Concluído,17-10-2023,24-10-2023,30-10-2023,Sim
+10-07-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,18-07-2023,Não
+11-07-2023,FB,Aspirador,Midea,Cvg,Concluído,0,19-07-2023,25-07-2023,Sim
+11-07-2023,GON,Lava Louças,Midea,Cvg,Concluído,0,12-07-2023,12-07-2023,Sim
+11-07-2023,GB,Fritadeira,Midea,Thiago,Concluído,20-07-2023,21-07-2023,24-07-2023,Sim
+11-07-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,0,12-07-2023,Sim
+11-07-2023,GON,Lava E Seca,Midea,"Cvg, Robson E Luiz",Concluído,0,0,16-10-2023,Sim
+11-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,12-07-2023,12-07-2023,Sim
+12-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,12-07-2023,12-07-2023,Sim
+12-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,19-07-2023,0,Sim
+12-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,20-07-2023,26-07-2023,Sim
+12-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,20-07-2023,20-07-2023,Sim
+12-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,20-07-2023,20-07-2023,Sim
+0,FB,Aspirador,Wap,Matheus Rosa,Descarte,0,0,20-07-2023,Não
+12-07-2023,GON,Lavadora,Midea,0,Cancelado,0,0,17-07-2023,Não
+12-07-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,21-07-2023,21-07-2023,Sim
+0,GON,Robo,Wap,Matheus Rosa,Concluído,27-07-2023,28-07-2023,02-08-2023,Sim
+13-07-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,20-07-2023,20-07-2023,Sim
+13-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,20-07-2023,24-07-2023,Sim
+13-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,21-07-2023,21-07-2023,Sim
+13-07-2023,FB,Robo,Wap,Matheus Rosa,Sem Conserto,0,0,28-07-2023,Não
+13-07-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,0,17-07-2023,17-07-2023,Sim
+13-07-2023,GON,Lava E Seca,Midea,Cvg/ Robson,Concluído,0,17-07-2023,17-07-2023,Sim
+13-07-2023,GON,Lava E Seca,Midea,0,Cancelada,0,0,24-07-2023,Não
+13-07-2023,GON,Lava E Seca,Midea,Cvg,Troca,12-09-2023,0,18-09-2023,Não
+01-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,19-07-2023,19-07-2023,Sim
+13-07-2023,GB,Robo,Wap,Matheus Rosa,Concluído,20-07-2023,21-07-2023,31-07-2023,Sim
+13-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,27-07-2023,07-08-2023,07-08-2023,Sim
+13-07-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,14-07-2023,14-07-2023,Sim
+14-07-2023,GON,Microondas,Panasonic,Thiago,Concluído,24-07-2023,25-07-2023,27-07-2023,Sim
+14-07-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,17-07-2023,17-07-2023,Sim
+14-07-2023,FB,Purificador,Midea,Thiago,Concluído,0,25-07-2023,27-07-2023,Sim
+14-07-2023,FON,Lavadora,Panasonic,0,0,0,0,0,0
+14-07-2023,GB,Panela,Midea,Thiago,Concluído,0,20-07-2023,26-07-2023,Sim
+14-07-2023,FG,Aspirador,Midea,Matheus Rosa,Concluído,0,20-07-2023,27-07-2023,Sim
+14-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,20-07-2023,20-07-2023,Sim
+14-07-2023,GON,Refrigerador,Panasonic,Robson E Cvg,Concluído,0,31-07-2023,31-07-2023,Sim
+14-07-2023,GB,Robo,Wap,0,0,0,0,0,0
+14-07-2023,GS,Ar Condicionado,Midea,0,0,0,0,0,0
+17-07-2023,GON,Coifa,Midea,Cvg,Concluído,0,20-07-2023,20-07-2023,Sim
+17-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,19-07-2023,20-07-2023,Sim
+17-07-2023,        GB,Robo,Midea,Matheus Rosa,Concluído,24-07-2023,25-07-2023,27-07-2023,Sim
+17-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,24-07-2023,08-08-2023,Sim
+18-07-2023,GB,Mop Elétrico,Wap,Thiago,Concluído,27-07-2023,31-07-2023,04-08-2023,Sim
+18-07-2023,GB,Fritadeira,Midea,Thiago,Concluído,24-07-2023,26-07-2023,28-07-2023,Sim
+18-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,19-07-2023,19-07-2023,Sim
+18-07-2023,GS,Aspirador,Midea,Thiago,Concluído,27-07-2023,28-07-2023,01-08-2023,Sim
+19-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,21-07-2023,21-07-2023,Sim
+19-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,26-07-2023,27-07-2023,Sim
+19-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,09-08-2023,14-08-2023,21-08-2023,Sim
+19-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,25-07-2023,25-07-2023,Sim
+19-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,21-07-2023,21-07-2023,Sim
+20-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,26-07-2023,26-07-2023,Sim
+20-07-2023,GB,Robo,Wap,Matheus Rosa,Concluído,27-07-2023,28-07-2023,08-08-2023,Sim
+0,GB,Microondas,Panasonic,Thiago,Concluído,0,10-08-2023,11-08-2023,Sim
+20-07-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,25-07-2023,25-07-2023,Sim
+20-07-2023,FON,Robo,Wap,Cvg,Concluído,0,26-07-2023,31-07-2023,Sim
+20-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,27-07-2023,27-07-2023,Sim
+21-07-2023,GON,Cooktop Indução,Midea,Cvg,Concluído,0,25-07-2023,25-07-2023,Sim
+21-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,03-08-2023,05-08-2023,05-08-2023,Sim
+21-07-2023,FON,Lavadora,Panasonic,Robson / Claudio,Concluído,0,31-07-2023,31-07-2023,Sim
+21-07-2023,GON,Cooktop Inducao,Midea,Cvg,Concluído,0,25-07-2023,25-07-2023,Sim
+24-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,28-07-2023,01-08-2023,Sim
+24-07-2023,FB,Microondas,Panasonic,Thiago,Concluído,0,27-07-2023,31-07-2023,Sim
+24-07-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,31-07-2023,01-08-2023,11-08-2023,Sim
+24-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,28-07-2023,04-08-2023,Sim
+24-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,28-07-2023,04-08-2023,Sim
+24-07-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,24-07-2023,24-07-2023,Sim
+24-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,27-07-2023,27-07-2023,Sim
+24-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,02-08-2023,02-08-2023,Sim
+24-07-2023,GON,Lava Louças,Midea,Cvg/Robson,Concluído,0,08-02-2024,08-02-2024,Não
+24-07-2023,FB,Robo,Midea,Matheus Rosa,Sem Conserto,0,0,04-09-2023,Não
+24-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,31-07-2023,11-08-2023,Sim
+25-07-2023,GON,Lava E Seca,Midea,Cvg / Luiz,Concluído,0,17-08-2023,17-08-2023,Sim
+25-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,25-07-2023,25-07-2023,Sim
+25-07-2023,GB,Robo,Wap,Matherus Rosa,Concluído,31-07-2023,01-08-2023,10-08-2023,Sim
+25-07-2023,FB ,Robo,Midea,Matheus Rosa,Sem Conserto,0,0,27-09-2023,Não
+25-07-2023,GB,Robo,Midea,Matheus Rosa,Concluído,17-10-2023,19-10-2023,23-10-2023,Sim
+25-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,07-08-2023,23-08-2023,23-08-2023,Sim
+25-07-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,26-07-2023,26-07-2023,Sim
+26-07-2023,FON,Microondas,Midea,0,Descarte,0,0,0,Não
+26-07-2023,GB,Panela De Pressão,Midea,Thiago,Concluído,01-08-2023,01-08-2023,22-08-2023,Sim
+27-07-2023,FON,Refrigerador,Panasonic,Cvg / Robson,Concluído,0,27-07-2023,27-07-2023,Sim
+27-07-2023,FON,Lava E Seca,Midea,0,0,0,0,0,0
+27-07-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,11-08-2023,14-08-2023,17-08-2023,Sim
+27-07-2023,FON,Lava E Seca,Midea,Cvg / Robson,Concluído,0,07-08-2023,07-08-2023,Sim
+27-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,31-08-2023,21-09-2023,Sim
+27-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,31-08-2023,21-09-2023,Sim
+27-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,05-09-2023,21-09-2023,Sim
+27-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,28-07-2023,28-07-2023,Sim
+27-07-2023,GON,Lava Louça,Midea,Cvg,Concluído,09-08-2023,10-08-2023,11-08-2023,Sim
+27-07-2023,GON,Lavadora,Panasonic,Cvg / Luiz,Concluído,0,15-08-2023,15-08-2023,Sim
+27-07-2023,FB,Aquecedor,Midea,Thiago/Robson,Concluído,0,23-08-2023,27-09-2023,Sim
+27-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,02-08-2023,11-08-2023,Sim
+27-07-2023,GON,Lavadora,Midea,Cvg,Concluído,0,03-08-2023,03-08-2023,Não
+27-07-2023,GON,Lava E Seca,Midea,Cvg,Cancelado,0,0,03-08-2023,Não
+27-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,28-07-2023,28-07-2023,Sim
+27-07-2023,GON,Lava E Seca,Midea,Cvg E Robson,Concluído,0,01-08-2023,01-08-2023,Sim
+28-07-2023,GON,Lavadora,Midea,0,0,0,0,0,0
+0,GON,Lava E Seca,Midea,Cvg,Concluído,0,0,03-08-2023,Não
+28-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,05-08-2023,05-08-2023,Sim
+28-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,09-08-2023,09-08-2023,Não
+28-07-2023,GON,Refrigerador,Panasonic,Cvg,Troca,0,0,18-08-2023,Não
+28-07-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+0,FON,Lavadora,Midea,Luiz / Cvg,Concluído,0,08-08-2023,08-08-2023,Sim
+28-07-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+28-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,28-07-2023,28-07-2023,Sim
+28-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,14-08-2023,14-08-2023,Sim
+28-07-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,0,30-07-2023,31-08-2023,Sim
+28-07-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,28-07-2023,28-07-2023,Sim
+28-07-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,18-08-2023,22-08-2023,Sim
+28-07-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,18-08-2023,18-08-2023,Sim
+31-07-2023,GON,Lavadora,Midea,0,Cancelado,0,0,31-07-2023,Não
+31-07-2023,GON,Fechadura Digital,Midea,0,0,0,0,0,0
+31-07-2023,GON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,03-08-2023,Não
+31-07-2023,GB,Panela De Pressão,Midea,Thiago,Concluído,15-08-2023,17-08-2023,18-08-2023,Sim
+31-07-2023,GON,Cooktop,Midea,Robson,Concluído,14-08-2023,16-08-2023,17-08-2023,Sim
+31-07-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,14-08-2023,17-08-2023,Sim
+31-07-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,08-08-2023,08-08-2023,Sim
+31-07-2023,FB,Panela De Pressão,Midea,Thiago,Concluído,0,22-08-2023,23-08-2023,Sim
+30-07-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,07-08-2023,07-08-2023,Sim
+31-07-2023,GB,Robo,Midea,0,Ressarcimento,0,0,11-10-2023,0
+01-08-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,03-08-2023,03-08-2023,Sim
+01-08-2023,GB,Robo,Wap,Thiago,Concluído,03-08-2023,03-08-2023,03-08-2023,Sim
+01-08-2023,FB,Robo,Midea,Thiago,Sem Conserto,0,0,28-08-2023,Não
+01-08-2023,GON,Fechadura Digital,Midea,Cvg,Concluído,09-08-2023,11-08-2023,11-08-2023,Sim
+01-08-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,07-08-2023,Não
+02-08-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,09-08-2023,09-08-2023,Sim
+02-08-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+02-08-2023,FB,Extratora,Wap,Matheus Rosa,Concluído,19-09-2023,20-09-2023,22-09-2023,Sim
+02-08-2023,FB,Aquecedor,Midea,0,0,0,0,0,0
+02-08-2023,GB,Robo,Midea,Matheus Rosa,Ressacimento,0,0,23-11-2023,Não
+02-08-2023,FB,Robo,Midea,Matheus Rosa,Sem Concerto,0,0,0,Não
+02-08-2023,GB,Robo,Midea,Matheus Rosa,Concluído,0,23-10-2023,07-11-2023,Sim
+03-08-2023,GB ,Robo,Wap,Matheus Rosa,Concluído,08-08-2023,10-08-2023,11-08-2023,Sim
+03-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,22-08-2023,23-08-2023,29-08-2023,Sim
+03-08-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,04-08-2023,11-08-2023,Sim
+03-08-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,03-08-2023,03-08-2023,Sim
+03-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,22-08-2023,29-08-2023,30-08-2023,Sim
+0,FB,Robo,Wap,Matheus Rosa,Concluído,0,24-08-2023,27-09-2023,Sim
+04-08-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,04-08-2023,11-08-2023,Sim
+04-08-2023,FB,Notebook,Dell,Robson,Concluído,0,18-08-2023,18-08-2023,Sim
+04-08-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,04-08-2023,04-08-2023,Sim
+04-08-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,21-08-2023,21-08-2023,Sim
+04-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,0,30-08-2023,25-09-2023,Sim
+04-08-2023,GB,Microondas,Midea,Thiago,Concluído,15-08-2023,17-08-2023,29-08-2023,Sim
+04-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,29-08-2023,30-08-2023,01-09-2023,Sim
+04-08-2023,FB,Fritadeira,Midea,Thiago,Sem Defeito,0,0,16-08-2023,Não
+04-08-2023,FB,Lavadora,Panasonic,Cvg,Concluído,0,17-08-2023,17-08-2023,Sim
+04-08-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,0,09-08-2023,Sim
+07-08-2023,FON ,Lavadora,Panasonic,Luiz / Robson,Concluído,0,11-08-2023,11-08-2023,Sim
+07-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,16-08-2023,18-08-2023,0,Sim
+07-08-2023,FB,Purificador,Midea,Thiago/Robson,Concluído,0,05-10-2023,09-10-2023,Sim
+07-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,16-08-2023,18-08-2023,21-08-2023,Sim
+07-08-2023,GB,Extratora,Wap,Matheus Rosa,Concluído,16-08-2023,18-08-2023,18-08-2023,Sim
+07-08-2023,GB,Micro-Ondas,Panasonic,Thiago,Concluído,0,17-08-2023,21-08-2023,Sim
+07-08-2023,FB,Purificador,Midea,Thiago,Concluído,0,26-09-2023,26-09-2023,Sim
+07-08-2023,GB,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,16-08-2023,18-08-2023,18-08-2023,Sim
+07-08-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,11-08-2023,14-08-2023,Sim
+07-08-2023,FB,Fritadeira,Midea,Thiago,Sem Conserto,0,0,14-08-2023,Não
+07-08-2023,FB ,Robo,Midea,Matheus Rosa,Concluído,0,24-08-2023,14-09-2023,Sim
+07-08-2023,GB,Extratora,Midea,Matheus Rosa,Concluído,11-08-2023,14-08-2023,24-08-2023,Sim
+08-08-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,15-08-2023,Não
+08-08-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,18-08-2023,18-08-2023,Sim
+08-08-2023,GON ,Lava E Seca,Midea,Luiz Guilherme,Concluído,16-08-2023,30-08-2023,30-08-2023,Sim
+08-08-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,23-08-2023,23-08-2023,Sim
+08-08-2023,GON,Refrigerador,Panasonic,Luiz E Cvg,Concluído,0,10-08-2023,10-08-2023,Sim
+08-08-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,0,10-08-2023,10-08-2023,Sim
+08-08-2023,GON,0,0,0,0,0,0,0,0
+09-08-2023,GON,Lava E Seca,Midea,Cvg,Sem Conserto,25-10-2024,0,19-01-2023,Não
+09-08-2023,GON ,Lavadora,Panasonic,Liiz E Cvg,Concluído,0,10-08-2023,10-08-2023,Sim
+09-08-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,22-09-2023,27-09-2023,27-09-2023,Sim
+09-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,16-08-2023,0,0,0
+09-08-2023,GON,Lavadora,Panasonic,Robson E Luiz,Concluído,0,11-08-2023,11-08-2023,Sim
+09-08-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,15-08-2023,15-08-2023,Sim
+09-08-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,15-08-2023,15-08-2023,Sim
+09-08-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,0,16-08-2023,16-08-2023,Sim
+09-08-2023,GON,Lava E Seca,Midea,Cvg,Cancelado,0,0,22-08-2023,Não
+10-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,16-08-2023,18-08-2023,21-08-2023,Sim
+10-08-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,21-08-2023,22-08-2023,Sim
+10-08-2023,GON,Evaporadora,Daikin,Luiz Guilherme,Concluído,0,18-08-2023,18-08-2023,Sim
+10-08-2023,GON ,Refrigerador,Panasonic,Luiz E Cvg,Concluído,0,10-08-2023,10-08-2023,Sim
+10-08-2023,GON,Panela,Midea,Cvg / Thiago,Concluído,18-09-2023,19-09-2023,09-10-2023,Sim
+11-08-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Troca,0,0,21-09-2023,Não
+11-08-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,21-08-2023,21-08-2023,Sim
+11-08-2023,FB,Microondas,Midea,Thiago,Descarte,0,0,06-12-2023,Não
+11-08-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,05-09-2023,05-09-2023,Sim
+11-08-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,11-08-2023,11-08-2023,Sim
+11-08-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,17-08-2023,17-08-2023,Sim
+11-08-2023,FON,Refrigerador,Panasonic,Cvg / Luiz,Concluído,0,15-08-2023,15-08-2023,Sim
+14-08-2023,GON,Refrigerador,Panasonic,Cvg / Luiz,Concluído,0,17-08-2023,17-08-2023,Sim
+14-08-2023,GON,Lavadora,Panasonic,Cvg / Luiz,Concluído,0,15-08-2023,15-08-2023,Sim
+14-08-2023,GON,Lava E Seca,Midea,Cvg / Luiz,Concluído,0,17-08-2023,17-08-2023,Não
+14-08-2023,GON,Lavadora,Panasonic,Cvg / Luiz,Concluído,0,15-08-2023,15-08-2023,Sim
+14-08-2023,FON,Lava E Seca,Midea,0,Cancelada,0,0,16-08-2023,Não
+14-08-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,0,01-09-2023,Não
+14-08-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,24-08-2023,24-08-2023,Sim
+14-08-2023,FB,Robo,Wap,Matheus/Thiago,Concluído,0,24-08-2023,29-08-2023,Sim
+14-08-2023,GON,Lava E Seca,Midea,Luiz / Robson,Concluído,0,16-08-2023,16-08-2023,Sim
+14-08-2023,FB,Microondas,Panasonic,Thiago,Concluído,0,22-08-2023,24-08-2023,Sim
+14-08-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,21-08-2023,21-08-2023,Sim
+14-08-2023,GON,Lava E Seca,Midea,Cvg,Concluído,23-08-2023,28-08-2023,28-08-2023,Sim
+15-08-2023,GB,Robo,Wap,Matheus Rosa,17/08/2023,0,24-08-2023,28-08-2023,Sim
+15-08-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,18-08-2023,21-08-2023,24-08-2023,Sim
+15-08-2023,GB,Lava E Seca,Midea,Cvg / Luiz,Concluído,0,0,16-08-2023,Sim
+15-08-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,22-09-2023,27-09-2023,27-09-2023,Sim
+15-08-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,18-08-2023,Não
+15-08-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,17-08-2023,17-08-2023,Sim
+15-08-2023,GB,Aspirador,Wap,Thiago,Concluído,25-08-2023,28-08-2023,28-08-2023,Sim
+15-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,0,06-09-2023,12-09-2023,Sim
+16-08-2023,GON,Lavadora,Panasonic,0,"Canc,/Duplicidade",0,0,0,Não
+16-08-2023,FON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,18-08-2023,18-08-2023,Sim
+16-08-2023,GON,Forno Elétrico,Midea,Cvg / Robson,Concluído,0,17-08-2023,17-08-2023,Sim
+16-08-2023,GB,Unidade Evaporadora,Daikin,0,Canc./Duplicidade,0,0,16-08-2023,Não
+16-08-2023,GB,Aspirador,Wap,Thiago,Concluído,0,22-08-2023,23-08-2023,Sim
+16-08-2023,GB,Aspirador,Wap,Thiago,Concluído,15-08-2023,17-08-2023,18-08-2023,Sim
+16-08-2023,GB,Aspirador,Wap,Thiago/Matheus,Concluído,28-08-2023,30-08-2023,05-09-2023,Sim
+16-08-2023,FB,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,29-08-2023,29-08-2023,Sim
+17-08-2023,GB,Microondas,Midea,Thiago,Conlcuido,0,05-09-2023,12-09-2023,Sim
+17-08-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,21-08-2023,21-08-2023,Sim
+17-08-2023,GB,Aspirador Vertical,Midea,Thiago / Matheus Rosa,Concluído,0,29-09-2023,11-10-2023,Sim
+17-08-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,13-09-2023,20-09-2023,Sim
+17-08-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,17-08-2023,17-08-2023,Sim
+17-08-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,23-08-2023,23-08-2023,Sim
+17-08-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,23-08-2023,23-08-2023,Sim
+18-08-2023,GS,Refrigerador,Panasonic,0,0,0,0,0,0
+18-08-2023,GB,Robo,Wap,Thiago,Decarte,0,0,12-12-2023,Não
+18-08-2023,GB,Microondas,Panasonic,Thiago,Concluído,0,25-08-2023,25-08-2023,Sim
+18-08-2023,GB,Lavadoura,Midea,Robson,Concluído,0,12-09-2023,15-09-2023,Sim
+18-08-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,29-08-2023,22-08-2023,22-08-2023,Sim
+18-08-2023,GON,Cooktop,Midea,Cvg,Concluído,0,21-08-2023,21-08-2023,Não
+21-08-2023,GB,Microondas,Midea,Thiago,Concluído,0,22-08-2023,24-08-2023,Sim
+21-08-2023,FB,Frigobar,Midea,Luiz Guilherme,Concluído,0,13-09-2023,15-09-2023,Não
+21-08-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,05-09-2023,05-09-2023,Sim
+21-08-2023,GON,Evaporadora,Daikin,Luiz Guilherme,Concluído,28-08-2023,13-09-2023,13-09-2023,Sim
+21-08-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,23-08-2023,23-08-2023,Sim
+21-08-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,22-08-2023,22-08-2023,Sim
+21-08-2023,GON ,Lavadora,Midea,Luiz Guilherme,Concluído,0,22-08-2023,22-08-2023,Não
+21-08-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,24-08-2023,24-08-2023,Sim
+21-08-2023,FON,Refrigerador,Panasonic,Cvg,Cancelado,0,0,06-09-2023,Não
+22-08-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,31-08-2023,31-08-2023,Sim
+22-08-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,0,25-08-2023,Não
+22-08-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,24-08-2023,24-08-2023,Sim
+22-08-2023,GB,Chaleira,Elgin,0,0,0,0,0,0
+22-08-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,24-08-2023,24-08-2023,Sim
+22-08-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,01-09-2023,01-09-2023,12-09-2023,Sim
+22-08-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,11-09-2023,0,22-09-2023,Sim
+22-08-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,14-09-2023,22-09-2023,Sim
+22-08-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,14-09-2023,14-09-2023,Sim
+23-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,0,11-09-2023,28-09-2023,Sim
+23-08-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,23-08-2023,23-08-2023,Sim
+23-08-2023,GON,Lava E Seca,Midea,Robson / Cvg / Luiz,Concluído,15-09-2023,18-09-2023,18-09-2023,Sim
+23-08-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,24-08-2023,24-08-2023,Sim
+23-08-2023,GON,Secadora,Midea,Cvg,Concluído,0,0,31-08-2023,Não
+23-08-2023,GON,Refrigerador,Panasonic,Robson E Cvg,Concluído,0,28-08-2023,28-08-2023,Sim
+23-08-2023,GB,Robo,Wap,0,0,0,0,0,0
+23-08-2023,FB,Microndas,Midea,Thiago,Concluído,0,24-08-2023,28-08-2023,Sim
+23-08-2023,FB,Refrigerador,Panasonic,Cvg,Concluído,0,01-09-2023,01-09-2023,Sim
+23-08-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,12-09-2023,12-09-2023,Sim
+23-08-2023,FB,Panela De Pressão,Midea,Thiago,Concluído,0,06-09-2023,06-09-2023,Sim
+24-08-2023,FB,Robo,Wap,Matheus Rosa,Sem Conserto,0,0,01-09-2023,Não
+24-08-2023,GB,Aspirador,Midea,0,Troca,0,0,26-09-2023,Não
+24-08-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,25-08-2023,25-08-2023,Sim
+24-08-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,15-09-2023,19-09-2023,Sim
+24-08-2023,GB,Micro Ondas,Midea,Thiago,Concluído,0,02-10-2023,05-10-2023,Sim
+24-08-2023,FB,Robo,Wap,Matheus Rosa,Sem Conserto,0,0,31-08-2023,Não
+24-08-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,29-08-2023,30-08-2023,01-09-2023,Sim
+24-08-2023,GB,Microondas,Panasonic,Thiago,Concluído,31-08-2023,04-09-2023,12-09-2023,Sim
+25-08-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,30-08-2023,30-08-2023,Sim
+25-08-2023,FB,Purificador,Midea,0,0,0,0,0,0
+25-08-2023,GB,Robo,Midea,Matheus Rosa,Concluído,17-10-2023,18-10-2023,10-11-2023,Sim
+25-08-2023,GB,Robo,Wap,Matheus Rosa,Concluído,30-08-2023,31-08-2023,27-09-2023,Sim
+25-08-2023,GB,Robo,Wap,Thiago,Concluído,06-09-2023,11-09-2023,12-09-2023,Sim
+25-08-2023,GON,Ar Condicionado,Daikin,Luiz Guilherme,Não Concluido,0,0,10-10-2023,Não
+25-08-2023,FB,Microondas,Pansonic,Robson,Sem Conserto,0,0,12-09-2023,Não
+25-08-2023,FB,Micro-Ondas,Midea,Thiago,Sem Defeito,0,0,01-09-2023,Não
+25-08-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,11-09-2023,11-09-2023,Sim
+28-08-2023,FON,Lavadora,Panasonic,Cvg / Robson,Concluído,0,28-08-2023,28-08-2023,Sim
+28-08-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,14-09-2023,22-09-2023,Sim
+28-08-2023,GON,Refrigerador,Panasonic,Cvg E Luiz Guilherme,Concluído,11-09-2023,02-10-2023,02-10-2023,Sim
+28-08-2023,GON,Cooktop,Midea,Luiz Guilherme,Concluído,0,04-09-2023,04-09-2023,Sim
+28-08-2023,FB,Robo,Midea,Ressarcimento,Concluído,0,0,28-08-2023,Não
+28-08-2023,GON,Lavadora,Panasonic,Cvg E Luiz,Concluído,0,31-08-2023,31-08-2023,Sim
+28-08-2023,GB,Robo,Wap,0,0,0,0,0,0
+29-08-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,29-09-2023,03-10-2023,Sim
+29-08-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,0,31-08-2023,31-08-2023,Sim
+29-08-2023,GB,Aspirador,Wap,Thiago,Concluído,06-09-2023,11-09-2023,20-09-2023,Sim
+29-08-2023,GS,Robo,Wap,Robson,Concluído,0,05-09-2023,14-09-2023,Sim
+29-08-2023,GON,Lavadora,Panasonic,Cvg E Luiz,Concluído,0,31-08-2023,31-08-2023,Sim
+29-08-2023,GB,Aspirador,Wap,Thiago,Concluído,11-09-2023,12-09-2023,19-09-2023,Sim
+29-08-2023,GB,Microondas,Midea,Thiago,Concluído,06-09-2023,11-09-2023,14-09-2023,Sim
+29-08-2023,FB,Aspirador,Wap,Matheus Rosa,Sem Conserto,0,0,02-10-2023,Não
+29-08-2023,GB,Microondas,Panasonic,Thiago,Concluído,11-09-2023,12-09-2023,13-09-2023,Sim
+29-08-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,30-08-2023,30-08-2023,Sim
+29-08-2023,FB,Robo,Wap,Matheus,Concluído,0,14-09-2023,20-09-2023,Sim
+0,0,0,0,0,0,0,0,0,0
+29-08-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,01-09-2023,01-09-2023,Sim
+0,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,01-09-2023,0,Sim
+30-08-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,11-09-2023,14-09-2023,14-09-2023,Sim
+30-08-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,05-09-2023,Não
+30-08-2023,GON,Lavadora,Panasonic,Cvg E Luiz,Perda De Garantia,0,20-09-2023,20-09-2023,Sim
+30-08-2023,GB,Robo,Midea,Matheus Rosa,Concluído,17-10-2023,23-10-2023,24-10-2023,Sim
+30-08-2023,FB,Ar Condicionado,Midea,Cvg,Concluído,0,21-02-2024,21-02-2024,Sim
+30-08-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,11-09-2023,11-09-2023,Não
+30-08-2023,GB,Micro Ondas,Midea,Thiago,Concluído,06-09-2023,11-09-2023,13-09-2023,Sim
+30-08-2023,FB,Exaustor,Midea,Robson/Cvg,Descarte,0,0,0,0
+31-08-2023,FON,Lava E Seca,Midea,Luiz E Robson,Concluído,0,01-09-2023,01-09-2023,Sim
+31-08-2023,FB,Ar Condicionado,Midea,Luiis Guilherme,Sem Conserto,0,0,22-09-2023,Não
+0,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,04-09-2023,04-09-2023,Sim
+01-09-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,11-09-2023,11-09-2023,Sim
+01-09-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,04-09-2023,04-09-2023,Sim
+0,GON,Micro-Ondas,Midea,Thiago,Concluído,26-09-2023,29-09-2023,03-10-2023,Sim
+01-09-2023,GON,Refrigerador,Midea,Luiz Guilherme / Cvg,Concluído,29-09-2023,02-10-2023,03-10-2023,Sim
+01-09-2023,GON,Cooktop,Midea,Cvg,Concluído,0,15-09-2023,15-09-2023,Não
+01-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,13-09-2023,19-10-2023,Sim
+01-09-2023,GS,Lavadora,Panasonic,Cvg,Concluído,0,04-09-2023,04-09-2023,Sim
+01-09-2023,GS,Lava E Seca,Midea,Cvg,Concluído,0,06-09-2023,06-09-2023,Sim
+01-09-2023,FB,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,12-09-2023,15-09-2023,Sim
+0,GON,Refrigerador,Panasonic,Cvg,Troca,0,0,0,Não
+04-09-2023,FB,Micro-Ondas,Midea,Thiago,Sem Conserto,0,0,13-09-2023,Não
+04-09-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,05-09-2023,05-09-2023,Sim
+04-09-2023,GON,Evaporadora,Daikin,0,Sem Análise,0,0,04-10-2023,Não
+04-09-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,04-09-2023,04-09-2023,Sim
+04-09-2023,GS,Microndas,Panasonic,Thiago,Concluído,0,04-09-2023,04-09-2023,Sim
+04-09-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,06-09-2023,06-09-2023,Sim
+04-09-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,14-09-2023,14-09-2023,Sim
+04-09-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,04-09-2023,04-09-2023,Sim
+04-09-2023,GB,Robo,Wap,Matheus Rosa,Concluído,11-09-2023,12-09-2023,21-09-2023,Sim
+04-09-2023,GB,Robo,Midea,Matheu Rosa,Concluído,17-10-2023,20-10-2023,24-10-2023,Sim
+04-09-2023,GB,Panela De Pressão,Midea,Thiago,Concluído,11-09-2023,12-09-2023,15-09-2023,Sim
+04-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,11-09-2023,14-09-2023,14-09-2023,Sim
+04-09-2023,FB,Filtro De Agua,Midea,Thiago/Robson,Concluído,0,25-09-2023,29-09-2023,Sim
+04-09-2023,GB,Robo,Wap,Matheus Rosa,Concluído,0,11-09-2023,06-10-2023,Sim
+05-09-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,05-09-2023,05-09-2023,Sim
+05-09-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,19-10-2023,23-10-2023,Sim
+0,GB,Robo,Wap,0,0,0,0,0,0
+05-09-2023,GB,Ar Condicionado,Midea,0,0,0,0,0,0
+05-09-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,14-09-2023,14-09-2023,Sim
+05-09-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,0,Não
+05-09-2023,FB,Robo,Midea,Thiago,Concluído,0,15-09-2023,10-10-2023,Sim
+06-09-2023,FB ,Lavadora,Panasonic,Cvg E Robson,0,0,0,0,0
+06-09-2023,FB,Refrigerador,Panasonic,Cvg,Concluído,0,19-09-2023,19-09-2023,Sim
+06-09-2023,GB,0,0,0,0,0,0,0,0
+06-09-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,0,Não
+06-09-2023,GB,Robo,Wap,Thiago / Matheus Rosa,Concluído,0,26-09-2023,26-09-2023,Sim
+06-09-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,12-09-2023,12-09-2023,Sim
+06-09-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,15-09-2023,15-09-2023,Sim
+11-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,21-09-2023,21-09-2023,Sim
+11-09-2023,FB,Aspirador,Midea,Matheus Rosa,Concluído,0,19-09-2023,26-09-2023,Sim
+11-09-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Troca,0,0,23-10-2023,Não
+11-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,14-09-2023,14-09-2023,Não
+11-09-2023,GB,Purificador,Midea,Robson/Thiago,Concluído,0,20-09-2023,21-09-2023,Sim
+11-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,15-09-2023,15-09-2023,Sim
+11-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,14-09-2023,14-09-2023,Sim
+11-09-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,16-09-2023,16-09-2023,Sim
+11-09-2023,GON,Lava E Seca,Midea,Robson,Concluído,0,11-09-2023,11-09-2023,Sim
+11-09-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,17-10-2023,18-10-2023,Sim
+11-09-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,16-09-2023,16-09-2023,Sim
+12-09-2023,FON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,15-09-2023,15-09-2023,Sim
+12-09-2023,GB,Robo,Midea,Matheus Rosa,Concluído,17-10-2023,24-10-2023,24-10-2023,Sim
+12-09-2023,GON,Lavadora,Midea,Luis Guilherme,Concluído,0,19-09-2023,19-09-2023,Sim
+12-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,0,20-09-2023,Sim
+12-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,18-09-2023,29-09-2023,Sim
+12-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,19-09-2023,19-09-2023,Sim
+12-09-2023,GON,Refrigerador,Panasonic,Cvg,Perda De Garantia,0,21-09-2023,21-09-2023,Não
+12-09-2023,GON ,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,19-09-2023,19-09-2023,Sim
+12-09-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,19-09-2023,09-10-2023,Sim
+13-09-2023,FB,Aquecedor,Midea,Tiago,Concluído,0,15-09-2023,20-09-2023,Sim
+13-09-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,14-09-2023,14-09-2023,Sim
+13-09-2023,GON,Lava Louça,Midea,Luiz Guilherme,Concluído,29-09-2023,02-10-2023,02-10-2023,Sim
+13-09-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,0,Não
+13-09-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,22-09-2023,29-09-2023,Sim
+13-09-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,18-09-2023,18-09-2023,Sim
+13-09-2023,GON,Cooktop Indução,Panasonic,Cvg,Concluído,0,22-09-2023,22-09-2023,Não
+13-09-2023,GON,Lava Louças,Panasonic,Cvg,Concluído,0,22-09-2023,22-09-2023,Sim
+13-09-2023,GON,Micro-Ondas Embutir,Panasonic,Cvg,Concluído,0,22-09-2023,22-09-2023,Sim
+14-09-2023,GON,Cooktop,Midea,Cvg,Sem Defeito,0,0,10-10-2023,Não
+14-09-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,18-09-2023,18-09-2023,Sim
+14-09-2023,GON,Refrigerador,Panasonic,Luiz Guilherme,Sem Defeito,0,0,22-09-2023,Não
+14-09-2023,FON,Coifa,Panasonic,Cvg,Cancelado,0,0,27-09-2023,Não
+14-09-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,20-09-2023,20-09-2023,Sim
+14-09-2023,GB,Robo,Wap,Matheus Rosa,Concluído,22-09-2023,26-09-2023,02-10-2023,Sim
+14-09-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,29-09-2023,29-09-2023,Sim
+14-09-2023,GB,Fritadeira,Midea,Thiago,Concluído,26-09-2023,05-10-2023,20-10-2023,Sim
+15-09-2023,FB,Microndas,Panasonic,0,Sem Conserto,0,0,08-11-2023,Não
+15-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,20-09-2023,28-09-2023,Sim
+15-09-2023,FB,Cooktop,Midea,Thiago /Robson,Concluído,0,20-09-2023,20-09-2023,Não
+15-09-2023,GB,Aspirador,Wap,Thiago/Matheus,Concluído,26-09-2023,29-09-2023,04-10-2023,Sim
+15-09-2023,FB,Refrigerador,Panasonic,Cvg,Concluído,0,22-09-2023,26-09-2023,Sim
+15-09-2023,GB,Robo,Wap,Matheus Rosa,Concluído,0,03-10-2023,06-10-2023,Sim
+15-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,25-09-2023,25-09-2023,Sim
+18-09-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,0,09-10-2023,24-10-2023,Sim
+18-09-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,18-09-2023,18-09-2023,Sim
+18-09-2023,GON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,22-09-2023,22-09-2023,Não
+18-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,19-09-2023,19-09-2023,Sim
+18-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,19-09-2023,19-09-2023,Sim
+18-09-2023,FB,Aspirador,Wap,Matheus Rosa,Concluído,0,19-09-2023,19-09-2023,Sim
+18-09-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,20-09-2023,20-09-2023,Sim
+18-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,28-09-2023,28-09-2023,Sim
+18-09-2023,GON,Lavadora,Panasonic,Cvg,Concluído,29-09-2023,07-10-2023,07-10-2023,Sim
+18-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,25-09-2023,05-10-2023,Sim
+18-09-2023,FB,Panela De Pressao,Midea,Thiago,Concluído,0,25-09-2023,28-09-2023,Sim
+18-09-2023,FB,Aspirador,Midea,Matheus Rosa,Concluído,0,09-10-2023,30-10-2023,Sim
+19-09-2023,FB,Microndas,Midea,Thiago,Concluído,0,25-09-2023,28-09-2023,Sim
+19-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,03-10-2023,20-10-2023,Sim
+19-09-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,21-09-2023,21-09-2023,Sim
+19-09-2023,GON,Climatizador,Midea,Thiago,Concluído,29-09-2023,02-10-2023,03-10-2023,Sim
+19-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,27-10-2023,17-11-2023,Sim
+19-09-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,02-10-2023,02-10-2023,Sim
+19-09-2023,GON,Lava Louça,Midea,0,0,0,0,0,0
+19-09-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,17-10-2023,20-10-2023,20-10-2023,Sim
+19-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Troca,06-11-2023,0,07-11-2023,Não
+19-09-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,26-09-2023,26-09-2023,Sim
+19-09-2023,GON,Secadora,Midea,Luiz Guilherme,Concluído,0,22-09-2023,22-09-2023,Não
+19-09-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,28-09-2023,28-09-2023,Sim
+20-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,03-10-2023,05-10-2023,Sim
+20-09-2023,GON,Ar Condicionado,Daikin,0,Sem Análise,0,0,04-10-2023,Não
+20-09-2023,GON,Ar Condicionado,Daikin,Cvg/ Luiz/ Robson,Concluído,0,30-11-2023,30-11-2023,Sim
+0,GON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,22-09-2023,22-09-2023,Não
+21-09-2023,GON,Congelador,Midea,Cvg / Luiz Guilherme,Sem Defeito,0,0,06-10-2023,Não
+21-09-2023,FB,Microndas,Panasonic,Thiago,Concluído,0,03-10-2023,18-10-2023,Não
+21-09-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,26-09-2023,26-09-2023,Sim
+21-09-2023,GON ,Lava E Seca,Midea,Robson E Cvg,Troca,20-09-2023,0,27-09-2023,Não
+21-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,02-10-2023,22-09-2023,22-09-2023,Sim
+21-09-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,24-09-2023,24-09-2023,Sim
+21-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,27-09-2023,27-09-2023,Não
+21-09-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,04-10-2023,17-10-2023,Sim
+21-09-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,0,Não
+21-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,08-11-2023,08-11-2023,Sim
+21-09-2023,FON,Ar Condicionado,Springer,Guilherme,Sem Conserto,0,0,18-10-2023,Não
+22-09-2023,GS,Purificador,Midea,Thiago/Robson,Concluído,0,27-09-2023,29-09-2023,Sim
+22-09-2023,FB,Micro-Ondas,Midea,Thiago,Concluído,0,27-09-2023,02-10-2023,Sim
+22-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,26-09-2023,26-09-2023,Sim
+22-09-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,20-10-2023,20-10-2023,Sim
+22-09-2023,GB,Robo,Midea,Matheus Rosa,Concluído,29-09-2023,02-10-2023,04-10-2023,Sim
+23-09-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,24-09-2023,24-09-2023,Sim
+25-09-2023,FB,Climatizador,Elgin,Thiago,Concluído,0,0,08-11-2023,Sim
+25-09-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,17-10-2023,27-10-2023,Sim
+25-09-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,29-09-2023,02-10-2023,16-10-2023,Sim
+25-09-2023,FB,Robo,Wap,0,0,0,0,0,0
+25-09-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,29-09-2023,02-10-2023,03-10-2023,Sim
+25-09-2023,GB,Robo,Wap,Matheus Rosa,Concluído,02-10-2023,04-10-2023,06-10-2023,Sim
+25-09-2023,GB,Refrigerador,Panasonic,Luiz,Concluído,0,28-09-2023,28-09-2023,Sim
+25-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,03-10-2023,03-10-2023,Sim
+25-09-2023,GON,Refrigerador,Panasonic,Cvg,Sem Defeito,0,0,30-09-2023,Não
+25-09-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,27-09-2023,27-09-2023,Sim
+25-09-2023,GON,Lavadora,Panasonic,Luiz,Sem Falha,0,0,28-09-2023,Não
+25-09-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,02/10/2023,0,02-10-2023,02-10-2023,Sim
+25-09-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,02-10-2023,04-10-2023,09-10-2023,Sim
+25-09-2023,GB,Robo,Wap,Matheus Rosa,Sem Conserto,0,0,08-01-2024,Não
+26-09-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,29-09-2023,Não
+26-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,28-09-2023,28-09-2023,Sim
+26-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,10-10-2023,16-10-2023,16-10-2023,Sim
+26-09-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Sem Falha,0,0,27-09-2023,Não
+26-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,05-10-2023,11-10-2023,Sim
+26-09-2023,GON,Refrigerador,Panasonic,Cvg / Luiz,Concluído,0,09-10-2023,09-10-2023,Sim
+26-09-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,27-09-2023,27-09-2023,Sim
+26-09-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,06-10-2023,09-10-2023,17-10-2023,Sim
+26-09-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,06-10-2023,09-10-2023,17-01-2023,Sim
+26-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,28-09-2023,03-10-2023,Sim
+26-09-2023,FB,Aspirador,Midea,Matheus Rosa,Concluído,0,05-10-2023,06-10-2023,Sim
+27-09-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,28-09-2023,28-09-2023,Sim
+27-09-2023,GB,Panela De Pressao,Midea,Thiago,Concluído,09-10-2023,10-10-2023,18-10-2023,Sim
+27-09-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,03-10-2023,09-10-2023,Sim
+27-09-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,07-10-2023,07-10-2023,Sim
+27-09-2023,FON,Ar Condicionado,Komeco,0,0,0,0,0,0
+27-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,29-09-2023,29-09-2023,Sim
+28-09-2023,FB,Robo,Wap,Matheus,Concluído,0,05-10-2023,16-11-2023,Sim
+28-09-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,03-10-2023,16-10-2023,Sim
+28-09-2023,GS,Aspirador,Midea,Robson,Concluído,0,16-10-2023,16-10-2023,Sim
+28-09-2023,FB,Robo,Midea,Matheus,Sem Conserto,0,0,02-10-2023,Não
+28-09-2023,FB,Robo,Midea,Matheus,Concluído,0,05-10-2023,11-10-2023,Sim
+28-09-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,03-10-2023,03-10-2023,Sim
+28-09-2023,GB,Micro-Ondas,Midea,0,0,0,0,0,0
+28-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,27-10-2023,27-10-2023,Sim
+29-09-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,0,21-10-2023,21-10-2023,Sim
+29-09-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,03-10-2023,03-10-2023,Sim
+29-09-2023,GB,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,03-10-2023,03-10-2023,Sim
+29-09-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,30-09-2023,30-09-2023,Sim
+29-09-2023,GB,Robo,Wap,Matheus Rosa,Concluído,17-10-2023,18-10-2023,29-11-2023,Sim
+02-10-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,31-10-2023,31-10-2023,Sim
+02-10-2023,FON,Lava Louça,Panasonic,Cvg,Concluído,0,26-01-2024,26-01-2024,Sim
+02-10-2023,FON,Lavadora,Panasonic,Luiz,Concluído,0,03-10-2023,03-10-2023,Sim
+02-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,05-10-2023,05-10-2023,Sim
+02-10-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,24-10-2023,24-10-2023,Sim
+02-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,0,03-10-2023,Sim
+02-10-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,0,05-10-2023,Não
+02-10-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,0,Não
+02-10-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,0,21-10-2023,21-10-2023,Sim
+02-10-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,0,07-10-2023,07-10-2023,Sim
+02-10-2023,GON,Lava E Seca,Midea,Lava E Seca,Concluído,0,10-10-2023,10-10-2023,Não
+02-10-2023,GS,Purificador,Midea,Thiago,Concluído,0,24-10-2023,25-10-2023,Sim
+02-10-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,06-11-2023,06-11-2023,Sim
+02-10-2023,GON,Lavadora,Midea,Cvg / Luiz Guilherme,Concluído,0,26-10-2023,30-10-2023,Sim
+02-10-2023,GON,Lavadora,Midea,Luiz Guilherme,Concluído,0,06-10-2023,06-10-2023,Sim
+02-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme / Cvg,Concluído,0,05-10-2023,05-10-2023,Não
+03-10-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,23-10-2023,27-10-2023,27-10-2023,Sim
+03-10-2023,GON,Frigobar,Midea,Luiz Guilherme,Concluído,0,04-10-2023,04-10-2023,Não
+03-10-2023,GON,Frigobar,Midea,Luiz Guilherme,Concluído,0,04-10-2023,04-10-2023,Sim
+03-10-2023,FON,Video Wall,0,Cvg,Concluído,0,06-10-2023,06-10-2023,Sim
+03-10-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,17-10-2023,18-10-2023,30-10-2023,Sim
+03-10-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,09-10-2023,09-10-2023,Sim
+03-10-2023,FON,Lavadora,Panasonic,0,Cancelada,0,0,10-10-2023,Não
+03-10-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+03-10-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,24-10-2023,21-11-2023,Sim
+03-10-2023,GON,Refrigerador,Midea,Cvg,Concluído,0,11-10-2023,11-10-2023,Sim
+03-10-2023,GON,Frigobar,Midea,Luiz Guilherme,Concluído,18-10-2023,27-10-2023,27-10-2023,Sim
+03-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,07-10-2023,07-10-2023,Sim
+03-10-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,09-10-2023,09-10-2023,Sim
+04-10-2023,FON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,04-10-2023,04-10-2023,Sim
+04-10-2023,GON,Refrigerador,Panasonic,Luiz Guilherme,10/10-Sob Análise Sac,0,0,0,0
+04-10-2023,GON ,Lavadora,Panasonic,Luiz E Cvg,Concluído,0,21-10-2023,21-10-2023,Sim
+04-10-2023,GON,Lavadora,Panasonic,"Luiz, Cvg E Robson",Concluído,17-10-2023,18-10-2023,18-10-2023,Sim
+04-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,11-10-2023,11-10-2023,Sim
+05-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,10-10-2023,10-10-2023,Sim
+05-10-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,11-10-2023,11-10-2023,Sim
+05-10-2023,FB,Adega,Midea,Cvg,Concluído,0,0,24-10-2023,Não
+05-10-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,10-10-2023,10-10-2023,Sim
+05-10-2023,GON ,Refrigerador,Midea,Robson / Cvg,Troca,0,0,22-11-2023,Não
+06-10-2023,GON,Refrigerador,Panasonic,Cvg,0,0,03-11-2023,03-11-2023,Sim
+06-10-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,10-10-2023,10-10-2023,Sim
+06-10-2023,FB,Climatizador,Springer,0,0,0,0,0,0
+06-10-2023,GB,Robo,Wap,Matheus Rosa,Concluído,17-10-2023,18-10-2023,25-10-2023,Sim
+06-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,10-10-2023,10-10-2023,Sim
+06-10-2023,GB,Lavadora,Midea,Cvg,Concluído,0,05-11-2023,07-11-2023,Sim
+09-10-2023,GS,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,16-10-2023,16-10-2023,Sim
+09-10-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,20-10-2023,24-10-2023,24-10-2023,Sim
+09-10-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,18-10-2023,20-10-2023,23-10-2023,Sim
+09-10-2023,GON,Lava E Seca,Midea,Cvg/ Robson,Concluído,0,30-11-2023,30-11-2023,Sim
+09-10-2023,FB,Robo,Wap,Matheus Rosa,Sem Consero,0,0,08-11-2023,Não
+09-10-2023,GON,Fechadura Digital,Midea,Cvg / Robson / Luiz,Concluído,16-11-2023,24-11-2023,24-11-2023,Sim
+09-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme / Cvg,Concluído,24-10-2023,30-10-2023,30-10-2023,Sim
+09-10-2023,FON,Lavadora,Panasonic,Luiz,Concluído,0,11-10-2023,11-10-2023,Sim
+09-10-2023,GB,Robo,Midea,Matheus Rosa,Concluído,01-11-2023,07-11-2023,10-11-2023,Sim
+09-10-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,03-11-2023,03-11-2023,Sim
+10-10-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,18-10-2023,24-10-2023,Sim
+10-10-2023,GS,Refrigerador,Panasonic,Cvg,Concluído,0,11-10-2023,11-10-2023,Sim
+11-10-2023,FB,Micro-Ondas,Midea,Thiaigo,Concluído,0,17-10-2023,25-10-2023,Sim
+11-10-2023,FON,Ar Condicionado,Springer,Cvg/Robson,Cancelado,0,0,15-12-2023,Não
+11-10-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,03-11-2023,Não
+11-10-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,27-10-2023,27-10-2023,Sim
+11-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,16-10-2023,16-10-2023,Sim
+11-10-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,10-11-2023,01-12-2023,01-12-2023,Sim
+11-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,21-10-2023,21-10-2023,Sim
+16-10-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,20-10-2023,Não
+16-10-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,24-10-2023,30-10-2023,Sim
+16-10-2023,GB,Micro Ondas,Midea,Thiago,Concluído,24-10-2023,27-10-2023,07-11-2023,Sim
+16-10-2023,GB,Robo,Wap,Matheus Rosa,Concluído,18-10-2023,20-10-2023,23-10-2023,Sim
+16-10-2023,FB,Refrigerador,Panasonic,Luiz,Concluído,0,06-11-2023,06-11-2023,Sim
+16-10-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,08-11-2023,28-11-2023,Sim
+16-10-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,17-10-2023,17-10-2023,Sim
+16-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,21-10-2023,21-10-2023,Sim
+16-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,27-10-2023,27-10-2023,Sim
+16-09-2023,FON,Ar Condicionado,Futjisu,0,Cancelado,0,0,16-10-2023,Não
+16-09-2023,GON,Cooktop Indução,Panasonic,Cvg,Concluído,0,19-10-2023,19-10-2023,Sim
+16-10-2023,GON ,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,17-10-2023,17-10-2023,Sim
+16-10-2023,GON,Cooktop,Midea,Cvg,Concluído,0,25-10-2023,01-11-2023,Sim
+16-10-2023,FON,Ar Condicionado,Fujtisu,Luiz,Concluído,0,25-10-2023,25-10-2023,Sim
+16-10-2023,FON,Lavadora,Panasonic,0,0,0,0,0,0
+16-10-2023,GON,Refrigerador,Panasonic,Cvg,Troca,0,0,08-11-2023,Não
+16-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,18-10-2023,18-10-2023,Sim
+16-10-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,10-11-2023,14-11-2023,16-11-2023,Sim
+16-10-2023,FB,Nootbok,Acer,Robson,Concluído,0,31-10-2023,31-10-2023,Sim
+16-10-2023,GB,Aspirador,Wap,Matheus Rosa,Sem Conserto,0,0,07-11-2023,Não
+16-10-2023,GB,Robo,Wap,Matheus Rosa,Concluído,20-10-2023,23-10-2023,24-10-2023,Sim
+17-10-2023,GB,Aspirador,Wap,Thiago,Concluído,20-10-2023,23-10-2023,31-10-2023,Sim
+17-10-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,17-10-2023,17-10-2023,Sim
+17-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,25-10-2023,25-10-2023,Sim
+17-10-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,18-10-2023,Não
+17-10-2023,GON,Frigobar,Midea,Luiz Guilherme,Sem Defeito,0,0,18-10-2023,Não
+17-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,03-11-2023,07-11-2023,07-11-2023,Sim
+17-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,25-10-2023,27-10-2023,27-10-2023,Sim
+17-10-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,13-12-2023,19-12-2023,Sim
+17-10-2023,GB,Robo,Midea,Matheus Rosa,Concluído,05-12-2023,05-12-2023,06-12-2023,Sim
+17-10-2023,GB,Fritadeira,Midea,Thiago,Concluído,25-10-2023,26-10-2023,08-11-2023,Sim
+17-10-2023,FB,Forno Elétrico,Midea,Cvg,Concluído,0,06-11-2023,08-11-2023,Sim
+17-10-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,30-10-2023,01-11-2023,01-11-2023,Sim
+17-10-2023,FON,Lava E Seca,Midea,Cvg,Sem Defeito,0,0,18-10-2023,Não
+18-10-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,18-10-2023,18-10-2023,Sim
+18-10-2023,FON,Frigobar,Midea,Cvg,Concluído,0,19-10-2023,19-10-2023,Sim
+18-10-2023,GB,Frigobar,Midea,Luiz Guilherme,Concluído,0,26-10-2023,07-11-2023,Sim
+18-10-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,21-10-2023,21-10-2023,Sim
+18-10-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,25-10-2023,25-10-2023,22-11-2023,Sim
+18-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,24-10-2023,24-10-2023,Sim
+18-10-2023,GS,Robo,Midea,Matheus Rosa,Concluído,0,31-10-2023,01-11-2023,Sim
+18-10-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,18-10-2023,19-10-2023,Sim
+18-10-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,27-10-2023,27-10-2023,Sim
+19-10-2023,GON,Cooktop,Midea,Robson / Cvg,Concluído,06-11-2023,14-11-2023,14-11-2023,Sim
+19-10-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,21-11-2023,17-11-2023,17-11-2023,Sim
+19-10-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,01-11-2023,06-11-2023,Sim
+19-10-2023,FB,Robo,Midea,Matheus Rosa,Concluído,0,03-11-2023,06-11-2023,Sim
+19-10-2023,FB,Robo,Wap,Matheus Rosa,Sem Conserto,0,16-11-2023,23-11-2023,Não
+19-10-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,23-11-2023,27-11-2023,Sim
+19-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,01-11-2023,24-10-2023,24-10-2023,Sim
+20-10-2023,FB,Robo,Wap,Matheus R,Descarte,0,0,12-12-2023,Não
+20-10-2023,GS,Refrigerador,Panasonic,Cvg,Concluído,0,24-10-2023,24-10-2023,Sim
+20-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,27-10-2023,01-11-2023,01-11-2023,Sim
+20-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,24-10-2023,24-10-2023,Sim
+20-10-2023,GB,Micro Ondas,Midea,Thiago,Concluído,03-11-2023,10-11-2023,0,0
+20-10-2023,FON,Refrigerador,Panasonic,Cvg / Robson,Sem Conserto,0,0,14-12-2023,Não
+20-10-2023,GON,Lavadora,Panasonic,0,0,0,0,0,0
+23-10-2023,GS,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,27-10-2023,27-10-2023,Sim
+23-10-2023,FB,Cpu,Lenovo,Robson,Sem Defeito,0,0,01-11-2023,Não
+23-10-2023,FB,Forno Elétrico,Midea,0,0,0,0,0,0
+23-10-2023,FB,Lava E Seca,Samsung,0,0,0,0,0,0
+23-10-2023,FB,Cafeteira,Nespresso,0,0,0,0,0,0
+23-10-2023,FB,Refrigerador,Panasonic,0,0,0,0,0,0
+23-10-2023,FB,Lava Louça,Brastemp,0,0,0,0,0,0
+23-10-2023,FB,Cooktop,Midea,0,0,0,0,0,0
+23-10-2023,FB,Microondas,Midea,0,0,0,0,0,0
+23-10-2023,FB,Ar Condicionado,Samsung,0,0,0,0,0,0
+23-10-2023,FB,Caixa De Som,0,0,0,0,0,0,0
+23-10-2023,FB,Televisor,Lg,0,0,0,0,0,0
+23-10-2023,GS,Robo,Wap,Matheus Rosa/Thiago,Concluído,0,10-11-2023,14-11-2023,Sim
+23-10-2023,GS,Refrigerador,Panasonic,Cvg,Sem Conserto,0,0,27-10-2023,Não
+23-10-2023,GON,Lavadora,Panasonic,"Luiz, Robson E Cvg",Concluído,10-11-2023,17-11-2023,17-11-2023,Sim
+23-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,01-11-2023,13-11-2023,13-11-2023,Sim
+23-10-2023,GON,Lavadora,Midea,Luiz Guilherme,Concluído,0,27-10-2023,27-10-2023,Sim
+23-10-2023,FON,Ar Condicionado,Carrier,Cvg,Sem Conserto,0,0,16-11-2023,Não
+23-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,24-10-2023,24-10-2023,Sim
+23-10-2023,FB,Climatizador,Springer,Thiago,Concluído,0,03-11-2023,20-12-2023,Sim
+23-10-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,03-11-2023,09-11-2023,Sim
+23-10-2023,GB,Robo,Wap,Thiago/Matheus,Concluído,27-10-2023,30-10-2023,03-11-2023,Sim
+23-10-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,27-10-2023,27-10-2023,Sim
+24-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,24-10-2023,24-10-2023,Sim
+24-10-2023,GB,Micro Ondas,Midea,0,0,0,0,0,0
+24-10-2023,GB,Robo,Midea,Thiago,Concluído,17-11-2023,22-11-2023,23-11-2023,Sim
+24-10-2023,GB,Robo,Wap,Matheus Rosa,Concluído,27-10-2023,30-10-2023,06-11-2023,Sim
+24-10-2023,FON,Refrigerador,Midea,Cvg,Concluído,0,28-10-2023,28-10-2023,Sim
+24-10-2023,GON,Lavadora,Midea,Luiz Guilherme,Concluído,0,27-10-2023,27-10-2023,Sim
+24-10-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,30-10-2023,30-10-2023,Sim
+24-10-2023,GB,Robo,Wap,Matheus Rosa,Concluído,31-10-2023,31-10-2023,03-11-2023,Sim
+24-10-2023,GON,Refrigerador,Panasonic,Luiz E Cvg,Concluído,0,06-12-2023,08-12-2023,Sim
+24-10-2023,FON,Lava E Seca,Midea,Luiz,Concluído,0,25-10-2023,25-10-2023,Sim
+24-10-2023,FON,Refrigerador,Pansonic,Cvg / Robson,Concluído,0,0,31-10-2023,Sim
+24-10-2023,GON ,Micro-Ondas,Midea,0,Cancelado,0,0,23-11-2023,Não
+25-10-2023,GON ,Lava Louça,Midea,Robson / Cvg,Concluído,08-11-2023,14-11-2023,14-11-2023,Sim
+25-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,30-10-2023,30-10-2023,Sim
+25-10-2023,GB,Robo,Wap,Matheus Rosa,Concluído,0,03-11-2023,08-11-2023,Sim
+25-10-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,01-11-2023,07-11-2023,10-11-2023,Sim
+25-10-2023,FON ,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,08-11-2023,08-11-2023,Sim
+25-10-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,03-11-2023,13-11-2023,Sim
+26-10-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,0,02-11-2023,Não
+26-10-2023,GON ,Lavadora,Panasonic,Cvg E Robson,Concluído,0,31-10-2023,31-10-2023,Sim
+26-10-2023,GON ,Lava E Seca,Midea,Luiz Guilherme,Concluído,06-11-2023,03-11-2023,06-11-2023,Sim
+26-10-2023,GB,Robo,Midea,Matheus/Thiago,Concluído,0,21-11-2023,15-12-2023,Sim
+26-10-2023,FB,Notbook,Lenovo,Robson,Sem Conserto,0,0,19-12-2023,Não
+26-10-2023,FON,Lavadora,Panasonic,Cvg,Concluído,0,04-11-2023,04-11-2023,Sim
+27-10-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,10-11-2023,17-11-2023,17-11-2023,Sim
+27-10-2023,GON,Lava Louça,Panasonic,Cvg,Concluído,0,30-10-2023,30-10-2023,Sim
+27-10-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,08-11-2023,09-11-2023,14-11-2023,Sim
+30-10-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+30-10-2023,FON,Refrigerador,Panasonic,Cvg E Robson,Concluído,09-11-2023,17-11-2023,17-11-2023,Sim
+30-10-2023,FON ,Refrigerador,Panasonic,Cvg,Concluído,0,01-11-2023,01-11-2023,Sim
+30-10-2023,FON,Refrigerador,0,0,0,0,0,0,0
+30-10-2023,GON,Lavadora,Panasonic,"Cvg, Robson E Luiz",Concluído,10-11-2023,17-11-2023,17-11-2023,Sim
+30-10-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,06-11-2023,09-11-2023,10-11-2023,Sim
+0,0,0,0,0,0,0,0,0,0
+30-10-2023,GON,Refrigerador,Panasonic,Cvg,0,13-11-2023,0,0,0
+30-10-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,21-11-2023,23-11-2023,07-12-2023,Sim
+30-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,01-11-2023,01-11-2023,Sim
+30-10-2023,FB ,Cooktop,Midea,Cvg,Descarte,0,0,03-01-2023,Não
+30-10-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,10-11-2023,01-12-2023,01-12-2023,Sim
+30-10-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,08-11-2023,04-11-2023,04-11-2023,Sim
+30-10-2023,FB ,Robo,Midea,Matheus,Concluído,0,26-12-2023,10-01-2024,Sim
+30-10-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,02-11-2023,02-11-2023,Não
+30-10-2023,GON,Lava E Seca,Midea,0,Cancelada,0,0,03-11-2023,Não
+30-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,01-11-2023,01-11-2023,Sim
+30-10-2023,FB ,Robo,Midea,Matehus Rosa,Concluído,0,07-11-2023,09-11-2023,Sim
+31-10-2023,GB,Aspirador,Wap,Matheus Rosa,Concluído,0,17-11-2023,23-11-2023,Sim
+31-10-2023,GB,Freezer,Midea,Robson,Concluído,0,15-11-2023,21-11-2023,Sim
+31-10-2023,GON,Refrigerador,Panasonic,Cvg,Sem Conserto,0,0,02-11-2023,Não
+31-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,02-11-2023,02-11-2023,Sim
+31-10-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,24-11-2023,29-11-2023,29-11-2023,Sim
+31-10-2023,GON ,Refrigerador,Panasonic,"Cvg, Robson E Luiz",Concluído,0,13-12-2023,13-12-2023,Sim
+31-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,02-11-2023,02-11-2023,Sim
+31-10-2023,GON ,Lavadora,Panasonic,Cvg,Concluído,0,18-11-2023,18-11-2023,Sim
+31-10-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,01-11-2023,01-11-2023,Sim
+01-11-2023,GON,Lava E Seca,Midea,Cvg /Robson,Concluído,0,04-11-2023,04-11-2023,Sim
+01-11-2023,GON,Cervejeira,Midea,0,Cancelado,0,0,07-11-2023,Não
+01-11-2023,FON ,Lavadora,Midea,Cvg E Robson,Concluído,0,17-11-2023,17-11-2023,Sim
+01-11-2023,GON,Lavadora,Panasonic,Cvg E Luiz,Concluído,10-11-2023,16-11-2023,16-11-2023,Sim
+01-11-2023,GB,Robo,Midea,Thiago,Concluído,28-11-2023,30-11-2023,11-12-2023,Sim
+01-11-2023,GON ,Refrigerador,Panasonic,0,Troca,0,0,13-11-2023,Não
+01-11-2023,FON ,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,03-11-2023,03-11-2023,Sim
+01-11-2023,FON ,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,07-11-2023,07-11-2023,Sim
+03-11-2023,FON ,Lava Louça,Panasonic,0,Cancelado,0,0,03-11-2023,Não
+03-11-2023,GS,Robo,Midea,Matheus Rosa,Concluído,0,08-11-2023,13-11-2023,Sim
+03-11-2023,FON,Lavadora,Panasonic,Cvg / Robson,Concluído,0,03-11-2023,03-11-2023,Sim
+03-11-2023,GON,Lava E Seca,Midea,Cvg / Robson,Cancelado,0,0,08-11-2023,Sim
+03-11-2023,FB ,Aspirador,Wap,Matheus Rosa,Concluído,0,22-11-2023,24-11-2023,Sim
+03-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,07-11-2023,07-11-2023,Sim
+03-11-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+03-11-2023,GON ,Lavadora,Panasonic,Luiz,Concluído,0,08-11-2023,08-11-2023,Sim
+03-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,14-11-2023,16-11-2023,Sim
+03-11-2023,GB,Micro Ondas,Midea,Thiago,Concluído,0,08-11-2023,14-11-2023,Sim
+03-11-2023,GB,Robo,Midea,Matheus Rosa,Concluído,22-11-2023,23-11-2023,12-12-2023,Sim
+06-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme / Cvg,Sem Defeito,0,0,16-11-2023,Não
+06-11-2023,GON,Lava E Seca,Midea,Cvg / Luiz Guilherme,Concluído,30-11-2023,06-12-2023,06-12-2023,Sim
+06-11-2023,GB,Robo,Midea,Thiago,Concluído,22-11-2023,24-11-2023,29-11-2023,Sim
+06-11-2023,GON,Refrigerador,Panasonic,Luiz,Troca Na Loja,0,0,05-01-2024,Não
+06-11-2023,GON,Frigobar,Midea,0,Cancelada,0,0,28-11-2023,Não
+06-11-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,09-11-2023,09-11-2023,Sim
+06-11-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,07-11-2023,17-11-2023,Sim
+06-10-2023,GB,Robo,Midea,Thiago,Concluído,22-11-2023,24-11-2023,05-12-2023,Sim
+06-11-2023,FB ,Cooktop,Midea,Thiago,Concluído,0,18-12-2023,20-12-2023,Sim
+06-11-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,02-12-2023,02-12-2023,Sim
+06-11-2023,FON ,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,09-11-2023,09-11-2023,Sim
+07-11-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,17-11-2023,Não
+07-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,07-11-2023,07-11-2023,Sim
+07-11-2023,GON ,Robo,Wap,Matheus Rosa,Concluído,13-11-2023,16-11-2023,21-11-2023,Sim
+07-11-2023,GB,Fritadeira,Midea,Thiago,Concluído,14-11-2023,16-11-2023,22-11-2023,Sim
+07-11-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+07-11-2023,FON,Lavadora,Panasonic,Cvg / Robson,Concluído,0,20-11-2023,20-11-2023,Sim
+07-11-2023,GON,Lava E Seca,Midea,Cvg E Robson,Concluído,0,29-12-2023,29-12-2023,Sim
+07-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme/ Cvg,Sem Defeito,0,0,16-11-2023,Não
+07-11-2023,GB,Micro Ondas,Midea,Thiago,Concluído,22-11-2023,29-11-2023,01-12-2023,Sim
+07-11-2023,GB,Refrigerador,Panasonic,Luiz,Sem Defeito,0,0,21-11-2023,Não
+07-11-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,18-11-2023,18-11-2023,Sim
+07-11-2023,GB,Robo,Wap,Thiago,Concluído,0,13-11-2023,21-11-2023,Sim
+07-11-2023,FB ,Purificador,Midea,Thiago,Concluído,0,06-12-2023,18-12-2023,Sim
+07-11-2023,GON ,Lavadora,Panasonic,Cvg E Robson,Concluído,0,17-11-2023,17-11-2023,Sim
+07-11-2023,FB ,Robo,Wap,Thiago,Concluído,0,21-11-2023,21-11-2023,Sim
+07-11-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,09-11-2023,09-11-2023,Sim
+08-11-2023,GON ,Cooktop,Midea,0,Cancelado,0,0,16-11-2023,Não
+08-11-2023,FB ,Notbook,Acer,Robson,Sem Conserto,0,0,28-11-2023,Não
+08-11-2023,FB ,Robo,Midea,Matheus Rosa,Concluído,0,20-11-2023,22-11-2023,Sim
+08-11-2023,FB ,Robo,Romba,Matheus Rosa,Sem Conserto,0,0,22-12-2023,Não
+08-11-2023,GB,Micro Ondas,Midea,Thiago,Concluído,17-11-2023,21-11-2023,24-11-2023,Sim
+08-11-2023,GB,Micro Ondas,Midea,Thiago,Concluído,17-11-2023,21-11-2023,24-11-2023,Sim
+08-11-2023,FON,Lava E Seca,Midea,0,Cancelado,0,0,14-11-2023,Não
+08-11-2023,GB,Robo,Midea,Matheus R,Cncluido,0,11-12-2023,18-12-2023,Sim
+08-11-2023,FB ,Robo,Wap,Thiago,Concluído,0,24-11-2023,27-12-2023,Sim
+08-11-2023,GON,Frigobar,Midea,Luiz / Cvg/Robson,Concluído,17-11-2023,24-11-2023,24-11-2023,Sim
+08-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,09-11-2023,09-11-2023,Sim
+09-11-2023,GS,Refrigerador,Panasonic,Cvg/Luiz,Sem Conserto,0,0,15-12-2023,Não
+09-11-2023,GB,Robo,Wap,Thiago,Concluído,0,14-11-2023,28-11-2023,Sim
+09-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,30-11-2023,05-12-2023,Sim
+09-11-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,13-11-2023,17-11-2023,Sim
+09-11-2023,FON,Lavadora,Panasonic,Cvg,Sem Conserto,0,0,01-12-2023,Não
+09-10-2023,GON,Lava E Seca,Midea,Luiz,Concluído,12-12-2023,04-01-2024,04-01-2024,Sim
+10-11-2023,GON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,16-11-2023,16-11-2023,Sim
+10-11-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,22-11-2023,28-11-2023,01-12-2023,Sim
+10-11-2023,GON ,Freezer,Midea,Robson,Concluído,0,15-11-2023,21-11-2023,Não
+10-11-2023,GON,Micro-Ondas,Midea,Thiago,Concluído,22-11-2023,28-11-2023,01-12-2023,Sim
+10-11-2023,GB,Extratora,Wap,Matheus Rosa,Concluído,24-11-2023,24-11-2023,28-11-2023,Sim
+10-11-2023,GON,Refrigerador,Panasonic,0,Cancelado,0,0,0,Não
+10-11-2023,GB,Aspirador,Midea,Matheus Rosa,Concluído,22-11-2023,23-11-2023,29-11-2023,0
+10-11-2023,GON,Lavadora,Panasonic,"Luiz, Robson E Cvg",Concluído,0,16-11-2023,16-11-2023,Sim
+13-11-2023,GON,Lavadora,Panasonic,"Luiz, Robson E Cvg",Concluído,0,28-11-2023,28-11-2023,Sim
+13-11-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,27-11-2023,02-12-2023,02-12-2023,Sim
+13-11-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,27-11-2023,18-11-2023,18-11-2023,Sim
+13-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,17-11-2023,17-11-2023,Sim
+13-11-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,16-11-2023,16-11-2023,Sim
+13-11-2023,FON,Ar Condicionado,Daikin,0,Cancelado,0,0,21-11-2023,Não
+13-11-2023,GS,Robo,Midea,Matheus Rosa,Concluído,0,17-11-2023,22-11-2023,Sim
+13-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,27-11-2023,01-12-2023,01-12-2023,Sim
+13-11-2023,GB,Micro Ondas,Midea,Thiago,Concluído,0,14-11-2023,20-11-2023,Sim
+13-11-2023,FB ,Robo,Wap,Thiago,Concluído,0,23-11-2023,04-12-2023,Sim
+13-11-2023,FON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,13-11-2023,13-11-2023,Sim
+13-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,22-11-2023,22-11-2023,Sim
+13-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,30-11-2023,12-12-2023,12-12-2023,Sim
+14-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,28-11-2023,28-11-2023,Sim
+14-11-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,16-11-2023,16-11-2023,Sim
+14-11-2023,GB,Robo,Midea,Matheus Rosa,Concluído,08-12-2023,12-12-2023,13-12-2023,Sim
+14-11-2023,FB ,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,21-11-2023,01-12-2023,Sim
+14-11-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,14-11-2023,21-11-2023,Sim
+14-11-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,21-11-2023,21-11-2023,Sim
+14-11-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,11-12-2023,02-12-2023,02-12-2023,Sim
+14-11-2023,FON,Refrigerador,Panasonic,Robson / Cvg,Concluído,0,14-11-2023,14-11-2023,Sim
+14-10-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,17-11-2023,17-11-2023,Sim
+14-10-2023,FB ,Refrigerador,Panasonic,0,Sem Analise,0,0,07-12-2023,Não
+14-10-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,24-11-2023,29-11-2023,Sim
+14-11-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,18-11-2023,18-11-2023,Sim
+16-11-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,20-11-2023,Não
+16-11-2023,GB,Panela Elétrica,Midea,Thiago,Concluído,30-11-2023,04-12-2023,06-12-2023,0
+16-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,22-11-2023,22-11-2023,Sim
+16-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,20-11-2023,20-11-2023,Sim
+17-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,20-11-2023,20-11-2023,Sim
+17-11-2023,GON,Refrigerador,Panasonic,Cvg E Luiz,Concluído,26-12-2023,04-01-2024,04-01-2024,Sim
+17-11-2023,FON,Forno Elétrico,Midea,Cvg,Concluído,0,14-12-2023,15-12-2023,Sim
+17-11-2023,FB ,Aspirador Vertical,Midea,Matheus Rosa,Concluído,0,27-11-2023,29-11-2023,Sim
+17-11-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,05-12-2023,Não
+17-11-2023,FON,Ar Condicionado,Midea,0,Cancelado,0,05-03-2024,05-03-2024,Não
+17-10-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,30-11-2023,30-11-2023,Sim
+17-10-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,29-11-2023,01-12-2023,01-12-2023,Sim
+17-11-2023,GON,Refrigerador,Panasonic,Cvg,Troca,0,0,28-12-2023,Não
+17-11-2023,GON,Panela De Pressão,Midea,Thiago,Concluído,30-11-2023,04-12-2023,06-12-2023,Sim
+17-11-2023,GB,Robo,Midea,Matheus R,Concluído,30-11-2023,01-12-2023,08-12-2023,Sim
+17-11-2023,FB ,Robo,Midea,0,Sem Conserto,0,0,05-12-2023,Não
+17-11-2023,FB ,Robo,Wap,Matheus R,Concluído,0,03-11-2023,13-11-2023,Sim
+20-11-2023,GON,Lava E Seca,Midea,0,Cancelada,0,0,24-11-2023,Não
+20-11-2023,FON,Refrigerador,Midea,Cvg / Robson,Concluído,0,20-11-2023,20-11-2023,Não
+20-11-2023,FB ,Panela De Pressão,Midea,Thiago,Sem Defeito,0,28-11-2023,29-11-2023,Não
+20-11-2023,FB ,Robo,Midea,Matheus Rosa,Sem Conserto,0,0,12-12-2023,Não
+20-11-2023,FON,Ar Condicionado,Lg,Luiz Guilherme,Concluído,0,29-11-2023,29-11-2023,Sim
+20-11-2023,FON ,Lavadora,Panasonic,0,Cancelada,0,0,06-12-2023,Não
+20-11-2023,GON,Lavadora,Panasonic,Cvg / Luiz Guilherme,Concluído,0,0,23-11-2023,Sim
+20-11-2023,GB,Robo,Wap,Matheus Rosa,Concluído,28-11-2023,28-11-2023,01-12-2023,Sim
+21-11-2023,FON,Ar Condicionado,Springer,Luiz Guilherme,Concluído,0,24-11-2023,24-11-2023,Sim
+21-11-2023,FON,Ar Condicionado,Springer,Luiz Guilherme,Concluído,0,24-11-2023,24-11-2023,Sim
+21-11-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,0,22-11-2023,Não
+21-11-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,0,22-11-2023,Não
+21-11-2023,GON,Lava E Seca,Midea,0,0,0,0,0,0
+21-11-2023,FON,Lavadora,Panasonic,Cvg / Luiz / Robson,Concluído,29-11-2023,06-12-2023,06-12-2023,Sim
+21-11-2023,GON,Lava E Seca,Thosiba,Cvg,Concluído,0,0,06-12-2023,Não
+21-11-2023,GON,Lava E Seca,Midea,"Cvg, Robson E Luiz",Concluído,08-12-2023,21-12-2023,22-12-2023,Sim
+21-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,24-11-2023,24-11-2023,Sim
+21-11-2023,FB ,Robo,Wap,Thiago,Concluído,0,06-12-2023,19-12-2023,Sim
+21-11-2023,FB ,Ar Condicionado,Miidea,Luiz Guilherme,Concluído,0,22-11-2023,22-11-2023,Sim
+21-11-2023,GON,Refrigerador,Midea,Cvg / Robson,Troca,0,0,06-12-2023,Não
+21-11-2023,GON,Lavadora,Panasonic,Cvg,Concluído,0,30-11-2023,30-11-2023,Sim
+21-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,27-11-2023,27-11-2023,Sim
+21-11-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,22-11-2023,Não
+22-11-2023,GB,Robo,Wap,Matheus Rosa,Concluído,28-11-2023,29-11-2023,06-12-2023,Sim
+22-11-2023,FON,Refrigerdor,Panasonic,Cvg / Robson,Concluído,0,24-11-2023,24-11-2023,24/11/2023
+22-11-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,22-11-2023,Não
+22-11-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,27-11-2023,27-11-2023,Sim
+22-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,28/11-Ag. Aprovação,0,19-12-2023,19-12-2023,Sim
+22-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,24-11-2023,24-11-2023,Sim
+22-11-2023,FON,Ar Condicionado,Midea,Rosbons/Claudio,Concluído,0,25-11-2023,25-11-2023,Sim
+23-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,23-11-2023,23-11-2023,Sim
+23-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,27-11-2023,27-11-2023,Sim
+23-11-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+23-11-2023,GON ,Lava E Seca,Midea,"Luiz, Robson E Cvg",Concluído,18-12-2023,29-12-2023,29-12-2023,Sim
+23-11-2023,FON,Refrigerador,Panasonic,Robson / Cvg,Concluído,0,29-11-2023,29-11-2023,Sim
+23-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,06-12-2023,06-12-2023,Sim
+23-11-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,24-11-2023,24-11-2023,Sim
+23-11-2023,FON,Ar Condicionado,Carrier,Luiz Guilherme,Concluído,0,30-11-2023,30-11-2023,Sim
+24-11-2023,FON,Ar Condicionado,Midea,Luiz Guilherme,Concluído,0,29-11-2023,29-11-2023,Sim
+24-11-2023,GON,Lava E Seca,Midea,Cvg,Concluído,0,30-11-2023,30-11-2023,Sim
+24-11-2023,GON,Ar Condicionado,Daikin,Luiz Guilherme,Finalizado,0,27-11-2023,27-11-2023,Não
+24-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,27-11-2023,27-11-2023,Sim
+24-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,28/11-Ag. Aprov. Pedido,0,12-12-2023,12-12-2023,Sim
+24-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,27-11-2023,27-11-2023,Sim
+24-11-2023,GB,Robo,Wap,Matheus Rosa,Concluído,01-12-2023,13-12-2023,20-12-2023,Sim
+24-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Cancelado,0,0,01-12-2023,Não
+24-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,11-12-2023,21-12-2023,21-12-2023,Sim
+24-11-2023,GON,Micro-Ondas,Panasonic,Thiago,Concluído,11-12-2023,12-12-2023,20-12-2023,Sim
+27-11-2023,GON,Robo,Wap,Matheus Rosa,Concluído,01-12-2023,01-12-2023,06-12-2023,Sim
+27-11-2023,GB,Robo,Wap,Matheus Rosa,Concluído,05-12-2023,05-12-2023,06-12-2023,0
+27-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,28-11-2023,28-11-2023,Sim
+27-11-2023,GS,Robo,Midea,Matheus Rosa,Sem Defeito,0,28-11-2023,29-11-2023,Não
+27-11-2023,GON,Secadora,Midea,Cvg / Robson,Sem Defeito,0,0,06-12-2023,Não
+27-11-2023,GON,Climatizador,Midea,Thiago,Concluído,08-12-2023,20-12-2023,17-01-2023,Sim
+27-11-2023,FON,Lava E Seca,Midea,Cvg,Concluído,0,11-12-2023,11-12-2023,Sim
+27-11-2023,GON,Lava E Seca,Midea,"Luiz, Robson E Cvg",Concluído,0,29-12-2023,29-12-2023,Sim
+27-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,28-11-2023,28-11-2023,Sim
+27-11-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,28-11-2023,Não
+28-11-2023,GON,Lavadora,Midea,Cvg,Concluído,0,08-12-2023,08-12-2023,Sim
+28-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,28-11-2023,28-11-2023,Sim
+28-11-2023,GON,Refrigerador,Panasonic,Robson,Concluído,0,15-12-2023,26-12-2023,Sim
+28-11-2023,FON,Refrigerador,Panasonic,Cvg / Robson,Concluído,0,01-12-2023,01-12-2023,Sim
+28-11-2023,FB ,Micro-Ondas,Panasonic,0,0,0,0,0,0
+28-11-2023,GON,Fechadura Digital,Midea,Robson/Cvg,Concluído,0,27-12-2023,27-12-2023,Sim
+28-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,28-11-2023,28-11-2023,Sim
+28-11-2023,GB,Robo,Wap,Matheus Rosa,Concluído,01-12-2023,04-12-2023,06-12-2023,Sim
+28-11-2023,FON,Lavadora,Panasonic,Luiz Guilherme,Concluído,0,04-12-2023,04-12-2023,Sim
+28-11-2023,GS,Refrigerador,Panasonic,0,0,0,0,0,0
+28-11-2023,FB ,Cervejeira,Midea,0,0,0,0,0,0
+29-11-2023,GON ,Lavadora,Panasonic,Luiz,Concluído,0,30-11-2023,30-11-2023,Sim
+29-11-2023,FB ,Aspirador,Wap,0,0,0,0,0,0
+29-11-2023,GON,Lava E Seca,Midea,Luiz,Concluído,12-12-2023,18-12-2023,18-12-2023,Sim
+29-11-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,01-12-2023,01-12-2023,Sim
+29-11-2023,FB ,Notbook,Itautec,0,0,0,0,0,0
+29-11-2023,GS,Micro-Ondas,Midea,Thiago,Concluído,0,06-12-2023,06-12-2023,Sim
+29-11-2023,FB ,Climatizador,Elgin,Thiago,Concluído,0,01-03-2024,05-03-2024,Sim
+29-11-2023,GB,Aspirador,Wap,Matheus R,Concluído,07-12-2023,12-12-2023,14-12-2023,Sim
+30-11-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,03-01-2024,03-01-2024,Sim
+30-11-2023,GB,Micro-Ondas,Panasonic,Thiago,Concluído,0,12-12-2023,13-12-2023,Sim
+30-11-2023,FB ,Fritadeira,Midea,0,0,0,0,0,0
+30-11-2023,GB,Aspirador,Wap,0,0,0,0,0,0
+30-11-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,12-12-2023,04-01-2024,04-01-2024,Sim
+30-11-2023,FON,Refrigerador,Panasonic,Cvg,Concluído,0,02-12-2023,02-12-2023,Sim
+30-11-2023,GB,Robo,Wap,Matheus R,Concluído,07-12-2023,11-12-2023,13-12-2023,Sim
+30-11-2023,GON ,Lava E Seca,Midea,Luiz Guilherme,Concluído,12-12-2023,28-12-2023,28-12-2023,Sim
+30-11-2023,GON,Lavadora,Midea,Luiz Guilherme,Concluído,0,01-12-2023,01-12-2023,Não
+30-11-2023,FON,Ar Condicionado,Gree,0,Cancelado,0,0,07-12-2023,Não
+30-11-2023,GON ,Fechadura Digital,Midea,Luiz,Concluído,26-01-2024,01-02-2024,01-02-2024,Sim
+30-11-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,05-01-2023,05-01-2023,Sim
+30-11-2023,GON,Lava E Seca,Midea,Cvg / Robson,Concluído,0,12-12-2023,12-12-2023,Não
+01-12-2023,FB ,Climatizador,Springer,Thiago,Concluído,0,08-12-2023,12-12-2023,Sim
+01-12-2023,GB,Refrigerador,Panasonic,Luiz E Cvg,Concluído,02-01-2023,04-01-2024,05-01-2024,Sim
+01-12-2023,FON,Ar Condicionado,Daikin,Luiz,Concluído,0,12-01-2024,12-01-2024,Sim
+01-12-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,05-12-2023,05-12-2023,Sim
+01-12-2023,GS,Robo,Midea,Matheus Rosa,Sem Defeito,0,0,12-12-2023,Não
+01-12-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,05-12-2023,05-12-2023,Sim
+01-12-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,12-12-2023,12-12-2023,Sim
+0,FB ,Robo,Wap,Matheus Rosa,Concluído,0,19-12-2023,03-01-2024,Sim
+04-12-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,21-12-2023,07-12-2023,07-12-2023,Sim
+04-12-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,05-12-2023,05-12-2023,Sim
+04-12-2023,FON,Evaporadora,Daikin,0,0,0,0,0,0
+04-12-2023,GON,Refrigerador,Panasonic,Cvg,Concluído,0,21-01-2024,21-01-2024,Sim
+04-12-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,10-01-2024,15-01-2024,15-01-2024,Sim
+04-12-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,12-12-2023,12-12-2023,Sim
+04-11-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,26-12-2023,29-12-2023,29-12-2023,Sim
+04-11-2023,FON,Ar Condicionado,Springer,0,Cancelado,0,0,14-12-2023,Não
+04-11-2023,GON,Refrigerador,Panasonic,Luiz E Cvg,Concluído,0,10-01-2024,10-01-2024,Sim
+04-11-2023,GB ,Robo,Wap,Matheus Rosa,Concluído,13-12-2023,13-12-2023,17-01-2024,Sim
+04-11-2023,FON,Lava E Seca,Midea,Cvg/ Robson,Concluído,0,12-12-2023,12-12-2023,Sim
+04-11-2023,GON,Refrigerador,Midea,Cvg,Concluído,0,09-01-2024,09-01-2024,Sim
+04-11-2023,FB ,Micro Ondas,Panasonic,Thiago,Concluído,0,19-12-2023,01-12-2023,Sim
+04-11-2023,GON,Lava E Seca,Midea,Cvg/Robson,Concluído,0,05-12-2023,05-12-2023,Sim
+04-12-2023,GON,Frigobar,Midea,0,Cancelada,0,0,11-12-2023,Não
+04-12-2023,GS,Lava E Seca,Midea,Luiz Guilherme,Concluído,0,12-12-2023,12-12-2023,Sim
+04-12-2023,FON,Lavadora,Panasonic,Cvg / Robson,Concluído,0,05-12-2023,05-12-2023,Sim
+05-12-2023,FB ,Robo,Midea,Matheus Rosa,Concluído,0,22-12-2023,27-12-2023,Sim
+05-10-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,05-12-2023,05-12-2023,Sim
+05-10-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,05-12-2023,05-12-2023,Sim
+05-12-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,11-12-2023,Não
+05-10-2023,FON,Notbook,Acer,0,Sem Conserto,0,0,06-12-2023,Não
+05-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Concluído,19-12-2023,27-12-2023,27-12-2023,Sim
+05-10-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,12-12-2023,14-12-2023,15-12-2023,Sim
+05-10-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Sem Defeito,0,0,12-12-2023,Não
+05-12-2023,FON,Lava E Seca,Midea,0,Cancelado,0,0,12-12-2023,Não
+05-12-2023,FON,Ar Condicionado,Gree,0,Cancelado,0,0,12-12-2023,Não
+05-12-2023,FON,Ar Condicionado,Midea,0,0,0,0,0,0
+05-12-2023,FON,Ar Condicionado,Midea,0,0,0,0,0,0
+05-12-2023,FON,Refrigerador,Panasonic,0,Cancelado,0,0,11-12-2023,Não
+05-12-2023,GS,Robo,Wap,Matheus Rosa,Concluído,0,06-12-2023,08-12-2023,Sim
+05-12-2023,FON,Ar Condicionado,Midea,Cvg,Concluído,0,12-12-2023,12-12-2023,Não
+05-12-2023,GON,Lavadora,Midea,0,0,0,0,0,0
+06-12-2023,FB ,Robo,Ilife,Thiago,Concluído,0,06-12-2023,07-12-2023,Sim
+06-12-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,14-12-2023,14-12-2023,Sim
+06-12-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,14-12-2023,14-12-2023,Sim
+06-12-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,08-01-2024,12-12-2023,12-12-2023,Sim
+06-12-2023,FB ,Notbook,Hp,Robson,Sem Conserto,0,0,03-01-2024,Não
+06-12-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,20-12-2023,27-12-2023,Sim
+06-12-2023,FB ,Ar Condicionado,Agratto,Luiz Guilherme,Concluído,0,08-12-2023,08-12-2023,Sim
+06-12-2023,FON,Ar Condicionado,Springer,0,Cencelado,0,0,16-01-2023,Não
+06-12-2023,FB ,Robo,Midea,Matheus/Thiago,Concluído,0,26-12-2023,05-01-2023,Sim
+07-12-2023,GON,Ar Condicionado,Elgin,0,Cancelado,0,0,21-12-2023,Não
+07-12-2023,GB,Micro-Ondas,Panasonic,Thiago,Concluído,0,19-12-2023,20-12-2023,Sim
+07-12-2023,GON,Lavadora,Midea,Cvg / Robson,Concluído,0,12-12-2023,12-12-2023,Sim
+07-12-2023,GON,Lavadora,Panasonic,Luiz,Concluído,0,27-12-2023,27-12-2023,Sim
+07-12-2023,GB,Robo,Wap,Matheus Rosa,Concluído,18-12-2023,19-12-2023,26-12-2023,Sim
+07-12-2023,FON,Forno Elétrico,Panasonic,Cvg,Concluído,0,11-12-2023,0,Sim
+07-12-2023,FB ,Cooktop,Midea,0,0,0,0,0,0
+07-12-2023,GON,Lava E Seca,Toshiba,0,Cancelado,0,0,15-12-2023,Não
+07-12-2023,GON,Refrigerador,Midea,Cvg E Robson,Concluído,11-01-2024,13-01-2024,15-01-2024,Sim
+08-12-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,13-12-2023,Não
+08-12-2023,GB,Robo,Wap,Matheus R,Concluído,18-12-2023,19-12-2023,22-12-2023,Sim
+08-12-2023,FB ,Ar Condicionado Portatil,Midea,Robson,Concluído,0,24-01-2024,24-01-2024,Sim
+08-12-2023,FON,Lavadora,Panasonic,0,0,0,0,0,0
+08-12-2023,GB,Robo,Wap,Matheus R,Concluído,18-12-2023,19-12-2023,20-12-2023,Sim
+08-12-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,12-12-2023,12-12-2023,Sim
+08-12-2023,GON,Lavadora,Panasonic,Luiz,Concluído,18-12-2023,19-12-2023,19-12-2023,Sim
+08-12-2023,FB ,Robo,Wap,Matheus R,Sem Conserto,0,0,30-01-2024,Não
+08-12-2023,GON,Refrigerador,Panasonic,0,0,0,0,0,0
+08-12-2023,GON,Lavadora,Midea,Luiz,Concluído,0,27-12-2023,27-12-2023,Sim
+11-12-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,26-12-2023,10-01-2023,Sim
+11-12-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,26-12-2023,10-01-2023,Sim
+0,GON,Lava E Seca,Midea,Luiz,Concluído,11-01-2024,19-01-2024,19-01-2024,Sim
+11-12-2023,GON,Lavadora,Panasonic,Cvg E Luiz,Troca Na Loja,0,0,05-01-2024,Não
+11-12-2023,GON,Fechadura Digital,Midea,Cvg/Robson,Concluído,31-01-2024,01-02-2024,01-02-2024,Sim
+11-12-2023,GB,Robo,Wap,Matheus Rosa,Concluído,18-12-2023,19-12-2023,22-12-2023,Sim
+11-12-2023,GON,Refrigerador,Panasonic,0,Cancelado,0,0,14-12-2023,Não
+11-12-2023,GB,Frigobar,Midea,0,0,0,0,0,0
+11-12-2023,GB,Robo,Wap,Matheus Rosa,Concluído,18-12-2023,19-12-2023,22-12-2023,Sim
+11-12-2023,GON,Frigobar,Midea,Luiz,Concluído,27-12-2023,28-12-2023,28-12-2023,Sim
+11-12-2023,FON,Refrigerador,Panasonic,Cvg E Robson,Cancelado,0,0,20-12-2023,Não
+11-12-2023,FON,Lavadora,Panasonic,0,Cancelado,0,0,21-12-2023,Não
+12-12-2023,GON,Lava E Seca,Midea,Luiz Guilherme,Sem Conserto,0,0,28-12-2023,Não
+12-12-2023,GB,Robo,Midea,Matheus Rosa,Concluído,0,05-01-2024,09-01-2024,Sim
+12-12-2023,FON,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,14-12-2023,14-12-2023,Sim
+12-12-2023,FB ,Aspirador,Xiaomi,0,0,0,0,0,0
+12-12-2023,GB,Purificador,Midea,Thiago,Concluído,0,18-12-2023,22-12-2023,Sim
+12-12-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,26-12-2023,04-01-2023,Sim
+12-12-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,28-12-2023,28-12-2023,Sim
+12-12-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,18-12-2023,09-01-2024,09-01-2024,Sim
+0,GON,Lavadora,Panasonic,Luiz,Concluído,0,19-12-2023,19-12-2023,Sim
+12-12-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,14-12-2023,Não
+12-12-2023,GON,Lavadora,Panasonic,Luiz E Cvg,Concluído,02-01-2024,09-01-2024,09-01-2024,Sim
+12-12-2023,GON,Lavadora,Panasonic,Luiz,Concluído,18-12-2023,24-01-2024,24-01-2024,Sim
+13-12-2023,GB,Robo,Wap,Matheus Rosa,Concluído,18-12-2023,19-12-2023,26-12-2023,Sim
+13-12-2023,FB ,Notbook,Acer,0,0,0,0,0,0
+13-12-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,26-12-2023,09-01-2024,Sim
+13-12-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,03-01-2023,03-01-2023,Sim
+13-12-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,22-12-2023,26-12-2023,05-01-2024,Sim
+13-12-2023,FON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,13-12-2023,13-12-2023,Sim
+14-12-2023,GS,Refrigerador,Panasonic,Luiz Guilherme,Concluído,0,10-01-2024,10-01-2024,Sim
+14-12-2023,GON,Secadora,Midea,Luiz Guilherme,Concluído,0,19-12-2023,19-12-2023,Sim
+14-12-2023,GB,Robo,Wap,0,0,0,0,0,0
+14-12-2023,GB,Robo,Wap,Matheus,Concluído,24-01-2024,24-01-2024,25-01-2024,Sim
+14-12-2023,FON,Refrigerador,Panasonic,0,0,0,0,0,0
+14-12-2023,FON,Ar Condicionado,0,0,0,0,0,0,0
+15-12-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,21-12-2023,21-12-2023,Não
+15-12-2023,GB,Micro-Ondas,Toshiba,Thiago,Concluído,26-12-2023,27-12-2023,03-01-2024,Sim
+15-12-2023,GON,Refrigerador,Panasonic,Cvg E Robson,Concluído,0,21-12-2023,21-12-2023,Sim
+15-12-2023,FON,Lava E Seca,Midea,0,0,0,0,0,0
+15-12-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,27-12-2023,28-12-2023,05-01-2023,Sim
+15-12-2023,GB,Refrigerador,Panasonic,Cvg E Luiz,Concluído,0,07-02-2024,09-02-2024,Sim
+15-12-2023,FB ,Robo,Midea,Matheus Rosa,Concluído,0,22-12-2023,08-01-2023,Sim
+15-12-2023,FB ,Robo,Wap,Matheus Rosa,Concluído,0,25-12-2023,27-12-2023,Sim
+18-12-2023,GON,Lavadora,Panasonic,0,Cancelado,0,0,11-01-2024,Não
+18-12-2023,GON,Lava E Seca,Midea,Luiz,Concluído,26-12-2023,28-12-2023,28-12-2023,Sim
+18-12-2023,FB ,Aspirador,Wap,0,0,0,0,0,0
+18-12-2023,GON,Lava E Seca,Midea,0,Cancelada,0,0,03-01-2024,Não
+18-12-2023,GB,Micro-Ondas,Midea,0,0,0,0,0,0
+18-12-2023,FB ,Ar Condicionado,Midea,Luiz/Robson,Concluído,0,04-01-2024,08-01-2024,Sim
+18-12-2023,FON,Lava E Seca,Midea,0,0,0,0,0,0
+18-12-2023,FB ,Ventilador,0,0,0,0,0,0,0
+18-12-2023,FB ,Ventilador,0,0,0,0,0,0,0
+18-12-2023,FB ,Chaleira,0,0,0,0,0,0,0
+19-12-2023,FB ,Micro-Ondas,Lg,Thiago,Sem Conserto,0,0,02-02-2024,Não
+19-12-2023,GON,Lava E Seca,Midea,Luiz,0,05-12-2023,11-01-2023,11-01-2024,Sim
+19-12-2023,GON,Lavadora,Panasonic,Cvg E Robson,Concluído,0,08-01-2024,08-01-2024,Sim
+19-12-2023,GON,Lavadora,Panasonic,Cvg,Concluído,08-01-2024,29-12-2023,29-12-2023,Sim
+19-12-2023,GB,Micro-Ondas,Midea,Thiago,Concluído,0,19-12-2023,26-12-2023,Sim
+19-12-2023,GB,Climatizador,Midea,Thiago,Concluído,0,21-12-2023,22-12-2023,Sim
+20-12-2023,FB ,Robo,Midea,Matheus Rosa,Concludi,0,22-12-2023,27-12-2023,Sim
+20-12-2023,FON,Lavadora,Panasonic,Luiz,Concluído,0,22-12-2023,22-12-2023,Sim
+21-12-2023,FB ,Notebook,Samsung,0,0,0,0,0,0
+21-12-2023,FB ,Refrigerador,Panasonic,Luiz,Concluído,0,17-01-2024,17-01-2024,Sim
+21-12-2023,FB,Lava E Seca,Midea,Luiz,Concluído,0,22-12-2023,22-12-2023,Sim
+21-12-2023,FON,Lava E Seca,Midea,0,0,0,0,0,0
+22-12-2023,FB,Compressor De Ar,Panasonic,0,0,0,0,0,0
+22-12-2023,GON,Lavadora,Pansonic,Luiz,Concluído,0,0,28-12-2023,Não
+22-12-2023,FON,Ar Condicionado,0,Cvg,0,0,0,0,0
+0,GB,Micro-Ondas,Midea,0,0,0,0,0,0
+26-12-2023,FON,Ar Condiocionado,Midea,0,Cancelado,0,0,27-12-2023,Não
+26-12-2023,GON,Refrigerador,Panasonic,Luiz,Concluído,0,28-12-2023,28-12-2023,Sim
+26-12-2023,FB,Cooktop,Midea,0,0,0,0,0,0
+26-12-2023,FON,Lavadora,Panasonic,Luiz,0,0,0,0,0
+26-12-2023,FB,Robo,Wap,Matheus Rosa,Concluído,0,11-01-2024,18-01-2024,Sim
+26-12-2023,FON,Lava E Seca,Midea,"Cvg, Luiz E Robson",Concluído,0,30-01-2024,31-01-2024,Sim
+26-12-2023,FON,Lavadora,Panasonic,Cvg/Robson,Concluído,0,03-01-2024,0,Sim
+26-12-2023,GB,Micro-Ondas,Micro-Ondas,Thiago,Concluído,0,01-02-2024,02-02-2024,Sim
+26-12-2023,FON,Ar Condicionado,Midea,Cvg,0,0,0,0,0
+26-12-2023,GB,Robo,Wap,Matheus Rosa,Concluído,11-01-2024,12-01-2024,17-01-2024,Sim
+26-12-2023,FB,Robo,Midea,0,0,0,0,0,0
+27-12-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,05-01-2024,05-01-2024,Sim
+27-12-2023,FON ,Refrigerador,Panasonic,0,0,0,0,0,0
+27-12-2023,GON ,Refrigerador,Panasonic,Cvg,Concluído,0,0,29-12-2023,Não
+27-12-2023,FON ,Lavadora,Panasonic,Luiz,Concluído,0,27-12-2023,27-12-2023,Sim
+27-12-2023,GB,Aspirador,Wap,Matheus,Concluído,10-01-2024,11-01-2024,26-01-2024,Sim
+27-12-2023,FB,Robo,Wap,Matheus,Concluído,0,09-01-2024,11-01-2024,Sim
+27-12-2023,GB,Robo,Wap,Matheus/Robson,Concluído,0,05-01-2023,22-01-2024,Sim
+28-12-2023,GB,Robo,Wap,Matheus Rosa,Concluído,11-01-2024,12-01-2024,19-01-2024,Sim
+29-12-2023,GB,Panela Pressão,Midea,Thiago,Concluído,05-01-2024,08-01-2024,09-01-2024,Sim
+29-12-2023,GB,Frigobar,Midea,0,0,0,0,0,0
+29-12-2023,GON,Refrigerador,Panasonic,"Cvg, Robson E Luiz",Concluído,10-01-2024,15-01-2024,15-01-2024,Sim
+29-12-2023,FON,Ar Condicionado,Carrier,0,Cancelado,0,0,05-01-2024,Não

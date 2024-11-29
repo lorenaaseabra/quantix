@@ -1,0 +1,2080 @@
+DATA,TIPO DE AT.,APARELHO,MARCA,STATUS,PEÇA RECEBIDA,PRONTO,SAÍDA,CONSERTADO?
+01-03-2018,BALCÃO,Union,Positivo,Concluído,0,01-09-2018,01-11-2018,Sim
+01-03-2018,ON SITE,Lava E Seca,Midea,Concluído,0,01-04-2018,01-04-2018,Sim
+01-03-2018,BALCÃO,Ntb,Sony,0,0,0,0,0
+01-03-2018,ON SITE,Lava E Seca,Midea,Concluído,0,17-01-2018,17-01-2018,Sim
+01-04-2018,BALCÃO,Estabilizador,Positivo,Troca,0,0,01-09-2018,Não
+01-04-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,01-08-2018,01-08-2018,Sim
+01-04-2018,ETICKET,Forno Elétrico,Midea,Concluído,0,02-12-2018,15-02-2018,Sim
+01-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,02-08-2018,02-08-2018,Sim
+01-04-2018,BALCÃO,Digtv,Positivo,Cancelado,0,0,0,Não
+01-08-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+01-05-2018,BALCÃO,Celular,Positivo,Concluído,0,30-01-2018,02-01-2018,Sim
+01-08-2018,ON SITE,Desk,Daten,Concluído,0,01-09-2018,01-09-2018,Sim
+01-05-2018,BALCÃO,Ntb,Lenovo,Concluído,0,01-06-2018,01-06-2018,Sim
+01-09-2018,ON SITE,Ar Condicionado,Toshiba,Concluído,0,31-10-2019,31-10-2019,Sim
+01-06-2018,BALCÃO,Digtv,Positivo,Troca,0,0,01-12-2018,Não
+01-09-2018,ON SITE,Ar Condicionado,Midea,Garantia Negada,0,01-11-2018,01-12-2018,Não
+01-08-2018,BALCÃO,Desk,Itautec,Concluído,0,02-05-2018,19-02-2018,Sim
+01-10-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,02-03-2018,02-06-2018,Sim
+01-08-2018,BALCÃO,Ntb,Sti,Concluído,0,16-01-2018,17-01-2018,Sim
+01-10-2018,ON SITE,Lava E Seca,Midea,Concluído,0,01-11-2018,01-11-2018,Sim
+01-08-2018,BALCÃO,Desk,Hp,Concluído,0,01-11-2018,01-12-2018,Sim
+01-10-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,01-11-2018,01-11-2018,Sim
+01-08-2018,BALCÃO,Celular,Positivo,Concluído,0,23-02-2018,24-02-2018,Sim
+01-10-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,01-11-2018,01-11-2018,Sim
+01-08-2018,BALCÃO,Ntb,Itautec,Concluído,0,01-11-2018,01-12-2018,Sim
+01-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,17-01-2018,17-01-2018,Sim
+01-08-2018,BALCÃO,Ntb,Positivo,Concluído,0,01-12-2018,13-01-2018,Sim
+01-12-2018,ON SITE,Ar Condicionado,Midea,Cancelado,0,0,0,Não
+01-09-2018,BALCÃO,Ntb,Philco,Concluído,0,0,20-01-2018,Sim
+01-12-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+01-09-2018,BALCÃO,Ntb,Dell,Concluído,0,15-01-2018,15-01-2018,Sim
+01-12-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+01-09-2018,BALCÃO,Desk,Positivo,Concluído,0,18-01-2018,19-01-2018,Não
+01-12-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+01-09-2018,ETICKET,Microondas,Midea,Concluído,0,01-10-2018,0,Sim
+01-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,01-12-2018,01-12-2018,Sim
+01-09-2018,BALCÃO,Desk,Intel,Concluído,0,16-01-2018,17-01-2018,Sim
+15-01-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+01-10-2018,BALCÃO,Estabilizador,Positivo,Troca,0,0,01-10-2018,Não
+15-01-2018,ON SITE,Ar Condicionado,0,Cancelado,0,0,21-03-2018,Não
+01-10-2018,BALCÃO,Estabilizador,Positivo,Troca,0,0,01-10-2018,Não
+15-01-2018,ON SITE,Ar Condicionado,0,Cancelado,0,0,21-03-2018,Não
+01-10-2018,BALCÃO,Digtv,Positivo,Troca,0,0,01-12-2018,Não
+16-01-2018,ON SITE,Cooktop,Midea,Concluído,0,30-01-2018,30-01-2018,Sim
+01-10-2018,BALCÃO,Desk,Montado,Concluído,0,17-01-2018,17-01-2018,Sim
+18-01-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,02-05-2018,02-06-2018,Sim
+01-10-2018,BALCÃO,Desk,Montado,Concluído,0,17-01-2018,17-01-2018,Sim
+18-01-2018,ON SITE,Evaporadora,Midea,Concluído,0,24-01-2018,02-06-2018,Sim
+01-10-2018,BALCÃO,Microondas,Midea,Concluído,0,14-02-2018,14-02-2018,Sim
+18-01-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,20-01-2018,20-01-2018,Sim
+01-10-2018,BALCÃO,Ntb,Positivo,Concluído,0,22-01-2018,25-01-2018,Sim
+23-01-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+01-10-2018,BALCÃO,Celular,Positivo,Concluído,0,22-01-2018,23-01-2018,Sim
+23-01-2018,ON SITE,Ar Condicionado,Springer/Midea,Concluído,0,08-07-2018,08-07-2018,Sim
+01-10-2018,BALCÃO,Purificador,Midea,Concluído,0,04-02-2018,04-06-2018,Sim
+24-01-2018,ON SITE,Ar Condicionado,Springer/Midea,Cancelada,0,0,0,Não
+01-10-2018,BALCÃO,Ntb,Dell,Concluído,0,16-01-2018,17-01-2018,Sim
+24-01-2018,ON SITE,Ar Condicionado,Springer/Midea,Concluído,0,16-02-2018,16-02-2018,Sim
+01-11-2018,BALCÃO,Ntb,Positivo,Concluído,0,30-01-2018,02-02-2018,Sim
+24-01-2018,ON SITE,Ar Condicionado,Springer/Midea,Concluído,0,26-01-2018,26-01-2018,Sim
+01-11-2018,BALCÃO,Celular,Positivo,Concluído,0,16-01-2018,17-01-2018,Sim
+26-01-2018,ON SITE,Ar Condicionado,Springer/Midea,Cancelada,0,0,0,Não
+01-11-2018,BALCÃO,Ntb,Positivo,Concluído,0,22-01-2018,14-02-2018,Sim
+26-01-2018,ON SITE,Desk,Daten,Concluído,0,30-01-2018,30-01-2018,Sim
+01-12-2018,ETICKET,Fritadeira,Midea,0,0,0,0,0
+30-01-2018,ON SITE,Lava E Seca,Midea,Concluído,0,02-06-2018,02-06-2018,Sim
+01-12-2018,BALCÃO,Celular,Positivo,0,0,30-01-2018,31-01-2018,Sim
+30-01-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,23-03-2018,23-03-2018,Sim
+01-12-2018,BALCÃO,Ntb,Acer,0,0,14-01-2018,24-01-2018,Sim
+30-01-2018,ON SITE,Lava E Seca,Midea,0,0,0,0,0
+01-12-2018,BALCÃO,Ntb,Acer,0,0,26-01-2018,27-01-2018,Sim
+02-01-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,02-05-2018,02-05-2018,Sim
+01-12-2018,BALCÃO,Digtv,Positivo,Troca,0,0,30-01-2018,Não
+02-06-2018,ON SITE,Lava E Seca,Midea,Reembolso,0,23-02-2018,28-03-2018,Sim
+01-12-2018,BALCÃO,Desk,Positivo,0,0,16-01-2018,02-02-2018,Sim
+02-06-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,02-08-2018,02-08-2018,Sim
+01-12-2018,BALCÃO,Ntb,Positivo,Concluído,0,02-01-2018,02-09-2018,Sim
+02-09-2018,ON SITE,Ar Condicionado,Midea,Cancelado,0,0,03-09-2018,Não
+01-12-2018,BALCÃO,Digtv,Positivo,Troca,0,0,23-01-2018,Não
+02-09-2018,ON SITE,Desk,Daten,Concluído,0,14-02-2018,14-02-2018,Sim
+13-01-2018,ETICKET,Microondas,Midea,0,0,30-01-2018,02-01-2018,Sim
+02-10-2018,ON SITE/RESIDENCIAL,Ar Condicionado,Midea,Concluído,0,15-02-2018,15-02-2018,Sim
+15-01-2018,BALCÃO,Ntb,Itautec,Concluído,0,20-01-2018,20-01-2018,Sim
+02-10-2018,ON SITE,Ar Condicionado,Springer/Midea,0,0,0,0,0
+15-01-2018,BALCÃO,Ntb,Acer,Concluído,0,02-08-2018,02-08-2018,Sim
+15-01-2018,BALCÃO,Ntb,Itautec,Concluído,0,26-01-2018,02-03-2018,Sim
+15-01-2018,ETICKET,Microondas,Midea,Concluído,0,30-01-2018,02-01-2018,Sim
+15-01-2018,ETICKET,Microondas,Midea,Concluído,0,19-02-2018,22-02-2018,Sim
+15-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,31-01-2018,Não
+15-01-2018,BALCÃO,Digtv,Positivo,0,0,02-05-2018,02-06-2018,Sim
+15-01-2018,ETICKET,Microondas,Midea,0,0,30-01-2018,02-01-2018,Sim
+16-01-2018,BALCÃO,Ntb,Apple,S/ Conserto,0,0,02-10-2018,Não
+16-01-2018,BALCÃO,Digtv,Positivo,0,0,18-01-2018,31-01-2018,Sim
+16-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,31-01-2018,Não
+16-01-2018,BALCÃO,Ntb,Acer,0,0,18-01-2018,22-01-2018,Sim
+16-01-2018,BALCÃO,Celular,Positivo,0,0,22-01-2018,23-01-2018,Sim
+16-01-2018,BALCÃO,Digtv,Positivo,0,0,22-01-2018,23-01-2018,Sim
+16-01-2018,BALCÃO,Ntb,Positivo,Concluído,0,02-10-2018,24-02-2018,Sim
+17-01-2018,ETICKET,Microondas,Midea,Descarte,0,0,22-01-2018,Não
+17-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,16-02-2018,Não
+17-01-2018,BALCÃO,Desk,Positivo,0,0,19-01-2018,19-01-2018,Sim
+17-01-2018,BALCÃO,Digtv,Positivo,0,0,17-01-2018,18-01-2018,Sim
+17-01-2018,BALCÃO,Ntb,Positivo,S/ Conserto,0,0,17-05-2018,Não
+18-01-2018,BALCÃO,Cervejeira,Midea,0,0,02-03-2018,02-05-2018,Sim
+18-01-2018,BALCÃO,Digtv,Positivo,0,0,19-01-2018,22-01-2018,Sim
+18-01-2018,BALCÃO,Digtv,Positivo,0,0,19-01-2018,22-01-2018,Sim
+18-01-2018,BALCÃO,Fritadeira,Midea,Concluído,0,22-02-2018,22-02-2018,Sim
+18-01-2018,BALCÃO,Duo,Positivo,0,0,23-01-2018,23-01-2018,Sim
+18-01-2018,BALCÃO,Celular,Positivo,Concluído,0,02-01-2018,02-01-2018,Sim
+18-01-2018,BALCÃO,Digtv,Positivo,0,0,01-11-2018,19-01-2018,Sim
+19-01-2018,BALCÃO,Digtv,Positivo,0,0,19-01-2018,20-01-2018,Sim
+19-01-2018,BALCÃO,Digtv,Positivo,0,0,23-01-2018,25-01-2018,Sim
+19-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,31-01-2018,Não
+19-01-2018,BALCÃO,Digtv,Positivo,0,0,26-01-2018,30-01-2018,Sim
+20-01-2018,BALCÃO,Digtv,Positivo,0,0,23-01-2018,25-01-2018,Sim
+20-01-2018,BALCÃO,Ntb,Vaio,0,0,23-01-2018,24-01-2018,Sim
+20-01-2018,BALCÃO,Ntb,Hp,0,0,24-01-2018,27-01-2018,Sim
+20-01-2018,BALCÃO,Ntb,Sony,S/ Defeito,0,0,25-01-2018,Não
+20-01-2018,BALCÃO,Digtv,Positivo,0,0,23-01-2018,25-01-2018,Sim
+22-01-2018,BALCÃO,Ntb,Asus,S/ Conserto,0,0,29-01-2018,Não
+22-01-2018,BALCÃO,Digtv,Positivo,0,0,23-01-2018,25-01-2018,Sim
+22-01-2018,BALCÃO,Ntb,Asus,0,0,23-01-2018,27-01-2018,Sim
+22-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-01-2018,Não
+22-01-2018,BALCÃO,Ntb,Lenovo,0,0,25-01-2018,26-01-2018,Sim
+22-01-2018,BALCÃO,Cafeteira,Britania,Concluído,0,03-05-2018,03-10-2018,Sim
+22-01-2018,BALCÃO,Tablet,Positivo,0,0,30-01-2018,02-03-2018,Sim
+22-01-2018,BALCÃO,Ntb,Vaio,Concluído,0,02-05-2018,02-10-2018,Sim
+0,BALCÃO,0,0,0,0,0,0,0
+0,BALCÃO,0,0,0,0,0,0,0
+0,BALCÃO,0,0,0,0,0,0,0
+0,BALCÃO,0,0,0,0,0,0,0
+23-01-2018,BALCÃO,Ntb,Positivo,Concluído,0,02-12-2018,17-02-2018,Sim
+23-01-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,15-02-2018,16-02-2018,Sim
+23-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-02-2018,Não
+25-01-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,15-02-2018,21-02-2018,Sim
+24-01-2018,BALCÃO,Allinone,Itautec,Sem Conserto,0,0,03-03-2018,Não
+24-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,24-02-2018,Não
+24-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,31-01-2018,02-05-2018,Sim
+25-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-09-2018,Não
+25-01-2018,BALCÃO,Micro Ondas,Midea,0,0,0,0,0
+25-01-2018,BALCÃO,Ntb,Hp,Sem Conserto,0,0,02-01-2018,Não
+25-01-2018,BALCÃO,Ntb,Hp,0,0,0,0,0
+25-01-2018,BALCÃO,Micro Ondas,Midea,Consertado,0,14-02-2018,19-02-2018,Sim
+25-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-08-2018,02-08-2018,Sim
+25-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,19-02-2018,Não
+25-01-2018,BALCÃO,Allinone,Sti,Sem Conserto,0,0,26-03-2019,Não
+25-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-09-2018,Não
+26-01-2018,BALCÃO,Ntb,Hp,0,0,0,0,0
+26-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,31-01-2018,02-02-2018,Sim
+26-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-09-2018,Não
+26-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-08-2018,02-08-2018,Sim
+26-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-08-2018,Não
+26-01-2018,BALCÃO,Ntb,Sti,Concluído,0,14-02-2018,16-02-2018,Sim
+26-01-2018,BALCÃO,Purificador,Midea,Concluído,0,02-07-2018,02-07-2018,Sim
+26-01-2018,BALCÃO,Allinone,Positivo,Concluído,0,02-03-2018,02-05-2018,Sim
+29-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-08-2018,02-08-2018,Sim
+29-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-09-2018,Não
+29-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-08-2018,Não
+29-01-2018,BALCÃO,Ntb,Hp,Concluído,0,02-06-2018,19-02-2018,Sim
+30-01-2018,BALCÃO,Ntb,Dell,Concluído,0,31-01-2018,31-01-2018,Sim
+30-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-09-2018,Não
+30-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,20-02-2018,Não
+30-01-2018,BALCÃO,Tablet,Sti,Descarte,0,0,05-09-2018,Não
+30-01-2018,BALCÃO,Estabilizador,Positivo,Concluído,0,30-01-2018,30-01-2018,Sim
+30-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-05-2018,02-06-2018,Sim
+30-01-2018,BALCÃO,Ntb,Dell,Concluído,0,02-06-2018,02-09-2018,Sim
+30-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-09-2018,Não
+30-01-2018,BALCÃO,Celular,Positivo,Concluído,0,02-06-2018,02-08-2018,Sim
+30-01-2018,BALCÃO,Ntb,Asus,Sem Conserto,0,0,02-08-2018,Não
+30-01-2018,ETICKET,Micro Ondas,Midea,Concluído,0,31-01-2018,02-01-2018,Sim
+30-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,02-09-2018,Não
+30-01-2018,ETICKET,Micro Ondas,Midea,Consertado,0,19-02-2018,19-02-2018,Sim
+30-01-2018,BALCÃO,Micro Ondas,Midea,Consertado,0,14-02-2018,21-02-2018,Sim
+31-01-2018,BALCÃO,Ntb,Samsung,Concluído,0,02-06-2018,02-07-2018,Sim
+31-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-05-2018,02-06-2018,Sim
+31-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-08-2018,02-08-2018,Sim
+31-01-2018,BALCÃO,Notebook,Toshiba,Concluído,0,03-12-2018,29-03-2018,Sim
+31-01-2018,BALCÃO,Notebook,Amazon,Concluído,0,03-12-2018,04-02-2018,Sim
+31-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-05-2018,02-07-2018,Sim
+31-01-2018,BALCÃO,Ar Condicionado,Springer,Concluído,0,02-12-2018,24-02-2018,Sim
+31-01-2018,BALCÃO,Micro Ondas,Midea,Consertado,0,19-02-2018,20-02-2018,Sim
+31-01-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-05-2018,02-05-2018,Sim
+02-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,17-02-2018,Não
+02-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,16-02-2018,Não
+02-01-2018,BALCÃO,Digtv,Positivo,Troca,0,15-02-2018,15-02-2018,Não
+02-01-2018,ETICKET,Purificador,Midea,Concluído,0,02-10-2018,15-02-2018,Sim
+02-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,19-02-2018,Não
+02-01-2018,BALCÃO,Digtv,Positivo,Troca,0,0,14-03-2018,Sim
+02-01-2018,BALCÃO,Tablet,Toshiba,Sem Conserto,0,0,06-05-2018,Não
+02-02-2018,BALCÃO,Allinone,Hp,Concluído,0,02-09-2018,15-02-2018,S
+02-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,15-02-2018,Não
+02-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,19-02-2018,Sim
+02-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,16-02-2018,Não
+02-02-2018,BALCÃO,Celular,Positivo,Concluído,0,14-02-2018,14-02-2018,Sim
+02-02-2018,BALCÃO,Ntb,Vaio,Concluído,0,19-02-2018,19-02-2018,Sim
+02-03-2018,BALCÃO,Ntb,Dell,Concluído,0,02-09-2018,02-09-2018,Sim
+02-03-2018,BALCÃO,Desk,Montado,Sem Conserto,0,0,15-02-2018,Não
+02-03-2018,BALCÃO,Digtv,Positivo,Consertado,0,02-08-2018,17-02-2018,Sim
+02-05-2018,BALCÃO,Aspirador,Tramontina,Concluído,0,03-12-2018,13-03-2018,Sim
+02-05-2018,BALCÃO,Ntb,Positivo,Concluído,0,02-12-2018,20-02-2018,Sim
+02-05-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-08-2018,02-09-2018,Sim
+02-05-2018,BALCÃO,Ntb,Hp,Sem Conserto,0,0,02-10-2018,Não
+02-05-2018,BALCÃO,Digtv,Positivo,Troca,0,17-02-2018,28-03-2018,Não
+02-05-2018,BALCÃO,Ntb,Acer,Sem Conserto,0,0,13-03-2018,Não
+02-05-2018,BALCÃO,Ntb,Lenovo,Sem Conserto,0,0,25-04-2018,Não
+02-05-2018,BALCÃO,Hd,Toshiba,Concluído,0,03-07-2018,03-07-2018,Sim
+02-05-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-08-2018,02-09-2018,Sim
+02-05-2018,BALCÃO,Ntb,Dell,Concluuido,0,04-04-2018,04-05-2018,Sim
+02-06-2018,BALCÃO,Digtv,Positivo,Troca,0,0,21-02-2018,Não
+02-06-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,02-06-2018,02-07-2018,Sim
+02-06-2018,BALCÃO,Ntb,Toshiba,0,0,0,0,0
+02-06-2018,BALCÃO,Digtv,Positivo,Troca,0,0,19-02-2018,Não
+02-06-2018,BALCÃO,Digtv,Positivo,Concluído,0,02-08-2018,02-09-2018,Sim
+02-06-2018,ETICKET,Aspirador Robo,Midea,0,0,0,0,0
+02-06-2018,BALCÃO,Digtv,Positivo,Troca,0,0,22-02-2018,Sim
+02-06-2018,BALCÃO,Purificador,Midea,Concluído,0,25-04-2018,27-04-2018,Sim
+02-07-2018,BALCÃO,Climatizador,Midea,Consertado,0,14-02-2018,21-02-2018,Sim
+02-06-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,26-02-2018,Não
+02-07-2018,BALCÃO,Ntb,Positivo,Concluído,0,23-02-2018,28-02-2018,Sim
+02-07-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,21-02-2018,22-02-2018,Sim
+02-07-2018,BALCÃO,Ntb,Itautec,Concluído,0,15-02-2018,16-02-2018,Sim
+02-07-2018,BALCÃO,Ntb,Samsung,Concluído,0,02-10-2018,02-10-2018,Sim
+02-07-2018,BALCÃO,Hd,Samsung,Sem Conserto,0,0,22-02-2018,Não
+02-07-2018,BALCÃO,Digtv,Positivo,Troca,0,0,28-02-2018,Não
+02-08-2018,ETCKET,Micro Ondas,Midea,Concluído,0,22-02-2018,23-02-2018,Sim
+02-08-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-02-2018,23-02-2018,Sim
+02-08-2018,BALCÃO,Digtv,Positivo,Concluído,0,21-02-2018,21-02-2018,Sim
+02-08-2018,BALCÃO,Celular,Positivo,Concluído,0,15-02-2018,16-02-2018,Sim
+02-08-2018,BALCÃO,Ntb,Lg,Concluído,0,16-02-2018,21-02-2018,Sim
+02-08-2018,BALCÃO,Ntb,Dell,Concluído,0,02-09-2018,02-10-2018,Sim
+02-08-2018,BALCÃO,Ntb,Hp,Concluído,0,16-02-2018,21-02-2018,Sim
+02-09-2018,BALCÃO,Digtv,Positivo,Troca,0,0,23-02-2018,Não
+02-09-2018,BALCÃO,Union,Positivo,Concluído,0,26-02-2018,27-02-2018,Sim
+02-09-2018,BALCÃO,Celular,Positivo,Concluído,0,03-02-2018,03-07-2018,Sim
+02-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-02-2018,23-02-2018,Sim
+02-10-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,17-02-2018,Não
+02-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-02-2018,23-02-2018,Sim
+14-02-2018,BALCÃO,Digitv,Positivo,Troca,0,0,03-07-2018,Não
+14-02-2018,BALCÃO,Cel,Positivo,Concluído,0,19-02-2018,13-03-2018,Sim
+14-02-2018,BALCÃO,Cel,Positivo,Cancelado,0,19-02-2018,0,Não
+15-02-2018,ON SITE,Ar Condicionado,Midea,Consertado,0,20-02-2018,20-02-2018,Sim
+15-02-2018,BALCÃO,Purificador,Midea,Concluído,0,20-02-2018,20-02-2018,Sim
+15-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,23-02-2018,Não
+15-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,24-02-2018,Não
+15-02-2018,ON SITE,Desk,Daten,Consertado,0,20-02-2018,20-02-2018,Sim
+15-02-2018,ON SITE,Desk,Daten,Consertado,0,19-02-2018,19-02-2018,Sim
+15-02-2018,BALCÃO,Digitv,Positivo,Troca,0,23-02-2018,03-05-2018,Não
+15-02-2018,BALCÃO,Celular,Positivo,Concluído,0,03-09-2018,03-12-2018,Sim
+15-02-2018,BALCÃO,Micro Ondas,Lg,Concluído,0,28-02-2018,28-02-2018,Sim
+15-02-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,22-02-2018,26-02-2018,Sim
+16-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,23-02-2018,Não
+16-02-2018,ON SITE,Ar Condicionado,Elgin,Concluído,0,19-02-2018,22-02-2018,Sim
+16-02-2018,BALCÃO,Digtv,Positivo,Concluído,0,28-02-2018,28-02-2018,Sim
+17-02-2018,ON SITE,Forno,Midea,Concluído,0,17-02-2018,17-02-2018,Sim
+17-02-2018,BALCÃO,Digtv,Positivo,Troca,0,28-02-2018,03-02-2018,Sim
+17-02-2018,BALCAO,Ntb,Sony,Consertado,0,20-02-2018,20-02-2018,Sim
+19-02-2018,ON SITE,Monitor,Daten,Consertado,0,19-02-2018,19-02-2018,Sim
+19-02-2018,BALCÃO,Desk,Positivo,Concluído,0,22-02-2018,23-02-2018,Sim
+19-02-2018,BALCÃO,Purificador,Midea,Sem Conserto,0,0,26-03-2018,Não
+19-02-2018,BALCÃO,Celular,Positivo,Concluído,0,03-09-2018,03-10-2018,Sim
+19-02-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,03-09-2018,03-09-2018,Sim
+19-02-2018,BALCÃO,Celular,Positivo,Troca,0,0,23-02-2018,Não
+19-02-2018,BALCÃO,Ntb,Acer,Sem Conserto,0,0,17-04-2018,Não
+19-02-2018,BALCÃO,Ntb,Positivo,Concluído,0,20-02-2018,22-02-2018,Sim
+20-02-2018,BALCÃO,Ntb,Samsung,Sem Conserto,0,0,03-09-2018,Não
+20-02-2018,BALCÃO,Celular,Positivo,Sem Conserto,0,0,03-01-2018,Não
+20-02-2018,BALCÃO,Digtv,Positivo,Troca,0,28-02-2018,03-01-2018,Não
+20-02-2018,BALCÃO,Ntb,Dell,Concluído,0,03-10-2018,03-10-2018,Sim
+20-02-2018,BALCÃO,Purificador,Midea,Concluído,0,21-02-2018,22-02-2018,Sim
+20-02-2018,BALCÃO,Cel,Positivo,Concluído,0,23-02-2018,23-02-2018,Sim
+20-02-2018,BALCAO,Ntb,Positivo,Concluído,0,03-05-2018,03-05-2018,Sim
+20-02-2018,BALCAO,Micro Ondas,Midea,Concluído,0,03-05-2018,03-06-2018,Sim
+20-02-2018,BALCAO,Ar Condicionado,Ar Condicionado,Concluído,0,19-03-2018,19-03-2018,Sim
+20-02-2018,BALCAO,Climatizador,Midea,Concluído,0,25-04-2018,24-05-2018,Sim
+20-02-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,28-02-2018,03-02-2018,Sim
+20-02-2018,ETICKET,Panela De Pressão,Midea,Concluído,0,15-03-2018,16-03-2018,Sim
+21-02-2018,BALCÃO,Ntb,Sony,Concluído,0,27-02-2018,03-03-2018,Sim
+21-02-2018,BALCAO,Ntb,Positivo,Concluído,0,03-01-2018,03-02-2018,Sim
+21-02-2018,BALCÃO,Ntb,Itautec,Concluído,0,22-03-2018,27-03-2018,Sim
+21-02-2018,BALCAO,Ntb,Itautec,Concluído,0,19-11-2018,19-11-2018,Sim
+21-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,03-08-2018,03-08-2018,Sim
+0,BALCÃO,Ntb,Positivo,Concluído,0,20-04-2018,24-04-2018,Sim
+21-02-2018,BALCAO,Ntb,Philco,Sem Conserto,0,0,03-02-2018,Não
+22-02-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,03-07-2018,03-07-2018,Sim
+22-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,13-03-2018,Não
+22-02-2018,BALCÃO,Ntb,Philco,Concluído,0,30-05-2018,06-04-2018,Sim
+22-02-2018,BALCÃO,Ntb,Sony,Concluído,0,03-02-2018,03-02-2018,Sim
+22-02-2018,BALCÃO,Ventilador,Mondial,Descarte,0,0,29-05-2018,Não
+22-02-2018,BALCÃO,Celular,Positivo,Concluído,0,03-05-2018,13-03-2018,Sim
+22-02-2018,BALCÃO,Ntb,Sti,Sem Conserto,0,0,27-02-2018,Não
+22-02-2018,BALCÃO,Celular,Positivo,Concluído,0,03-09-2018,03-09-2018,Sim
+23-02-2018,BALCAO,Celular,Positivo,Concluído,0,27-02-2018,28-02-2018,Sim
+23-02-2018,BALCAO,Union,Positivo,Concluído,0,03-01-2018,03-03-2018,Sim
+23-02-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,03-06-2018,03-07-2018,Sim
+23-02-2018,BALCÃO,Tv,Cce,Concluído,0,06-07-2018,15-06-2018,Sim
+24-02-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,03-06-2018,03-10-2018,Sim
+24-02-2018,BALCÃO,Union,Positivo,Concluído,0,16-03-2018,17-03-2018,Sim
+24-02-2018,BALCÃO,Ntb,Positivo,Concluído,0,04-07-2018,04-10-2018,Sim
+24-02-2018,BALCÃO,Celular,Positivo,Concluído,0,27-02-2018,03-03-2018,Sim
+24-02-2018,BALCÃO,Ntb,Itautec,Concluído,0,03-05-2018,13-03-2018,Sim
+24-02-2018,BALCÃO,Digtv,Positivo,Troca,0,0,17-03-2018,Não
+24-02-2018,BALCÃO,Ntb,Dell,Concluído,0,03-05-2018,03-07-2018,Sim
+26-02-2018,ETICKET,Micro Ondas,Midea,Concluído,0,03-08-2018,15-03-2018,Sim
+26-02-2018,BALCAO,Desk,Asus,Concluído,0,03-09-2018,03-09-2018,Sim
+26-02-2018,ON SITE,Lava/Seca,Midea,Concluído,0,03-08-2018,03-08-2018,Sim
+26-02-2018,BALCAO,Allinone,Hp,Concluído,0,22-03-2018,23-03-2018,Sim
+26-02-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,03-06-2018,03-06-2018,Sim
+26-02-2018,BALCÃO,Ntb,Positivo,Concluído,0,03-12-2018,27-03-2018,Sim
+26-02-2018,BALCAO,Ntb,Acer,Concluído,0,03-02-2018,03-05-2018,Sim
+26-02-2018,BALCAO,Ntb,Hp,Sem Conserto,0,0,14-03-2018,Não
+26-02-2018,BALCAO,Tablet,Dell,Concluído,0,14-03-2018,26-03-2018,Sim
+26-02-2018,BALCAO,Digtv,Positivo,Troca,0,03-08-2018,03-09-2018,Não
+26-02-2018,BALCAO,Digtv,Positivo,Troca,0,03-08-2018,03-09-2018,Não
+26-02-2018,BALCAO,Micro Ondas,Midea,Concluído,0,19-03-2018,20-03-2018,Sim
+27-02-2018,BALCAO,Ntb,Samsung,Sem Conserto,0,0,04-10-2018,Não
+27-02-2018,BALCAO,Micro Ondas,Midea,Concluído,0,03-08-2018,03-08-2018,Sim
+27-02-2018,BALCAO,Micro Ondas,Midea,Concluído,0,28-02-2018,03-01-2018,Sim
+27-02-2018,ON SITE,Cooktop,Midea,0,0,0,0,0
+27-02-2018,ON SITE,Lava/Seca,Midea,Concluído,0,03-07-2018,03-07-2018,Sim
+28-02-2018,ETICKET,Micro Ondas,Midea,Troca,0,0,16-04-2018,Não
+28-02-2018,ETICKET,Climatizador,Midea,Concluído,0,20-03-2018,21-03-2018,Sim
+28-02-2018,ON SITE,Desk,Daten,Concluído,0,03-02-2018,03-02-2018,Sim
+28-02-2018,BALCAO,Micro Ondas,Midea,Concluído,0,03-07-2018,03-08-2018,Sim
+28-02-2018,ON SITE,Ntb,Daten,Concluído,0,04-06-2018,04-09-2018,Sim
+03-01-2018,ETICKET,Climatizador,Midea,Concluído,0,20-04-2018,24-04-2018,Sim
+03-01-2018,BALCAO,Ntb,Hp,Concluído,0,03-08-2018,03-08-2018,Sim
+03-01-2018,BALCAO,Ntb,Acer,Concluído,0,26-03-2018,26-03-2018,Sim
+03-01-2018,BALCAO,Micro Ondas,Midea,Concluído,0,27-04-2018,27-04-2018,Sim
+03-01-2018,ON SITE,Ar Condicononado,Midea,Concluído,0,03-06-2018,03-07-2018,Sim
+03-01-2018,ON SITE,Micro Ondas,Midea,Concluído,0,26-03-2018,27-03-2018,Sim
+03-02-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,05-09-2018,05-10-2018,Sim
+03-02-2018,BALCAO,Desk,Itautec,Concluído,0,03-06-2018,03-06-2018,Sim
+03-02-2018,ETICKET,Climatizador,Midea,Concluído,0,23-03-2018,04-11-2018,Sim
+03-03-2018,BALCÃO,Ntb,Hp,Concluído,0,19-03-2018,20-03-2018,Sim
+03-05-2018,BALCÃO,Desk,Montado,Concluído,0,03-05-2018,0,Sim
+03-05-2018,BALCÃO,Ntb,Sti,Sem Conserto,0,0,03-10-2018,Não
+03-05-2018,BALCÃO,Ntb,Positivo,Concluído,0,19-03-2018,20-03-2018,Sim
+03-05-2018,ETICKET,Micro Ondas,Midea,Concluído,0,19-03-2018,20-03-2018,Sim
+03-06-2018,BALCAO,Micro Ondas,Midea,Concluído,0,13-03-2018,14-03-2018,Sim
+03-06-2018,ETICKET,Micro Ondas,Midea,Concluído,0,04-04-2018,04-11-2018,Sim
+03-06-2018,BALCÃO,Ntb,Philco,Sem Conserto,0,0,13-06-2018,Não
+03-06-2018,ETICKET,Fritadeira,Midea,Concluído,0,26-03-2018,27-03-2018,Sim
+03-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,03-09-2018,03-09-2018,Sim
+03-07-2018,ON SITE,Ar Condicionado,Midea,Sem Conserto,0,0,21-08-2018,Não
+03-07-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,04-11-2018,Não
+03-07-2018,ON SITE,Lava/Seca,Midea,Concluído,0,03-08-2018,03-08-2018,Sim
+03-07-2018,BALCÃO,Ntb,Asus,Concluído,0,16-03-2018,16-03-2018,Sim
+03-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,23-03-2018,23-03-2018,Sim
+03-07-2018,BALCAO,Ntb,Lenovo,Concluído,0,14-03-2018,28-03-2018,Sim
+03-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,23-03-2018,23-03-2018,Sim
+03-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,22-03-2018,22-03-2018,Sim
+03-08-2018,BALCAO,Ntb,Hp,Concluído,0,19-03-2018,22-03-2018,Sim
+03-08-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,03-09-2018,03-09-2018,Sim
+03-08-2018,ON SITE,Desk,Daten,Concluído,0,14-03-2018,14-03-2018,Sim
+03-08-2018,BALCÃO,Purificador,Midea,Concluído,0,25-04-2018,30-04-2018,Sim
+03-09-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,15-03-2018,15-03-2018,Sim
+03-09-2018,BALCÃO,Microondas,Midea,Sem Defeito,0,28-03-2018,29-03-2018,Não
+03-09-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,23-03-2018,26-03-2018,Sim
+03-09-2018,ETICKET,Microondas,Midea,Concluído,0,26-03-2018,27-03-2018,Sim
+03-09-2018,ETICKET,Microondas,Midea,Concluído,0,25-03-2018,27-03-2018,Sim
+03-12-2018,BALCÃO,Ntb,Sony,Sem Conserto,0,0,14-03-2018,Não
+03-12-2018,BALCAO,Desk,Eazy Pc,Concluído,0,14-03-2018,15-03-2018,Sim
+03-12-2018,ON SITE,Desk,Daten,Concluído,0,14-03-2018,14-03-2018,Sim
+03-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,07-08-2018,07-08-2018,Sim
+03-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,29-03-2018,29-03-2018,Sim
+03-12-2018,BALCAO,Purificador,Midea,Concluído,0,27-03-2018,27-03-2018,Sim
+03-12-2018,BALCÃO,Massageador,0,Sem Conserto,0,0,24-04-2018,Não
+13-03-2018,BALCÃO,Celular,Positivo,0,0,0,0,0
+13-03-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,04-10-2018,04-10-2018,Sim
+13-03-2018,ON SITE,Aspirador Vertical,Midea,Concluído,0,19-03-2018,23-03-2018,Sim
+13-03-2018,BALCÃO,Ntb,Sti,Sem Conserto,0,0,04-04-2018,Não
+14-03-2018,ON SITE,Desk,Daten,Concluído,0,14-03-2018,14-03-2018,Sim
+14-03-2018,ON SITE,Monitor,Daten,Concluído,0,16-03-2018,16-03-2018,Sim
+14-03-2018,BALCÃO,Ntb,Acer,Sem Conserto,0,0,20-03-2018,Não
+14-03-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,24-09-2018,24-09-2018,Sim
+14-03-2018,ON SITE,Desk,Daten,Concluído,0,04-12-2018,04-12-2018,Sim
+15-03-2018,BALCÃO,Ntb,Acer,Concluído,0,20-04-2018,20-04-2018,Sim
+15-03-2018,ON SITE,Ar Condicionado,Carrier,Cancelado,0,0,0,Não
+15-03-2018,ETICKET,Climatizador,Midea,Concluído,0,04-09-2018,04-10-2018,Sim
+15-03-2018,ETICKET,Microondas,Midea,Concluído,0,26-03-2018,27-03-2018,Sim
+15-03-2018,BALCÃO,Ntb,Dell,Concluído,0,19-03-2018,19-03-2018,Sim
+15-03-2018,ETICKET,Microondas,Midea,Concluído,0,04-02-2018,04-11-2018,Sim
+15-03-2018,BALCÃO,Ntb,Sti,Concluído,0,27-03-2018,04-09-2018,Sim
+16-03-2018,ON SITE,Desk,Daten,Concluído,0,13-04-2018,13-04-2018,Sim
+16-03-2018,BALCÃO,Union,Positivo,Concluído,0,21-03-2018,21-03-2018,Sim
+16-03-2018,BALCÃO,Ntb,Positivo,Concluído,0,26-03-2018,26-03-2018,Sim
+16-03-2018,BALCÃO,Ntb,Cce,Concluído,0,14-04-2018,16-04-2018,Sim
+16-03-2018,BALCÃO,Ntb,Itautec,Concluído,0,22-03-2018,24-03-2018,Sim
+16-03-2018,BALCÃO,Desk,Dell,Concluído,0,28-03-2018,04-06-2018,Sim
+17-03-2018,BALCÃO,Desk,Dr.Hank,Concluído,0,21-03-2018,21-03-2018,Sim
+17-03-2018,BALCÃO,Climatizador,Midea,Sem Conserto,0,0,06-11-2018,Não
+19-03-2018,BALCÃO,Desk,Thermaltake,Concluído,0,19-03-2018,19-03-2018,Sim
+19-03-2018,BALCÃO,Ntb,Sony,Concluído,0,29-03-2018,04-02-2018,Sim
+19-03-2018,BALCÃO,Desk,Asus,Concluído,0,29-03-2018,04-02-2018,Sim
+19-03-2018,BALCÃO,Purificador,Ibbl,Sem Defeito,0,0,04-09-2018,Não
+20-03-2018,ON SITE,Ar Condicionado,Carrier,Cancelado,0,0,0,Não
+20-03-2018,ON SITE,Lava/Seca,Midea,Concluído,0,24-03-2018,24-03-2018,Sim
+20-03-2018,BALCAO,Ntb,Sony,Concluído,0,28-03-2018,29-03-2018,Sim
+21-03-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,04-09-2018,04-09-2018,Sim
+21-03-2018,BALCÃO,Ntb,Cce,Concluído,0,28-03-2018,28-03-2018,Sim
+21-03-2018,ON SITE,Desk,Daten,Concluído,0,23-03-2018,23-03-2018,Sim
+21-03-2018,BALCÃO,Purificador,Midea,Concluído,0,24-04-2018,10-05-2018,Sim
+21-03-2018,BALCÃO,Tablet,Positivo,Concluído,0,04-04-2018,04-07-2018,Sim
+21-03-2018,ETICKET,Adega,Midea,Troca,0,23-03-2018,23-03-2018,Não
+21-03-2018,ETICKET,Climatizador,Midea,Concluído,0,22-05-2018,22-05-2018,Sim
+21-03-2018,BALCÃO,Aspirador,Midea,Concluído,0,28-03-2018,29-03-2018,Sim
+22-03-2018,BALCÃO,Ntb,Samsung,Sem Conserto,0,0,28-03-2018,Não
+22-03-2018,BALCÃO,Ntb,Sony,Sem Conserto,0,0,04-11-2018,Não
+22-03-2018,ETICKET,Micro Ondas,Midea,Concluído,0,28-03-2018,28-03-2018,Sim
+22-03-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,13-08-2018,13-08-2018,Sim
+22-03-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,30-04-2018,30-04-2018,Sim
+23-03-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,04-05-2018,04-05-2018,Sim
+23-03-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,04-05-2018,04-05-2018,Sim
+23-03-2018,ON SITE,Cooktop,Midea,Cancelado,0,0,28-03-2018,Não
+24-03-2018,BALCÃO,Microondas,Midea,Concluído,0,04-03-2018,04-07-2018,Sim
+26-03-2018,BALCÃO,Ntb,Samsung,Concluído,0,28-03-2018,29-03-2018,Sim
+26-03-2018,ETICKET,Panela De Pressão,Midea,Concluído,0,27-03-2018,28-03-2018,Sim
+26-03-2018,ON SITE,Desk,Daten,Concluído,0,04-04-2018,04-04-2018,Sim
+26-03-2018,BALCÃO,Ntb,Cce,Sem Conserto,0,0,0,0
+26-03-2018,BALCAO,Allinone,Hp,Concluído,0,24-04-2018,30-04-2018,Sim
+26-03-2018,ON SITE,Desk,Daten,Concluído,0,27-03-2018,27-03-2018,Sim
+26-03-2018,ETICKET,Climatizador,Midea,Concluído,0,04-11-2018,24-04-2018,Sim
+27-03-2018,ON SITE,Ar Condicionado,Carrier,Cancelado,0,0,0,Não
+27-03-2018,ETICKET,Microondas,Midea,Concluído,0,29-03-2018,04-04-2018,Sim
+28-03-2018,BALCÃO,Desk,Pcmix,Concluído,0,04-05-2018,04-06-2018,Sim
+28-03-2018,ONSITE,Ar Condicionado,Midea,Concluído,0,14-04-2018,14-04-2018,Sim
+28-03-2018,BALCAO,Ar Condicionado,Midea,Concluído,0,06-09-2018,26-06-2018,Sim
+28-03-2018,BALCÃO,Tablet,Positivo,Concluído,0,17-04-2018,05-07-2018,Sim
+0,BALCAO,Micro Ondas,Midea,Concluído,0,29-03-2018,04-03-2018,Sim
+28-03-2018,BALCÃO,Tablet,Positivo,Concluído,0,04-09-2018,05-07-2018,Sim
+29-03-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,04-03-2018,23-04-2018,Sim
+29-03-2018,BALCAO,Microondas,Midea,Concluído,0,04-10-2018,04-11-2018,Sim
+29-03-2018,ETICKET,Microondas,Midea,Concluído,0,04-10-2018,04-11-2018,Sim
+29-03-2018,ETICKET,Microondas,Midea,Concluído,0,04-11-2018,04-12-2018,Sim
+29-03-2018,ETICKET,Micro Ondas,Midea,Concluído,0,20-04-2018,24-04-2018,Sim
+29-03-2018,ETICKET,Micro Ondas,Midea,Concluído,0,14-05-2018,15-05-2018,Sim
+04-02-2018,BALCÃO,Ntb,Toshiba,Concluído,0,04-09-2018,04-10-2018,Sim
+04-02-2018,BALCÃO,Ntb,Lenovo,Concluído,0,04-09-2018,04-10-2018,Sim
+04-02-2018,BALCÃO,Ar Cond. Portátil,Springer,Concluído,0,05-02-2018,05-02-2018,Sim
+04-02-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,18-05-2018,19-05-2018,Sim
+04-02-2018,BALCÃO,Microondas,Midea,Concluído,0,13-04-2018,16-04-2018,Sim
+04-02-2018,BALCÃO,Ntb,Dell,Concluído,0,04-04-2018,04-05-2018,Sim
+04-02-2018,ON SITE,Lava/Seca,Midea,Concluído,0,04-07-2018,04-07-2018,Sim
+04-03-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,17-04-2018,17-04-2018,Sim
+04-03-2018,BALCÃO,Purificador,Midea,Concluído,0,04-10-2018,18-04-2018,Sim
+04-03-2018,BALCÃO,Ntb,Lenovo,Concluído,0,25-06-2018,25-06-2018,Sim
+04-03-2018,ON SITE,Desk,Daten,Concluído,0,04-04-2018,04-04-2018,Sim
+04-03-2018,ETICKET,Microondas,Midea,Concluído,0,19-04-2018,20-04-2018,Sim
+04-04-2018,BALCÃO,Notebook,Sti,Concluído,0,06-08-2018,06-08-2018,Sim
+04-04-2018,BALCÃO,Tv Lcd,Samsung,Sem Conserto,0,0,16-03-2019,Não
+04-04-2018,REVENDA/BALCAO,Aspirador,Md,Concluído,0,04-05-2018,05-09-2018,Sim
+04-04-2018,REVENDA/BALCAO,Aspirador,Md,Concluído,0,05-07-2018,05-09-2018,0
+04-04-2018,BALCÃO,Ntb,Sony,Concluído,0,04-06-2018,04-06-2018,Sim
+04-04-2018,BALCAO,Desk,Eco Desk,Sem Analise,0,0,04-05-2018,Não
+04-05-2018,ON SITE,Cooktop,Midea,Concluído,0,04-11-2018,04-11-2018,Sim
+04-05-2018,ON SITE,Ar Condicionado,Elgin,Concluído,0,04-10-2018,20-04-2018,Sim
+04-06-2018,BALCÃO,Desk,Cce,Concluído,0,19-04-2018,23-04-2018,Sim
+04-06-2018,ON SITE,Desk,Daten,Concluído,0,13-04-2018,13-04-2018,Sim
+04-06-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,13-04-2018,16-04-2018,Sim
+04-06-2018,ON SITE,Desk,Daten,Concluído,0,04-12-2018,13-04-2018,Sim
+04-06-2018,ON SITE,Desk,Daten,Concluído,0,04-12-2018,13-04-2018,Sim
+04-06-2018,ETICKET,Micro Ondas,Midea,Concluído,0,05-07-2018,05-10-2018,Sim
+04-07-2018,BALCÃO,Ar Portátil,Philco,Concluído,0,07-02-2018,07-02-2018,Sim
+04-07-2018,BALCÃO,Ntb,Positivo,Sem Conserto,0,0,18-04-2018,Não
+04-09-2018,ON SITE,Desk,Daten,Concluído,0,04-10-2018,04-10-2018,Sim
+04-09-2018,ON SITE,Coifa,0,Concluído,0,18-04-2018,18-04-2018,Sim
+04-09-2018,ON SITE,Lava/Seca,Midea,Concluído,0,04-11-2018,04-11-2018,Sim
+04-09-2018,BALCÃO,Celular,Quantum,Concluído,0,04-10-2018,04-10-2018,Sim
+04-09-2018,BALCÃO,Notebook,Positivo,Concluído,0,04-12-2018,30-04-2018,Sim
+04-10-2018,BALCÃO,Notebook,Samsung,Concluído,0,0,05-02-2018,Sim
+04-10-2018,ETICKET,Microondas,Midea,Concluído,0,13-04-2018,19-04-2018,Sim
+04-10-2018,BALCÃO,Ntb,Itautec,Concluído,0,05-04-2018,05-05-2018,Sim
+04-11-2018,BALCÃO,Panificadora,Britania,Concluído,0,15-05-2018,0,Sim
+04-11-2018,BALCÃO,Secadora,Fisher,Concluído,0,18-05-2018,06-05-2018,Sim
+04-11-2018,BALCÃO,Desk,Montado,Concluído,0,18-04-2018,18-04-2018,Sim
+04-11-2018,48833101,Ar Condicionado,Midea,Concluído,0,17-04-2018,17-04-2018,Sim
+04-11-2018,48833143,Ar Condiocnado,Midea,Concluído,0,17-04-2018,17-04-2018,Sim
+04-11-2018,48835946,Ar Condicionado,Midea,Concluído,0,16-04-2018,17-04-2018,Sim
+04-12-2018,BALCÃO,Desk,Montado,0,0,0,0,0
+04-12-2018,BALCÃO,Fone,Awei,0,0,0,0,0
+04-12-2018,BALCÃO,Ntb,Samsung,Concluído,0,18-04-2018,18-04-2018,Sim
+04-12-2018,ON SITE,Desk,Daten,Concluído,0,16-04-2018,17-04-2018,Sim
+13-04-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,19-04-2018,19-04-2018,Sim
+13-04-2018,BALCÃO,Purificador,Midea,Concluído,0,05-11-2018,16-05-2018,Sim
+13-04-2018,ON SITE,Ar Condicionado,Springer,0,0,0,0,0
+14-04-2018,BALCÃO,Ntb,Positivo,Concluído,0,27-04-2018,05-05-2018,Sim
+16-04-2018,BALCAO,Ntb,Amazon,Concluído,0,25-04-2018,25-04-2018,Sim
+16-04-2018,BALCAO,Ntb,Sti,Sem Conserto,0,0,25-04-2018,Não
+16-04-2018,BALCÃO,Adega,Philco,Concluído,0,15-05-2018,15-05-2018,Sim
+17-04-2018,ON SITE,Adega,Midea,Concluído,0,28-04-2018,28-04-2018,Sim
+17-04-2018,BALCÃO,Ntb,Acer,Sem Analise,0,0,18-04-2018,Não
+17-04-2018,BALCÃO,Ntb + Impressora,Positivo + Hp,Concluído,0,18-04-2018,18-04-2018,Sim
+17-04-2018,BALCÃO,Ntb,Toshiba,Concluído,0,18-05-2018,18-05-2018,Sim
+18-04-2018,BALCÃO,Ntb,Toshiba,Sem Conserto,0,0,23-11-2018,Não
+18-04-2018,ON SITE,Desk,Daten,0,0,0,0,0
+18-04-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,06-05-2018,Não
+18-04-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,14-05-2018,14-05-2018,Sim
+18-04-2018,ON SITE,Desk,Daten,Concluído,0,23-04-2018,23-04-2018,Sim
+18-04-2018,ON SITE,Ar Condicionado,Lg,0,0,0,0,0
+19-04-2018,ON SITE,Lava/Seca,Midea,Concluído,0,19-04-2018,19-04-2018,Sim
+19-04-2018,ON SITE,Ar Condicionado,Midea,Sem Conserto,0,0,15-05-2018,Não
+19-04-2018,BALCÃO,Ntb,Positivo,Concluído,0,28-05-2018,26-07-2018,Sim
+19-04-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,23-04-2018,23-04-2018,Sim
+19-04-2018,BALCÃO,Microondas,Midea,Concluído,0,27-04-2018,05-02-2018,Sim
+19-04-2018,BALCÃO,Microondas,Midea,Concluído,0,27-04-2018,27-04-2018,Sim
+20-04-2018,ON SITE,Lava/Seca,Midea,Concluído,0,05-04-2018,05-04-2018,Sim
+20-04-2018,ON SITE,Desk,Daten,Concluído,0,23-04-2018,23-04-2018,Sim
+20-04-2018,BALCÃO,Condensadora,Springer,Concluído,0,06-12-2018,17-07-2018,Sim
+20-04-2018,BALCAO,Panela Eletrica,Midea,Concluído,0,05-12-2018,05-12-2018,Sim
+24-04-2018,ON SITE,Desk,Daten,Concluído,0,25-04-2018,25-04-2018,Sim
+24-04-2018,ON SITE,Ar Condicionado,Elgin,Concluído,0,23-06-2018,23-06-2018,Sim
+24-04-2018,ON SITE,Lava/Seca,Midea,Concluído,0,25-04-2018,25-04-2018,Sim
+24-04-2018,BALCÃO,Ntb,Positivo,Concluído,0,26-04-2018,26-04-2018,Sim
+24-04-2018,ON SITE,Desk,Daten,Concluído,0,25-04-2018,25-04-2018,Sim
+24-04-2018,GARANTIA E-TICKET,Microondas,Midea,Concluído,0,05-07-2018,05-09-2018,Sim
+24-04-2018,ON SITE,Coifa,Midea,Cancelado,0,0,05-12-2018,Não
+26-04-2018,BALCÃO,Microondas,Midea,Concluído,0,15-05-2018,19-05-2018,Sim
+26-04-2018,ON SITE,Monitor,Daten,Concluído,0,27-04-2018,27-04-2018,Sim
+26-04-2018,ON SITE,Monitor,Daten,Concluído,0,27-04-2018,27-04-2018,Sim
+26-04-2018,BALCÃO,Ntb,Itautec,S/Conserto,0,0,17-05-2018,Não
+26-04-2018,ON SITE,Ar Condicionado,Elgin,Concluído,0,05-03-2018,05-03-2018,Sim
+26-04-2018,BALCÃO,Ntb,Acer,Concluído,0,05-11-2018,15-05-2018,Sim
+26-04-2018,BALCÃO,Placa Do Ar Condicionado,0,Concluído,0,21-05-2018,24-05-2018,Sim
+27-04-2018,BALCÃO,Ar Condicionado Portátil,Elgin,Concluído,0,22-05-2018,23-05-2018,Sim
+27-04-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+27-04-2018,BALCÃO,Ntb,Positivo,Concluído,0,21-05-2018,22-05-2018,Sim
+27-04-2018,BALCÃO,Ar Cond Janela,Springer,Concluído,0,06-11-2018,06-12-2018,Sim
+27-04-2018,ON SITE,Desk,Daten,Concluído,0,05-03-2018,05-03-2018,Sim
+05-02-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,14-05-2018,14-05-2018,Sim
+05-02-2018,BALCÃO,Ntb,Dell,Sem Conserto,0,0,05-04-2018,Não
+05-03-2018,BALCÃO,Ntb,Samsung,Concluído,0,05-09-2018,05-10-2018,Sim
+05-04-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,19-05-2018,19-05-2018,Sim
+05-05-2018,BALCÃO,Desk,Montado,Concluído,0,05-08-2018,05-08-2018,Sim
+05-07-2018,ON SITE,Lava/Seca,Midea,Concluído,0,05-04-2018,05-04-2018,Sim
+05-07-2018,ON SITE,Cooktop,Midea,Concluído,0,05-07-2018,05-07-2018,Sim
+05-07-2018,BALCÃO,Desk,Montado,Concluído,0,05-08-2018,05-09-2018,Sim
+05-07-2018,BALCÃO,Ntb,Samsung,S/Conserto,0,0,22-05-2018,Não
+05-07-2018,BALCÃO,Desk,Spire,Concluído,0,23-05-2018,23-05-2018,Sim
+05-07-2018,BALCÃO,Desk,Montado,Concluído,0,23-05-2018,23-05-2018,Sim
+05-07-2018,BALCÃO,Microondas,Midea,Concluído,0,18-05-2018,13-06-2018,Sim
+05-07-2018,ETICKET,Microondas,Midea,Concluído,0,06-04-2018,06-08-2018,Sim
+05-07-2018,ETICKET,Microondas,Midea,Concluído,0,15-05-2018,16-05-2018,Sim
+05-08-2018,BALCÃO,Ntb,Dell,Concluído,0,05-08-2018,05-09-2018,Sim
+05-08-2018,ON SITE,Desk,Daten,Concluído,0,21-05-2018,23-05-2018,Sim
+05-08-2018,ON SITE,Desk,Daten,Concluído,0,05-09-2018,05-09-2018,Sim
+05-08-2018,BALCÃO,Microondas,Midea,Concluído,0,15-05-2018,18-05-2018,Sim
+05-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,05-10-2018,05-10-2018,Sim
+05-08-2018,ETICKET,Micro Ondas,Midea,Concluído,0,05-09-2018,05-10-2018,Sim
+05-08-2018,BALCÃO,Ntb,Positivo,Concluído,0,25-05-2018,06-04-2018,Sim
+05-09-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,17-05-2018,17-05-2018,Sim
+05-09-2018,ON SITE,Ar Condicinado,Midea,Concluído,0,15-05-2018,15-05-2018,Sim
+05-09-2018,BALCÃO,Desk,Itautec,Concluído,0,06-04-2018,06-04-2018,Sim
+05-10-2018,BALCÃO,Ntb,Sti,0,0,0,0,0
+05-10-2018,ON SITE,Lava/Seca,Midea,Concluído,0,05-11-2018,05-11-2018,Sim
+05-10-2018,ON SITE,Desk,Daten,Concluído,0,14-05-2018,14-05-2018,Sim
+05-10-2018,ETICKET,Micro Ondas,Midea,Concluído,0,21-05-2018,22-05-2018,Sim
+05-11-2018,ON SITE,Lava/Seca,Midea,Concluído,0,05-11-2018,05-11-2018,Sim
+05-11-2018,BALCÃO,Ntb,Positivo,Concluído,0,25-05-2018,29-05-2018,Sim
+05-11-2018,ON SITE,Desk,Daten,Concluído,0,14-05-2018,14-05-2018,Sim
+05-11-2018,ON SITE,Desk,Daten,Cancelado,0,0,15-05-2018,Não
+05-12-2018,BALCÃO,Adega,Midea,Concluído,0,15-05-2018,19-05-2018,Sim
+14-05-2018,ETICKET,Adega,Midea,Concluído,0,15-05-2018,16-05-2018,Sim
+14-05-2018,ETICKET,Microondas,Midea,Concluído,0,22-05-2018,24-05-2018,Sim
+14-05-2018,BALCÃO,Ntb,Itautec,Concluído,0,16-05-2018,17-05-2018,Sim
+14-05-2018,ETICKET,Purificador,Midea,Concluído,0,17-05-2018,21-05-2018,Sim
+14-05-2018,ETICKET,Microondas,Midea,Concluído,0,22-05-2018,24-05-2018,Sim
+14-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,06-11-2018,06-11-2018,Sim
+15-05-2018,ETICKET,Microondas,Midea,Concluído,0,23-05-2018,25-05-2018,Sim
+15-05-2018,ETICKET,Purificador,Midea,Concluído,0,16-05-2018,21-05-2018,Sim
+15-05-2018,ON SITE,Desk,Daten,Concluído,0,16-05-2018,16-05-2018,Sim
+15-05-2018,BALCÃO,Ntb,Acer,Concluído,0,06-04-2018,06-04-2018,Sim
+16-05-2018,ON SITE,Desk,Daten,Concluído,0,22-05-2018,22-05-2018,Sim
+16-05-2018,BALCÃO,Micro Ondas,Midea,Troca,0,0,15-06-2018,Não
+16-05-2018,BALCÃO,Ntb,Samsung,Concluído,0,24-05-2018,25-05-2018,Sim
+16-05-2018,BALCÃO,Ntb,Toshiba,Sem Conserto,0,0,25-06-2018,Não
+17-05-2018,ON SITE,Lava/Seca,Electrolux,0,0,0,0,0
+17-05-2018,BALCÃO,Ntb,Samsung,Concluído,0,06-07-2018,06-07-2018,Sim
+17-05-2018,ETICKET,Aspirador,Midea,Garantia Negada,0,0,0,Não
+17-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,30-05-2018,06-01-2018,Sim
+18-05-2018,ETICKET,Bebedouro,Midea,Concluído,0,06-11-2018,06-12-2018,Sim
+18-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,28-05-2018,30-05-2018,Sim
+18-05-2018,ETICKET,Panela Eletrica,Midea,Concluído,0,06-05-2018,06-08-2018,Sim
+18-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,25-05-2018,30-05-2018,Sim
+19-05-2018,ETICKET,Fritadeira,Midea,Concluído,0,22-05-2018,22-05-2018,Sim
+19-05-2018,EITCKET,Micro Ondas,Midea,Concluído,0,21-05-2018,22-05-2018,Sim
+19-05-2018,ETICKET,Micro Ondas,Midea,Concluído,0,21-05-2018,24-05-2018,Sim
+21-05-2018,ON SITE,Desk,Daten,Concluído,0,23-05-2018,23-05-2018,Sim
+21-05-2018,ON SITE,Desk,Daten,Concluído,0,28-05-2018,28-05-2018,Sim
+21-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,06-08-2018,06-08-2018,Sim
+21-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,22-05-2018,22-05-2018,Sim
+21-05-2018,ETICKET,Panela De Pressao,Midea,Concluído,0,20-06-2018,22-06-2018,Sim
+21-05-2018,ETICKET,Climatizador,Midea,Concluído,0,06-11-2018,25-07-2018,Sim
+22-05-2018,ON SITE,Ar Condicionado,Midea,Abertura Incorreto,0,24-05-2018,24-05-2018,Não
+22-05-2018,ETICKET,Micro Ondas,Midea,Concluído,0,06-05-2018,06-08-2018,Sim
+23-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,06-10-2018,06-10-2018,Sim
+23-05-2018,BALCÃO,Microondas,Midea,Concluído,0,06-11-2018,06-12-2018,Sim
+24-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,06-01-2018,06-01-2018,Sim
+24-05-2018,BALCÃO,Ntb,Acer,Concluído,0,30-05-2018,06-01-2018,Sim
+24-05-2018,BALCÃO,Allinone,Positivo,Concluído,0,06-07-2018,06-07-2018,Sim
+25-05-2018,BALCÃO,Microondas,Midea,Concluído,0,30-05-2018,06-01-2018,Sim
+25-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,29-05-2018,29-05-2018,Sim
+25-05-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,06-01-2018,06-01-2018,Sim
+25-05-2018,BALCÃO,Monitor,Philips,0,0,0,0,0
+28-05-2018,ON SITE,Ar Condicionado,Midea,Cancelado,0,0,28-05-2018,Não
+28-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,30-05-2018,30-05-2018,Sim
+28-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,06-10-2018,06-10-2018,Sim
+28-05-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,06-02-2018,06-02-2018,Sim
+29-05-2018,ON SITE,Cooktop,Midea,0,0,0,0,0
+29-05-2018,ON SITE,Desk,Daten,Concluído,0,06-07-2018,06-07-2018,Sim
+29-05-2018,ON SITE,Ar Condicionado,Midea,Cancelado,0,0,0,Não
+30-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,06-11-2018,13-06-2018,Sim
+30-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,08-01-2018,08-01-2018,Sim
+30-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,13-06-2018,13-06-2018,Sim
+06-01-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,06-11-2018,06-11-2018,Sim
+06-01-2018,BALCÃO,All In One,Fora,Concluído,0,06-01-2018,06-01-2018,Sim
+06-01-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,08-04-2018,08-04-2018,Sim
+06-01-2018,BALCÃO,All In One,Itautec,Concluído,0,06-11-2018,06-11-2018,Sim
+06-01-2018,BALCÃO,Microondas,Midea,Concluído,0,06-01-2018,06-01-2018,Sim
+06-01-2018,ON SITE,Cooktop,Midea,Cancelado,0,0,0,Não
+06-01-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,06-07-2018,06-08-2018,Sim
+06-02-2018,BALCÃO,Cooktop,Midea,Concluído,0,06-02-2018,06-02-2018,Sim
+06-02-2018,ETICKET,Micro Ondas,Midea,Concluído,0,13-06-2018,15-06-2018,Sim
+06-02-2018,ETICKET,Microondas,Midea,0,0,0,0,0
+06-04-2018,ON SITE,Lava/Seca,Midea,Concluído,0,06-04-2018,06-04-2018,Sim
+06-04-2018,BALCÃO,Ntb,Dell,Concluído,0,06-06-2018,20-06-2018,Sim
+06-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,18-06-2018,20-06-2018,Sim
+06-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,06-11-2018,13-06-2018,Sim
+06-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,22-06-2018,25-06-2018,Sim
+06-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,15-06-2018,15-06-2018,Sim
+06-05-2018,REVENDA/BALCAO,Aspirador,Midea,Sem Conserto,0,0,28-06-2018,Não
+06-05-2018,REVENDA/BALCAO,Fritadeira,Midea,Concluído,0,06-11-2018,28-06-2018,Sim
+06-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,22-06-2018,22-06-2018,Sim
+06-05-2018,ETICKET,Purificador,Midea,Concluído,0,06-07-2018,06-08-2018,Sim
+06-05-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,06-07-2018,06-07-2018,Sim
+06-05-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,14-06-2018,18-06-2018,Sim
+06-06-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,28-06-2018,07-08-2018,Sim
+06-06-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,0,0,Sim
+06-06-2018,BALCÃO,Aquecedor,Midea,0,0,0,0,0
+06-06-2018,BALCÃO,Aquecedor,Midea,Concluído,0,16-06-2018,18-06-2018,Sim
+06-07-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,14-06-2018,18-06-2018,Sim
+06-07-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,25-06-2018,07-04-2018,Sim
+06-07-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,16-06-2018,20-06-2018,Sim
+06-07-2018,ON SITE,Ar Condicionado,Elgin,Concluído,0,06-08-2018,06-08-2018,Sim
+06-07-2018,ON SITE,Ar Condicionado,Springer,0,0,0,0,0
+06-08-2018,ON SITE,Monitor,Daten,Concluído,0,06-12-2018,06-12-2018,Sim
+06-08-2018,BALCÃO,Desk,Montado,Concluído,0,23-06-2018,25-06-2018,Sim
+06-08-2018,BALCÃO,Ntb,Daten,Concluído,0,26-06-2018,26-06-2018,Sim
+06-11-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,13-06-2018,15-06-2018,Sim
+06-11-2018,BALCÃO,Controle Midea,Midea,Concluído,0,08-02-2018,08-02-2018,Sim
+06-11-2018,ON SITE,Ar Condicionado,0,0,0,0,0,0
+06-11-2018,BALCÃO,Microondas,Midea,Concluído,0,22-06-2018,25-06-2018,Sim
+06-11-2018,BALCÃO,Ntb,Dell,Concluído,0,25-07-2018,25-07-2018,Sim
+06-11-2018,BALCÃO,Ntb,Samsung,Concluído,0,29-06-2018,07-11-2018,Sim
+06-11-2018,BALCÃO,Ntb,Positivo,Concluído,0,13-07-2018,13-07-2018,Sim
+06-12-2018,BALCÃO,Condensadora,Midea,Concluído,0,28-07-2018,08-02-2018,Sim
+06-12-2018,ETICKET,Aspirador Robo,Midea,Ressarcimento,0,0,31-07-2018,Não
+06-12-2018,BALCÃO,Ntb,Sti,Descarte,0,0,19-02-2020,Não
+06-12-2018,ON SITE,Desk,Daten,Concluído,0,25-06-2018,25-06-2018,Sim
+06-12-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,22-06-2018,25-06-2018,Sim
+06-12-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,16-06-2018,18-06-2018,Sim
+06-12-2018,ETICKET,Panela Eletrica,Midea,Troca,0,0,14-09-2018,Não
+06-12-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,21-06-2018,22-06-2018,Sim
+06-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,13-06-2018,15-06-2018,Sim
+06-12-2018,BALCÃO,Desk,Montado,S/ Conserto,0,0,14-08-2018,Não
+06-12-2018,BALCÃO,Ntb,Itautec,Concluído,0,08-03-2018,09-12-2018,Sim
+06-12-2018,BALCÃO,Monitor,Kds,0,0,0,0,0
+13-06-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,27-08-2018,27-08-2018,Sim
+13-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,23-06-2018,23-06-2018,Sim
+13-06-2018,ON SITE,Ntb,Daten,Concluído,0,07-10-2018,07-10-2018,Sim
+14-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,22-06-2018,25-06-2018,Sim
+14-06-2018,BALCÃO,Union,Itautec,0,0,0,0,0
+14-06-2018,ON SITE,Lava/Seca,Midea,Cancelado,0,0,14-06-2018,Não
+14-06-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,27-06-2018,27-06-2018,Sim
+14-06-2018,ON SITE,Desk,Daten,Concluído,0,25-06-2018,25-06-2018,Sim
+15-06-2018,BALCÃO,Adega,Midea,Concluído,0,19-06-2018,22-06-2018,Sim
+15-06-2018,BALCÃO,Tv Digital,Aoc,Sem Conserto,0,0,02-12-2019,Não
+15-06-2018,BALCÃO,Panela Eleétrica,Midea,Ressarcimento,0,0,08-07-2018,Não
+15-06-2018,ON SITE,Desk,Daten,Concluído,0,15-06-2018,15-06-2018,Sim
+15-06-2018,ON SITE,Desk,Daten,Concluído,0,15-06-2018,15-06-2018,Sim
+15-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,17-06-2018,17-06-2018,Sim
+16-06-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,07-09-2018,Não
+16-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,17-06-2018,17-06-2018,0
+18-06-2018,ETICKET,Panela De Pressão,Midea,Concluído,0,22-06-2018,30-08-2019,Sim
+18-06-2018,BALCAO,Aquecedor,Midea,Sem Conserto,0,0,07-05-2018,Não
+18-06-2018,ON SITE,Desk,Daten,Concluído,0,19-06-2018,19-06-2018,Sim
+18-06-2018,ON SITE,Coifa,Midea,Concluído,0,07-02-2018,07-07-2018,Sim
+18-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,29-06-2018,07-03-2018,Sim
+19-06-2018,BALCÃO,Aquecedor,Midea,Concluído,0,22-08-2018,14-09-2018,Sim
+19-06-2018,BALCÃO,Ntb,Dell,Concluído,0,07-06-2018,07-07-2018,Sim
+20-06-2018,ON SITE,Cooktop,Midea,Concluído,0,22-06-2018,22-06-2018,Sim
+20-06-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,07-10-2018,07-10-2018,Sim
+21-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,24-06-2018,24-06-2018,Sim
+22-06-2018,BALCÃO,Ntb,Hp,Concluído,0,25-06-2018,07-03-2018,Sim
+23-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,24-06-2018,24-06-2018,Sim
+23-06-2018,BALCÃO,Purificador,Midea,Consluido,0,27-06-2018,29-06-2018,Sim
+25-06-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,07-10-2018,07-10-2018,Sim
+25-06-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,25-06-2018,25-06-2018,Sim
+25-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,27-06-2018,27-06-2018,Sim
+25-06-2018,ON SITE,Lava/Seca,Midea,Cancelado,0,0,26-06-2018,Não
+25-06-2018,ETICKET,Aspirador,Midea,Concluído,0,25-07-2018,26-07-2018,Sim
+26-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,07-06-2018,07-10-2018,Sim
+26-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,07-03-2018,07-04-2018,Sim
+26-06-2018,BALCÃO,Placa Do Ar Condicionado,Midea,Concluído,0,16-07-2018,17-07-2018,Sim
+26-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,26-06-2018,28-06-2018,Sim
+26-06-2018,BALCÃO,Desk,Positivo,Sem Conserto,0,0,07-11-2018,Não
+26-06-2018,BALCÃO,Ntb,Daten,Sem Conserto,0,0,07-11-2018,Não
+27-06-2018,ETICKET,Aspirador,Midea,Sem Defeito,0,0,19-07-2018,Não
+27-06-2018,BALCÃO,Ntb,Positivo,Concluído,0,07-09-2018,10-07-2019,Sim
+27-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,07-03-2018,07-04-2018,Sim
+27-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,07-06-2018,07-10-2018,Sim
+27-06-2018,BALCÃO,Ntb,Hp,Concluído,0,07-09-2018,14-07-2018,Sim
+28-06-2018,ON SITE,Cooktop,Midea,Concluído,0,28-06-2018,28-06-2018,Sim
+28-06-2018,BALCAO,Desk,Montado,Concluído,0,25-07-2018,25-07-2018,Sim
+28-06-2018,BALCAO,Ntb,Sony,Sem Conserto,0,0,07-03-2018,Não
+28-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,24-07-2018,25-07-2018,Sim
+28-06-2018,ETICKET,Aspirador Robô,Midea,Concluído,0,21-08-2018,24-08-2018,Sim
+28-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,29-06-2018,19-07-2018,Sim
+28-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,30-07-2018,08-03-2018,Sim
+28-06-2018,ETICKET,Micro-Ondas,Midea,Concluído,0,07-09-2018,07-10-2018,Sim
+29-06-2018,BALCÃO,Secador,Britania,Sem Defeito,0,07-03-2018,07-05-2018,Não
+29-06-2018,BALCÃO,Escova,0,Sem Consero,0,0,09-12-2018,Sim
+29-06-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,07-05-2018,07-06-2018,Sim
+30-06-2018,BALCÃO,Climatizador,Springer,Concluído,0,07-10-2018,07-11-2018,Sim
+30-06-2018,BALCÃO,Climatizador,Springer,Concluído,0,28-07-2018,28-07-2018,Sim
+07-02-2018,BALCÃO,Microondas,Electrolux,Concluído,0,07-02-2018,07-02-2018,Sim
+07-02-2018,ETICKET,Panela,Midea,Concluído,0,07-02-2018,07-03-2018,Sim
+07-02-2018,ETICKET,Microondas,Midea,Concluído,0,25-07-2018,26-07-2018,Sim
+07-02-2018,ETICKET,Fritadeira,Midea,Concluído,0,21-08-2018,23-08-2018,Sim
+07-02-2018,BALCÃO,Microondas,Midea,Concluído,0,07-02-2018,07-02-2018,Sim
+07-02-2018,GARANTIA - BALCÃO,Microondas,Midea,Concluído,0,07-05-2018,07-06-2018,Sim
+07-02-2018,BALCÃO,Mixer,Mondial,0,0,0,0,0
+07-03-2018,ON SITE,Desk,Daten,Concluído,0,07-06-2018,07-06-2018,Sim
+07-03-2018,BALCÃO,Notebook,Positivo,Sem Analise,0,0,07-03-2018,Não
+07-03-2018,BALCÃO,Ntb,Lenovo,Concluído,0,07-11-2018,07-12-2018,Sim
+07-03-2018,BALCÃO,Ntb,Positivo,Sem Conserto,0,0,0,Não
+07-04-2018,BALCÃO,Ntb,Positivo,Concluído,0,07-07-2018,07-07-2018,Sim
+07-04-2018,BALCÃO,Ntb,Toshiba,0,0,0,0,0
+07-04-2018,ON SITE,Ar Condicionado,Springer,Sem Conserto,0,0,07-10-2018,Não
+07-04-2018,ETICKET,Microondas,Midea,Concluído,0,26-07-2018,30-07-2018,Sim
+07-04-2018,ON SITE,Desk,Daten,Concluído,0,13-07-2018,13-07-2018,Sim
+07-04-2018,BALCÃO,Ntb,Dell,Concluído,0,07-11-2018,07-11-2018,Sim
+07-04-2018,BALCÃO,Mixer Triturador,Britania,Sem Conserto,0,0,09-12-2018,Não
+07-04-2018,ETICKET,Microondas,Midea,Concluído,0,08-02-2018,08-03-2018,Sim
+07-06-2018,ON SITE,Desk,Daten,Concluído,0,19-07-2018,19-07-2018,Sim
+07-06-2018,BALCÃO,Adaptador (Fonte),Hp,Sem Defeito,0,0,13-07-2018,Não
+07-06-2018,BALCÃO,Microondas,Lg,Sem Conserto,0,0,14-07-2018,Não
+07-07-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,04-06-2019,Não
+07-09-2018,ETICKET,Microondas,Midea,Concluído,0,30-07-2018,31-07-2018,Sim
+07-09-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,07-11-2018,07-11-2018,Sim
+07-09-2018,ETICKET,Microondas,Midea,Concluído,0,07-09-2018,07-09-2018,Sim
+07-09-2018,BALCÃO,Microondas,Brastemp,Sem Conserto,0,0,07-11-2018,Não
+07-09-2018,ETICKET,Microondas,Midea,Concluído,0,24-07-2018,08-10-2018,Sim
+07-09-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,23-07-2018,23-07-2018,Sim
+07-09-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,13-07-2018,13-07-2018,Sim
+07-10-2018,BALCAO,Ntb,Dell,Concluído,0,07-10-2018,07-10-2018,Sim
+07-10-2018,ON SITE,Ar Condicionado,Carrier,0,0,0,0,0
+07-10-2018,ON SITE,Desk,Daten,Concluído,0,13-07-2018,13-07-2018,Sim
+07-11-2018,BALCÃO,Micro Ondas,Eletrolux,Concluído,0,13-07-2018,13-07-2018,Sim
+07-11-2018,ON SITE,Ar Condicionado,0,Concluído,0,12-05-2018,12-05-2018,Sim
+07-11-2018,BALCÃO,Aspirador,Midea,Concluído,0,0,30-08-2018,Sim
+07-11-2018,BALCÃO,Notebook,Dell,Concluído,0,24-07-2018,25-07-2018,Sim
+07-12-2018,ON SITE,Ar Condicionado,Springer Carrier,Concluído,0,13-07-2018,13-07-2018,Sim
+07-12-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,19-07-2018,20-07-2018,Sim
+07-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,13-07-2018,13-07-2018,Sim
+07-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,26-07-2018,26-07-2018,Sim
+07-12-2018,BALCÃO,Ntb,Dell,Concluído,0,18-07-2018,18-07-2018,Sim
+07-12-2018,BALCÃO,Purificador,Midea,Concluído,0,25-07-2018,25-07-2018,Sim
+07-12-2018,BALCÃO,Filtro,Ibbl,Concluído,0,25-07-2018,25-07-2018,Sim
+07-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,08-01-2018,08-01-2018,Sim
+07-12-2018,ETICKET,Microondas,Midea,Concluído,0,25-07-2018,26-07-2018,Sim
+13-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,18-07-2018,18-07-2018,Sim
+13-07-2018,ON SITE,Desk,Daten,Concluído,0,19-07-2018,19-07-2018,Sim
+13-07-2018,ON SITE,Desk,Daten,Concluído,0,13-07-2018,13-07-2018,Sim
+13-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,14-07-2018,14-07-2018,Sim
+14-07-2018,ON SITE,Lava/Seca,Lg,Concluído,0,25-09-2018,25-09-2018,Sim
+14-07-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,14-07-2018,14-07-2018,Sim
+14-07-2018,BALCÃO,Ntb,Dell,Concluído,0,08-02-2018,08-04-2018,Sim
+16-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,19-07-2018,19-07-2018,Sim
+16-07-2018,ON SITE,Ar Condcionado,Springer,Concluído,0,30-07-2018,30-07-2018,Sim
+16-07-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,08-06-2018,08-06-2018,Sim
+16-07-2018,ON SITE,Desk,Daten,Concluído,0,18-07-2018,18-07-2018,Sim
+16-07-2018,BALCÃO,Fritadeira,Midea,Concluído,0,21-08-2018,21-08-2018,Sim
+17-07-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,08-01-2018,18-08-2018,Sim
+18-07-2018,BALCÃO,Ntb,Itautec,Concluído,0,0,22-08-2018,Sim
+18-07-2018,ETICKET,Climatizador,Midea,Troca,0,0,21-09-2018,Não
+18-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,08-08-2018,14-08-2018,Sim
+18-07-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,08-01-2018,08-01-2018,Sim
+19-07-2018,BALCÃO,Ntb,Dell,Sem Conserto,0,0,09-03-2018,Não
+19-07-2018,BALCÃO,Aspirador,Midea,Concluído,0,19-07-2018,20-07-2018,Sim
+19-07-2018,BALCÃO,Purificador,Midea,Concluído,0,27-07-2018,08-09-2018,0
+19-07-2018,ON SITE,Ar Condicionado,Carrier,0,0,0,0,0
+19-07-2018,ETICKET,Microondas,Midea,Concluído,0,31-07-2018,08-01-2018,Sim
+21-07-2018,BALCÃO,Climatizador,Springer,Concluído,0,23-01-2019,30-01-2019,Sim
+21-07-2018,BALCÃO,Fritadeira,Midea,Concluído,0,27-07-2018,28-07-2018,Sim
+23-07-2018,BALCÃO,Ntb,Positivo,Sem Conserto,0,0,08-02-2018,Não
+24-07-2018,BALCÃO,Ar Condicionado,Elgin,Sem Analise,0,0,27-07-2018,Não
+24-07-2018,BALCÃO,Ntb,Sti,S/Conserto,0,0,26-07-2018,Não
+24-07-2018,BALCÃO,Ntb,Itautec,S/Conserto,0,0,08-01-2018,Não
+24-07-2018,BALCÃO,Ntb,Acer,S/Conserto,0,0,15-08-2018,Não
+24-07-2018,ON SITE,Desk,Daten,Concluído,0,08-08-2018,08-08-2018,Sim
+24-07-2018,BALCÃO,Ntb,Itautec,Concluído,0,31-07-2018,31-07-2018,Sim
+24-07-2018,BALCÃO,Ntb,Acer,Concluído,0,20-08-2018,13-09-2018,Sim
+25-07-2018,ETICKET,Aspirador Robo,Midea,Ressarcimento,0,0,15-10-2018,Não
+26-07-2018,BALCÃO,Desk,Icc,Concluído,0,08-02-2018,08-02-2018,Sim
+26-07-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,08-01-2018,08-03-2018,Sim
+26-07-2018,ETICKET,Microondas,Midea,Concluído,0,08-03-2018,08-06-2018,Sim
+27-07-2018,ETICKET,Microondas,Midea,Concluído,0,08-10-2018,13-08-2018,Sim
+27-07-2018,ETICKET,Microondas,Midea,Concluído,0,08-01-2018,08-03-2018,Sim
+30-07-2018,BALCÃO,Purificador,Midea,Concluído,0,30-07-2018,08-04-2018,Sim
+30-07-2018,BALCÃO,Climatizador,Midea,Concluído,0,08-08-2018,08-10-2018,Sim
+30-07-2018,ETICKET,Microondas,Midea,Concluído,0,08-06-2018,08-08-2018,Sim
+30-07-2018,BALCÃO,Notebook,Samsung,Concluído,0,08-03-2018,08-06-2018,Sim
+30-07-2018,BALCÃO,Notebook,Samsung,Descarte,0,0,0,Não
+31-07-2018,BALCÃO,All In One,Hp,Concluído,0,16-08-2018,21-08-2018,Sim
+31-07-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,24-08-2018,25-08-2018,Sim
+31-07-2018,ON SITE,Ar Condicionado,Carrier,Concluído,0,08-03-2018,08-03-2018,Sim
+31-07-2018,ON SITE,Desk,Daten,Concluído,0,08-03-2018,08-03-2018,Sim
+08-01-2018,BALCÃO,Climatizador,Midea,Concluído,0,19-10-2018,22-10-2018,Sim
+08-01-2018,ON SITE - 59449,Desk,Daten,Concluído,0,08-06-2018,08-06-2018,Sim
+08-01-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,08-08-2018,08-08-2018,Sim
+08-02-2018,BALCÃO,Ar Condicionado,Midea,Concluído,0,30-08-2018,09-10-2018,Sim
+08-02-2018,BALCÃO,Ntb,Positivo,Concluído,0,08-10-2018,20-08-2018,Sim
+08-02-2018,BALCÃO,Ntb,Hp,S/ Conserto,0,0,20-08-2018,Não
+08-02-2018,BALCÃO,Aspirador,Britania,Concluído,0,0,08-08-2018,Sim
+08-02-2018,BALCÃO,Aquecedor,Midea,0,0,0,0,0
+08-02-2018,BALCÃO,Ar Condicionado,Midea,Concluído,0,21-08-2018,21-08-2018,Sim
+08-02-2018,ON SITE,Desk,Daten,Concluído,0,08-03-2018,08-03-2018,Sim
+08-03-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+08-03-2018,BALCÃO,Fritadeira,Britania,Concluído,0,14-08-2018,15-08-2018,Sim
+08-03-2018,ETICKET,Microondas,Midea,Troca,0,0,10-03-2018,Não
+08-03-2018,ON SITE - 59467,Desk,Daten,Concluído,0,08-06-2018,08-06-2018,Sim
+08-03-2018,ON SITE,Micro Ondas,Midea,Concluído,0,08-10-2018,08-10-2018,Sim
+08-03-2018,BALCÃO,Mini Processador,Britania,Concluído,0,24-08-2018,24-08-2018,Sim
+08-06-2018,BALCÃO,Notebook,Hp,Sem Conserto,0,0,11-12-2018,Não
+08-06-2018,BALCÃO,Notebook,Hp,Cancelado,0,08-06-2018,08-09-2018,Sim
+08-06-2018,BALCÃO,Notebook,Dell,S/ Conserto,0,0,08-08-2018,Não
+08-07-2018,ON SITE,Ar Condicionado,Midea,Cancelado,0,0,08-07-2018,Não
+08-07-2018,BALCÃO,Notebook,Itautec,Concluído,0,0,08-10-2018,Sim
+08-07-2018,BALCÃO,Grill,Britania,Concluído,0,08-11-2018,14-08-2018,Sim
+08-07-2018,BALCÃO,Grill,Britania,Concluído,0,30-08-2018,31-08-2018,Sim
+08-07-2018,BALCÃO,Processador,Walita,Consertado,0,08-11-2018,14-08-2018,Sim
+08-07-2018,BALCÃO,Espremedor,Philco,Concluído,0,25-08-2018,29-08-2018,Sim
+08-07-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,28-08-2018,29-08-2018,Sim
+08-07-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,30-08-2018,09-03-2018,Sim
+08-07-2018,ETICKET,Aspirador Robo,Midea,Ressarcimento,0,0,0,Não
+08-07-2018,BALCÃO,Ntb,Hp,Concluído,0,08-08-2018,08-09-2018,Sim
+08-07-2018,BALCÃO,Microondas,Midea,Concluído,0,08-08-2018,08-08-2018,Sim
+08-07-2018,BALCÃO,Secador,Britania,Concluído,0,21-08-2018,21-08-2018,Sim
+08-07-2018,ON SITE,Desk,Daten,Concluído,0,08-08-2018,08-08-2018,Sim
+08-07-2018,BALCÃO,Liquidificador,Britania,Concluído,0,09-10-2018,09-12-2018,Sim
+08-07-2018,BALCÃO,Microondas,Midea,Concluído,0,13-09-2018,13-09-2018,Sim
+08-07-2018,BALCÃO,Microondas,Midea,Concluído,0,25-08-2018,28-08-2018,Sim
+08-08-2018,BALCÃO,Secador,Philco,Concluído,0,21-08-2018,22-08-2018,Sim
+08-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,17-08-2018,18-08-2018,Sim
+08-08-2018,BALCÃO,Secador,Philco,Troca,0,0,11-07-2018,Sim
+08-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,08-08-2018,08-08-2018,Sim
+08-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,08-09-2018,08-09-2018,Sim
+08-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,08-09-2018,08-09-2018,Sim
+08-08-2018,BALCÃO,Ntb,Dell,Concluído,0,21-08-2018,21-08-2018,Sim
+08-08-2018,BALCÃO,Batedeira,Britania,Concluído,0,21-10-2018,11-04-2018,Sim
+08-08-2018,BALCÃO,Ntb,Itautec,Concluído,0,17-08-2018,17-08-2018,Sim
+08-08-2018,BALCÃO,Ntb,Dell,Concluído,0,16-08-2018,16-08-2018,Sim
+08-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,09-04-2018,09-06-2018,Sim
+08-08-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,24-08-2018,09-10-2018,Sim
+08-08-2018,BALCÃO,Máquina De Cortar Cabelo,Philco,Concluído,0,27-08-2018,27-08-2018,Sim
+08-08-2018,ETICKET,Purificador,Midea,Concluído,0,20-08-2018,21-08-2018,Sim
+08-08-2018,ETICKET,Microondas,Midea,Concluído,0,09-09-2018,09-10-2018,Sim
+08-08-2018,ETICKET,Microondas,Midea,Concluído,0,25-08-2018,28-08-2018,Sim
+08-09-2018,BALCAO,Ntb,Toshiba,Concluído,0,22-08-2018,22-08-2018,Sim
+08-09-2018,ON SITE - 59501,Desk,Daten,Concluído,0,08-09-2018,08-09-2018,Sim
+08-09-2018,ON SITE - 59500,Desk,Daten,Concluído,0,08-09-2018,08-09-2018,Sim
+08-09-2018,ON SITE - 59525,Desk,Daten,Concluído,0,08-09-2018,08-09-2018,Sim
+08-09-2018,BALCÃO,Fritadeira,Midea,Concluído,0,17-08-2018,21-08-2018,Sim
+08-09-2018,BALCÃO,Ntb,Megaware,Concluído,0,17-08-2018,09-01-2018,Sim
+08-09-2018,BALCÃO,Cafeteira,Philco,Concluído,0,08-11-2018,17-08-2018,Sim
+08-09-2018,BALCÃO,Microondas,Midea,Troca,0,0,19-09-2018,Sim
+08-10-2018,ON SITE,Desk,Daten,Concluído,0,08-10-2018,08-10-2018,Sim
+08-10-2018,BALCÃO,Microondas,Midea,Concluído,0,08-10-2018,08-10-2018,Sim
+08-10-2018,ON SITE,Lava/Seca,Midea,Concluído,0,08-11-2018,08-11-2018,Sim
+08-10-2018,ETICKET,Microondas,Midea,Concluído,0,15-08-2018,16-08-2018,Sim
+08-11-2018,BALCÃO,Ntb,Itautec,Concluído,0,18-08-2018,18-09-2018,Sim
+08-11-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,14-08-2018,14-08-2018,Sim
+08-11-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,14-08-2018,14-08-2018,Sim
+08-11-2018,BALCÃO,Aquecedor,Britania,Concluído,0,09-05-2018,09-10-2018,Sim
+08-11-2018,BALCÃO,Aquecedor,Nilko,Concluído,0,15-08-2018,18-08-2018,Sim
+08-11-2018,BALCÃO,Ntb,Toshiba,Concluído,0,20-08-2018,21-08-2018,Sim
+13-08-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,13-08-2018,13-08-2018,Sim
+13-08-2018,BALCÃO,Ntb,Hp,Concluído,0,16-08-2018,16-08-2018,Sim
+13-08-2018,BALCÃO,Ntb,Hp,Concluído,0,16-08-2018,16-08-2018,Sim
+13-08-2018,BALCÃO,Ntb,Positivo,Concluído,0,16-08-2018,27-08-2018,Sim
+13-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,15-08-2018,27-08-2018,Sim
+13-08-2018,ON SITE,Ar Condicionado,Elgin,Concluído,0,14-08-2018,14-08-2018,Sim
+13-08-2018,BALCÃO,Churrasqueira,Britania,Concluído,0,29-08-2018,29-08-2018,Sim
+13-08-2018,BALCÃO,Cafeteira,Philco,Concluído,0,15-08-2018,17-08-2018,Sim
+13-08-2018,ON SITE,Micro Ondas,Midea,Concluído,0,20-08-2018,24-08-2018,Sim
+14-08-2018,BALCÃO,Microondas,Midea,Concluído,0,25-08-2018,27-08-2018,Sim
+14-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,14-08-2018,14-08-2018,Sim
+14-08-2018,BALCÃO,Aquecedor,Britania,Concluído,0,09-04-2018,09-11-2018,Sim
+14-08-2018,BALCÃO,Grill,Britania,Concluído,0,22-08-2018,31-08-2018,Sim
+14-08-2018,ETICKET,Microondas,Midea,Concluído,0,25-08-2018,28-08-2018,Sim
+14-08-2018,ETICKET,Microondas,Midea,Concluído,0,15-08-2018,20-08-2018,Sim
+14-08-2018,ON SITE - 59566,Desk,Daten,Concluído,0,19-09-2018,19-09-2018,Sim
+14-08-2018,ETICKET,Robo,Midea,Concluído,0,24-08-2018,27-08-2018,Sim
+14-08-2018,BALCÃO,Mixer,Philco,Concluído,0,27-08-2018,29-08-2018,Sim
+15-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,20-08-2018,10-04-2018,Sim
+15-08-2018,BALCÃO,Secador,Britania,0,0,0,0,0
+15-08-2018,BALCÃO,Notebook,Sti,Sem Conserto,0,0,25-08-2018,Não
+15-08-2018,ETICKET,Microondas,Midea,Concluído,0,25-08-2018,28-08-2018,Sim
+15-08-2018,BALCÃO,Cortador De Cabelo,Philco,Concluído,0,25-08-2018,27-08-2018,Sim
+15-08-2018,BALCÃO,Aspirador,Philco,Concluído,0,24-08-2018,28-08-2018,Sim
+16-08-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,16-08-2018,16-08-2018,Sim
+16-08-2018,ETICKET,Microondas,Midea,Concluído,0,25-08-2018,10-04-2018,Sim
+16-08-2018,BALCÃO,Panificadora,Britania,Concluído,0,25-08-2018,25-08-2018,Sim
+16-08-2018,BALCÃO,Aquecedor,Britania,Concluído,0,09-05-2018,09-10-2018,Sim
+16-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,17-08-2018,17-08-2018,Sim
+16-08-2018,BALCÃO,Fritadeira,Philco,Concluído,0,09-06-2018,09-10-2018,Sim
+16-08-2018,ON SITE,Micro Ondas,Ge,Concluído,0,24-08-2018,24-08-2018,Sim
+17-08-2018,ETICKET,Aspirador,Midea,Concluído,0,15-09-2018,20-09-2018,Sim
+17-08-2018,ETICKET,Microondas,Midea,Concluído,0,11-06-2018,22-04-2019,Sim
+17-08-2018,BALCÃO,Microondas,Midea,Concluído,0,21-08-2018,21-08-2018,Sim
+17-08-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+17-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,23-08-2018,25-08-2018,Sim
+17-08-2018,BALCÃO,Liquidificador,Britania,Concluído,0,30-08-2018,31-08-2018,Sim
+17-08-2018,BALCÃO,Liquidificador,Philco,Troca,0,0,14-09-2018,Sim
+18-08-2018,ETICKET,Adega,Midea,Troca,0,0,01-08-2019,Não
+18-08-2018,BALCÃO,Aquecedor,Britania,Concluído,0,09-05-2018,09-05-2018,Sim
+18-08-2018,BALCÃO,Aspirador,Philco,Concluído,0,09-06-2018,09-11-2018,Sim
+18-08-2018,ETICKET,Aspirador Robo,Midea,Concluído,0,24-08-2018,27-08-2018,Sim
+18-08-2018,BALCÃO,Conj. Evap. E Cond.,Springer,Sem Conserto,0,0,30-10-2018,Não
+20-08-2018,BALCÃO,Mixer,Britania,Concluído,0,30-08-2018,09-04-2018,Sim
+20-08-2018,BALCÃO,Microondas,Philco,Concluído,0,09-09-2018,09-10-2018,Sim
+20-08-2018,BALCÃO,Aspirador,Philco,Concluído,0,09-10-2018,09-12-2018,Sim
+21-08-2018,BALCÃO,Micro Ondas,Midea,Descarte,0,0,16-08-2019,Não
+21-08-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,25-08-2018,13-09-2018,Sim
+21-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,22-08-2018,22-08-2018,Sim
+21-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,21-08-2018,21-08-2018,Sim
+21-08-2018,BALCÃO,Panela De Arroz,Britania,Concluído,0,30-08-2018,09-12-2018,Sim
+21-08-2018,ON SITE,Lousa,Positivo,Concluído,0,22-08-2018,22-08-2018,Sim
+21-08-2018,BALCÃO,Panela De Pressão,Midea,Concluído,0,30-09-2018,24-10-2018,Sim
+21-08-2018,BALCÃO,Microondas,Midea,Concluído,0,25-08-2018,28-08-2018,Sim
+21-08-2018,0,Purificador,Midea,Concluído,0,16-09-2018,16-09-2018,Sim
+21-08-2018,ETICKET,Robo,Midea,Concluído,0,28-08-2018,29-08-2018,Sim
+21-08-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,29-08-2018,29-08-2018,Sim
+22-08-2018,BALCÃO,Robo,Philco,Concluído,0,09-03-2018,09-04-2018,Sim
+22-08-2018,ON SITE,Ar Condicionado,Samsung,Concluído,0,17-09-2018,17-09-2018,Sim
+22-08-2018,ON SITE,Lava/Seca,Midea,Concluído,0,30-08-2018,30-08-2018,Sim
+22-08-2018,ON SITE,Desk,Daten,Concluído,0,24-08-2018,24-08-2018,Sim
+22-08-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,22-09-2018,25-09-2018,Sim
+22-08-2018,BALCÃO,Aquecedor,Britania,Concluído,0,15-09-2018,10-09-2018,Sim
+22-08-2018,BALCÃO,Multi Processador,Britania,Concluído,0,09-06-2018,09-06-2018,Sim
+23-08-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,12-03-2018,12-03-2019,Sim
+23-08-2018,ON SITE,Desk,Daten,Concluído,0,09-03-2018,09-03-2018,Sim
+23-08-2018,ON SITE,Desk,Daten,Concluído,0,24-08-2018,24-08-2018,Sim
+23-08-2018,BALCÃO,Desk,Montado,Concluído,0,09-03-2018,09-05-2018,Sim
+23-08-2018,BALCÃO,Ferro,Britania,Concluído,0,25-08-2018,27-08-2018,Sim
+23-08-2018,ON SITE,Desk,Daten,Concluído,0,31-08-2018,31-08-2018,Sim
+23-08-2018,ETICKET,Microondas,Midea,Concluído,0,18-09-2018,20-09-2018,Sim
+24-08-2018,ETICKET,Robo,Midea,Concluído,0,09-04-2018,09-05-2018,Sim
+24-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,25-08-2018,27-08-2018,Sim
+24-08-2018,BALCÃO,Aspirador,Philco,0,0,0,0,0
+24-08-2018,BALCÃO,Chaleira,Philco,0,0,0,0,0
+24-08-2018,BALCÃO,Fritadeira,Philco,Concluído,0,09-05-2018,09-06-2018,Sim
+24-08-2018,BALCÃO,Ntb,Hp,Concluído,0,29-08-2018,30-08-2018,Sim
+25-08-2018,BALCÃO,Cafeteira,Philco,Concluído,0,09-03-2018,09-12-2018,Sim
+25-08-2018,BALCÃO,Grill,Britania,Concluído,0,09-04-2018,27-09-2018,Sim
+25-08-2018,BALCÃO,Fritadeira,Philco,Concluído,0,15-09-2018,15-09-2018,Sim
+25-08-2018,BALCÃO,Cervejeira,Philco,Concluído,0,09-12-2018,14-09-2018,Sim
+25-08-2018,BALCÃO,Liquidificador,Philco,Concluído,0,09-10-2018,13-09-2018,Sim
+25-08-2018,BALCÃO,Coocktop De Indução,Midea,Concluído,0,13-10-2018,13-10-2018,Sim
+25-08-2018,BALCÃO,Aquecedor,Britania,Concluído,0,09-10-2018,10-06-2018,Sim
+25-08-2018,ON SITE,Ar Condicionado,Springer,Cancelado,0,0,28-08-2018,Não
+25-08-2018,ETICKET,Robo,Midea,Concluído,0,09-04-2018,09-05-2018,Sim
+25-08-2018,ETICKET,Purificador,Midea,Concluído,0,30-08-2018,09-03-2018,Sim
+25-08-2018,BALCAO,Ntb,Samsung,Concluído,0,30-08-2018,31-08-2018,Sim
+27-08-2018,ETICKET,Purificador,Midea,Concluído,0,31-08-2018,09-03-2018,Sim
+27-08-2018,ETICKET,Robo,Midea,Concluído,0,09-04-2018,09-05-2018,Sim
+27-08-2018,BALCÃO,Fritadeira,Philco,Concluído,0,09-11-2018,24-09-2018,Sim
+27-08-2018,BALCÃO,Microondas,Midea,Concluído,0,09-09-2018,09-10-2018,Sim
+27-08-2018,BALCÃO,Micro Ondas,Midea,0,0,0,0,0
+27-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,09-09-2018,09-10-2018,Sim
+28-08-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,28-08-2018,28-08-2018,Sim
+28-08-2018,ON SITE,Desk,Daten,Concluído,0,09-03-2018,09-03-2018,Sim
+28-08-2018,BALCÃO,Ntb,Acer,Sem Conserto,0,0,21-09-2018,Não
+28-08-2018,BALCÃO,Chaleira,Britania,Concluído,0,18-09-2018,19-09-2018,Sim
+28-08-2018,BALCÃO,Churrasqueira,Britania,Concluído,0,09-09-2018,09-12-2018,Sim
+28-08-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,29-08-2018,29-08-2018,Sim
+28-08-2018,BALCÃO,Ntb,Sti,Sem Conserto,0,0,19-09-2018,Não
+29-08-2018,BALCÃO,Ntb,Positivo,Concluído,0,09-05-2018,09-05-2018,Sim
+29-08-2018,BALCÃO,Ntb,Hp,Concluído,0,09-05-2018,09-05-2018,Sim
+29-08-2018,BALCÃO,Aspirador,Philco,Concluído,0,31-08-2018,09-04-2018,Sim
+29-08-2018,ETICKET,Robo,Midea,Concluído,0,09-04-2018,09-05-2018,Sim
+29-08-2018,ETICKET,Robo,Midea,Concluído,0,09-04-2018,09-05-2018,Sim
+29-08-2018,BALCÃO,Mixer,Britania,Concluído,0,09-10-2018,13-09-2018,Sim
+30-08-2018,BALCÃO,Aspirador,Britania,Concluído,0,21-10-2018,17-12-2018,Sim
+30-08-2018,BALCÃO,Moedor,Philco,Concluído,0,15-09-2018,10-03-2018,Sim
+30-08-2018,BALCÃO,Torradeira,Britania,Troca,0,0,17-10-2018,Não
+30-08-2018,BALCÃO,Aspirador,Philco,Concluído,0,09-11-2018,09-12-2018,Sim
+30-08-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,09-04-2018,Não
+30-08-2018,BALCÃO,Panificadora,Britania,Concluído,0,15-09-2018,17-09-2018,Sim
+30-08-2018,BALCÃO,Aspirador,Philco,Concluído,0,31-08-2018,09-12-2018,Sim
+30-08-2018,ON SITE,Desk,Daten,Concluído,0,09-12-2018,09-12-2018,Sim
+30-08-2018,ON SITE,Desk,Daten,Concluído,0,09-12-2018,09-12-2018,Sim
+30-08-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,28-09-2018,28-09-2018,Sim
+31-08-2018,ON SITE,Desk,Daten,Concluído,0,19-09-2018,19-09-2018,Sim
+31-08-2018,ON SITE,Desk,Daten,Concluído,0,19-09-2018,19-09-2018,Sim
+31-08-2018,ETICKET,Microondas,Midea,Concluído,0,11-01-2018,11-05-2018,Sim
+31-08-2018,ETICKET,Robo,Midea,Troca,0,0,11-05-2018,Não
+31-08-2018,BALCÃO,Fritadeira,Philco,Concluído,0,18-09-2018,19-09-2018,Sim
+31-08-2018,BALCÃO,Multiprocessador,Philco,Concluído,0,09-09-2018,10-10-2018,Sim
+31-08-2018,BALCÃO,Ntb,Dell,Concluído,0,09-10-2018,09-11-2018,Sim
+31-08-2018,BALCÃO,Panela,Philco,Concluído,0,09-11-2018,14-09-2018,Sim
+31-08-2018,BALCÃO,Panificadora,Britania,Concluído,0,09-03-2018,09-03-2018,Sim
+09-01-2018,BALCÃO,Aquecedor,Britania,Concluído,0,09-01-2018,09-01-2018,Sim
+09-01-2018,ON SITE,Lava/Seca,Midea,Cancelada,0,0,14-09-2018,Não
+09-03-2018,ON SITE,Desk,Daten,Concluído,0,09-03-2018,09-03-2018,Sim
+09-03-2018,ON SITE,Desk,Daten,Concluído,0,09-03-2018,09-03-2018,Sim
+09-03-2018,ON SITE,Ar Condicionado,0,0,0,0,0,0
+09-03-2018,BALCÃO,Notebook,Toshiba,Sem Conserto,0,0,09-06-2018,Não
+09-03-2018,BALCÃO,Fritadeira,Philco,0,0,0,0,0
+09-03-2018,BALCÃO,Centrifuga,Britania,Concluído,0,09-09-2018,09-12-2018,Sim
+09-03-2018,BALCÃO,Desk,Space,Sem Conserto,0,0,09-11-2018,Não
+09-04-2018,ON SITE,Lava/Seca,Midea,Concluído,0,09-05-2018,09-05-2018,Sim
+09-04-2018,BALCÃO,Ventilador,Britania,Concluído,0,10-09-2018,10-09-2018,Sim
+09-04-2018,ON SITE,Lava/Seca,Midea,Concluído,0,09-05-2018,09-05-2018,Sim
+09-04-2018,BALCÃO,Micro Ondas,Midea,0,0,0,0,0
+09-04-2018,ON SITE,Cooktop,Philco,Concluído,0,24-09-2018,24-09-2018,Sim
+09-04-2018,BALCÃO,Purificador,Master Frio,Concluído,0,15-09-2018,17-09-2018,Sim
+09-04-2018,BALCÃO,Cafeteira,Britania,Concluído,0,09-04-2018,09-04-2018,Sim
+09-04-2018,BALCÃO,Roteador,Tp-Link,Concluído,0,20-09-2018,20-09-2018,Sim
+09-05-2018,ON SITE,Ar Condicionado,0,0,0,0,0,0
+09-05-2018,ETICKET,Robô,Midea,Concluído,0,10-12-2018,16-10-2018,Sim
+09-05-2018,ETICKET,Climatizador,Midea,Concluído,0,13-09-2018,14-09-2018,Sim
+09-05-2018,BALCÃO,Tablet,Philco,Troca,0,0,16-11-2018,Sim
+09-05-2018,BALCÃO,Liquidificador,Britania,Concluído,0,12-03-2018,12-03-2018,Sim
+09-05-2018,BALCÃO,Pipoqueira,Britania,Concluído,0,29-09-2018,10-01-2018,0
+09-05-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,09-07-2018,10-01-2018,Sim
+09-05-2018,ETICKET,Aspirador,Midea,Concluído,0,09-11-2018,09-12-2018,Sim
+09-05-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,09-07-2018,09-12-2018,Sim
+09-06-2018,BALCÃO,Forno Eletrico,Britania,Concluído,0,09-09-2018,09-11-2018,Sim
+09-06-2018,BALCÃO,Cafeteira,Britania,Concluído,0,30-09-2018,10-03-2018,Sim
+09-06-2018,BALCÃO,Panela,Midea,Troca,0,0,29-11-2018,Não
+09-06-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,09-09-2018,09-12-2018,Sim
+09-10-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,27-10-2018,30-10-2018,Sim
+09-10-2018,BALCÃO,Micro Ondas,Midea,0,0,0,0,0
+09-10-2018,ON SITE,Lava/Seca,Midea,Concluído,0,21-09-2018,21-09-2018,Sim
+09-10-2018,BALCÃO,Aspirador,Midea,Sem Conserto,0,0,11-09-2018,Não
+09-10-2018,ON SITE,Lava/Seca,Midea,Concluído,0,10-03-2018,10-03-2018,Sim
+09-10-2018,BALCÃO,Ntb,Sti,Sem Conserto,0,0,25-09-2018,Não
+09-10-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,09-12-2018,14-09-2018,Sim
+09-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,18-09-2018,20-09-2018,Sim
+09-11-2018,ON SITE,Lava/Seca,Midea,Concluído,0,20-09-2018,20-09-2018,Sim
+09-11-2018,BALCÃO,Multiprocessador,Philco,Concluído,0,09-12-2018,20-09-2018,Sim
+09-11-2018,BALCÃO,Tablet,Philco,Concluído,0,21-09-2018,21-09-2018,Sim
+09-12-2018,ON SITE,Maquina De Lavar,Brastemp,Concluído,0,10-03-2018,10-03-2018,Sim
+09-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,18-09-2018,18-09-2018,Sim
+09-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,18-09-2018,18-09-2018,Sim
+09-12-2018,ON SITE 059810,Desk,Daten,Concluído,0,19-09-2018,19-09-2018,Sim
+09-12-2018,ON SITE,Desk,Daten,Concluído,0,09-12-2018,09-12-2018,Sim
+09-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-09-2018,25-09-2018,Sim
+09-12-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,21-09-2018,21-09-2018,Sim
+09-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,21-09-2018,25-09-2018,Sim
+13-09-2018,BALCÃO,Purificador,Midea,Concluído,0,20-09-2018,21-09-2018,Sim
+13-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,21-09-2018,25-09-2018,Sim
+13-09-2018,ETICKET,Robô,Midea,Troca,0,0,23-10-2018,Não
+13-09-2018,BALCÃO,Churrasqueira,Britania,Concluído,0,19-09-2018,20-09-2018,Sim
+13-09-2018,BALCÃO,Aspirador,0,Concluído,0,25-09-2018,26-09-2018,Sim
+13-09-2018,BALCÃO,Cafeteira,Oster,0,0,0,0,0
+13-09-2018,BALCÃO,Play Station,Sony,0,0,0,0,0
+13-09-2018,BALCÃO,Liquidificador,Philco,Concluído,0,27-09-2018,18-10-2018,Sim
+13-09-2018,BALCÃO,Cafeteira,Philco,Concluído,0,26-09-2018,10-08-2018,Sim
+13-09-2018,BALCÃO,Ntb,Vaio,Sem Conserto,0,0,12-11-2018,Não
+13-09-2018,BALCÃO,Chaleira,Britania,Concluído,0,14-09-2018,14-09-2018,Sim
+13-09-2018,BALCÃO,Ntb,Sti,Sem Conserto,0,0,21-09-2018,Não
+13-09-2018,BALCÃO,Ntb,Positivo,Concluído,0,24-09-2018,24-09-2018,Sim
+13-09-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,10-02-2018,10-02-2018,Sim
+13-09-2018,REVENDA,Kit Aparador,Philco,Concluído,0,19-09-2018,21-09-2018,Sim
+13-09-2018,REVENDA,Secador,0,Concluído,0,26-09-2018,28-09-2018,Sim
+13-09-2018,REVENDA,Ferro,Britania,Concluído,0,19-09-2018,21-09-2018,Sim
+13-09-2018,REVENDA,Mixer 3 Em 1,Britania,Concluído,0,27-09-2018,28-09-2018,Sim
+13-09-2018,REVENDA,Liquidificador,Britania,Concluído,0,10-05-2018,10-09-2018,Sim
+13-09-2018,REVENDA,Batedeira,Britania,Concluído,0,27-09-2018,28-09-2018,Sim
+13-09-2018,REVENDA,Multiprocessador,Philco,Concluído,0,27-09-2018,28-09-2018,Sim
+13-09-2018,REVENDA,Panela De Pressão,Philco,Concluído,0,30-09-2018,10-02-2018,Sim
+13-09-2018,REVENDA,Panela De Pressão,Philco,Concluído,0,10-06-2018,10-09-2018,Sim
+13-09-2018,ON SITE,Desk,Daten,Concluído,0,20-09-2018,20-09-2018,Sim
+14-09-2018,BALCÃO,Aquecedor,Britania,Concluído,0,30-09-2018,10-09-2018,Sim
+14-09-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+14-09-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,11-01-2018,30-11-2018,Sim
+14-09-2018,BALCÃO,Desk,Icc,Concluído,0,20-09-2018,24-09-2018,Sim
+14-09-2018,BALCÃO,Escova Rotativa,Gama,Sem Conserto,0,0,15-10-2018,Não
+14-09-2018,BALCÃO,Tablet,Dell,Sem Conserto,0,0,28-11-2018,Não
+14-09-2018,ON SITE,Ar Condicionado,Springer,Sem Conserto,0,0,0,Não
+14-09-2018,ON SITE,Lava/Seca,Midea,Concluído,0,15-09-2018,15-09-2018,Sim
+14-09-2018,BALCÃO,Union,Positivo,Concluído,0,25-09-2018,25-09-2018,Sim
+15-09-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,22-09-2018,25-09-2018,Sim
+15-09-2018,ETICKET,Robô,Midea,Concluído,0,10-12-2018,16-10-2018,Sim
+15-09-2018,ETICKET,Panela De Pressão,Midea,Concluído,0,30-09-2018,10-02-2018,Sim
+15-09-2018,ETICKET,Robô,Midea,Troca,0,0,24-10-2018,Não
+15-09-2018,BALCÃO,Ntb,Itautec,Concluído,0,10-10-2018,05-10-2019,Sim
+15-09-2018,BALCÃO,Depurador,Philco,Concluído,0,19-09-2018,21-09-2018,Sim
+15-09-2018,ETICKET,Micro Ondas,Midea,Ressarcimento,0,0,0,Não
+15-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,19-09-2018,21-09-2018,Sim
+15-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,19-09-2018,21-09-2018,Sim
+15-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,19-09-2018,21-09-2018,Sim
+17-09-2018,BALCÃO,Panela,Britania,Concluído,0,10-03-2018,10-06-2018,Sim
+17-09-2018,BALCÃO,Escova Rotativa,Philco,Concluído,0,24-11-2018,26-11-2018,Sim
+17-09-2018,BALCÃO,Ntb,Cce,Sem Conserto,0,0,01-09-2019,Não
+17-09-2018,ON SITE,Lava/Seca,Midea,Concluído,0,18-09-2018,18-09-2018,Sim
+17-09-2018,BALCÃO,Allinone,Hp,Sem Conserto,0,0,28-09-2018,Não
+17-09-2018,BALCÃO,Passadeira,Britania,Concluído,0,28-09-2018,28-09-2018,Sim
+17-09-2018,BALCÃO,Umidificador,Elgin,Concluído,0,10-09-2018,0,Sim
+17-09-2018,BALCÃO,Panificadora,Britania,Concluído,0,10-05-2018,10-05-2018,Sim
+17-09-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,20-09-2018,20-09-2018,Sim
+18-09-2018,ON SITE,Lava/Seca,Midea,Concluído,0,24-09-2018,24-09-2018,Sim
+18-09-2018,BALCÃO,Desk,Positivo,Concluído,0,26-01-2019,30-01-2019,Sim
+18-09-2018,BALCÃO,Fritadeira,Philco,Concluído,0,11-04-2018,11-07-2018,Sim
+18-09-2018,BALCÃO,Aspirador,Philco,Concluído,0,10-04-2018,16-10-2018,Sim
+18-09-2018,ETICKET,Robô,Midea,Troca,0,0,24-10-2018,Não
+18-09-2018,ETICKET,Robô,Midea,Concluído,0,16-10-2018,18-10-2018,Sim
+18-09-2018,ON SITE,Desk,Daten,Concluído,0,18-09-2018,18-09-2018,Sim
+18-09-2018,ETICKET,Robô,Midea,Troca,0,0,22-10-2018,Não
+18-09-2018,ETICKET,Robô,Midea,Concluído,0,29-09-2018,10-02-2018,Sim
+18-09-2018,BALCÃO,Panificadora,Philco,0,0,0,0,0
+19-09-2018,BALCÃO,Cafeteira,Philco,Concluído,0,25-09-2018,10-03-2018,Sim
+19-09-2018,BALCÃO,Desk,Icc,Concluído,0,20-09-2018,21-09-2018,Sim
+19-09-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,10-08-2018,10-09-2018,Sim
+19-09-2018,BALCÃO,Mixer,Britania,Concluído,0,10-05-2018,10-09-2018,Sim
+19-09-2018,BALCÃO,Grill,Britania,Concluído,0,30-09-2018,10-02-2018,Sim
+19-09-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,28-09-2018,28-09-2018,Sim
+19-09-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,10-05-2018,10-09-2018,Sim
+19-09-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,22-09-2018,28-09-2018,Sim
+19-09-2018,BALCÃO,Lava/Seca,Midea,Concluído,0,25-09-2018,28-09-2018,Sim
+20-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-09-2018,25-09-2018,Sim
+20-09-2018,BALCÃO,Panificadora,Britania,Concluído,0,23-10-2018,16-11-2018,Sim
+20-09-2018,BALCÃO,Desk,Montado,Concluído,0,15-11-2018,17-11-2018,Sim
+20-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,10-05-2018,14-11-2018,Sim
+20-09-2018,ETCKET,Micro Ondas,Midea,Concluído,0,10-05-2018,10-08-2018,Sim
+20-09-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,10-05-2018,10-08-2018,Sim
+20-09-2018,ETICKET,Robô,Midea,Concluído,0,29-09-2018,10-02-2018,Sim
+20-09-2018,ON SITE,Cooktop,Philco,Concluído,0,10-09-2018,10-09-2018,Sim
+20-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,10-05-2018,10-08-2018,Sim
+20-09-2018,ON SITE,Cooktop,Philco,Concluído,0,20-09-2018,20-09-2018,Sim
+20-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,10-05-2018,28-01-2019,Sim
+21-09-2018,BALCÃO,Aspirador,Midea,Troca,0,0,14-11-2018,Não
+21-09-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,25-09-2018,27-09-2018,Sim
+21-09-2018,BALCÃO,Multiprocessador,Philco,Concluído,0,0,28-09-2018,Sim
+21-09-2018,BALCÃO,Aspirador,Britania,Concluído,0,10-04-2018,10-04-2018,Sim
+21-09-2018,BALCÃO,Secador,Britania,0,0,0,0,0
+21-09-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,25-09-2018,25-09-2018,Sim
+21-09-2018,BALCÃO,Chaleira,Britania,Concluído,0,10-06-2018,17-10-2018,Sim
+21-09-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,26-09-2018,27-09-2018,Sim
+21-09-2018,BALCÃO,Ntb,Itautec,Concluído,0,25-09-2018,25-09-2018,Sim
+21-09-2018,BALCÃO,Micro Ondas,Midea,0,0,0,0,0
+21-09-2018,BALCÃO,Liquidificador,Britania,Concluído,0,13-10-2018,15-10-2018,Sim
+21-09-2018,ON SITE,Lava/Seca,Midea,Concluído,0,24-09-2018,24-09-2018,Sim
+22-09-2018,BALCÃO,Allinone,Hp,0,0,0,0,0
+22-09-2018,BALCÃO,Ntb,Toshiba,Concluído,0,25-10-2018,26-10-2018,Sim
+22-09-2018,BALCÃO,Ar Condicionado,Midea,Concluído,0,11-02-2018,22-11-2018,Sim
+24-09-2018,BALCÃO,Maq. De Algodão Doce,Britania,Concluído,0,15-10-2018,16-10-2018,Sim
+24-09-2018,BALCÃO,Escova Rotativa,Philco,Concluído,0,16-10-2018,19-10-2018,Sim
+24-09-2018,BALCÃO,Espremedor,Philco,Concluído,0,24-10-2018,25-10-2018,Sim
+24-09-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,19-10-2018,25-10-2018,Sim
+24-09-2018,BALCÃO,Batedeira,Philco,Concluído,0,24-10-2018,25-10-2018,Sim
+24-09-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,26-10-2018,31-10-2018,Sim
+24-09-2018,BALCÃO,Climatizador,Springer,Sem Conserto,0,0,03-03-2020,Não
+24-09-2018,BALCÃO,Allinone,Philco,Concluído,0,10-06-2018,10-09-2018,Sim
+24-09-2018,BALCÃO,Ferro,Britania,Concluído,0,10-07-2018,10-09-2018,Sim
+24-09-2018,BALCÃO,Lava/Seca,Midea,0,0,0,0,0
+24-09-2018,BALCÃO,Frigobar,Philco,Concluído,0,26-09-2018,26-09-2018,Sim
+24-09-2018,BALCÃO,Aspirador,Britania,Concluído,0,16-10-2018,19-10-2018,Sim
+24-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,10-02-2018,10-03-2018,Sim
+24-09-2018,ETICKET,Robô,Midea,Troca,0,0,11-09-2018,Não
+24-09-2018,ETICKET,Robô,Midea,Troca,0,0,11-05-2018,Não
+25-09-2018,BALCÃO,Desk,Positivo,Concluído,0,28-09-2018,10-02-2018,Sim
+25-09-2018,BALCÃO,All In One Citrus,Philco,Concluído,0,22-10-2018,23-10-2018,Sim
+25-09-2018,ON SITE,Ar Condicionado,Philco,0,0,0,0,0
+25-09-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,26-09-2018,26-09-2018,Sim
+25-09-2018,BALCÃO,Barbeador,Philco,Concluído,0,10-05-2018,10-09-2018,Sim
+25-09-2018,BALCÃO,Sanduicheira,Britania,Concluído,0,10-06-2018,10-09-2018,Sim
+25-09-2018,ETICKET,Panela De Pressão,Midea,Concluído,0,30-09-2018,22-01-2019,Sim
+25-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,27-10-2018,11-07-2018,Sim
+26-09-2018,BALCÃO,Churrasqueira,Britania,Concluído,0,10-08-2018,10-09-2018,Sim
+26-09-2018,BALCÃO,Desk,Sti,Concluído,0,28-09-2018,29-09-2018,Sim
+26-09-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,27-09-2018,27-09-2018,Sim
+26-09-2018,ON SITE 059942,Desk,Daten,Concluído,0,10-04-2018,10-04-2018,Sim
+26-09-2018,ON SITE 059949,Desk,Daten,0,0,0,0,0
+26-09-2018,ON SITE 059948,Desk,Daten,0,0,0,0,0
+26-09-2018,ON SITE 059945,Desk,Daten,0,0,0,0,0
+26-09-2018,ON SITE,Ar Condicionado,Philco,~Sem Conserto,0,0,18-12-2018,Não
+26-09-2018,BALCÃO,Desk,Positivo,Concluído,0,28-09-2018,10-03-2018,Sim
+26-09-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+26-09-2018,BALCÃO,Moedor,Philco,Concluído,0,15-10-2018,16-10-2018,Sim
+27-09-2018,BALCÃO,Ntb,Positivo,Concluído,0,28-09-2018,29-09-2018,Sim
+27-09-2018,ON SITE,Cooktop,Philco,Concluído,0,10-01-2018,10-01-2018,Sim
+27-09-2018,ON SITE,Cooktop,Philco,Concluído,0,10-01-2018,10-01-2018,Sim
+27-09-2018,ETICKET,Aspirador,Midea,Concluído,0,13-10-2018,18-10-2018,Sim
+27-09-2018,ON SITE,Cooktop,Philco,Concluído,0,14-10-2018,14-10-2018,Sim
+27-09-2018,ETICKET,Robô,Midea,Concluído,0,30-10-2018,11-01-2018,Sim
+27-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,24-10-2018,27-10-2018,Sim
+27-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,10-05-2018,10-08-2018,Sim
+27-09-2018,ETICKET,Micro Ondas,Midea,Concluído,0,28-09-2018,10-03-2018,Sim
+28-09-2018,BALCÃO,Ntb,Sony,Concluído,0,28-09-2018,29-09-2018,Sim
+28-09-2018,BALCÃO,Ntb,0,Concluído,0,28-09-2018,28-09-2018,Sim
+28-09-2018,BALCÃO,Fritadeira,Philco,0,0,0,0,0
+28-09-2018,BALCÃO,Aspirador,Eletrolux,Sem Conserto,0,0,11-09-2018,Não
+28-09-2018,BALCÃO,Liquidificador,Philco,Concluído,0,19-10-2018,11-08-2018,Sim
+28-09-2018,BALCÃO,Ntb,Sony,Sem Conserto,0,0,17-12-2018,Não
+28-09-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,10-04-2018,10-04-2018,Sim
+29-09-2018,ON SITE 059958,Desk,Daten,0,0,0,0,0
+29-09-2018,BALCÃO,Ntb,Acer,Concluído,0,02-01-2019,29-03-2019,Sim
+29-09-2018,ON SITE 059959,Desk,Daten,Concluído,0,10-02-2018,10-02-2018,Sim
+29-08-2018,130209000109,Aspirador,Philco,Concluído,0,15-10-2018,18-10-2018,Sim
+10-01-2018,BALCÃO,Sanduicheira,Britania,Concluído,0,24-10-2018,31-10-2018,Sim
+10-01-2018,BALCÃO,Depilador,Philco,Concluído,0,20-10-2018,25-10-2018,Sim
+10-01-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,13-10-2018,16-10-2018,Sim
+10-01-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,10-06-2018,10-09-2018,Sim
+10-01-2018,BALCÃO,Sanduicheira,Britania,Concluído,0,24-10-2018,31-10-2018,Sim
+10-01-2018,BALCÃO,Ferro,Britania,Concluído,0,10-05-2018,10-09-2018,Sim
+10-01-2018,BALCÃO,Maquina De Algodão,Britania,Concluído,0,15-10-2018,16-10-2018,Sim
+10-01-2018,BALCÃO,Aspirador,Philco,Concluído,0,10-06-2018,10-09-2018,Sim
+10-01-2018,BALCÃO,Aspirador,Philco,Concluído,0,10-06-2018,10-09-2018,Sim
+10-01-2018,BALCÃO,Aparador,Philco,Concluído,0,10-07-2018,10-08-2018,Sim
+10-01-2018,BALCÃO,Lavadora,Britania,Concluído,0,19-02-2019,03-01-2019,Sim
+10-01-2018,ON SITE 059973,Desk,Daten,Concluído,0,10-02-2018,10-02-2018,Sim
+10-01-2018,ON SITE 059980,Desk,Daten,Concluído,0,10-02-2018,10-02-2018,Sim
+10-01-2018,ON SITE 059988,Desk,Daten,0,0,0,0,0
+10-01-2018,ON SITE 059991,Desk,Daten,Concluído,0,10-02-2018,10-02-2018,Sim
+10-01-2018,BALCÃO,Panela De Pressão,Philco,Concluído,0,31-10-2018,11-07-2018,Sim
+10-02-2018,BALCÃO,Aspirador,Midea,Concluído,0,11-11-2018,19-11-2018,Sim
+10-02-2018,BALCÃO,Cacheador,Philco,Concluído,0,19-10-2018,24-10-2018,Sim
+10-02-2018,ON SITE,Lava/Seca,Midea,Concluído,0,10-02-2018,10-02-2018,Sim
+10-02-2018,BALCÃO,Coifa,Philco,Concluído,0,13-10-2018,15-10-2018,Sim
+10-02-2018,BALCÃO,Chaleira,Philco,Concluído,0,10-07-2018,10-08-2018,Sim
+10-02-2018,ETICKET,Microondas,Midea,Concluído,0,16-10-2018,18-10-2018,Sim
+10-02-2018,ETICKET,Microondas,Midea,Concluído,0,18-10-2018,22-10-2018,Sim
+10-02-2018,BALCÃO,Prancha,Philco,Concluído,0,10-05-2018,10-09-2018,Sim
+10-02-2018,BALCÃO,Liquidificador,Philco,Concluído,0,24-10-2018,31-10-2018,Sim
+10-02-2018,BALCÃO,Multiprocessador,Britania,Concluído,0,10-06-2018,10-09-2018,Sim
+10-03-2018,ON SITE,Cooktop,Midea,Concluído,0,10-11-2018,10-11-2018,Sim
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,31-07-2019,Não
+10-03-2018,ON SITE,Lava/Seca,Midea,Concluído,0,10-11-2018,10-11-2018,Sim
+10-03-2018,BALCÃO,Desk,Icc,Concluído,0,17-10-2018,20-10-2018,0
+10-03-2018,BALCÃO,Panela De Arroz,Britania,Concluído,0,19-10-2018,20-10-2018,Sim
+10-03-2018,ON SITE,Ar Condicionado,Springer,Cancelado,0,0,10-09-2018,Não
+10-03-2018,BALCÃO,Aspirador,Philco,Concluído,0,15-10-2018,20-10-2018,Sim
+10-03-2018,ON SITE 060010,Desk,Daten,0,0,0,0,0
+10-03-2018,ON SITE 060005,Desk,Daten,0,0,0,0,0
+10-03-2018,ON SITE 060002,Desk,Daten,0,0,0,0,0
+10-03-2018,ON SITE,Cervejeira,Philco,Concluído,0,10-11-2018,10-11-2018,Sim
+10-03-2018,BALCÃO,Dvr,Intelbras,0,0,0,0,0
+10-04-2018,ON SITE 060031,Desk,Daten,Concluído,0,10-10-2018,10-10-2018,Sim
+10-04-2018,BALCÃO,Cafeteira,Philco,Concluído,0,16-10-2018,23-10-2018,Sim
+10-04-2018,BALCÃO,Multiprocessador,Philco,0,0,0,0,0
+10-04-2018,BALCÃO,Centrifuga De Roupa,Britania,Concluído,0,10-09-2018,10-09-2018,Sim
+10-04-2018,BALCÃO,Liquidificador,Philco,Concluído,0,24-10-2018,31-10-2018,Sim
+10-04-2018,BALCÃO,Liquidificador,Philco,Concluído,0,28-10-2018,31-10-2018,Sim
+10-05-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,13-10-2018,15-10-2018,Sim
+10-05-2018,BALCÃO,Bebedouro,Britania,Concluído,0,19-10-2018,25-10-2018,Sim
+10-05-2018,BALCÃO,Fritadeira,Philco,Concluído,0,23-11-2018,27-11-2018,Sim
+10-05-2018,ETICKET,Robô,Midea,Concluído,0,16-10-2018,26-10-2018,Sim
+10-05-2018,ETICKET,Robô,Midea,Concluído,0,26-10-2018,30-10-2018,Sim
+10-05-2018,ETICKET,Robô,Midea,Concluído,0,26-10-2018,30-10-2018,Sim
+10-05-2018,ETICKET,Microondas,Midea,Concluído,0,13-10-2018,29-10-2018,Sim
+10-05-2018,ETICKET,Microondas,Midea,Concluído,0,24-10-2018,12-06-2018,Sim
+10-06-2018,BALCAO,Centrifuga,Britania,Concluído,0,10-09-2018,10-10-2018,Sim
+10-06-2018,ON SITE,Ar Condicionado,0,Concluído,0,16-10-2018,16-10-2018,Sim
+10-06-2018,0,Adega,Midea,Descarte,0,0,11-09-2018,Não
+10-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,10-08-2018,10-08-2018,Sim
+10-06-2018,ON SITE 060048,Desk,Daten,Concluído,0,10-08-2018,10-08-2018,Sim
+10-06-2018,ON SITE 060047,Desk,Daten,Concluído,0,10-08-2018,10-08-2018,Sim
+10-06-2018,ETICKET,Robô,Midea,Concluído,0,26-10-2018,30-10-2018,Sim
+10-06-2018,ETICKET,Robô,Midea,Concluído,0,26-10-2018,30-10-2018,Sim
+10-06-2018,ETICKET,Robô,Midea,Concluído,0,30-10-2018,11-08-2018,Sim
+10-06-2018,ON SITE,Lava/Seca,Midea,Concluído,0,10-08-2018,10-08-2018,Sim
+10-08-2018,BALCÃO,Aquecedor,Britania,Concluído,0,28-10-2018,11-05-2018,Sim
+10-08-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,21-10-2018,26-10-2018,Sim
+10-08-2018,BALCÃO,Ferro,Philco,Concluído,0,28-10-2018,11-06-2018,Sim
+10-08-2018,ON SITE,Ar Condicionado,Carrier,0,0,0,0,0
+10-08-2018,ETICKET,Microondas,Midea,Concluído,0,13-10-2018,16-10-2018,Sim
+10-08-2018,BALCÃO,Purificador,Midea,Concluído,0,18-10-2018,18-10-2018,Sim
+10-08-2018,BALCÃO,Secador,Philco,Concluído,0,21-10-2018,11-08-2018,Sim
+10-08-2018,BALCÃO,Chaleira,Britânia,Concluído,0,28-10-2018,11-07-2018,Sim
+10-08-2018,BALCÃO,Ntb,Itautec,Sem Conserto,0,0,23-02-2019,Não
+10-09-2018,BALCÃO,Churrasqueira,Britania,Concluído,0,20-10-2018,20-10-2018,Sim
+10-09-2018,ON SITE 060086,Desk,Daten,Concluído,0,19-10-2018,19-10-2018,Sim
+10-09-2018,ON SITE 060091,Desk,Daten,Concluído,0,10-09-2018,10-09-2018,Sim
+10-09-2018,ON SITE 060090,Desk,Daten,Concluído,0,10-09-2018,10-09-2018,Sim
+10-09-2018,ON SITE 060089,Desk,Daten,Concluído,0,10-09-2018,10-09-2018,Sim
+10-09-2018,ON SITE 060087,Desk,Daten,Concluído,0,10-09-2018,10-09-2018,Sim
+10-09-2018,130209000145,Cervejeira,Philco,Concluído,0,18-10-2018,19-10-2018,Sim
+10-10-2018,ETICKET,Robô,Midea,Troca,0,0,12-10-2018,Sim
+10-10-2018,ETICKET,Robô,Midea,Concluído,0,11-09-2018,02-12-2019,Sim
+10-10-2018,ETICKET,Robô,Midea,Troca,0,0,12-10-2018,Sim
+10-10-2018,BALCÃO,Desk,Positivo,Concluído,0,25-10-2018,26-10-2018,Sim
+10-10-2018,ETICKET,Robô,Midea,Troca,0,0,11-05-2018,Não
+10-10-2018,BALCÃO,Grill,Britânia,Concluído,0,22-10-2018,25-10-2018,Sim
+10-10-2018,BALCÃO,Grill,Britânia,Concluído,0,17-10-2018,19-10-2018,Sim
+10-10-2018,BALCÃO,Dvd,Philco,Não Atendemos,0,0,16-10-2018,Não
+10-10-2018,BALCÃO,Liquidificador,Britânia,Sem Conserto,0,0,22-11-2018,Não
+10-10-2018,BALCÃO,Liquidificador,Britânia,Sem Conserto,0,0,22-11-2018,Não
+10-10-2018,BALCÃO,Aspirador,Philco,Concluído,0,11-04-2018,11-07-2018,Sim
+10-10-2018,BALCÃO,Escova Rotativa,Philco,Sem Conserto,0,0,22-11-2018,Não
+10-10-2018,BALCÃO,Panela,Philco,Sem Conserto,0,0,22-11-2018,Não
+10-10-2018,BALCÃO,Panela,Philco,Concluído,0,11-02-2018,11-07-2018,Sim
+10-10-2018,BALCÃO,Ventilador,Britânia,Sem Conserto,0,0,22-11-2018,Não
+10-10-2018,BALCÃO,Forno Elétrico,Philco,Concluído,0,11-11-2018,13-11-2018,Sim
+10-10-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,13-10-2018,20-10-2018,Sim
+10-10-2018,BALCÃO,Cafeteira,Britania,Cortesia,0,0,21-11-2018,Sim
+10-10-2018,BALCÃO,Panela,Britania,Concluído,0,11-04-2018,11-09-2018,Sim
+10-10-2018,BALCÃO,Robo,Midea,Concluído,0,10-11-2018,10-11-2018,Sim
+10-10-2018,BALCÃO,Ar Condicionado Janela,Springer,Concluído,0,30-10-2018,30-10-2018,Sim
+10-11-2018,ON SITE,Climatizador,Midea,Sem Conserto,0,27-11-2018,27-11-2018,Não
+10-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,23-10-2018,11-09-2018,Sim
+10-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-10-2018,23-10-2018,Sim
+10-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-10-2018,12-06-2018,Sim
+10-11-2018,ETICKET,Robô,Midea,Concluído,0,11-02-2018,11-05-2018,Sim
+10-11-2018,ETICKET,Robô,Midea,Troca,0,0,18-12-2018,Não
+10-11-2018,BALCÃO,Aspirador,Philco,Concluído,0,11-01-2018,11-08-2018,Sim
+10-11-2018,BALCÃO,Liquidificador,Britania,Concluído,0,28-10-2018,30-10-2018,Sim
+10-11-2018,BALCÃO,Liquidificador,Philco,Concluído,0,28-10-2018,11-01-2018,Sim
+15-10-2018,BALCÃO,Grill,Britania,0,0,0,0,0
+15-10-2018,BALCÃO,Grill,Britania,0,0,0,0,0
+15-10-2018,BALCÃO,Cafeteira,Philco,Concluído,0,28-10-2018,31-10-2018,Sim
+15-10-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,11-11-2018,13-11-2018,Sim
+15-10-2018,BALCÃO,Secador,Philco,Concluído,0,22-10-2018,31-10-2018,Sim
+15-10-2018,BALCÃO,Sanduicheira,Britania,Sem Conserto,0,0,22-11-2018,Não
+15-10-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,11-02-2018,11-07-2018,Sim
+15-10-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,17-10-2018,19-10-2018,Sim
+15-10-2018,BALCÃO,Fritadeira,Philco,Concluído,0,11-04-2018,11-06-2018,Sim
+15-10-2018,BALCÃO,Ntb,Positivo,Sem Conserto,0,0,30-10-2018,Não
+15-10-2018,BALCÃO,Panificadora,Britania,0,0,0,0,0
+15-10-2018,BALCÃO,Climatizador,Philco,Concluído,0,11-04-2018,11-07-2018,Sim
+15-10-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,21-10-2018,25-10-2018,Sim
+15-10-2018,BALCÃO,Liquidificador,Britania,Concluído,0,11-04-2018,11-06-2018,Sim
+15-10-2018,BALCÃO,Chaleira,Philco,Concluído,0,11-04-2018,11-06-2018,Sim
+15-10-2018,BALCÃO,Fritadeira,Britania,Concluído,0,11-04-2018,11-06-2018,Sim
+16-10-2018,BALCÃO,Aspirador,Philco,Concluído,0,28-10-2018,29-10-2018,Sim
+16-10-2018,BALCÃO,Fritadeira,Britania,Concluído,0,12-05-2018,12-06-2018,Sim
+16-10-2018,BALCÃO,Aspirador,Philco,Concluído,0,11-04-2018,11-05-2018,Sim
+16-10-2018,ON SITE,Ar Condicionado Portatil,Springer,Sem Conserto,0,0,0,Não
+16-10-2018,ETICKET,Robô,Midea,Troca,0,0,12-10-2018,Não
+16-10-2018,ON SITE,Ar Concidionado,Carrier,Cancelado,0,0,16-03-2020,Não
+16-10-2018,ETICKET,Robô,Midea,Troca,0,0,12-10-2018,Não
+16-10-2018,ETICKET,Robô,Midea,Troca,0,0,18-12-2018,Não
+16-10-2018,BALCÃO,Ventilador,Britania,Concluído,0,22-10-2018,29-10-2018,Sim
+16-10-2018,BALCÃO,Ventilador,Britania,Concluído,0,28-10-2018,29-10-2018,Sim
+16-10-2018,ETICKET,Robô,Midea,Troca,0,0,02-12-2019,Não
+16-10-2018,BALCÃO,Passadeira,Britania,Concluído,0,16-10-2018,22-10-2018,Sim
+16-10-2018,ETICKET,Robô,Midea,Troca,0,0,12-10-2018,Não
+16-10-2018,ETICKET,Aspirador,Midea,Concluído,0,26-11-2018,29-11-2018,Sim
+16-10-2018,ETICKET,Robô,Midea,Ressarcimento,0,12-06-2018,02-12-2019,0
+17-10-2018,BALCÃO,Micro Ondas,Philco,Concluído,0,25-10-2018,26-10-2018,Sim
+17-10-2018,BALCÃO,Panificadora,Britania,Concluído,0,11-11-2018,11-12-2018,Sim
+17-10-2018,ON SITE,Ar Condicionado,0,Cancelado,0,0,16-03-2020,Não
+17-10-2018,BALCÃO,Microondas,Midea,Concluído,0,0,17-10-2018,Sim
+17-10-2018,BALCÃO,Chaleira,Cadence,Descarte,0,0,10-01-2020,Não
+17-10-2018,ON SITE,Forno,Midea,Concluído,0,22-10-2018,22-10-2018,Sim
+17-10-2018,ON SITE,Lava/Seca,Midea,Concluído,0,18-10-2018,18-10-2018,Sim
+17-10-2018,BALCÃO,Ntb,Hp,Concluído,0,22-10-2018,26-10-2018,Sim
+18-10-2018,ON SITE 060050,Desk,Daten,0,0,0,0,0
+18-10-2018,ON SITE 060051,Desk,Daten,0,0,0,0,0
+18-10-2018,ON SITE 060157,Desk,Daten,0,0,0,0,0
+18-10-2018,BALCÃO,Ntb,Sti,Concluído,0,25-10-2018,26-10-2018,Sim
+18-10-2018,ON SITE 060158,Desk,Daten,Concluído,0,19-10-2018,19-10-2018,Sim
+18-10-2018,ON SITE 060173,Desk,Daten,0,0,0,0,0
+18-10-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,0,18-10-2018,Sim
+18-10-2018,BALCÃO,Aparador,Philco,Concluído,15-02-2019,19-03-2019,04-05-2019,Sim
+18-10-2018,ETICKET,Robô,Midea,Troca,0,0,12-10-2018,Não
+18-10-2018,ON SITE 060176,Desk,Daten,Concluído,0,19-10-2018,19-10-2018,Sim
+18-10-2018,BALCÃO,Ntb,0,Concluído,0,25-10-2018,26-10-2018,Sim
+18-10-2018,ETICKET,Microondas,Midea,Troca,0,0,27-11-2018,Não
+18-10-2018,ETICKET,Microondas,Midea,Concluído,0,21-10-2018,22-11-2018,Sim
+18-10-2018,BALCÃO,Midea,Midea,Concluído,0,11-04-2018,11-05-2018,Sim
+18-10-2018,BALCÃO,Aspirador,Philco,Concluído,0,28-10-2018,30-10-2018,Sim
+18-10-2018,BALCÃO,Panela,Britania,Concluído,0,11-11-2018,19-12-2018,Sim
+18-10-2018,ETICKET,Robo,Midea,Troca,0,0,12-10-2018,Não
+18-10-2018,ETICKET,Robo,Midea,Troca,0,0,12-10-2018,Não
+18-10-2018,ETICKET,Microondas,Midea,Concluído,0,11-05-2018,12-06-2018,Sim
+18-10-2018,ETICKET,Robo,Midea,Troca,0,0,12-10-2018,Não
+19-10-2018,BALCÃO,Aspirador,Philco,Excluída P/ Fabricante,0,0,01-10-2019,Não
+19-10-2018,ON SITE,Lava_Seca,Panasonic,Concluído,0,27-10-2018,27-10-2018,Sim
+19-10-2018,ETICKET,Climatizador,Midea,Concluído,0,14-01-2019,15-01-2019,Sim
+19-10-2018,BALCÃO,Ferro,Philco,Concluído,0,16-11-2018,20-11-2018,Sim
+19-10-2018,BALCÃO,Liquidificador,Philco,Concluído,0,22-11-2018,26-11-2018,Sim
+19-10-2018,BALCÃO,Cafeteira,Philco,Concluído,0,29-11-2018,29-11-2018,Sim
+19-10-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,24-11-2018,26-11-2018,Sim
+20-10-2018,BALCÃO,Purificador,Midea,Concluído,0,11-02-2018,20-11-2018,Sim
+20-10-2018,BALCÃO,Tablet,Philco,Concluído,0,11-11-2018,11-12-2018,Sim
+20-10-2018,BALCÃO,Micro Ondas,Philco,30/10/2018,0,0,0,0
+20-10-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,22-10-2018,31-10-2018,Sim
+20-10-2018,BALCÃO,Planetaria,Philco,Concluído,0,14-11-2018,16-11-2018,Sim
+20-10-2018,BALCÃO,Centrifuga De Roupas,Britania,Concluído,0,11-01-2018,11-07-2018,Sim
+20-10-2018,BALCÃO,Forno Eletrico,Britania,Concluído,0,11-01-2018,11-07-2018,Sim
+22-10-2018,BALCÃO,Panela,Britania,Sem Conserto,0,0,14-01-2019,Não
+22-10-2018,BALCÃO,Espremedor,Philco,Concluído,0,11-06-2018,11-07-2018,Sim
+22-10-2018,BALCÃO,Ntb,Positivo,0,0,0,0,0
+22-10-2018,ON SITE,Cooktop,Midea,Concluído,0,22-10-2018,22-10-2018,Sim
+22-10-2018,ON SITE,Lava/Seca,Midea,Concluído,0,11-07-2018,11-07-2018,Sim
+22-10-2018,BALCÃO,Aspirador,Britania,Concluído,0,28-10-2018,30-10-2018,Sim
+22-10-2018,BALCÃO,Desk,Montado,Concluído,0,17-11-2018,17-11-2018,Sim
+22-10-2018,BALCÃO,Aspirador,Philco,0,0,0,0,0
+22-10-2018,BALCÃO,Ntb,Itautec,Concluído,0,11-10-2018,11-12-2018,Sim
+23-10-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,02-07-2019,02-07-2019,Sim
+23-10-2018,BALCÃO,Micro Ondas,Philco,Concluído,0,23-11-2018,23-11-2018,Sim
+23-10-2018,BALCÃO,Tablet,Philco,Concluído,0,11-05-2018,23-11-2018,Sim
+23-10-2018,BALCÃO,Ar Condicionado,Springer,Concluído,0,30-10-2018,30-10-2018,Sim
+0,ETICKET,Robo,Midea,Concluído,0,30-11-2018,12-05-2018,Sim
+23-10-2018,ETICKET,Microondas,Midea,Concluído,0,11-10-2018,11-12-2018,Sim
+23-10-2018,ETICKET,Microondas,Midea,Concluído,0,11-06-2018,11-07-2018,Sim
+23-10-2018,ETICKET,Microondas,Midea,Concluído,0,11-07-2018,12-06-2018,Sim
+23-10-2018,ETICKET,Microondas,Midea,Concluído,0,11-11-2018,11-12-2018,Sim
+24-10-2018,BALCÃO,Adega,Midea,Concluído,0,11-11-2018,13-11-2018,Sim
+24-10-2018,BALCÃO,Desk,Sti,Concluído,0,26-10-2018,31-10-2018,Sim
+24-10-2018,BALCÃO,Micro Ondas,Philco,Concluído,0,27-11-2018,28-11-2018,Sim
+24-10-2018,BALCÃO,Wap,Wap,Concluído,0,17-11-2018,21-11-2018,Sim
+24-10-2018,BALCÃO,Ar Condicionado,Midea,Concluído,0,13-11-2018,14-11-2018,Sim
+24-10-2018,BALCÃO,Ar Condicionado,Delong,Cancelado,0,0,30-04-2019,Não
+24-10-2018,ETICKET,Robo,Midea,Troca,0,0,18-12-2018,Não
+24-10-2018,ON SITE,Lava/Seca,Midea,Concluído,0,11-07-2018,11-07-2018,Sim
+25-10-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,22-04-2019,Não
+25-10-2018,BALCÃO,Ventilador,Ventisol,Descarte,0,0,22-04-2019,Não
+25-10-2018,BALCÃO,Cafeteira,Fischer,0,0,0,0,0
+25-10-2018,BALCÃO,Centrifuga De Roupas,Arno,Concluído,0,24-11-2018,26-11-2018,Sim
+25-10-2018,BALCÃO,Cafeteira,Philco,Concluído,0,14-11-2018,20-11-2018,Sim
+25-10-2018,BALCÃO,Churrasqueira,Philco,Concluído,0,11-10-2018,11-12-2018,Sim
+25-10-2018,BALCÃO,Ntb,Sti,0,0,0,0,0
+25-10-2018,BALCÃO,Purificador,Midea,0,0,0,0,0
+25-10-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,26-10-2018,29-10-2018,Sim
+25-10-2018,BALCÃO,Panela,Britania,Troca,0,0,17-11-2018,Sim
+25-10-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,13-11-2018,13-11-2018,Sim
+25-10-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,13-11-2018,13-11-2018,Sim
+25-10-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,13-11-2018,13-11-2018,Sim
+25-10-2018,BALCÃO,Secador,Philco,Concluído,0,11-11-2018,22-11-2018,Sim
+25-10-2018,ETICKET,Microondas,Midea,Concluído,0,20-11-2018,30-11-2018,0
+25-10-2018,BALCÃO,Cafeteira,Philco,Concluído,0,19-12-2018,21-12-2018,Sim
+25-10-2018,BALCÃO,Mixer,Britania,Sem Conserto,0,0,27-11-2018,Não
+25-10-2018,BALCÃO,Multi Pane,Britania,Concluído,0,14-12-2018,27-12-2018,Sim
+25-10-2018,ETICKET,Micro Ondas,Midea,Concluído,0,20-11-2018,12-01-2018,Sim
+25-10-2018,BALCÃO,Mixer,Philco,Concluído,0,14-11-2018,20-11-2018,Sim
+25-10-2018,BALCÃO,Liquidificador,Britania,0,0,0,0,0
+25-10-2018,BALCÃO,Multiprocessador,Britania,Concluído,0,12-03-2018,12-05-2018,Sim
+25-10-2018,ETICKET,Microondas,Midea,Troca,0,0,02-07-2019,0
+25-10-2018,BALCÃO,Liquidificador,Philco,Concluído,0,11-04-2018,11-12-2018,Sim
+25-10-2018,BALCÃO,Sanduicheira,Britania,Concluído,0,12-04-2018,12-05-2018,Sim
+25-10-2018,ETICKET,Adega,Midea,Concluído,0,11-01-2018,11-05-2018,Sim
+26-10-2018,BALCÃO,Purificador,Midea,Concluído,0,11-11-2018,13-11-2018,Sim
+26-10-2018,BALCÃO,Desk,Thermaltake,Concluído,0,11-05-2018,11-05-2018,Sim
+26-10-2018,BALCÃO,Ferro,Philco,0,0,0,0,0
+26-10-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,21-11-2018,22-11-2018,Sim
+26-10-2018,BALCÃO,Ntb,Hp,Concluído,0,11-07-2018,11-07-2018,Sim
+26-10-2018,BALCÃO,Aspirador,Philco,Concluído,0,26-11-2018,30-11-2018,Sim
+26-10-2018,BALCÃO,Ntb,Acer,Concluído,0,19-11-2018,22-11-2018,Sim
+26-10-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,11-11-2018,13-11-2018,Sim
+26-10-2018,BALCÃO,Micro-Ondas,Midea,Concluído,0,11-01-2018,11-07-2018,Sim
+26-10-2018,BALCÃO,Centrifuga De Roupas,Britania,Concluído,0,11-10-2018,13-11-2018,Sim
+26-10-2018,BALCAO,Centrifuga De Roupas,Britania,Concluído,0,11-10-2018,13-11-2018,Sim
+26-10-2018,ON SITE,Lavadoura,Panasonic,Concluído,0,27-10-2018,27-10-2018,Sim
+26-10-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,11-11-2018,13-11-2018,Sim
+26-10-2018,BALCÃO,Ferro,Philco,Sem Conserto,0,0,12-11-2018,Sim
+26-10-2018,BALCÃO,Secador,Philco,Concluído,0,14-11-2018,20-11-2018,Sim
+26-10-2018,BALCÃO,Liquidificador,Britania,Concluído,0,11-12-2018,13-11-2018,Sim
+26-10-2018,BALCÃO,Panela Pressão,Midea,Concluído,0,14-12-2018,22-01-2019,Sim
+26-10-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,11-03-2018,12-11-2018,Sim
+26-10-2018,ON SITE,0,0,0,0,0,0,0
+27-10-2018,BALCÃO,Micro-Ondas,Midea,Concluído,0,11-04-2018,0,0
+29-10-2018,BALCÃO,Cafeteira,Philco,Concluído,0,28-11-2018,28-12-2018,Sim
+29-10-2018,BALCÃO,Escova,Philco,Ressarcimento,0,0,21-12-2018,Não
+29-10-2018,BALCÃO,Panela Pressão,Britania,Concluído,21-11-2018,22-11-2018,01-10-2019,Sim
+29-10-2018,BALCÃO,Bebedouro,Britania,0,0,0,0,0
+29-10-2018,BALCÃO,Panela De Pressão,Britania,Concluído,0,01-04-2019,16-01-2019,Sim
+29-10-2018,BALCÃO,Secador,Philco,Concluído,0,13-11-2018,19-11-2018,Sim
+29-10-2018,BALCÃO,Microondas,Philco,Concluído,0,11-10-2018,17-11-2018,Sim
+30-10-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,26-11-2018,27-11-2018,Sim
+30-10-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,26-11-2018,27-11-2018,Sim
+30-10-2018,BALCÃO,Secador,Philco,Concluído,0,14-11-2018,21-11-2018,Sim
+30-10-2018,BALCÃO,0,0,Concluído,0,14-11-2018,20-11-2018,Sim
+30-10-2018,BALCÃO,Panela Arroz,Philco,Concluído,0,20-11-2018,20-11-2018,Sim
+30-10-2018,BALCÃO,Purificador,Midea,Ressarcimento,0,0,03-08-2019,Não
+30-10-2018,BALCÃO,Desk,0,Concluído,0,11-07-2018,11-08-2018,Sim
+30-10-2018,BALCÃO,Desk,0,0,0,0,0,0
+31-10-2018,BALCÃO,Lavadora,Wap,Sem Conserto,0,0,11-06-2018,Não
+31-10-2018,BALCÃO,Aquecedor,Britania,Concluído,0,23-11-2018,12-11-2018,Sim
+31-10-2018,BALCÃO,Fritadeira,Britania,Concluído,0,28-11-2018,12-11-2018,Sim
+31-10-2018,BALCÃO,Cafeteira,Britania,Concluído,0,29-11-2018,12-11-2018,Sim
+31-10-2018,BALCÃO,Cafeteira,Britania,Concluído,0,16-11-2018,12-11-2018,Sim
+31-10-2018,BALCÃO,Aquecedor,Britania,Concluído,27-11-2018,14-12-2018,22-01-2019,Sim
+31-10-2018,BALCÃO,Aspirador,Britânia,Concluído,0,13-11-2018,14-11-2018,Sim
+31-10-2018,ETICKET,Aspirador,Midea,Ressarcimento,0,0,02-12-2019,Não
+31-10-2018,ETICKET,Robo,Midea,Concluído,0,12-06-2018,18-12-2018,Sim
+31-10-2018,ETICKET,Robo,Midea,Concluído,0,11-09-2018,12-06-2018,Sim
+11-01-2018,ONSITE 060307,Desk,Daten,Concluído,0,11-01-2018,11-01-2018,Sim
+11-01-2018,ONSITE 060278,Desk,Daten,Concluído,0,11-01-2018,11-01-2018,Sim
+11-01-2018,BALCÃO,Lavadora,Wap,Concluído,0,23-11-2018,12-01-2018,Sim
+11-01-2018,ONSITE,Desk,Daten,0,0,0,0,0
+11-01-2018,BALCÃO,Purificador,Midea,Concluído,0,17-11-2018,17-11-2018,Sim
+11-01-2018,ETICKET,Robo,Midea,Concluído,0,30-11-2018,12-05-2018,Sim
+11-01-2018,ETICKET,Robo,Midea,Concluído,0,11-06-2018,26-11-2018,Sim
+11-01-2018,ETICKET,Robo,Midea,Ressarcimento,0,0,02-12-2019,Não
+11-01-2018,ETICKET,Robo,Midea,Concluído,0,12-09-2018,21-12-2018,Sim
+11-01-2018,BALCÃO,Fritadeira,Philco,Concluído,0,14-12-2018,20-12-2018,Sim
+11-03-2018,BALCÃO,Mixer,Britania,Concluído,0,30-11-2018,12-05-2018,Sim
+11-01-2018,BALCÃO,Adega,Philco,Concluído,0,11-07-2018,11-12-2018,Sim
+11-03-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,11-10-2018,28-11-2018,Sim
+11-05-2018,BALCÃO,Ntb,Lenovo,Sem Conserto,0,0,0,Não
+11-05-2018,BALCÃO,Liquidificador,Britania,Concluído,0,19-11-2018,21-11-2018,Sim
+11-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,19-11-2018,19-11-2018,Sim
+11-05-2018,BALCÃO,Cortador De Cabelo,Britania,Concluído,0,22-11-2018,22-11-2018,Sim
+11-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,11-06-2018,11-06-2018,Sim
+11-05-2018,ON SITE,Lava/Seca,Midea,Concluído,0,11-06-2018,11-06-2018,Sim
+11-05-2018,BALCAO,Liquidificar,Philco,Concluído,0,29-11-2018,22-01-2019,Sim
+11-05-2018,BALCÃO,Aspirador,Philco,Troca,0,0,20-11-2018,Sim
+11-05-2018,BALCÃO,Escova,Philco,Concluído,0,26-01-2019,02-04-2019,Sim
+11-06-2018,BALCÃO,Fritadeira,Britania,Concluído,0,14-12-2018,20-12-2018,Sim
+11-06-2018,ON SITE,Cooktop,Philco,Concluído,0,11-06-2018,11-06-2018,Sim
+11-06-2018,BALCÃO,Fritadeira,Philco,Concluído,0,12-07-2018,12-10-2018,Sim
+11-06-2018,BALCÃO,Secador,Philco,0,0,0,0,0
+11-06-2018,ON SITE 060341,Desk,Daten,Concluído,0,11-08-2018,11-08-2018,Sim
+11-06-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,11-08-2018,11-09-2018,Sim
+11-06-2018,BALCÃO,Multifatiador,Britania,Concluído,0,20-11-2018,26-11-2018,Sim
+11-06-2018,BALCÃO,Prancha,Philco,Sem Conserto,0,0,28-12-2018,Não
+11-06-2018,BALCÃO,Liquidificador,Philco,Concluído,0,26-11-2018,27-11-2018,Sim
+11-06-2018,BALCÃO,Multiprocessador,Philco,Concluído,0,12-04-2018,12-05-2018,Sim
+11-07-2018,ON SITE,Cooktop,Philco,Concluído,0,11-09-2018,11-09-2018,Sim
+11-07-2018,BALCÃO,Tablet,Philco,Concluído,0,22-11-2018,26-11-2018,Sim
+11-07-2018,BALCÃO,Panela,Britania,Concluído,19-11-2018,19-11-2018,01-09-2019,Sim
+11-07-2018,BALCÃO,Climatizador,Cadence,Sem Conserto,0,0,01-09-2019,Não
+11-07-2018,ON SITE,Cooktop,Midea,Concluído,0,11-09-2018,11-09-2018,Sim
+11-07-2018,ETICKET,Robo,Midea,Concluído,0,11-09-2018,11-09-2018,Sim
+11-07-2018,BALCÃO,Ferro,Britania,Concluído,0,12-04-2018,19-12-2018,Sim
+11-08-2018,BALCÃO,Desk,Itautec,Concluído,0,27-11-2018,28-11-2018,Sim
+11-08-2018,BALCÃO,Escova,Britania,Concluído,0,0,21-12-2018,Sim
+11-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,28-11-2018,28-11-2018,Sim
+11-08-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,22-11-2018,28-11-2018,Sim
+11-08-2018,BALCÃO,Aspirador,Philco,Concluído,0,12-10-2018,12-12-2018,Sim
+11-08-2018,BALCÃO,Escova,Philco,Concluído,0,30-11-2018,12-06-2018,Sim
+11-08-2018,ETICKET,Microondas,Midea,Concluído,0,22-11-2018,12-03-2018,Sim
+11-08-2018,ON SITE,Ar Condicionado,0,0,0,0,0,0
+11-08-2018,BALCÃO,Liquidificador,Britania,Concluído,0,23-11-2018,26-11-2018,Sim
+11-08-2018,BALCÃO,Bebedouro,Britania,Concluído,0,25-11-2018,12-07-2018,Sim
+11-08-2018,BALCÃO,Aparador,Philco,Concluído,0,19-11-2018,20-11-2018,Sim
+11-08-2018,BALCÃO,Barbeador,Philco,Concluído,0,11-09-2018,20-11-2018,Sim
+11-08-2018,BALCÃO,Mixer,Britania,Concluído,0,23-11-2018,27-11-2018,Sim
+11-08-2018,BALCAO,Secador,Britania,Concluído,0,11-12-2018,16-11-2018,Sim
+11-08-2018,ETICKET,Robo,Midea,Ressarcimento,0,0,13-11-2018,Não
+11-08-2018,BALCÃO,Secador,Philco,Concluído,0,15-01-2019,15-01-2019,Sim
+11-08-2018,ETICKET,Robo,Midea,Concluído,0,12-07-2018,18-12-2018,Sim
+11-08-2018,ON SITE,Cooktop,0,Concluído,0,0,11-08-2018,Sim
+11-08-2018,ETICKET,Micro-Ondas,Midea,Troca,0,0,18-03-2019,Não
+11-09-2018,ON SITE,Lava/Seca,Panasonic,Concluído,0,23-11-2018,23-11-2018,Sim
+11-09-2018,BALCÃO,Centrifuga,Britania,Sem Conserto,0,0,12-11-2018,Sim
+11-09-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,22-11-2018,28-11-2018,Sim
+11-09-2018,BALCÃO,Centrifuga,Britania,Concluído,0,19-11-2018,20-11-2018,Sim
+11-09-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,24-11-2018,26-11-2018,Sim
+11-09-2018,ON SITE,Lava E Seca,Panasonic,Concluído,0,11-10-2018,11-10-2018,Sim
+11-09-2018,BALCÃO,Forno Eletrico,Philco,0,0,0,0,0
+11-09-2018,BALCÃO,Ntb,Dell,Sem Conserto,0,0,18-01-2019,Não
+11-09-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,16-11-2018,20-11-2018,Sim
+11-09-2018,ON SITE,Lava E Seca,Panasonic,Concluído,0,25-11-2018,25-11-2018,Sim
+11-09-2018,BALCÃO,Frigobar,Philco,Sem Conserto,0,0,18-12-2018,Não
+11-09-2018,ETICKET,Robo,Midea,Concluído,0,12-07-2018,18-12-2018,Sim
+11-09-2018,BALCÃO,Espremedor,Britania,Concluído,0,11-12-2018,13-11-2018,Sim
+11-09-2018,BALCÃO,Liquidificador,Philco,Concluído,0,11-12-2018,26-11-2018,Sim
+11-09-2018,BALCÃO,Chaleira,Britania,Concluído,0,14-11-2018,20-11-2018,Sim
+11-10-2018,ON SITE,Geladeira,Panasonic,Concluído,0,11-10-2018,11-10-2018,Sim
+11-10-2018,ON SITE,Lava E Seca,Panasonic,Concluído,0,11-10-2018,11-10-2018,Sim
+11-10-2018,BALCÃO,Ntb,Itautec,0,0,0,0,0
+11-10-2018,BALCÃO,Ntb,Acer,0,0,0,0,0
+11-10-2018,BALCÃO,Ntb,Acer,Concluído,0,27-11-2018,28-11-2018,Sim
+11-10-2018,BALCÃO,Panela Pressão,Britania,Concluído,0,12-11-2018,01-09-2018,Sim
+11-12-2018,BALCÃO,Aspirador,Philco,Concluído,0,26-11-2018,27-11-2018,Sim
+11-12-2018,BALCÃO,Fritadeira,Philco,Concluído,0,28-11-2018,28-11-2018,Sim
+11-12-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,16-11-2018,12-04-2018,Sim
+11-12-2018,ONSITE,Ar Condicionado Janela,Spinger,Ressarcimento,0,15-01-2019,21-03-2019,Sim
+11-12-2018,BALCÃO,Liquidificador,Philco,Concluído,0,28-11-2018,30-11-2018,Sim
+11-12-2018,BALCÃO,Desk,Montado,Concluído,0,25-11-2018,25-11-2018,Sim
+11-12-2018,BALCÃO,Ntb,Hp,Concluído,0,18-11-2018,21-11-2018,Sim
+11-12-2018,BALCÃO,Purificador,Midea,Concluído,0,24-11-2018,27-11-2018,Sim
+11-12-2018,BALCÃO,Escova,Philco,Sem Conserto,0,0,28-12-2018,Não
+11-12-2018,BALCÃO,Prancha,Philco,Sem Conserto,0,0,28-12-2018,Não
+11-12-2018,BALCÃO,Batedeira,Britania,Concluído,0,30-11-2018,12-05-2018,Sim
+11-12-2018,BALCÃO,Grill,Britania,Concluído,0,26-11-2018,27-11-2018,Sim
+11-12-2018,BALCÃO,Allinone,Britania,Concluído,0,13-12-2018,18-12-2018,Sim
+11-12-2018,BALCÃO,Adega,Philco,Concluído,0,12-10-2018,12-11-2018,Sim
+13-11-2018,ON SITE,Ar Condicionado,Elgin,Concluído,0,13-11-2018,13-11-2018,Sim
+13-11-2018,ON SITE,Lava E Seca,Panasonic,Concluído,0,15-11-2018,15-11-2018,Sim
+13-11-2018,BALCÃO,Fritadeira,Britania,Concluído,0,28-11-2018,30-11-2018,Sim
+13-11-2018,ON SITE,Ar Condicionado,Philco,0,0,0,0,0
+13-11-2018,BALCÃO,Purificador,Midea,Concluído,0,29-12-2018,14-01-2019,Sim
+14-11-2018,ON SITE,Lava E Seca,Panasonic,Concluído,0,15-11-2018,15-11-2018,Sim
+14-11-2018,BALCÃO,Ntb,Positivo,Cancelado,0,0,15-05-2019,Não
+14-11-2018,BALCÃO,Panificadora,Britania,Sem Defeito,0,01-03-2019,01-03-2019,Não
+14-11-2018,BALCÃO,Micro Ondas,Philco,Concluído,0,29-11-2018,30-11-2018,Sim
+14-11-2018,BALCÃO,Adega,Philco,Concluído,0,02-11-2019,13-02-2019,Sim
+14-11-2018,BALCÃO,Tablet,Philco,Concluído,0,28-11-2018,30-11-2018,Sim
+14-11-2018,ON SITE,Lava E Seca,Panasonic,Concluído,0,14-11-2018,14-11-2018,Sim
+14-11-2018,BALCÃO,Ntb,Positivo,Concluído,0,19-12-2018,21-12-2018,Sim
+14-11-2018,ON SITE,Lava E Seca,Midea,Concluído,0,17-12-2018,17-12-2018,Sim
+16-11-2018,BALCÃO,Aspirador,Philco,Concluído,0,18-12-2018,19-12-2018,Sim
+16-11-2018,ON SITE,Purificador,Midea,Concluído,0,19-12-2018,28-12-2018,Sim
+16-11-2018,BALCÃO,Prancha,Philco,Sem Conserto,0,0,28-12-2018,Não
+16-11-2018,BALCÃO,Prancha,Philco,Concluído,0,22-11-2018,22-11-2018,Sim
+16-11-2018,BALCÃO,Climatizador,Midea,0,0,0,0,0
+16-11-2018,BALCÃO,Fritadeira,Philco,Concluído,0,27-11-2018,12-05-2018,Sim
+16-11-2018,BALCÃO,Microondas,Midea,Concluído,0,12-03-2018,12-04-2018,Sim
+16-11-2018,BALCÃO,Liquidificador,Britania,Concluído,0,29-11-2018,12-05-2018,Sim
+16-11-2018,BALCÃO,Forno Eletrico,Philco,Concluído,0,24-11-2018,26-11-2018,Sim
+16-11-2018,ETICKET,Robô,Midea,Concluído,0,12-07-2018,18-12-2018,Sim
+16-11-2018,ETICKET,Robô,Midea,Concluído,0,30-11-2018,12-05-2018,Sim
+16-11-2018,BALCÃO,Fritadeira,Britânia,Concluído,0,20-12-2018,21-12-2018,Sim
+16-11-2018,ETICKET,Robô,Midea,Concluído,0,12-07-2018,18-12-2018,Sim
+16-11-2018,ETICKET,Robo,Midea,Concluído,0,13-12-2018,21-12-2018,Sim
+16-11-2018,ETICKET,Robo,Midea,Concluído,0,18-12-2018,21-12-2018,Sim
+16-11-2018,ETICKET,Robo,Midea,Concluído,0,13-12-2018,18-12-2018,Sim
+16-11-2018,BALCAO,Fritadeira,Britania,Concluído,0,12-08-2018,19-01-2019,Sim
+16-11-2018,BALCAO,Panificadora,Britania,Concluído,0,18-12-2018,19-01-2018,Sim
+16-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-01-2018,12-01-2018,Sim
+17-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,18-11-2018,18-11-2018,Sim
+17-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,22-11-2018,12-03-2018,Sim
+17-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,21-12-2018,29-12-2018,Sim
+17-11-2018,ETICKET,Micro Ondas,Midea,0,0,0,0,0
+17-11-2018,ETICKET,Adega,Midea,Concluído,0,12-10-2018,18-12-2018,Sim
+17-11-2018,ETICKET,Purificador,Midea,Concluído,0,26-11-2018,02-12-2019,Sim
+17-11-2018,ETICKET,Micro Ondas,Midea,Troca,0,0,02-04-2019,Não
+17-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,29-01-2019,02-07-2019,Sim
+17-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,01-02-2019,01-10-2019,Sim
+19-11-2018,BALCÃO,Aspirador,Philco,Concluído,22-12-2018,01-03-2019,01-08-2019,Sim
+19-11-2018,BALCÃO,Purificador,Midea,Ressarcimento,0,0,03-08-2019,Não
+19-11-2018,BALCÃO,Frigobar,Philco,Concluído,17-12-2018,01-10-2019,01-10-2019,Sim
+19-11-2018,ON SITE,Frigobar,Midea,Concluído,0,21-11-2018,21-11-2018,Sim
+19-11-2018,ON SITE,Lava E Seca,Midea,Concluído,0,12-03-2018,12-03-2018,Sim
+19-11-2018,BALCÃO,Micro Ondas,Midea,Consertado,0,19-11-2018,20-11-2018,Sim
+19-11-2018,ON SITE,Lava E Seca,Midea,Concluído,0,12-02-2018,12-02-2018,Sim
+19-11-2018,ON SITE,Ar Condicionado Portatil,Midea,0,0,0,0,0
+19-11-2018,ON SITE,Lava E Seca,Panasonic,Concluído,0,12-12-2018,12-12-2018,Sim
+20-11-2018,BALCÃO,Climatizador,Elgin,Concluído,0,16-01-2019,25-01-2019,Sim
+20-11-2018,ON SITE,Micro Ondas,Midea,Concluído,0,12-10-2018,14-12-2018,Sim
+20-11-2018,BALCÃO,Adega,Philco,Concluído,0,12-12-2018,12-12-2018,Sim
+20-11-2018,ON SITE,Ar Condicionado,0,Cancelado,0,0,16-03-2020,Não
+20-11-2018,BALCÃO,Tablet,Philco,Concluído,0,19-12-2018,20-12-2018,Sim
+20-11-2018,BALCÃO,Cafeteira,Philco,Concluído,22-12-2018,01-08-2019,01-09-2019,Sim
+21-11-2018,ON SITE,Lavadoura,Panasonic,Concluído,0,23-11-2018,23-11-2018,Sim
+21-11-2018,ETICKET,Robo,Midea,Concluído,0,14-12-2018,21-12-2018,Sim
+21-11-2018,ETICKET,Robo,Midea,Concluído,0,17-12-2018,21-12-2018,Sim
+21-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,28-11-2018,28-11-2018,Sim
+21-11-2018,BALCÃO,Aspirador,Philco,Concluído,0,12-07-2018,13-12-2018,Sim
+21-11-2018,BALCÃO,Cafeteira,Britania,Concluído,0,28-11-2018,28-11-2018,Sim
+21-11-2018,ON SITE,Ar Condicionado,Carrier,Cancelado,0,0,31-07-2019,Não
+21-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,23-11-2018,23-11-2018,Sim
+21-11-2018,BALCÃO,Purificador,Midea,0,0,0,0,0
+22-11-2018,BALCÃO,Panela,Philco,Concluído,0,12-07-2018,12-11-2018,Sim
+22-11-2018,BALCÃO,Panela,Philco,Concluído,0,01-04-2019,17-01-2019,Sim
+22-11-2018,BALCÃO,Lava E Seca,Midea,Concluído,0,15-12-2018,18-12-2018,Sim
+22-11-2018,BALCÃO,Moedor De Café,Phico,Concluído,0,12-07-2018,12-11-2018,Sim
+22-11-2018,BALCÃO,Churrasqueira,Britania,Concluído,0,01-05-2019,01-07-2019,Sim
+22-11-2018,BALCÃO,Panela,Philco,Concluído,0,13-12-2018,18-12-2018,Sim
+22-11-2018,BALCÃO,Ferro,Philco,Concluído,0,12-10-2018,12-11-2018,Sim
+22-11-2018,ON SITE,Refrigerador,Panasonic,Cancelado,0,0,26-11-2018,Não
+22-11-2018,BALCÃO,Cafeteira,Philco,Sem Conserto,0,0,28-12-2018,Não
+22-11-2018,BALCÃO,Cafeteira,Philco,Concluído,0,26-11-2018,27-11-2018,Sim
+22-11-2018,BALCÃO,Cafeteira,Philco,Concluído,0,12-07-2018,12-11-2018,Sim
+22-11-2018,ON SITE,Ar Condicionado,Springer,Descarte,0,0,14-09-2019,Não
+22-11-2018,BALCÃO,Centrifuga,Britania,Concluído,0,16-12-2018,18-12-2018,Sim
+22-11-2018,BALCÃO,Liquidificador,Britania,Concluído,0,24-01-2019,25-01-2019,Sim
+22-11-2018,BALCÃO,Aspirador,Philco,Concluído,0,17-12-2018,21-12-2018,Sim
+23-11-2018,BALCÃO,Secador,Philco,Concluído,0,19-12-2018,19-12-2018,Sim
+23-11-2018,ETICKET,Robo,Midea,Concluído,0,17-12-2018,21-12-2018,Sim
+23-11-2018,ETICKET,Robo,Midea,Concluído,0,28-12-2018,01-03-2019,Sim
+23-11-2018,ETICKET,Robo,Midea,Concluído,0,12-01-2018,12-05-2018,Sim
+23-11-2018,BALCAO,Liquidificador,Philco,Concluído,0,14-01-2019,15-01-2019,Sim
+23-11-2018,BALCÃO,Liquidificador,Philco,Sem Conserto,0,0,23-07-2019,Não
+23-11-2018,BALCÃO,Micro Ondas,Brastemp,Sem Conserto,0,0,12-05-2018,Não
+23-11-2018,ETICKET,Robô,Midea,Concluído,0,17-12-2018,21-12-2018,Sim
+23-11-2018,ETICKET,Robô,Midea,Concluído,0,12-03-2018,01-11-2019,Sim
+23-11-2018,ETICKET,Robô,Midea,Concluído,0,28-12-2018,01-08-2019,Sim
+23-11-2018,BALCÃO,Maquina De Gelo,Springer,Concluído,0,28-01-2019,28-01-2019,Sim
+23-11-2018,BALCÃO,Maquina De Gelo,Polar,Sem Defeito,0,0,20-12-2018,Não
+24-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,25-11-2018,25-11-2018,Sim
+24-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,29-11-2018,29-11-2018,Sim
+24-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-09-2018,12-09-2018,Sim
+24-11-2018,BALCÃO,Ferro,Britania,Concluído,0,12-10-2018,12-11-2018,Sim
+27-11-2018,BALCÃO,Parafusadeira,Philco,Concluído,0,12-10-2018,15-12-2018,Sim
+25-11-2018,BALCÃO,Ferro,Britania,Concluído,0,12-10-2018,12-11-2018,Sim
+25-11-2018,BALCÃO,Ferro,Britania,Concluído,0,12-04-2018,12-05-2018,Sim
+25-11-2018,BALCÃO,Secador,Philco,Concluído,0,29-11-2018,12-05-2018,Sim
+25-11-2018,BALCÃO,Panela De Arroz,Philco,Concluído,0,12-05-2018,12-11-2018,Sim
+25-11-2018,BALCÃO,Secador,Philco,Concluído,0,29-11-2018,12-05-2018,Sim
+25-11-2018,BALCÃO,Liquidificador,Philco,Concluído,0,12-07-2018,12-11-2018,Sim
+25-11-2018,BALCÃO,Batedeira,Britania,Concluído,0,12-07-2018,12-11-2018,Sim
+25-11-2018,BALCÃO,Forno Eletrico,Philco,Sem Conserto,0,0,28-12-2018,Não
+25-11-2018,BALCÃO,Ventilador,Britania,Sem Conserto,0,0,28-12-2018,Não
+25-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,01-02-2019,30-01-2019,Sim
+25-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,18-01-2019,18-01-2019,Sim
+25-11-2018,ETICKET,Robô,Midea,Concluído,0,30-11-2018,12-05-2018,Sim
+25-11-2018,ETICKET,Robô,Midea,Concluído,0,01-11-2019,14-01-2019,Sim
+25-11-2018,ETICKET,Aspirador,Midea,Ressarcido,0,0,03-07-2019,Não
+25-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,20-12-2018,01-02-2019,Sim
+25-11-2018,ETICKET,Micro Ondas,Midea,Concluído,0,17-01-2019,18-01-2019,Sim
+26-11-2018,BALCÃO,Ntb,Acer,Concluído,0,12-03-2018,12-03-2018,Sim
+26-11-2018,BALCÃO,Ntb,Positivo,Concluído,0,29-01-2019,29-01-2019,Sim
+26-11-2018,BALCÃO,Aspirador,Wap,Descarte,0,0,15-08-2019,Não
+26-11-2018,BALCÃO,Liquidificador,Britania,Concluído,0,12-10-2018,15-02-2019,Sim
+26-11-2018,BALCÃO,Cortador De Cabelo,Philco,Concluído,0,0,31-01-2019,Sim
+26-11-2018,BALCÃO,Panificadora,Britania,Sem Análise,0,0,15-01-2019,Não
+26-11-2018,BALCÃO,Espremedor,Philco,Concluído,0,19-12-2018,01-05-2019,Sim
+27-11-2018,BALCÃO,Notebook,Hp,Concluído,0,17-12-2018,18-12-2018,Sim
+27-11-2018,BALCÃO,Fritadeira,Fritadeira,Concluído,0,19-12-2018,20-12-2018,Sim
+27-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,27-11-2018,27-11-2018,Sim
+27-11-2018,ON SITE,Purificador,Midea,Concluído,0,29-12-2018,01-03-2019,Sim
+27-11-2018,ON SITE,Cooktop,Midea,Concluído,0,28-11-2018,28-11-2018,Sim
+27-11-2018,BALCÃO,Panificadora,Britania,Sem Análise,0,0,12-06-2018,Não
+27-11-2018,BALCÃO,Aspirador,Britania,Concluído,22-12-2018,01-03-2019,01-08-2019,Sim
+27-11-2018,BALCÃO,Aspirador,Eletrolux,Sem Conserto,0,0,14-03-2019,Não
+27-11-2018,BALCÃO,Lavadora,Wap,Sem Conserto,0,0,27-11-2018,Não
+27-11-2018,BALCÃO,Secador,Taiff,Sem Conserto,0,0,17-12-2018,Não
+27-11-2018,BALCÃO,Secador,Beliss,Sem Conserto,0,0,22-03-2019,Não
+27-11-2018,BALCÃO,Tablet,Philco,Concluído,0,19-12-2018,20-12-2018,Sim
+27-11-2018,BALCÃO,Liquidificador,Britania,Concluído,0,29-11-2018,12-05-2018,Sim
+27-11-2018,BALCÃO,Cervejeira,Philco,Concluído,0,12-11-2018,12-12-2018,Sim
+28-11-2018,BALCÃO,Desk,Itautec,Concluído,0,28-11-2018,28-11-2018,Sim
+28-11-2018,BALCÃO,Notebook,Hp,Concluído,0,12-12-2018,12-12-2018,Sim
+28-11-2018,BALCÃO,Multi Processador,Philco,Concluído,0,29-11-2018,12-03-2018,Não
+28-11-2018,BALCÃO,Coocktop,Philco,Concluído,0,12-11-2018,12-11-2018,Sim
+28-11-2018,BALCÃO,Secador,Britania,Concluído,0,17-12-2018,01-03-2019,Sim
+28-11-2018,BALCÃO,Batedeira,Philco,Ressarcido,0,04-04-2019,0,0
+28-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,28-11-2018,28-11-2018,Sim
+28-11-2018,BALCÃO,Forno Eletrico,Philco,Sem Análise,0,0,12-11-2018,Não
+28-11-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,20-12-2018,27-12-2018,Sim
+28-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-09-2018,12-09-2018,Sim
+28-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,28-11-2018,28-11-2018,Sim
+28-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,28-11-2018,28-11-2018,Sim
+28-11-2018,BALCÃO,Micro Ondas,Philco,Concluído,0,14-12-2018,15-12-2018,Sim
+29-11-2018,BALCÃO,Prancha,Philco,Sem Conserto,0,0,28-12-2018,Não
+29-11-2018,BALCÃO,Forno Eletrico,Philco,Sem Conserto,0,0,28-12-2018,Não
+29-11-2018,BALCÃO,Forno Eletrico,Philco,Sem Conserto,0,0,01-09-2019,Não
+29-11-2018,ON SITE,Refrigerador,Panasonic,Sem Conserto,0,0,12-03-2018,Não
+29-11-2018,BALCÃO,Aspirador,Midea,Concluído,0,12-12-2018,14-02-2019,Sim
+29-11-2018,BALCÃO,Churrasqueira,Britania,Sem Conserto,0,0,23-01-2020,Não
+29-11-2018,BALCÃO,Tablet,Philco,Concluído,0,12-08-2018,12-11-2018,Sim
+29-11-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,12-06-2018,12-06-2018,Sim
+29-11-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,12-04-2018,12-04-2018,Sim
+29-11-2018,BALCÃO,Micro Ondas,Philco,Concluído,0,04-12-2019,17-04-2019,Sim
+30-11-2018,BALCÃO,Ntb,Positvo,Descarte,0,0,01-05-2019,Não
+30-11-2018,BALCÃO,Purificador,Midea,Concluído,0,29-12-2018,01-05-2019,Sim
+30-11-2018,BALCÃO,Purificador,Midea,Concluído,0,01-09-2019,15-01-2019,Sim
+30-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-09-2018,12-09-2018,Sim
+30-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-11-2018,12-11-2018,Sim
+30-11-2018,BALCÃO,Panificadora,Britânia,Concluído,0,19-12-2018,01-07-2019,Não
+30-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,30-11-2018,30-11-2018,Sim
+30-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-03-2018,12-03-2018,Sim
+30-11-2018,BALCÃO,Adega,Philco,Concluído,0,01-05-2019,13-02-2019,Sim
+30-11-2018,BALCÃO,Ventilador,Britania,Concluído,0,01-11-2019,16-01-2019,Sim
+30-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-01-2018,12-01-2018,Sim
+30-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-05-2018,15-12-2018,Sim
+30-11-2018,BALCÃO,Depurador,Philco,Concluído,0,01-04-2019,01-10-2019,Não
+30-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-07-2018,12-07-2018,Sim
+30-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-01-2018,12-01-2018,Sim
+30-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,0,01-07-2019,Sim
+30-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-01-2018,12-01-2018,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-03-2019,01-11-2019,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-07-2019,01-10-2019,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-03-2019,01-11-2019,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-04-2019,01-11-2019,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-04-2019,15-01-2019,Não
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-04-2019,15-01-2019,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-07-2019,01-10-2019,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,01-04-2019,01-12-2019,Sim
+12-01-2018,BALCÃO,Micro Ondas,Philco,Concluído,0,14-12-2018,15-12-2018,Sim
+12-01-2018,BALCÃO,Balança,Britania,0,0,0,0,0
+12-01-2018,BALCÃO,Cervejeira,Philco,Sem Conserto,0,0,12-11-2018,Não
+12-01-2018,BALCÃO,Secador,Philco,Concluído,0,26-12-2018,28-12-2018,Sim
+12-01-2018,BALCÃO,Batedeira,Britania,0,0,0,0,0
+12-01-2018,BALCÃO,Coifa,Philco,Sem Defeito,0,01-05-2019,29-01-2019,Sim
+12-01-2018,BALCÃO,Forno Eletrico,Philco,Sem Defeito,0,01-05-2019,29-01-2019,Sim
+12-01-2018,BALCÃO,Forno Eletrico,Philco,Sem Defeito,0,01-05-2019,29-01-2019,Sim
+12-01-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-11-2018,12-11-2018,Sim
+12-01-2018,ETICKET,Robô,Midea,Concluído,0,27-12-2018,01-07-2019,Sim
+12-01-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-05-2018,12-05-2018,Sim
+12-03-2018,ON SITE,Ar Condicionado,Springer,Cancelado,0,0,14-12-2018,Não
+12-03-2018,BALCÃO,Robô,Midea,Concluído,0,01-07-2019,14-01-2019,Sim
+12-03-2018,BALCÃO,Aspirador,Philco,Concluído,0,02-09-2019,20-02-2019,Sim
+12-03-2018,BALCÃO,Aspirador,Britania,Concluído,22-12-2018,01-03-2019,01-07-2019,Sim
+12-04-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-05-2018,12-05-2018,Sim
+12-04-2018,BALCÃO,Purificador,Midea,Ressarcimento,0,0,18-04-2019,Não
+12-04-2018,BALCÃO,Purificador,Midea,0,0,0,0,0
+12-04-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-06-2018,12-06-2018,Sim
+12-04-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-06-2018,12-06-2018,Sim
+12-04-2018,BALCÃO,Ferro,Britania,Concluído,0,17-12-2018,18-12-2018,Sim
+12-04-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-03-2018,12-03-2018,Sim
+12-04-2018,ON SITE,Cooktop,Philco,Cancelado,0,0,12-04-2018,Não
+12-04-2018,ON SITE,Refrigerador,Panasonic,Sem Conserto,0,0,12-05-2018,Não
+12-04-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,30-12-2018,01-02-2019,Sim
+12-04-2018,ON SITE,Lavadora,Panasonic,Cancelado,0,0,12-04-2018,Não
+12-04-2018,ON SITE,Adega,Springer,Concluído,0,02-08-2019,02-08-2019,Sim
+12-04-2018,BALCÃO,Moedor,Philco,Concluído,22-12-2018,01-04-2019,01-08-2019,Sim
+12-04-2018,BALCÃO,Aquecedor,Britania,Troca,0,0,02-07-2019,Não
+12-04-2018,BALCÃO,Escova,Philco,Concluído,0,02-04-2019,02-07-2019,Sim
+12-04-2018,BALCÃO,Multiprocessador,Philco,Concluído,0,14-12-2018,20-12-2018,Sim
+12-04-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,20-12-2018,17-01-2019,Sim
+12-04-2018,BALCÃO,Condensadora,Midea,Concluído,0,19-12-2018,20-12-2018,Sim
+12-04-2018,BALCÃO,Condensadora,Midea,Concluído,0,19-12-2018,20-12-2018,Sim
+12-04-2018,BALCÃO,Evaporadora,Midea,0,0,0,0,0
+12-04-2018,BALCÃO,Evaporadora,Midea,Concluído,0,19-12-2018,20-12-2018,Sim
+12-04-2018,BALCÃO,Aspirador,Britania,Sem Conserto,0,0,06-03-2019,Não
+12-04-2018,ETICKET,Robô,Midea,Concluído,0,01-07-2019,01-10-2019,Sim
+12-04-2018,ETICKET,Aspirador,Midea,Concluído,0,01-04-2018,14-01-2019,Sim
+12-04-2018,ETICKET,Micro Ondas,Midea,Concluído,0,12-10-2018,19-12-2018,Sim
+12-04-2018,ETICKET,Micro Ondas,Midea,Concluído,0,21-01-2019,22-01-2019,Sim
+12-04-2018,ETICKET,Aspirador,Midea,Concluído,0,02-07-2019,03-08-2019,Sim
+12-04-2018,ETICKET,Microondas,Midea,Concluído,0,15-12-2018,19-12-2018,Sim
+12-04-2018,ETICKET,Microondas,Midea,Troca,0,0,03-08-2019,Não
+12-04-2018,ETICKET,Purificador,Midea,Concluído,0,01-10-2019,02-01-2019,Sim
+12-05-2018,BALCÃO,Ventilador,Britania,Concluído,0,01-07-2019,01-08-2019,Sim
+12-05-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-12-2018,12-12-2018,Sim
+12-05-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,0,22-01-2019,Não
+12-05-2018,BALCÃO,Panificadora,Britania,Concluído,0,18-12-2018,13-02-2019,Sim
+12-05-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-09-2018,12-09-2018,Sim
+12-05-2018,BALCÃO,Ntb,Itautec,Concluído,0,29-04-2019,29-04-2019,Sim
+12-05-2018,BALCÃO,Aspirador,Midea,Concluído,0,17-01-2019,21-01-2019,Sim
+12-06-2018,BALCÃO,Secador,Philco,Ressarcimento,0,0,01-10-2019,Não
+12-06-2018,ETICKET,Micro Ondas,Midea,Concluído,0,01-02-2019,01-10-2019,Sim
+12-06-2018,ETICKET,Fritadeira,Midea,Concluído,0,02-06-2019,02-11-2019,Sim
+12-06-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-09-2018,12-09-2018,Sim
+0,BALCÃO,Liquidificador,Walita,0,0,0,0,0
+12-06-2018,ETICKET,Microondas,Midea,Concluído,0,18-02-2019,19-02-2019,Sim
+12-06-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,22-01-2019,22-01-2019,Sim
+12-06-2018,ON SITE,Ar Condicionado,Philco,Concluído,0,19-12-2018,19-12-2018,Sim
+12-06-2018,ETICKET,Micro Ondas,Midea,Concluído,0,01-05-2019,28-01-2019,Sim
+12-06-2018,ETICKET,Fritadeira,Midea,Concluído,0,30-01-2019,02-07-2019,Sim
+12-06-2018,ETICKET,Robô,Midea,Concluído,0,01-04-2019,01-08-2019,Sim
+12-06-2018,ON SITE,Lavadora,Panasonic,Concluído,0,12-09-2018,12-09-2018,Sim
+12-06-2018,ETICKET,Robo,Midea,Concluído,0,01-07-2019,01-10-2019,Sim
+12-06-2018,BALCÃO,Purificador,Midea,0,0,0,0,0
+12-06-2018,BALCÃO,Centrifuga,Britania,Sem Conserto,0,0,18-12-2018,Não
+12-06-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,15-01-2019,15-01-2019,Sim
+12-06-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,12-12-2018,12-12-2018,Sim
+12-06-2018,BALCÃO,Multi Processador,Britania,Sem Conserto,0,0,16-01-2019,Não
+12-06-2018,BALCÃO,Escova,Britania,Troca,03-07-2019,0,15-03-2019,Não
+12-06-2018,BALCÃO,Adega,Midea,Concluído,0,01-10-2019,01-12-2019,Sim
+12-07-2018,ON SITE,Cooktop,Philco,Concluído,0,17-12-2018,17-12-2018,Sim
+12-07-2018,ON SITE,Lavadora,Panasonic,Concluído,0,14-12-2018,14-12-2018,Sim
+12-08-2018,BALCÃO,Purificador,Midea,Concluído,0,01-11-2019,14-01-2019,Sim
+12-08-2018,ETICKET,Climatizador,Springer,Concluído,0,19-02-2019,20-02-2019,Sim
+12-08-2018,ETICKET,Microondas,Midea,Concluído,0,15-12-2018,19-12-2018,Sim
+12-08-2018,ONSITE,Lavadora,Panasonic,Concluído,0,12-09-2018,12-09-2018,Sim
+12-08-2018,ETICKET,Robô,Midea,Concluído,0,01-07-2019,01-10-2019,Sim
+12-08-2018,ON SITE,Lavadora,Panasonic,Concluído,0,14-12-2018,14-12-2018,Sim
+12-08-2018,ETICKET,Robô,Midea,Concluído,0,27-12-2018,01-07-2019,Sim
+12-08-2018,ON SITE,Lavadora,Panasonic,Concluído,0,17-12-2018,17-12-2018,Sim
+12-08-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,18-12-2018,18-12-2018,Sim
+12-10-2018,ON SITE,Lavadora,Panasonic,Concluído,0,20-12-2018,20-12-2018,Sim
+12-10-2018,ON SITE,Lavadora,Panasonic,Trocou Na Loja,0,0,17-12-2018,Não
+12-10-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,17-12-2018,17-12-2018,Sim
+12-10-2018,ON SITE,Lavadora,Panasonic,Cancelado,0,0,17-01-2019,Não
+12-10-2018,BALCÃO,Lavadora,Wap,Concluído,0,22-12-2018,26-12-2018,Sim
+12-10-2018,ON SITE,Lavadora,Panasonic,Concluído,0,21-12-2018,21-12-2018,Sim
+12-10-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,17-12-2018,17-12-2018,Sim
+12-11-2018,BALCÃO,Microondas,Philco,Concluído,0,01-07-2019,01-09-2019,Não
+12-11-2018,ON SITE,Lavadora,Panasonic,Concluído,0,17-12-2018,17-12-2018,Sim
+12-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,17-12-2018,17-12-2018,Sim
+12-11-2018,BALCÃO,Bebedouro,Britania,Sem Conserto,0,0,23-01-2019,Não
+12-11-2018,BALCÃO,Ferro,Britania,Concluído,0,17-12-2018,18-12-2018,Sim
+12-11-2018,BALCÃO,Aparador,Philco,0,0,0,0,0
+12-11-2018,BALCÃO,Panela,Philco,Concluído,0,17-12-2018,21-12-2018,Sim
+12-11-2018,BALCÃO,Panela,Philco,Concluído,0,17-12-2018,21-12-2018,0
+12-11-2018,BALCÃO,Panela,Philco,Concluído,0,14-12-2018,18-12-2018,Sim
+12-11-2018,BALCÃO,Grill,Britania,0,0,0,0,0
+12-11-2018,BALCÃO,Multiprocessador,Britania,Concluído,0,26-12-2018,28-12-2018,Sim
+12-11-2018,BALCÃO,Pipoqueira,Britania,Concluído,0,23-01-2019,28-01-2019,Sim
+12-11-2018,BALCÃO,Fritadeira,Philco,Concluído,0,26-12-2018,28-12-2018,Sim
+12-11-2018,BALCÃO,Forno,Philco,Sem Conserto,0,0,21-01-2019,Não
+12-11-2018,BALCÃO,Churrasqueira,Britania,Concluído,0,01-02-2019,17-01-2019,Sim
+12-11-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,15-12-2018,17-01-2019,Sim
+12-11-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,15-12-2018,17-01-2019,Sim
+12-11-2018,BALCÃO,Ferro,Philco,Concluído,0,18-02-2019,18-02-2019,0
+12-11-2018,BALCÃO,Panela,Britânia,Concluído,0,12-12-2019,13-03-2019,Sim
+12-11-2018,BALCÃO,Barbeador,Philco,Sem Conserto,0,0,12-12-2018,Não
+12-11-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,19-12-2018,19-12-2018,Sim
+12-11-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,15-12-2018,19-12-2018,Sim
+12-11-2018,BALCÃO,Panela,Britania,Concluído,22-12-2018,01-07-2019,14-01-2019,Sim
+12-11-2018,BALCÃO,Fritadeira,Britania,Concluído,0,01-10-2019,15-01-2019,Sim
+12-12-2018,ON SITE,Ar Condicionado,Daihin,Cancelado,0,0,14-12-2018,Não
+12-12-2018,ON SITE,Ar Condicionado,Midea,Prejuizo,0,0,0,Sim
+12-12-2018,ON SITE,Ar Condicionado,Carrier,Cancelado,0,0,0,Não
+12-12-2018,BALCÃO,Climatizador,Springer,Sem Conserto,0,0,03-12-2019,Não
+12-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,19-12-2018,19-12-2018,Sim
+12-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,23-12-2018,23-12-2018,Sim
+12-12-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,20-12-2018,28-12-2018,Sim
+12-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,15-12-2018,15-12-2018,Sim
+12-12-2018,ON SITE,Ar Condicionado,Springer,Concluído,0,14-12-2018,14-12-2018,Sim
+12-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,01-03-2018,01-03-2018,Sim
+14-12-2018,BALCÃO,Purificador,Midea,Concluído,0,21-12-2018,21-12-2018,Sim
+14-12-2018,BALCÃO,Notebook,Dell,Concluído,20-03-2019,15-04-2019,29-04-2019,Sim
+14-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,19-12-2018,19-12-2018,Sim
+14-12-2018,BALCÃO,Ntb,Win,Concluído,0,29-12-2018,29-12-2018,Sim
+14-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,21-01-2019,21-01-2019,Sim
+14-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,01-12-2019,01-12-2019,Sim
+14-12-2018,ON SITE,Refrigerador,Panasonic,Cancelado,0,0,0,Não
+14-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,21-12-2018,31-12-2018,Sim
+14-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,14-12-2018,14-12-2018,Sim
+15-12-2018,BALCÃO,Ntb,Samsung,Concluído,0,22-12-2018,22-12-2018,Sim
+15-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,18-12-2018,18-12-2018,Sim
+15-12-2018,ON SITE,Arcondicionado,Midea,Cancelada,0,0,17-12-2018,Não
+15-12-2018,BALCÃO,Ar-Condicionado Portátil,Midea,0,0,0,0,0
+15-12-2018,ON SITE,Unidade Condensadora,Midea,Concluído,0,31-01-2019,31-01-2019,Sim
+15-12-2018,ON SITE,Refrigerador,Panasonic,Sem Defeito,0,0,17-12-2018,Não
+15-12-2018,ON SITE,Lava E Seca,Midea,Concluído,0,16-01-2019,16-01-2019,Sim
+15-12-2018,ON SITE,Unidade Evaporadora,Midea,Concluído,0,20-12-2018,20-12-2018,Não
+15-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,01-11-2019,01-11-2019,Sim
+15-12-2018,ON SITE,Unidade Condensadora,Midea,Cancelada,0,0,01-04-2019,Não
+17-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,21-12-2018,21-12-2018,Sim
+17-12-2018,BALCÃO,Ar Condicionado,Springer,0,0,0,0,0
+17-12-2018,ON SITE,Ar Condicionado,Springer,Cancelado,0,0,18-01-2019,Não
+17-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,19-12-2018,19-12-2018,Não
+17-12-2018,ETICKET,Depurador,Philco,Concluído,0,21-01-2019,21-01-2019,Sim
+17-12-2018,ETICKET,Espremedor,Philco,Sem Conserto,0,0,21-01-2019,Não
+17-12-2018,ETICKET,Panela De Arroz,Philco,Sem Conserto,0,0,21-01-2019,Não
+17-12-2018,ETICKET,Panela,Philco,Concluído,0,19-12-2018,21-12-2018,Sim
+17-12-2018,ETICKET,Multiprocessador,Britania,Concluído,0,19-12-2018,21-12-2018,Sim
+17-12-2018,ETICKET,Batedeira,Britania,Concluído,01-09-2019,01-09-2019,01-10-2019,Sim
+17-12-2018,ETICKET,Secador,Philco,Concluído,01-09-2019,01-09-2019,01-10-2019,Sim
+17-12-2018,ETICKET,Secador,Philco,Concluído,0,19-12-2018,21-12-2018,Sim
+17-12-2018,ETICKET,Ferro,Britania,Concluído,0,16-01-2019,21-01-2019,Sim
+17-12-2018,ETICKET,Prancha,Philco,0,0,0,0,0
+17-12-2018,ETICKET,Ferro,Philco,Concluído,0,19-12-2018,21-12-2018,Sim
+17-12-2018,ETICKET,Micro Ondas,Philco,Concluído,0,21-01-2019,21-01-2019,Sim
+17-12-2018,ETICKET,Micro Ondas,Philco,Concluído,0,21-01-2019,21-01-2019,Sim
+17-12-2018,ETICKET,Forno,Philco,Concluído,0,01-05-2019,01-10-2019,Sim
+17-12-2018,ETICKET,Centrifuga,Britania,Sem Conserto,0,0,21-01-2019,Não
+17-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,20-12-2018,20-12-2018,Sim
+17-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,19-12-2018,19-12-2018,Sim
+17-12-2018,BALCÃO,Purificador,Midea,0,0,0,0,0
+17-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,01-08-2019,01-08-2019,Sim
+17-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,20-12-2018,20-12-2018,Sim
+17-12-2018,ETICKET,Cervejeira,Philco,Sem Conserto,0,0,21-01-2019,Não
+17-12-2018,ETICKET,Ventilador,Britania,0,0,0,0,0
+17-12-2018,ETICKET,Ventilador,Britania,0,0,0,0,0
+17-12-2018,ETICKET,Centrifuga,Britania,Concluído,0,29-12-2018,01-08-2019,Sim
+17-12-2018,ETICKET,Centrifuga,Britania,Sem Defeito,0,26-12-2018,28-12-2018,Não
+17-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,01-05-2019,01-05-2019,Sim
+18-12-2018,ON SITE,Ar Condicionado,Springer,0,0,0,0,0
+18-12-2018,ON SITE,Ar-Condicionado,Springer,Concluído,0,28-03-2019,28-03-2019,Sim
+18-12-2018,ON SITE,Ar Condicionado,Midea,Cancelado,0,0,27-02-2019,Não
+18-12-2018,BALCÃO,Panificadora,Philco,Excluída P/ Fabricante,0,0,03-10-2019,Não
+19-12-2018,ON SITE,Ar-Condicionado,Springer,Cancelado,0,0,31-07-2019,Não
+19-12-2018,BALCÃO,Purificador,Midea,Concluído,0,15-01-2019,15-01-2019,Sim
+19-12-2018,ON SITE,Refrigerador,Panasonic,Troca Na Loja,0,20-12-2018,20-12-2018,Não
+19-12-2018,ON SITE,Ar Condicionado,Springer,Não Aprovou,0,0,15-02-2019,Não
+19-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,01-03-2019,01-03-2019,Sim
+19-12-2018,ON SITE,Lavadora,Panasonic,Cancelada,0,01-07-2019,01-07-2019,Não
+19-12-2018,BALCÃO,Liquidificador,Philco,Sem Conserto,0,0,21-08-2019,Não
+19-12-2018,BALCÃO,Secador,Philco,Concluído,0,21-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Secador,Philco,Concluído,0,01-03-2019,21-08-2019,Sim
+19-12-2018,BALCÃO,Torradeira,Britânia,Sem Conserto,0,0,21-08-2019,Não
+19-12-2018,BALCÃO,Torradeira,Britânia,Sem Conserto,0,0,21-08-2019,Não
+19-12-2018,BALCÃO,Espremedor,Philco,Concluído,0,25-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Espremedor,Philco,Concluído,0,28-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Espremedor,Philco,Concluído,0,28-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Espremedor,Philco,Concluído,0,28-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Panela De Arroz,Britânia,Concluído,0,01-07-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Espremedor,Philco,Concluído,0,28-01-2019,13-02-2019,Sim
+19-12-2018,ON SITE,Lava E Seca,Midea,Concluído,0,26-12-2018,26-12-2018,Sim
+19-12-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,19-01-2019,23-01-2019,Sim
+19-12-2018,ON SITE,Ar Condicionado,Midea,Concluído,0,20-12-2018,20-12-2018,Sim
+19-12-2018,BALCÃO,Aquecedor,Britânia,Concluído,0,27-12-2018,21-08-2019,Sim
+19-12-2018,BALCÃO,Aquecedor,Britânia,Concluído,0,29-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Aquecedor,Britânia,Concluído,0,27-12-2018,13-02-2019,Sim
+19-12-2018,BALCÃO,Aquecedor,Britânia,Concluído,0,27-12-2018,21-08-2019,Sim
+19-12-2018,BALCÃO,Aquecedor,Britânia,Concluído,0,27-12-2018,13-02-2019,Sim
+19-12-2018,BALCÃO,Aquecedor,Britânia,Concluído,0,27-12-2019,21-08-2019,Sim
+19-12-2018,BALCÃO,Aquecedor,Britânia,Concluído,0,27-12-2018,21-08-2019,Sim
+19-12-2018,BALCÃO,Panificadora,Britânia,Concluído,0,25-02-2019,21-08-2019,Sim
+19-12-2018,BALCÃO,Panificadora,Britânia,Concluído,0,25-02-2019,21-08-2019,Sim
+19-12-2018,BALCÃO,Panificadora,Britânia,Concluído,0,20-02-2019,21-08-2019,Sim
+19-12-2018,BALCÃO,Fritadeira,Britânia,Concluído,0,23-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Grill,Britânia,Concluído,0,01-04-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Liquidificador,Britânia,Sem Conserto,0,0,21-08-2019,Não
+19-12-2018,BALCÃO,Liquidificador,Britânia,Sem Conserto,0,0,21-08-2019,Não
+19-12-2018,BALCÃO,Liquidificador,Britânia,Concluído,0,29-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Climatizador,Philco,Concluído,18-02-2019,26-03-2019,04-04-2019,Sim
+19-12-2018,BALCÃO,Aspirador,Midea,Concluído,0,27-02-2019,21-08-2019,Sim
+19-12-2018,BALCÃO,Aspirador,Midea,Concluído,0,24-05-2019,21-08-2019,Sim
+19-12-2018,BALCÃO,Aspirador,Midea,Concluído,0,28-12-2018,21-08-2019,Sim
+19-12-2018,BALCÃO,Cafeteira,Philco,Concluído,0,25-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Aspirador,Britania,Concluído,0,23-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Aspirador,Britânia,Concluído,0,02-04-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Microondas,Midea,Concluído,0,19-01-2019,13-02-2019,Sim
+19-12-2018,BALCÃO,Forno,Philco,Sem Defeito,0,26-12-2018,28-12-2018,Não
+20-12-2018,BALCÃO,Multiprocessador,Britania,Sem Defeito,0,27-12-2018,28-12-2018,Não
+20-12-2018,BALCÃO,Secador,Philco,Concluído,0,21-01-2019,21-01-2019,Sim
+20-12-2018,BALCÃO,Liquidificador,Britania,Concluído,0,23-01-2019,28-01-2019,Sim
+20-12-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+20-12-2018,ETICKET,Robô,Midea,Concluído,0,27-12-2018,01-07-2019,Sim
+20-12-2018,ETICKET,Robô,Midea,Concluído,0,27-12-2018,01-10-2019,Sim
+0,ETICKET,Robô,Midea,Concluído,0,27-12-2018,01-07-2019,Sim
+20-12-2018,ETICKET,Robô,Midea,Concluído,0,28-12-2018,01-09-2019,Sim
+20-12-2018,ETICKET,Robô,Midea,Concluído,0,28-12-2018,01-07-2019,Sim
+20-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,28-12-2018,28-12-2018,Sim
+20-12-2018,ON SITE,Refrigerador,Panasonic,Sem Falha,0,01-09-2019,01-09-2019,Não
+20-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,17-01-2019,17-01-2019,Sim
+20-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,01-11-2019,01-11-2019,Sim
+20-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,0,25-01-2019,Não
+20-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,01-03-2019,01-03-2019,Sim
+21-12-2018,BALCÃO,Forno,Philco,Concluído,01-09-2019,01-09-2019,01-10-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,28-12-2018,01-10-2019,Sim
+21-12-2018,ETICKET,Purificador,Midea,Concluído,0,15-01-2019,18-01-2019,Sim
+21-12-2018,ETICKET,Microondas,Midea,Concluído,0,01-03-2019,15-01-2019,Sim
+21-12-2018,ON SITE,Lava Seca,Midea,Ressarcimento,0,0,03-01-2019,Não
+21-12-2018,BALCÃO,Liquidificador,Philco,0,0,0,0,0
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,01-07-2019,01-10-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,16-01-2019,18-01-2019,Sim
+21-12-2018,BALCÃO,Aspirador,Britania,Concluído,0,04-04-2019,04-06-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,16-01-2019,18-01-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,01-04-2019,14-01-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,01-08-2019,01-10-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,16-01-2019,18-01-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,01-08-2019,01-10-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,16-01-2018,18-01-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,18-01-2019,22-01-2019,Sim
+21-12-2018,ETICKET,Robo,Midea,Concluído,0,18-01-2019,22-01-2019,Sim
+21-12-2018,BALCÃO,Climatizador,Springer,Descarte,0,0,03-04-2020,Não
+21-12-2018,BALCÃO,Cervejeira,Philco,Sem Defeito,0,0,02-06-2019,Não
+21-12-2018,BALCAO,Aspirador,Midea,Concluído,0,24-05-2019,21-08-2019,Sim
+21-12-2018,ETICKET / BALCÃO,Micro Ondas / Ventilador,Midea / Britania,Concluído,0,17-01-2019,18-01-2019,Sim
+21-12-2018,BALCÃO,Panela De Pressao,Midea,Sem Conserto,0,0,30-07-2020,Não
+21-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,17-01-2019,18-01-2019,Sim
+21-12-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,17-01-2019,28-02-2019,Sim
+21-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,25-01-2019,28-01-2019,Sim
+22-12-2018,BALCÃO,Lavadora,Wap,Concluído,0,01-04-2019,01-10-2019,Sim
+22-12-2018,ON SITE,Ar Condicionado,0,Cancelado,0,0,0,Não
+24-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,19-01-2019,25-01-2019,Sim
+24-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,15-01-2019,28-01-2019,Sim
+24-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,28-01-2019,02-07-2019,Sim
+24-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,28-01-2019,02-01-2019,Sim
+24-12-2018,ETICKET,Micro Ondas,Midea,Concluído,0,15-01-2019,16-01-2019,Sim
+24-12-2018,ETICKET,Micro Ondas,Midea,Ressarcimento,0,0,21-03-2019,Não
+24-12-2018,ETICKET,Micro Ondas,Midea,Troca,0,0,18-03-2019,Não
+24-12-2018,ETICKET,Micro Ondas,Midea,Ressarcimento,0,0,16-05-2019,Não
+26-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,28-12-2018,28-12-2018,Sim
+26-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,20-01-2019,20-01-2019,Sim
+27-12-2018,ON SITE,Desk,Daten,0,0,0,0,0
+27-12-2018,ON SITE,Ar Condicionado,Midea,0,0,0,0,0
+27-12-2018,ETICKET,Robo,Midea,Concluído,0,18-01-2019,14-03-2019,Sim
+27-12-2018,ETICKET,Robo,Midea,Concluído,0,18-01-2019,22-01-2019,Sim
+27-12-2018,ETICKET,Robo,Midea,Concluído,0,18-01-2019,22-01-2019,Sim
+27-12-2018,ETICKET,Robô,Midea,Concluído,0,18-01-2019,22-01-2019,Sim
+27-12-2018,ETICKET,Robo,Midea,Concluído,0,18-01-2019,22-01-2019,Sim
+27-12-2018,BALCÃO,Microondas,Midea,Concluído,0,02-05-2019,15-03-2019,Sim
+27-12-2018,BALCÃO,Panela,Britania,Concluído,0,01-10-2019,14-01-2019,Sim
+27-12-2018,BALCÃO,Grill,Britania,Concluído,0,28-01-2019,02-07-2019,Sim
+27-12-2018,BALCÃO,Purificador,Midea,Concluído,0,24-01-2019,28-01-2019,Sim
+28-12-2018,BALCÃO,Notebook,Toshiba,Concluído,0,24-01-2019,02-08-2019,Sim
+27-12-2018,ON-SITE,Refrigerador,Panasonic,Concluído,0,18-01-2019,18-01-2019,Sim
+28-12-2018,BALCÃO,Secador,Britania,Concluído,0,21-01-2019,22-01-2019,Sim
+28-12-2018,BALCÃO,Ferro,Britania,Concluído,0,25-01-2019,28-01-2019,Sim
+28-12-2018,BALCÃO,Liquidificador,Britania,Concluído,0,21-01-2019,21-01-2019,Sim
+28-12-2018,BALCÃO,Micro Ondas,Midea,Concluído,0,16-01-2019,17-01-2019,Sim
+28-12-2018,BALCÃO,Secador,Philco,Concluído,0,21-01-2019,21-01-2019,Sim
+28-12-2018,ETICKET,Microondas,Midea,Concluído,0,30-01-2019,02-07-2019,Sim
+28-12-2018,ETICKET,Microondas,Midea,Concluído,0,28-01-2019,18-02-2019,Sim
+28-12-2018,ETICKET,Microondas,Midea,Concluído,0,31-01-2019,02-07-2019,Sim
+28-12-2018,BALCÃO,Forno,Britania,Concluído,0,18-01-2019,23-01-2019,Sim
+28-12-2018,BALCÃO,Climatizador,Midea,0,0,0,0,0
+28-12-2018,ON SITE,Lavadora,Panasonic,Cancelada,0,0,01-09-2019,Não
+28-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,01-12-2019,01-12-2019,Sim
+28-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,26-01-2019,26-01-2019,Sim
+28-12-2018,ON SITE,Refrigerador,Panasonic,Concluído,0,13-01-2019,13-01-2019,Sim
+28-12-2018,ETICKET,Microondas,Midea,0,0,0,0,0
+28-12-2018,ON SITE,Lavadora,Panasonic,Concluído,0,01-03-2019,01-03-2019,Sim
+29-12-2018,BALCÃO,Aspirador,Midea,Concluído,0,02-12-2019,28-02-2019,Sim
+29-12-2018,BALCÃO,Panela,Britania,Troca,0,0,03-07-2019,Não

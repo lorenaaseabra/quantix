@@ -1,0 +1,395 @@
+DATA,TIPO DE AT.,APARELHO,MARCA,TECNICO,STATUS,PEÇA RECEBIDA,PRONTO,SAÍDA,CONSERTADO?
+01-03-2024,FON,Refrigerador,Panasonic,Cvg/robson,Concluído,0,01-03-2024,01-03-2024,Sim
+01-03-2024,GS,Refrigerador,Panasonic,Luiz,Concluído,0,24-01-2024,24-01-2024,Sim
+01-03-2024,FB,Robo,Wap,Matheus,Concluído,0,01-10-2024,01-11-2024,Sim
+01-03-2024,GON,Lavadora,Panasonic,Cvg,Concluído,12/01/2024,18-01-2024,18-01-2024,Sim
+01-03-2024,GON,Refrigerador,Panasonic,,Cancelada,0,0,01-10-2024,Não
+01-03-2024,FON,Lavadora,Panasonic,Luiz,Concluído,0,01-09-2024,01-09-2024,Sim
+01-03-2024,GON,Lava e seca,Midea,Cvg,Concluído,0,01-04-2024,01-04-2024,Sim
+01-03-2024,GB,Aspirador,Midea,Matheus,Concluído,09/01/2024,01-10-2024,18-01-2024,Sim
+01-03-2024,GB,Robo,Midea,Matheus rosa,Concluído,22/01/2024,22-01-2024,24-01-2024,Sim
+01-04-2024,GON,Refrigerador,Panasonic,"Cvg, robson e edric",Concluído,29/01/2023,02-03-2024,02-03-2024,Sim
+01-04-2024,GON,Lavadora,Panasonic,Cvg e luiz,Concluído,0,0,24-01-2024,Não
+01-04-2024,FB,Robo,Wap,,,0,0,0,
+12-04-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,01-05-2024,01-05-2024,Sim
+12-04-2024,GON,Lavadora,Panasonic,Cvg e robson,Concluído,15/01/2024,19-01-2024,19-01-2024,Sim
+12-04-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,01-12-2024,01-12-2024,Sim
+12-04-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,01-05-2024,01-05-2024,Sim
+01-05-2024,FB,Adega,Midea,,,0,0,0,
+01-05-2024,FON,,Panasonic,Cvg e robson,Concluído,0,01-08-2024,01-08-2024,Sim
+12-05-2024,GS,Lavadora,Panasonic,Luiz,Concluído,0,29-01-2024,29-01-2024,Sim
+01-05-2024,GB,Panela,Midea,Thiago,Concluído,0,01-11-2024,19-01-2024,Sim
+01-05-2024,GB,Robo,Wap,,,0,0,0,
+01-05-2024,GB,Refrigerador,Panasonic,Cvg,Conclcuido,23/01/2024,26-01-2024,26-01-2024,Sim
+01-05-2024,GB,Robo,Wap,Matheus rosa,Concluído,16/01/2024,17-01-2024,19-01-2024,Sim
+01-05-2024,FB,Robo,Midea,Matheus,Concluído,0,16-01-2024,18-01-2024,Sim
+01-05-2024,FB,Robo,Wap,Matheus,Concluído,0,17-01-2024,25-01-2024,Sim
+01-05-2024,GB,Robo,Wap,Matheus rosa,Concluído,0,16-01-2024,19-01-2024,Sim
+01-08-2024,GON,Refrigerador,Panasonic,Luiz,Perda de garantia,0,0,01-11-2024,Não
+01-08-2024,GON,Lavadora,Panasonic,Cvg e robson,Concluído,15/01/2024,17-01-2024,17-01-2024,Sim
+01-08-2024,GON,Lava e seca,Midea,Luiz,Concluído,0,15-01-2024,15-01-2024,Sim
+01-08-2024,GON,Lava e seca,Midea,Cvg/robson,Concluído,0,01-11-2024,01-11-2024,Sim
+01-08-2024,GON,Lava e seca,Midea,Cvg/robson,Concluído,18/01/2024,24-01-2024,24-01-2024,Sim
+01-08-2024,FON,Ar condicionado,Daikim,Luiz/cvg,,0,0,0,
+01-08-2024,FB,Robo,Wap,Matheus rosa,Concluído,0,16-01-2024,17-01-2024,Sim
+01-08-2024,FB,Climatizador,Splendore,,,0,0,0,
+01-08-2024,GB,Robo,Midea,Matheus,Concluído,12/01/2024,15-01-2024,02-01-2024,Sim
+01-08-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,01-12-2024,01-12-2024,Sim
+01-08-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,21-01-2024,21-01-2024,Sim
+01-08-2024,GB,Aspirador,Wap,Matheus,Sem conserto,0,0,15-01-2024,Não
+01-08-2024,FB,Micro-ondas,Midea,Thiago,Concluído,0,01-10-2024,01-10-2024,Sim
+01-08-2024,GON,Refrigerador,Panasonic,Luiz,Perda de garantia,0,01-10-2024,01-10-2024,Sim
+01-08-2024,GS,Robo,Wap,Matheus,Concluído,0,01-09-2024,01-11-2024,Sim
+01-08-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,01-09-2024,01-09-2024,Sim
+01-08-2024,GON,Lava e seca,Midea,,,0,0,0,
+01-08-2024,FB,Micro-ondas,Panasonic,,,0,0,0,
+01-08-2024,FB,Fritadeira,Midea,Thiago,Sem conserto,0,0,15-01-2024,Não
+01-09-2024,GB,Robo,Midea,Matheus rosa,Concluído,12/01/2024,15-01-2024,24-01-2024,Sim
+01-09-2023,FB,Aspirador vertical,Wap,Matheus rosa,Concluído,0,26-01-2024,31-01-2024,Sim
+01-09-2024,GB,Robo,Wap,Matheus,Concluído,16/01/2024,16-01-2024,19-01-2024,Sim
+01-09-2024,GB,Robo,Wap,Matheus,Concluído,16/01/2024,17-01-2024,18-01-2024,Sim
+01-09-2024,GS,Ar condicionado,Agratto,,,0,0,0,
+01-09-2024,FON,Lavadora,Panasonic,Cvg/luiz,Concluído,0,01-10-2024,01-10-2024,Sim
+01-10-2024,FON,Lavadora,Panasonic,,,0,0,0,
+01-10-2024,FON,Refrigerador,Panasonic,Luiz/cvg,Concluído,0,01-10-2024,01-10-2024,Sim
+01-10-2024,GON,Lavadora,Panasonic,Luiz,Concluído,16/01/2024,17-01-2024,17-01-2024,Sim
+01-10-2024,GON,Lava e seca,Midea,Luiz,Concluído,18/01/2024,19-01-2024,01-11-2024,Sim
+0,GB,Robo,Wap,Matheus rosa,Concluído,22/01/2024,24-01-2024,25-01-2024,Sim
+01-10-2024,GB,Robo,Wap,Matheus rosa,Concluído,22/01/2024,24-01-2024,25-01-2024,Sim
+01-10-2024,FON,Ar condicionado,,,,0,0,0,
+01-10-2024,GB,Refrigerador,Midea,Cvg,Concluído,0,26-01-2024,26-01-2024,Sim
+01-10-2024,GB,Micro-ondas,Midea,Thiago,Concluído,23/01/2024,25-01-2024,26-01-2024,Sim
+01-10-2024,GB,Frigobar,Midea,,,0,0,0,
+01-10-2024,GB,Secadora,Midea,,,0,0,0,
+01-10-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,01-12-2024,01-12-2024,Sim
+01-10-2023,FB,Climatizador,Midea,Thiago,Concluído,0,18-01-2024,25-01-2024,Sim
+01-10-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,21-01-2024,21-01-2024,Sim
+01-10-2024,FON,Refrigerador,Panasonic,Luiz,Concluído,0,01-12-2024,01-12-2024,Sim
+01-10-2024,FB,Robô,Wap,Thiago,Concluído,0,25-01-2024,26-01-2024,Sim
+01-11-2024,FON,Refrigerador,Panasonic,Cvg/robson,Concluído,0,01-11-2024,01-11-2024,Sim
+01-11-2024,GON,Lavadora,Panasonic,"Luiz, cvg e robson",Concluído,31/01/2024,14-02-2024,14-02-2024,Sim
+01-11-2024,FB,Lavadora,Panasonic,Cvg/luiz,Concluído,0,26-01-2024,31-01-2024,Sim
+01-11-2024,FON,Refrigerador,Panasonic,Luiz,Concluído,0,15-01-2024,15-01-2024,Sim
+01-11-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,15-01-2024,15-01-2024,Sim
+01-11-2024,GON,Lava e seca,Midea,Luiz,Concluído,0,19-01-2024,19-01-2024,Sim
+01-11-2024,FB,Ar cond portatil,Springer,Luiz,Concluído,0,02-05-2024,02-05-2024,Sim
+01-11-2024,FON,Ar condicionado,Fujitsu,Luiz,Concluído,0,22-01-2024,22-01-2024,Sim
+01-11-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,19-01-2024,19-01-2024,Sim
+01-11-2024,FB,Micro-ondas,Panasonic,Thiago,Concluído,0,24-01-2024,24-01-2024,Sim
+01-11-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,01-12-2024,01-12-2024,Sim
+01-11-2024,GON,Refrigerador,Panasonic,Cvg,26/02-reembolso aprov.,0,0,0,Não
+01-11-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,01-12-2024,01-12-2024,Sim
+01-11-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,19-01-2024,19-01-2024,Sim
+01-11-2024,GON,Lavadora,Midea,Luiz,Concluído,0,19-01-2024,19-01-2024,Sim
+0,GON,Frigobar,Midea,,Cancelado,0,0,01-12-2024,Não
+01-11-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,17-01-2024,17-01-2024,Sim
+01-11-2024,FB,Micro-ondas,Panasonic,Thiago,Concluído,0,24-01-2024,26-01-2024,Sim
+01-11-2024,FON,Ar condicionado,Springer,,Cancelado,0,0,25-01-2024,Sim
+01-11-2024,FON,Ar condicionado,Panasonic,,Cancelado,0,0,23-01-2024,Não
+15-01-2024,FON,Lavadora,Panasonic,Luiz,Concluído,0,15-01-2024,15-01-2024,Sim
+15-01-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,24-01-2024,24-01-2024,Sim
+15-01-2024,GS,Lavadora,Panasonic,,,0,0,0,
+15-01-2024,GS,Robo,Wap,Matheus,Concluído,0,17-01-2024,19-01-2024,Sim
+15-01-2024,GON,Lava e seca,Midea,Cvg/robson,Concluído,02/02/2024,02-08-2024,02-08-2024,Sim
+15-01-2024,FB,Climatizador,Midea,Thiago,Sem conserto,0,0,30-01-2024,Não
+15-01-2024,GB,Robo,Wap,,,0,0,0,
+15-01-2024,FON,Refrigerador,Eletrolux,,,0,0,0,
+15-01-2024,FON,Micro-ondas,Eletrolux,,,0,0,0,
+15-01-2024,FON,Lavadora,Panasonic,Luiz,Concluído,0,19-01-2024,19-01-2024,Sim
+15-01-2024,FON,Lavadora,Panasonic,,Cancelado,0,0,15-01-2024,Não
+15-01-2024,FON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,19-01-2024,19-01-2024,Sim
+15-01-2024,GS,Robo,Midea,Matheus rosa,Concluído,0,17-01-2024,19-01-2024,Sim
+15-01-2024,GON,Lavadora,Panasonic,"Cvg, robson e edric",Concluído,25/01/2023,02-03-2024,02-03-2024,Sim
+15-01-2024,FON,Refrigerador,Panasonic,Cvg/robson,Concluído,0,17-01-2024,27-01-2024,Sim
+16-01-2024,FON,Refrigerador,Panasonic,Cvg/robson,Concluído,0,17-01-2024,17-01-2024,Sim
+16-01-2024,FON,Lavadora,Panasonic,,,0,0,0,
+16-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,01/02-sob análise do sac,0,0,0,
+16-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Prod. recolhido,0,0,0,
+16-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,19-01-2024,19-01-2024,Sim
+16-01-2024,FON,Lava e seca,Panasonic,,Cancelado,0,0,23-01-2024,Não
+16-01-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,18-01-2024,18-01-2024,Sim
+16-01-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,0,24-01-2024,24-01-2024,Sim
+16-01-2024,FB,Ar cond portatil,Midea,,Sem conserto,0,0,23-02-2024,Não
+16-01-2024,GON,Lavadora,Midea,Luiz/cvg,Concluído,0,17-01-2024,17-01-2024,Sim
+16-01-2024,GON,Lava e seca,",midea",Luiz,Concluído,23/01/2024,25-01-2024,25-01-2024,Sim
+16-01-2024,FB,Aspirador,Wap,Thiago,Sem conserto,0,0,30-01-2024,Não
+16-01-2024,FB,Ar-condicionado,Springer,,,0,0,0,
+16-01-2024,FB,Ar condicinado,Midea,Thiago,Concluído,0,0,0,
+16-01-2024,FB,Ar condicinado,Midea,,,0,0,0,
+16-01-2024,GS,Lavadora,Panasonic,Cvg/robson,Concluído,0,23-01-2024,23-01-2024,Sim
+16-01-2024,FON,Refrigerador,Panasonic,,Cancelada,0,0,22-01-2024,Não
+16-01-2024,FB,Aspirador,Wap,Matheus,Sem conserto,0,0,23-01-2024,Não
+17-01-2024,GON,Refrigerador,Panasonic,Cvg,Perda de garantia,0,0,18-01-2024,Não
+17-01-2024,GON,Lava e seca,Midea,Luiz/cvg,Concluído,0,18-01-2024,18-01-2024,Sim
+17-01-2024,GON,Lava e seca,Midea,Luiz/cvg,Concluida,0,18-01-2024,18-01-2024,Sim
+17-01-2024,GON,Cooktop,Midea,Cvg/luiz,Concluida,0,18-01-2024,18-01-2024,Sim
+17-01-2024,FON,Refrigerador,Panasonic,Luiz,Concluida,0,18-01-2024,18-01-2024,Sim
+18-01-2024,FB,Notebook,Samsung,,,0,0,0,
+18-01-2024,FB,Aspirador vertical,Wap,Matheus/thiago,Concluído,19/02/2024,21-02-2024,28-02-2024,Sim
+18-01-2024,GON,Cooktop,Midea,Cvg,Concluído,0,23-01-2024,23-01-2024,Sim
+18-01-2024,GB,Robo,Midea,Matheus,Concluído,26/01/2024,26-01-2024,02-01-2024,Sim
+18-01-2024,GON,Lava e seca,Midea,Luiz,Concluído,15/02/2024,28-02-2024,28-02-2024,Sim
+18-01-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,19-01-2024,19-01-2024,Sim
+18-01-2024,FON,Refrigerador,Panasonic,,Cancelado,0,0,0,Nao
+19-01-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,29/01/2024,02-04-2024,02-04-2024,Sim
+19-01-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,29/01/2024,02-04-2024,02-04-2024,Sim
+19-01-2024,FB,Notbook,Positivo,,Sem conserto,0,0,23-02-2024,Não
+19-01-2024,GB,Aspirador vertical,Wap,Matheus rosa/ thiago,Concluído,08/02/2024,02-09-2024,15-02-2024,Sim
+19-01-2024,GB,Extratora/lavadora,Wap,Robson/matheus,Reprovada,0,0,20-02-2024,Não
+19-01-2024,GB,Refrigerador,Midea,Thiago,Concluído,29/02/2024,03-01-2024,03-06-2024,Sim
+19-01-2024,GB,Lavadora,Midea,Luiz/robson,Concluído,0,16-02-2024,16-02-2024,Sim
+19-01-2024,GB,Refrigerador,Midea,Luiz,Concluído,0,02-09-2024,02-09-2024,Sim
+19-01-2024,GS,Robo,Wap,Matheus,Concluído,0,23-01-2024,24-01-2024,Sim
+22-01-2024,FON,Lavadora,Panasonic,,Cancelado,0,0,19-02-2024,Não
+22-01-2024,FON,Refrigerador,Panasonic,Luiz,Concluído,0,23-01-2024,23-01-2024,Sim
+22-01-2024,FON,Refrigerador,Panasonic,,Cancelada,0,0,29-01-2024,Não
+22-01-2024,FON,Refrigerador,Panasonic,Luiz,Concluído,0,23-01-2024,23-01-2024,Sim
+22-01-2024,GON,Lavadora,Panasonic,Vg e robson,Concluído,31/01/2024,02-01-2024,02-01-2024,Sim
+22-01-2024,GON,Lava e seca,Midea,Luiz,Concluído,0,23-01-2024,23-01-2024,Sim
+22-01-2024,GON,Lava e seca,Midea,Cvg/robson,Troca,20/02/2024,0,26-02-2024,Não
+22-01-2024,GON,Lavadora,Panasonic,Cvg e robson,Concluído,0,24-01-2024,24-01-2024,Sim
+22-01-2024,GON,Lavadora,Panasonic,"Luiz, robson e cvg",Concluído,07/02/2024,14-02-2024,14-02-2024,Sim
+22-01-2024,FB,Aquecedor,Niko,Robson,Concluído,0,25-01-2024,25-01-2024,Sim
+22-01-2024,FON,Refrigerador,Midea,Cvg,Concluído,0,23-01-2024,23-01-2024,Não
+23-01-2024,GB,Micro-ondas,Panasonic,Thiago,Concluído,31/01/2024,02-05-2024,0,
+23-01-2024,FON,Refrigerador,Panasonic,,Cancelada,0,0,23-01-2024,Não
+23-01-2024,FB,Micro-ondas,Panasonic,Thiago,Sem conserto,0,0,30-01-2024,Não
+23-01-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,24-01-2024,24-01-2024,Sim
+23-01-2024,GON,Refrigerador,Midea,Cvg,Troca,29/03/2024,03-04-2024,03-04-2024,Sim
+23-01-2024,GON,Frigobar,Midea,,Cancelada,0,0,25-01-2024,Não
+23-01-2024,GON,Refrigerador,Panasonic,Cvg e luiz,Concluído,0,24-01-2024,24-01-2024,Sim
+23-01-2024,GON,Refrigerador,Panasonic,Cvg e luiz,Concluído,31/01/2024,02-06-2024,02-06-2024,Sim
+24-01-2024,GON,Lavadora,Panasonic,Luiz,Concluído,01/02/2024,02-06-2024,02-06-2024,Sim
+24-01-2024,FON,Lava e seca,Midea,Luiz,Concluído,0,29-01-2024,30-01-2024,Sim
+24-01-2024,FON,Ar condicinado,Mais de 1 marca,,,0,0,0,
+24-01-2024,FON,Ar condicinado,Springer,Luiz,Concluído,0,26-01-2024,26-01-2024,Sim
+24-01-2024,FON,Refrigerador,Panasonic,Luiz,Concluído,0,25-01-2024,25-01-2024,Sim
+24-01-2024,FB,Aspirador,Midea,,,0,0,0,
+25-01-2024,GON,Refrigerador,Panasonic,Cvg,,0,0,0,
+25-01-2024,FON,Refrigerador,Panasonic,,,0,0,0,
+25-01-2024,GON,Lavadora,Panasonic,Cvg e robson,Concluído,0,29-01-2024,29-01-2024,Sim
+25-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,31/01 e 09/02,15-02-2024,15-02-2024,Sim
+25-01-2024,GON,Lavadora,Panasonic,,Cancelado,0,0,21-02-2024,Não
+25-01-2024,GON,Lava e seca,Midea,Cvg e robson,Concluído,0,30-01-2024,30-01-2024,Sim
+25-01-2024,GON,Lava e seca,Midea,Cvg e robson,Concluído,15/02/2024,16-02-2024,16-02-2024,Sim
+26-01-2024,FB,Notbook,Vaio,,,0,0,0,
+26-01-2024,FON,Refrigerador,Panasonic,,,0,0,0,
+26-01-2024,GB,Refrigerador,Midea,Luiz/robson,Concluído,0,16-02-2024,16-02-2024,Sim
+26-01-2024,GB,Lavadora,Midea,Luiz/robson,Concluído,0,16-02-2024,16-02-2024,Sim
+26-01-2024,FB,Robo,Midea,Thiago,Concluído,0,02-07-2024,21-02-2024,Sim
+26-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,29-01-2024,29-01-2024,Sim
+26-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Troca,0,0,26-01-2024,Não
+26-01-2024,FON,Lavadora,Panasonic,Cvg e robson,Concluído,0,31-01-2024,31-01-2024,Sim
+26-01-2024,GB,Climatizador,Midea,,,0,0,0,
+29-01-2024,GON,Refigerador,Panasonic,Cvg e robson,Concluído,0,29-01-2024,29-01-2024,Sim
+29-01-2024,GON,Micro-ondas,Panasonic,,Cancelado,0,0,02-06-2024,Não
+29-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,29-01-2024,29-01-2024,Sim
+29-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,29-01-2024,29-01-2024,Sim
+29-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,31/01-ag. aprov. gra,0,0,0,
+29-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,30-01-2024,30-01-2024,Sim
+29-01-2024,GON,Lavadora,Panasonic,Cvg e luiz,Concluído,01/02/2024,22-02-2024,22-02-2024,Sim
+29-01-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,02-04-2024,02-04-2024,Sim
+29-01-2024,FON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,31-01-2024,31-01-2024,Sim
+29-01-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,19/02 e 28/02,03-01-2024,03-01-2024,Sim
+29-01-2024,FB,Adega,Midea,Luiz,Concluído,0,29-01-2024,30-01-2024,Sim
+29-01-2024,GON,Lavadora,Panasonic,Cvg,Concluído,08/02/2024,17-02-2024,17-02-2024,Sim
+29-01-2024,GON,Lava e seca,Midea,"Cvg, robson eluiz",Concluído,15/02/2024,20-02-2024,20-02-2024,Sim
+29-01-2024,GON,Lavadora,Midea,,,0,0,0,
+29-01-2024,FB,Notebook,Samsung,Robson,Concluído,0,02-05-2024,02-06-2024,Sim
+29-01-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,02-05-2024,02-05-2024,Sim
+29-01-2024,GON,Lava e seca,Midea,,,0,0,0,
+29-01-2024,GON,Lava e seca,Midea,Cvg/robson,Concluído,0,30-01-2024,30-01-2024,Sim
+29-01-2024,GB,Robo,Midea,Thiago,Concluído,02/02/2024,02-05-2024,02-09-2024,Sim
+29-01-2024,GON,Lavadora,Panasonic,Cvg e luiz,Concluído,07/02/2024,14-02-2024,14-02-2024,Sim
+30-01-2024,FON,Ar condiocionado,Daikin,Luiz,Concluído,0,30-01-2024,30-01-2024,Sim
+30-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,31-01-2024,31-01-2024,Sim
+30-01-2024,GON,Lava e seca,Midea,Cvg e robson,Concluído,15/02/2024,22-02-2024,22-02-2024,Sim
+30-01-2024,FB,Robo,Wap,Thiago,Concluído,0,02-06-2024,02-09-2024,Sim
+30-01-2024,FB,Aspirador vertical,Midea,Thiago,Concluído,0,02-09-2024,23-02-2024,Sim
+30-01-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,02-01-2024,02-01-2024,Sim
+30-01-2024,FON,Lavadora,Panasonic,Cvg e robson,Concluído,0,02-06-2024,02-06-2024,Sim
+30-01-2024,FON,Ar concdionado,Daikin,Luiz,Concluído,0,0,21-02-2024,Não
+30-01-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,02-01-2024,02-01-2024,Sim
+31-01-2024,FON,Lavadora,Panasonic,,,0,0,0,
+31-01-2024,FB,Aspirador,Midea,,,0,0,0,
+31-01-2024,GON,Refrigerado,Panasonic,Cvg,Concluído,0,02-04-2024,02-04-2024,Sim
+31-01-2024,GB,Aspirador,Wap,Thiago,Concluído,14/02/2024,19-02-2024,29-02-2024,Sim
+31-01-2024,GB,Extratora,Wap,,,0,0,0,
+02-01-2024,GS,Aspirado,Wap,,,0,0,0,
+02-01-2024,GON,Lavadora,Midea,Luiz,Concluído,15/02/2024,29-02-2024,29-02-2024,Sim
+02-01-2024,FB,Robo,Wap,,,0,0,0,
+02-01-2024,GON,Cooktop,Midea,Luiz,Concluído,0,02-06-2024,02-06-2024,Não
+02-01-2024,GON,Lava loucas,Midea,Cvg/robson/luiz,Concluído,0,14-02-2024,17-02-2024,Sim
+02-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,02-02-2024,02-02-2024,Sim
+02-01-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,22-02-2024,22-02-2024,Sim
+02-01-2024,GS,Robo,Wap,Thiago,Concluído,0,28-02-2024,28-02-2024,Sim
+02-01-2024,FON,Lavadora,Panasonic,,,0,0,0,
+02-01-2024,FON,Ar cond,Elgin,,Cancelado,0,0,02-09-2024,Não
+02-01-2024,FON,Lava e seca,Midea,,,0,0,0,
+02-01-2024,GON,Lava e seca,Midea,Luiz,Concluído,15/02/2024,22-02-2024,22-02-2024,Sim
+02-01-2024,FB,Aspirador,Midea,Thiago,Concluído,0,19-02-2024,20-02-2024,Sim
+02-01-2024,GB,Robo,Midea,Thiago,Concluído,27/02/2024,29-02-2024,03-06-2024,Sim
+02-01-2024,FON,Refrigerador,Panasonic,,,0,0,0,
+02-02-2024,FB,Robo,Midea,,,0,0,0,
+02-02-2024,GB,Refrigerador,Midea,,,0,0,0,
+02-02-2024,GB,Lavadora,Panasonic,Luiz,Concluído,21/02/2024,16-02-2024,16-02-2024,Sim
+02-02-2024,GB,Micro ondas,Midea,Thiago,Concluído,0,27-02-2024,28-02-2024,Sim
+02-02-2024,FB,Robo,Midea,Thiago,Concluído,21/02/2024,02-06-2024,02-09-2024,Sim
+01-05-2024,GON,Frigobar,Midea,Luiz,Garantia negada,0,0,15-02-2023,Não
+02-05-2024,FB,Climatizador,Springer,,,0,0,0,
+02-06-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,09/02/2024,17-02-2024,17-02-2024,Sim
+02-06-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,02-06-2024,02-06-2024,Sim
+02-06-2024,FON,Refigerador,Panasonic,,,0,0,0,
+02-06-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,02-06-2024,02-06-2024,Sim
+02-06-2024,GON,Lava e seca,Midea,,,0,0,0,
+02-07-2024,GON,Refrigerador,Midea,Luiz,Concluído,20/02/2024,22-02-2024,22-02-2024,Sim
+02-07-2024,GB,Panela de pressão,Midea,Thiago,,0,0,0,
+02-07-2024,FON,Lava e seca,Midea,Luiz,Concluído,0,02-07-2024,02-07-2024,Sim
+02-07-2024,FON,Ar condicionado,Midea,,,0,0,0,
+02-07-2024,GON,Lavadora,Panasonic,Cvg e luiz,Concluído,22/02/2024,23-02-2024,23-02-2024,Sim
+0,FB,Robo,Wap,,,0,0,0,
+02-07-2024,GON,Refrigerador,Panasonic,Cvg,Concludo,21/02/2024,29-02-2024,29-02-2024,Sim
+02-07-2024,GB,Robo,Midea,,,0,0,0,
+02-08-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,21/02/2024,27-02-2024,27-02-2024,Sim
+02-08-2024,FON,Lavadora,Panasonic,Cvg e robson,Concluído,0,16-02-2024,16-02-2024,Sim
+02-08-2024,GON,Lava e seca,Midea,,,0,0,0,
+02-09-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,23-02-2024,23-02-2024,Sim
+02-09-2024,GON,Ar condicionado,Daikin,Luiz,Concluído,0,0,21-02-2024,Não
+02-09-2024,GON,Fechadura digital,Midea,,,0,0,0,
+02-09-2024,FB,Climatizador,Springer,,,0,0,0,
+14-02-2024,GB,Robo,Wap,Thiago,Concluído,0,16-02-2024,27-02-2024,Sim
+14-02-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,15-02-2024,15-02-2024,Sim
+14-02-2024,GON,Refrigerador,Panasonic,"Cvg, robson e luiz",Concluído,21/02/2024,23-02-2024,23-02-2024,Sim
+14-02-2024,GB,Fritadeira,Midea,Thiago,Concluído,20/02/2024,26-02-2024,03-04-2024,Sim
+14-02-2024,FB,Robo,Wap,,,0,0,0,
+15-02-2024,FB,Robo,Wap,Thiago,Concluído,0,03-08-2024,03-08-2024,Sim
+15-02-2024,GB,Robo,Wap,,,0,0,0,
+15-02-2024,GB,Robo,Wap,Thiago,Concluído,20/02/2024,23-02-2024,27-02-2024,Sim
+15-02-2024,GB,Robo,Wap,Thiago,Concluído,22/02/2024,23-02-2024,27-02-2024,Sim
+15-02-2024,GON,Lava e seca,Midea,,,0,0,0,
+15-02-2024,FON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,16-02-2024,16-02-2024,Sim
+15-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,19-02-2024,19-02-2024,Sim
+15-02-2024,GON,Lavadora,Midea,,,0,0,0,
+15-02-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,29/02/2024,17-02-2024,17-02-2024,Sim
+15-02-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,28/02/2024,03-01-2024,03-01-2024,Sim
+15-02-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,0,17-02-2024,17-02-2024,Sim
+16-02-2024,GON,Refrigerador,Panasonic,,Cancelada,0,0,16-02-2024,Não
+16-02-2024,FB,Asp vertical,Wap,Thiago,Concluído,0,03-04-2024,03-06-2024,Sim
+16-02-2024,GB,Refrigerador,Panasonic,Cvg e robson,Concluído,0,22-02-2024,23-02-2024,Sim
+16-02-2024,GB,Robo,Wap,Thiago,Concluído,22/02/2024,23-02-2024,03-07-2024,Sim
+16-02-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,0,17-02-2024,17-02-2024,Sim
+19-02-2024,GB,Aspirador vertical,Wap,,,0,0,0,
+19-02-2024,GON,Lavadora,Panasonic,Luiz e robson,Concluído,26/02/2024,28-02-2024,28-02-2024,Sim
+19-02-2024,FB,Fritadeira,Midea,Thiago/robson,Concluído,0,21-02-2024,03-04-2024,Sim
+19-02-2024,FB,Robo,Wap,Thiago,Concluído,0,03-01-2024,03-04-2024,Sim
+19-02-2024,FB,Robo,Midea,,Sem conserto,0,0,27-02-2024,Não
+19-02-2024,FON,Refrigerador,Panasonic,Luiz,Concluído,0,20-02-2024,20-02-2024,Sim
+19-02-2024,GON,Refrigerador,Midea,Luiz,Concluído,0,20-02-2024,20-02-2024,Sim
+19-02-2024,FON,Coifa,Panasonic,Cvg/luiz,Concluído,0,03-04-2024,03-04-2024,Sim
+20-02-2024,FON,Lava e seca,Midea,Luiz,Concluído,0,27-02-2024,27-02-2024,Sim
+20-02-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,20-02-2024,20-02-2024,Sim
+20-02-2024,GB,Lavadora,Panasonic,,,0,0,0,
+20-02-2024,GON,Lava e seca,Midea,Luiz,Concluído,0,20-02-2024,20-02-2024,Sim
+20-02-2024,GB,Robo,Wap,,,0,0,0,
+20-02-2024,FB,Asp vertical,Midea,,,0,0,0,
+20-02-2024,FB,Robo,Wap,,,0,0,0,
+20-02-2024,FON,Lavadora,Panasonic,Luiz,Concluído,0,23-02-2024,23-02-2024,Sim
+20-02-2024,GON,Lava e seca,Midea,,,0,0,0,
+20-02-2024,FON,Lava e seca,Midea,Cvg,Concluído,0,20-02-2024,20-02-2024,Sim
+21-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,28/02/2024,23-02-2023,23-02-2023,Sim
+21-02-2024,GON,Lava e seca,Midea,Luiz,Concluído,0,03-07-2024,03-07-2024,Sim
+22-02-2024,GON,Refrigerador,Panasonic,,Cancelado,0,0,03-07-2024,Não
+22-02-2024,FON,Ar condicionado,Daikin,Luiz,Concluído,0,22-02-2024,22-02-2024,Sim
+22-02-2024,FON,Robo,Wap,,,0,0,0,
+22-02-2024,GON,Refrigerador,Midea,Luiz,Concluído,27/02/2024,22-02-2024,22-02-2024,Sim
+22-02-2024,GON,Secadora,Midea,Luiz,Concluído,0,28-02-2024,28-02-2024,Sim
+22-02-2024,GON,Lava e seca,Midea,,,0,0,0,
+22-02-2024,FON,Lavadora,Panasonic,Luiz,Concluído,0,22-02-2024,22-02-2024,Sim
+23-02-2024,GON,Lavadora,Panasonic,,Cancelado,0,0,26-02-2024,Não
+23-02-2024,GON,Lava e seca,Midea,,,0,0,0,
+23-02-2024,GON,Lavadora,Midea,Cvg,Concluído,0,28-02-2024,28-02-2024,Sim
+23-02-2024,GON,Lavadora,Panasonic,Cvg e luiz,Concluído,28/02/2024,03-07-2024,03-07-2024,Sim
+23-02-2024,GB,Refrigerador,Midea,,,0,0,0,
+23-02-2024,GB,Refrigerador,Midea,,,0,0,0,
+23-02-2024,GB,Microondas,Panasonic,Thiago,,01/03/2024,03-04-2024,0,
+23-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,03-01-2024,03-01-2024,Sim
+23-02-2024,FON,Refrigerador,Panasonic,Cvg,Concluído,0,26-02-2024,26-02-2024,Sim
+23-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,28-02-2024,28-02-2024,Sim
+23-02-2024,FON,Refrigerador,Panasonic,Cvg,Concluído,0,23-02-2024,23-02-2024,Sim
+26-02-2024,GON,Lava e seca,Midea,,Cancelado,0,0,29-02-2024,Não
+26-02-2024,GON,Lava e seca,Midea,,,0,0,0,
+26-02-2024,GON,Refrigerador,Panasonic,,Rejeitado,0,0,03-07-2024,Rejeitado
+26-02-2024,FB,Robo,Wap,Thiago,Concluído,0,03-01-2024,03-04-2024,Sim
+26-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,28-02-2024,28-02-2024,Sim
+26-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,03-07-2024,03-07-2024,Sim
+27-02-2024,GON,Refrigerador,Panasonic,,,0,0,0,
+27-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,28-02-2024,28-02-2024,Sim
+27-02-2024,GB,Microondas,Midea,Thiago,Concluído,0,03-07-2024,03-08-2024,Sim
+27-02-2024,GB,Microondas,Midea,,,0,0,0,
+27-02-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,28-02-2024,28-02-2024,Sim
+27-02-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,29-02-2024,29-02-2024,Sim
+27-02-2024,GON,Refrigerador,Panasonic,Luiz,,08/03/2024,0,0,
+27-02-2024,GON,Lavadora,Panasonic,Luiz e cvg,Concluído,0,28-02-2024,28-02-2024,Sim
+27-02-2024,FON,Lavadora,Panasonic,,,0,0,0,
+28-02-2024,FB,Robo,Wap,,,0,0,0,
+28-02-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,0,28-02-2024,28-02-2024,Sim
+28-02-2024,GON,Lavadora,Panasonic,Cvg e robson,,0,0,0,
+28-02-2024,FON,Lava seca,Midea,,,0,0,0,
+28-02-2024,GON,Lavadora,Panasonic,Luiz,,08/03/2024,0,0,
+28-02-2024,GON,Lavadora,Panasonic,,,0,0,0,
+28-02-2024,GON,Lava e seca,Midea,Luiz,Concluído,0,29-02-2024,29-02-2024,Sim
+28-02-2024,GON,Refrigerador,Panasonic,Cvg,,0,0,0,
+28-02-2024,GON,Refrigerador,Panasonic,Luiz,,0,0,0,
+29-02-2024,GB,Robo,Wap,,,0,0,0,
+29-02-2024,GON,Lava e seca,Midea,,,0,0,0,
+29-02-2024,GON,Cooktop,Midea,Luiz,Concluído,0,03-01-2024,03-01-2024,Não
+29-02-2024,FON,Refrigerador,Panasonic,Cvg,Concluído,0,03-01-2024,03-01-2024,Sim
+29-02-2024,GON,Lavadora,Panasonic,Cvg e robson,Concluído,0,03-05-2024,03-05-2024,Sim
+29-02-2024,GON,Lavadora,Panasonic,Cvg,Concluído,0,03-01-2024,03-01-2024,Sim
+29-02-2024,GON,Refrigerador,Panasonic,Luiz,Concluído,0,03-01-2024,03-01-2024,Sim
+03-01-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,03-05-2024,03-05-2024,Sim
+03-01-2024,GON,Lavadora,Panasonic,,,0,0,0,
+03-01-2024,GON,Refrigerador,Panasonic,Cvg,,0,0,0,
+03-01-2024,GON,Lavadora,Midea,Luiz,Concludo,0,03-01-2024,03-01-2024,Sim
+03-01-2024,GON,Lavadora,Panasonic,Cvg,,0,0,0,
+03-01-2024,GB,Lavadora,Panasonic,,,0,0,0,
+03-01-2024,GON,Lava e seca,Midea,Robson/cvg,Concluído,0,03-05-2024,03-05-2024,Sim
+03-01-2024,GON,Cooktop,Midea,Luiz,Concluído,0,03-07-2024,03-07-2024,Sim
+03-04-2024,GB,Aspirador,Wap,,,0,0,0,
+03-04-2024,FB,Robo,Wap,,,0,0,0,
+03-04-2024,GON,Lavadora,Panasonic,Cvg e robson,,0,0,0,
+03-04-2024,GON,Lava e seca,Midea,,,0,0,0,
+03-04-2024,FON,Lavadora,Panasonic,,,0,0,0,
+03-04-2024,GON,Lavadora,Panasonic,,,0,0,0,
+03-05-2024,GON,Lavadora,Panasonic,Cvg e robson,Concluído,0,03-06-2024,03-06-2024,Sim
+03-05-2024,FB,Robo,Wap,,,0,0,0,
+03-05-2024,FB,Robo,Wap,,,0,0,0,
+03-05-2024,GB,Refrigerador,Midea,,,0,0,0,
+03-05-2024,GON,Lavadora,Panasonic,,,0,0,0,
+03-05-2024,GON,Refrigerador,Panasonic,Cvg,07/03-ag aprov gra,0,0,0,
+03-05-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,03-07-2024,03-07-2024,Sim
+03-05-2024,GON,Refrigerador,Panasonic,Cvg e robson,Concluído,0,03-06-2024,03-06-2024,Sim
+03-05-2024,GON,Refrigerador,Panasonic,Cvg e robson,07/03-ag aprov gra,0,0,0,
+03-05-2024,FB,Panela,Midea,,,0,0,0,
+03-05-2024,GON,Refrigerador,Panasonic,,,0,0,0,
+03-05-2024,GB,Fritadeira,Midea,,,0,0,0,
+03-05-2024,FB,Robo,Wap,,,0,0,0,
+03-06-2024,FON,Lavadora,Panasonic,Luiz,Concluído,0,03-07-2024,03-07-2024,Sim
+03-07-2024,GON,Refrigerador,Panasonic,,,0,0,0,
+03-07-2024,GON,Lavadora,Panasonic,Luiz,Concluído,0,03-07-2024,03-07-2024,Sim
+03-07-2024,GON,Refrigerador,Panasonic,Cvg,Concluído,0,03-07-2024,03-07-2024,Sim
+03-07-2024,FB,Robo,Wap,,,0,0,0,
+0,GON,Lava e seca,Midea,,,0,0,0,
+03-07-2024,GB,Aspirador,Wap,,,0,0,0,
+03-07-2024,GB,Robo,Wap,,,0,0,0,
+03-07-2024,GB,Microondas,Midea,,,0,0,0,
+03-07-2024,FB,Robo,Midea,,,0,0,0,
+03-07-2024,GON,Lavadora,Panasonic,,,0,0,0,
+03-08-2024,GON,Lava e seca,Midea,,,0,0,0,
+03-08-2024,FON,Lavadora,Panasonic,,,0,0,0,
+03-08-2024,GON,Lava e seca,Midea,,,0,0,0,
+03-08-2024,FON,Lavadora,Panasonic,,,0,0,0,
+03-08-2024,GON,Lavadora,Panasonic,,,0,0,0,
+03-08-2024,GON,Lava e seca,Midea,,,0,0,0,
+03-08-2024,GON,Lava e seca,Midea,,,0,0,0,
+03-08-2024,FON,Lavadora,Panasonic,,,0,0,0,
