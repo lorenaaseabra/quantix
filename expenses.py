@@ -11,6 +11,9 @@ def img_to_base64(img_path):
 def setup_expenses(df_unificado, tecnico_count_df):
     @ui.page("/expenses")
     def expenses_page():
+        OUTPUT_DIR = os.path.join(os.getcwd(), 'data')
+        logo = os.path.join(OUTPUT_DIR, 'logo.png')
+
         with ui.element('div').classes('flex bg-white flex-col w-full -m-4 p-8 gap-8'):
             with ui.row().classes("justify-between w-full items-center"):
                 ui.label("Despesas Relacionadas aos Consertos").classes("text-2xl font-bold")
@@ -39,19 +42,19 @@ def setup_expenses(df_unificado, tecnico_count_df):
                 }
             ]
 
-            with ui.element('div').classes("grid grid-cols-1 w-full gap-6"):
+            with ui.element('div').classes("grid grid-cols-2 w-full gap-6"):
                 for grafico in graficos:
                     grafico_path = os.path.join(OUTPUT_DIR, grafico['image'])
                     if os.path.exists(grafico_path):
                         with ui.card().classes("flex flex-col items-center gap-4 bg-[#FAFAFA] rounded-xl p-4 shadow-none"):
                             ui.label(grafico['title']).classes("text-lg font-semibold")
-                            ui.image(f"data:image/png;base64,{img_to_base64(grafico_path)}").classes("w-full h-64 object-contain")
+                            ui.image(f"data:image/png;base64,{img_to_base64(grafico_path)}").classes("w-full h-auto object-contain")
                     else:
                         ui.notify(f"Gráfico {grafico['image']} não encontrado.", type='error')
 
         # Navegação
         with ui.left_drawer().props("width=260").classes("bg-[#FBFBFB] flex flex-col gap-4 border-r border-[#E4E4E7]") as drawer:
-            ui.label('Logo').classes('text-3xl block mb-8 font-bold')
+            ui.image(f"data:image/png;base64,{img_to_base64(logo)}").classes("w-full h-auto object-contain")
             
             with ui.row().classes('flex gap-2 items-center'):
                 ui.icon('home').classes('w-4 h-4 text-[#71717A]')
