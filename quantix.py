@@ -3,32 +3,28 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib
-matplotlib.rcParams['font.family'] = 'Arial'
 import re
 import os
 
-
+# Configurações do Matplotlib
+matplotlib.rcParams['font.family'] = 'Arial'
 
 def process_data():
-    
     # Definir o diretório de saída para os gráficos
     BASE_DIR = os.getcwd()
     OUTPUT_DIR = os.path.join(BASE_DIR, 'data', 'outputs')
     os.makedirs(OUTPUT_DIR, exist_ok=True)  # Criar a pasta, se não existir
 
-    # Salvar os gráficos no diretório de saída
-    plt.savefig(os.path.join(OUTPUT_DIR, 'grafico_tempo_conserto.png'))
-    
     # Caminho para os arquivos CSV
-    caminho_dados = 'data/'
+    caminho_dados = os.path.join(BASE_DIR, 'data')
 
     # Leitura dos arquivos CSV
-    df2018 = pd.read_csv(f'{caminho_dados}Dados_Tratados_Normalizados_2018 - Dados_Normalizados_Eceel_Tec.csv')
-    df2020 = pd.read_csv(f'{caminho_dados}Dados_Tratados_Normalizados_2020 - Dados_Normalizados_Eceel_Tec_2020.csv')
-    df2021 = pd.read_csv(f'{caminho_dados}Dados_Normalizados_ECEEL_TEC_2021 - Dados_Normalizados_ECEEL_TEC_2021.csv')
-    df2022 = pd.read_csv(f'{caminho_dados}Dados_Tratados_Normalizados_2022 - Dados_Tratados_Normalizados_2022.csv')
-    df2023 = pd.read_csv(f'{caminho_dados}Dados_Tratados_ECEEL_TEC_2023 - Dados_Tratados_ECEEL_TEC_2023.csv')
-    df2024 = pd.read_csv(f'{caminho_dados}Dados_Tratados_e_Normalizados_ECEEL_TEC_2024 - Dados_Tratados_e_Normalizados_ECEEL_TEC.csv')
+    df2018 = pd.read_csv(os.path.join(caminho_dados, 'Dados_Tratados_Normalizados_2018 - Dados_Normalizados_Eceel_Tec.csv'))
+    df2020 = pd.read_csv(os.path.join(caminho_dados, 'Dados_Tratados_Normalizados_2020 - Dados_Normalizados_Eceel_Tec_2020.csv'))
+    df2021 = pd.read_csv(os.path.join(caminho_dados, 'Dados_Normalizados_ECEEL_TEC_2021 - Dados_Normalizados_ECEEL_TEC_2021.csv'))
+    df2022 = pd.read_csv(os.path.join(caminho_dados, 'Dados_Tratados_Normalizados_2022 - Dados_Tratados_Normalizados_2022.csv'))
+    df2023 = pd.read_csv(os.path.join(caminho_dados, 'Dados_Tratados_ECEEL_TEC_2023 - Dados_Tratados_ECEEL_TEC_2023.csv'))
+    df2024 = pd.read_csv(os.path.join(caminho_dados, 'Dados_Tratados_e_Normalizados_ECEEL_TEC_2024 - Dados_Tratados_e_Normalizados_ECEEL_TEC.csv'))
 
     # **Tratamento das planilhas**
 
@@ -40,10 +36,10 @@ def process_data():
 
     # Renomear as colunas para garantir consistência nos nomes
     rename_columns = {
-        'CONSERTADO?': 'CONSERTADO',           # Unificar a coluna 'CONSERTADO?' para 'CONSERTADO'
-        'PEÇA RECEBIDA': 'PECA_RECEBIDA',      # Unificar a coluna 'PEÇA RECEBIDA' para 'PECA_RECEBIDA'
-        'SAÍDA': 'SAIDA',                      # Unificar a coluna 'SAÍDA' para 'SAIDA'
-        'TIPO_DE_AT': 'TIPO DE AT.'            # Unificar a coluna 'TIPO_DE_AT' para 'TIPO DE AT.'
+        'CONSERTADO?': 'CONSERTADO',
+        'PEÇA RECEBIDA': 'PECA_RECEBIDA',
+        'SAÍDA': 'SAIDA',
+        'TIPO_DE_AT': 'TIPO DE AT.'
     }
 
     # Renomear as colunas nos DataFrames
@@ -79,10 +75,10 @@ def process_data():
     # Substituir diferentes separadores por um único separador "/"
     df_unificado['TECNICO'] = (
         df_unificado['TECNICO']
-        .str.replace(r'\s+e\s+', '/', regex=True)    # Substituir " e " por "/"
-        .str.replace(r'\s+E\s+', '/', regex=True)    # Substituir " E " por "/"
-        .str.replace(r'\s*,\s*', '/', regex=True)    # Substituir "," por "/"
-        .str.replace(r'\s*-\s*', '/', regex=True)    # Substituir "-" por "/"
+        .str.replace(r'\s+e\s+', '/', regex=True)
+        .str.replace(r'\s+E\s+', '/', regex=True)
+        .str.replace(r'\s*,\s*', '/', regex=True)
+        .str.replace(r'\s*-\s*', '/', regex=True)
     )
 
     # Transformar todos os nomes em maiúsculas
@@ -119,7 +115,7 @@ def process_data():
     tecnico_count_df = pd.merge(tecnico_count_df, consertos_tecnico, on='TECNICO', how='left')
 
     # Salvar o DataFrame de contagem de técnicos em um arquivo CSV
-    tecnico_count_df.to_csv('tecnico_count.csv', index=False)
+    tecnico_count_df.to_csv(os.path.join(caminho_dados, 'tecnico_count.csv'), index=False)
 
     # Lista de colunas de datas
     colunas_datas = ['PECA_RECEBIDA', 'SAIDA', 'PRONTO', 'DATA']
@@ -183,39 +179,9 @@ def process_data():
 
     # **Salvar o DataFrame Unificado após criar 'TEMPO_CONSERTO'**
 
-    df_unificado.to_csv('Dados_Unificados.csv', index=False)
+    df_unificado.to_csv(os.path.join(caminho_dados, 'Dados_Unificados.csv'), index=False)
 
-    # **Gráficos**
-
-    # Grafico Técnicos
-
-    # Filtrar técnicos que possuem mais de 1 conserto
-    tecnico_filtrado = tecnico_count_df[tecnico_count_df['QUANTIDADE'] > 1]
-
-    # Gráfico de barras para o número de consertos por funcionário
-    plt.figure(figsize=(10, 6))
-    plt.bar(tecnico_filtrado['TECNICO'], tecnico_filtrado['QUANTIDADE'], color='skyblue')
-    plt.xlabel('Técnico')
-    plt.ylabel('Número de Consertos')
-    plt.title('Consertos por Funcionário')
-    plt.xticks(rotation=90)  # Rotacionar os nomes dos técnicos para melhor visualização
-    plt.tight_layout()
-    plt.savefig('grafico_consertos_tecnicos.png')
-    plt.close()
-
-    # Análise adicional: Identificar o técnico mais produtivo
-    if not tecnico_count_df.empty:
-        top_tecnico = tecnico_count_df.loc[tecnico_count_df['QUANTIDADE'].idxmax()]
-        print(f"\nTécnico mais produtivo: {top_tecnico['TECNICO']} com {top_tecnico['QUANTIDADE']} consertos.")
-
-        # Comparar com a média da equipe
-        media_equipe = tecnico_count_df['QUANTIDADE'].mean()
-        print(f"Média de consertos por técnico (apenas com mais de 1 conserto): {media_equipe:.2f}.")
-
-        # Identificar os técnicos acima da média
-        acima_da_media = tecnico_count_df[tecnico_count_df['QUANTIDADE'] > media_equipe]
-        print("\nTécnicos acima da média:")
-        print(acima_da_media[['TECNICO', 'QUANTIDADE']])
+    # **Gráficos para Dashboard**
 
     # Gráfico 1: Boxplot da distribuição do tempo de conserto
     if not df_unificado['TEMPO_CONSERTO'].dropna().empty:
@@ -224,15 +190,13 @@ def process_data():
         plt.title('Distribuição do Tempo de Conserto (em dias)')
         plt.xlabel('Tempo de Conserto (dias)')
         plt.tight_layout()
-        plt.savefig('boxplot_tempo_conserto.png')
+        plt.savefig(os.path.join(OUTPUT_DIR, 'boxplot_tempo_conserto.png'))
         plt.close()
 
-    # Agrupar por mês e calcular o tempo médio de conserto
+    # Gráfico 2: Evolução do tempo médio de conserto ao longo do tempo
     tempo_medio_por_mes = df_unificado.groupby('MES_ANO')['TEMPO_CONSERTO'].mean().reset_index()
 
-    # Verificar se há dados para o gráfico 2
     if not tempo_medio_por_mes.empty:
-        # Gráfico 2: Evolução do tempo médio de conserto ao longo do tempo
         plt.figure(figsize=(12, 6))
         plt.plot(tempo_medio_por_mes['MES_ANO'], tempo_medio_por_mes['TEMPO_CONSERTO'], marker='o', linestyle='-', color='skyblue')
         plt.title('Evolução do Tempo Médio de Conserto')
@@ -241,21 +205,16 @@ def process_data():
         plt.xticks(rotation=90)
         plt.grid(axis='y', linestyle='--', alpha=0.7)
         plt.tight_layout()
-        plt.savefig('linha_tempo_medio_conserto.png')
+        plt.savefig(os.path.join(OUTPUT_DIR, 'linha_tempo_medio_conserto.png'))
         plt.close()
 
-    # **Gráfico Taxa de Sucesso para Conserto**
-
+    # Gráfico 3: Taxa de Sucesso para Conserto
     # Padronizar novamente a coluna 'CONSERTADO' (caso não tenha sido padronizado anteriormente)
     df_unificado['CONSERTADO'] = df_unificado['CONSERTADO'].astype(str).str.strip().str.lower()
     df_unificado['CONSERTADO'] = df_unificado['CONSERTADO'].replace(valores_sim, 'sim')
     df_unificado = df_unificado[~df_unificado['CONSERTADO'].isin(valores_a_remover)]
 
     # Contagem atualizada de 'CONSERTADO'
-    print("\nContagem atualizada de 'CONSERTADO':")
-    print(df_unificado['CONSERTADO'].value_counts())
-
-    # Gráfico de Pizza: Proporção de consertos bem-sucedidos versus não concluídos
     taxa_sucesso = df_unificado['CONSERTADO'].value_counts()
 
     plt.figure(figsize=(8, 8))
@@ -263,34 +222,29 @@ def process_data():
     plt.title('Taxa de Sucesso para Conserto')
     plt.ylabel('')
     plt.tight_layout()
-    plt.savefig('pizza_taxa_sucesso.png')
+    plt.savefig(os.path.join(OUTPUT_DIR, 'pizza_taxa_sucesso.png'))
     plt.close()
 
-    # **Gráfico de Aparelhos Recebidos ao Longo do Tempo**
-
+    # Gráfico 4: Número de Aparelhos Recebidos ao Longo do Tempo
     # Garantir que a coluna 'DATA' esteja no formato datetime
-    df_unificado['DATA'] = pd.to_datetime(df_unificado['DATA'], format='%d/%m/%Y', errors='coerce')
+    if 'DATA' in df_unificado.columns:
+        df_unificado['DATA'] = pd.to_datetime(df_unificado['DATA'], format='%d/%m/%Y', errors='coerce')
+        df_unificado['MES_ANO_DATA'] = df_unificado['DATA'].dt.to_period('M').astype(str)
 
-    # Criar uma nova coluna com o período mensal (Mês/Ano no formato yyyy-mm)
-    df_unificado['MES_ANO_DATA'] = df_unificado['DATA'].dt.to_period('M').astype(str)
+        aparelhos_por_mes = df_unificado.groupby('MES_ANO_DATA').size().reset_index(name='QUANTIDADE')
 
-    # Gráfico de Linhas: Número de aparelhos recebidos ao longo do tempo
-    aparelhos_por_mes = df_unificado.groupby('MES_ANO_DATA').size().reset_index(name='QUANTIDADE')
+        plt.figure(figsize=(12, 6))
+        plt.plot(aparelhos_por_mes['MES_ANO_DATA'], aparelhos_por_mes['QUANTIDADE'], marker='o', linestyle='-', color='skyblue')
+        plt.title('Número de Aparelhos Recebidos ao Longo do Tempo')
+        plt.xlabel('Mês/Ano')
+        plt.ylabel('Número de Aparelhos')
+        plt.xticks(rotation=90)
+        plt.grid(axis='y', linestyle='--', alpha=0.7)
+        plt.tight_layout()
+        plt.savefig(os.path.join(OUTPUT_DIR, 'linha_aparelhos_recebidos.png'))
+        plt.close()
 
-    plt.figure(figsize=(12, 6))
-    plt.plot(aparelhos_por_mes['MES_ANO_DATA'], aparelhos_por_mes['QUANTIDADE'], marker='o', linestyle='-', color='skyblue')
-    plt.title('Número de Aparelhos Recebidos ao Longo do Tempo')
-    plt.xlabel('Mês/Ano')
-    plt.ylabel('Número de Aparelhos')
-    plt.xticks(rotation=90)
-    plt.grid(axis='y', linestyle='--', alpha=0.7)
-    plt.tight_layout()
-    plt.savefig('linha_aparelhos_recebidos.png')
-    plt.close()
-
-    # Gráfico de Barras: Comparar o número de aparelhos recebidos por categoria
-
-    # Exemplo 1: Agrupar por marca
+    # Gráfico 5: Número de Aparelhos Recebidos por Marca
     if 'MARCA' in df_unificado.columns:
         aparelhos_por_marca = df_unificado['MARCA'].value_counts().reset_index()
         aparelhos_por_marca.columns = ['MARCA', 'QUANTIDADE']
@@ -302,10 +256,10 @@ def process_data():
         plt.ylabel('Número de Aparelhos')
         plt.xticks(rotation=90)
         plt.tight_layout()
-        plt.savefig('barra_aparelhos_por_marca.png')
+        plt.savefig(os.path.join(OUTPUT_DIR, 'barra_aparelhos_por_marca.png'))
         plt.close()
 
-    # Exemplo 2: Agrupar por tipo de aparelho
+    # Gráfico 6: Número de Aparelhos Recebidos por Tipo de Aparelho
     if 'APARELHO' in df_unificado.columns:
         aparelhos_por_tipo = df_unificado['APARELHO'].value_counts().reset_index()
         aparelhos_por_tipo.columns = ['APARELHO', 'QUANTIDADE']
@@ -317,8 +271,147 @@ def process_data():
         plt.ylabel('Número de Aparelhos')
         plt.xticks(rotation=90)
         plt.tight_layout()
-        plt.savefig('barra_aparelhos_por_tipo.png')
+        plt.savefig(os.path.join(OUTPUT_DIR, 'barra_aparelhos_por_tipo.png'))
         plt.close()
+
+    # **Gráficos para Dashboard**
+
+    # Gráfico 7: Gráfico de Barras para o número de consertos por técnico
+    tecnico_filtrado = tecnico_count_df[tecnico_count_df['QUANTIDADE'] > 1]
+
+    plt.figure(figsize=(10, 6))
+    plt.bar(tecnico_filtrado['TECNICO'], tecnico_filtrado['QUANTIDADE'], color='skyblue')
+    plt.xlabel('Técnico')
+    plt.ylabel('Número de Consertos')
+    plt.title('Consertos por Funcionário')
+    plt.xticks(rotation=90)
+    plt.tight_layout()
+    plt.savefig(os.path.join(OUTPUT_DIR, 'grafico_consertos_tecnicos.png'))
+    plt.close()
+
+    # **Processamento de Dados de Despesas**
+
+    # Leitura dos arquivos de despesas
+    despesas_path = os.path.join(caminho_dados, 'Despesas 2024-2018.csv')
+    tratamento_path = os.path.join(caminho_dados, 'Tratamento dos dados - 2021.csv')
+
+    # Verificar se os arquivos existem
+    if os.path.exists(despesas_path):
+        dados_despesas = pd.read_csv(despesas_path)
+
+        # Mapeamento de meses para números
+        meses_dict = {
+            'Janeiro': '01', 'Fevereiro': '02', 'Março': '03', 'Abril': '04',
+            'Maio': '05', 'Junho': '06', 'Julho': '07', 'Agosto': '08',
+            'Setembro': '09', 'Outubro': '10', 'Novembro': '11', 'Dezembro': '12'
+        }
+
+        dados_despesas['Mês_Num'] = dados_despesas['Mês'].map(meses_dict)
+        dados_despesas['Data'] = pd.to_datetime(
+            dados_despesas['Data de Preenchimento'].astype(str) + '/' + dados_despesas['Mês_Num'] + '/2021',
+            format='%d/%m/%Y',
+            errors='coerce'
+        )
+
+        dados_despesas['Valor (R$)'] = (
+            dados_despesas['Valor (R$)']
+            .str.replace('$', '', regex=False)
+            .str.replace('.', '', regex=False)
+            .str.replace(',', '.', regex=False)
+            .astype(float)
+        )
+
+        # Gráfico 1: Despesas Mensais por Categoria (Top 10)
+        valor_total_por_categoria = (
+            dados_despesas.groupby('Categoria')['Valor (R$)']
+            .sum()
+            .sort_values(ascending=False)
+        )
+
+        top_10_categorias = valor_total_por_categoria.head(10).index
+        dados_filtrados_despesas = dados_despesas[
+            dados_despesas['Categoria'].isin(top_10_categorias)
+        ]
+
+        fig_top_categorias = plt.figure(figsize=(12, 6))
+        for categoria in top_10_categorias:
+            gastos_categoria = dados_filtrados_despesas[dados_filtrados_despesas['Categoria'] == categoria]
+            gastos_categoria_mensal = (
+                gastos_categoria.groupby(dados_filtrados_despesas['Data'].dt.month)['Valor (R$)']
+                .sum()
+            )
+            plt.plot(
+                gastos_categoria_mensal.index,
+                gastos_categoria_mensal.values,
+                marker='o',
+                label=categoria,
+            )
+        plt.title('Despesas Mensais por Categoria (Top 10)')
+        plt.xlabel('Mês')
+        plt.ylabel('Total de Despesas (R$)')
+        plt.legend(
+            loc='lower center',
+            bbox_to_anchor=(0.2, -0.35, 0.5, 0.2),
+            ncol=4,
+            fontsize=10,
+        )
+        plt.tight_layout()
+        plt.savefig(os.path.join(OUTPUT_DIR, 'despesas_mensais_top10.png'))
+        plt.close()
+    else:
+        print(f"Arquivo {despesas_path} não encontrado.")
+
+    if os.path.exists(tratamento_path):
+        dados_tratamento = pd.read_csv(tratamento_path)
+
+        dados_tratamento['Valor'] = dados_tratamento['Valor'].replace(
+            '[R$\s]', '', regex=True).str.replace(',', '').astype(float)
+        dados_tratamento['Forma de Pagamento'] = dados_tratamento['Forma de Pagamento'].fillna('Forma de Pagamento não definido')
+        dados_tratamento['Parcela'] = dados_tratamento['Parcela'].fillna('1/1')
+
+        dados_tratamento['Mês_Num'] = dados_tratamento['Mês'].map(meses_dict)
+        dados_tratamento['Data'] = pd.to_datetime(
+            dados_tratamento['Dia'].astype(str) + '/' + dados_tratamento['Mês_Num'] + '/2021',
+            format='%d/%m/%Y',
+            errors='coerce'
+        )
+
+        # Gráfico 2: Despesas por Categoria (Bar)
+        custo_categoria = dados_tratamento.groupby('Categoria')['Valor'].sum()
+
+        fig_despesa_categoria = plt.figure(figsize=(10, 5))
+        custo_categoria.plot(kind='bar', color='skyblue')
+        plt.title('Despesas por Categoria')
+        plt.xlabel('Categoria')
+        plt.ylabel('Custo Total (R$)')
+        plt.tight_layout()
+        plt.savefig(os.path.join(OUTPUT_DIR, 'despesas_por_categoria.png'))
+        plt.close()
+
+        # Gráfico 3: Distribuição das Formas de Pagamento (Pie)
+        formas_pagamento = dados_tratamento['Forma de Pagamento'].value_counts()
+        fig_formas_pagamento = plt.figure(figsize=(10, 5))
+        formas_pagamento.plot(kind='pie', autopct='%1.1f%%', startangle=90)
+        plt.title('Distribuição das Formas de Pagamento')
+        plt.ylabel('')  # Remove o label padrão do eixo y
+        plt.tight_layout()
+        plt.savefig(os.path.join(OUTPUT_DIR, 'distribuicao_formas_pagamento.png'))
+        plt.close()
+
+        # Gráfico 4: Situação de Pagamento (Bar)
+        dados_tratamento['Situação'] = dados_tratamento['Situação'].fillna('Não Pago')
+        situacao_proporcao = dados_tratamento['Situação'].value_counts()
+
+        fig_situacao_pagamento = plt.figure(figsize=(8, 5))
+        situacao_proporcao.plot(kind='bar', color='coral')
+        plt.title('Proporção de Situação de Pagamento')
+        plt.xlabel('Situação')
+        plt.ylabel('Quantidade de Transações')
+        plt.tight_layout()
+        plt.savefig(os.path.join(OUTPUT_DIR, 'proporcao_situacao_pagamento.png'))
+        plt.close()
+    else:
+        print(f"Arquivo {tratamento_path} não encontrado.")
 
     # Retornar os DataFrames processados para uso na aplicação
     return df_unificado, tecnico_count_df
